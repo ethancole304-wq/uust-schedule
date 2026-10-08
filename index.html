@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Расписание УУНиТ</title>
+<script src="https://telegram.org/js/telegram-web-app.js?59"></script>
+<style>
+:root{
+  --bg:var(--tg-theme-secondary-bg-color,#f2f3f7);
+  --card:var(--tg-theme-section-bg-color,var(--tg-theme-bg-color,#ffffff));
+  --text:var(--tg-theme-text-color,#14161a);
+  --hint:var(--tg-theme-hint-color,#8a8f98);
+  --accent:var(--tg-theme-button-color,#2f7cf6);
+  --accent-text:var(--tg-theme-button-text-color,#ffffff);
+  --link:var(--tg-theme-link-color,var(--accent));
+  --sep:color-mix(in srgb,var(--hint) 18%,transparent);
+  --soft:color-mix(in srgb,var(--hint) 10%,transparent);
+  --radius:18px;
+  --c-lec:#3b82f6;--c-pr:#10b981;--c-lab:#8b5cf6;--c-mil:#f59e0b;--c-ex:#ef4444;--c-zach:#14b8a6;--c-cons:#64748b;--c-def:#94a3b8;
+}
+@media (prefers-color-scheme:dark){
+  :root:not(.tg){--bg:#0f1115;--card:#181b21;--text:#eef0f4;--hint:#8b919c;--accent:#5b9cff}
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--text);font:15px/1.4 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body{min-height:100vh;overscroll-behavior-y:none}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+svg{flex:none}
+.wrap{max-width:560px;margin:0 auto;padding:0 14px calc(28px + env(safe-area-inset-bottom))}
+
+.top{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 14px 8px;margin:0 -14px}
+.top::after{content:"";position:absolute;left:0;right:0;bottom:-14px;height:14px;background:linear-gradient(var(--bg),transparent);pointer-events:none}
+.head{display:flex;align-items:center;gap:10px}
+.who{flex:1;min-width:0;text-align:left;display:flex;flex-direction:column;padding:2px 0}
+.who small{color:var(--hint);font-size:12px;font-weight:500;letter-spacing:.02em;text-transform:uppercase}
+.who b{display:flex;align-items:center;gap:6px;font-size:22px;font-weight:700;letter-spacing:-.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.who b span{overflow:hidden;text-overflow:ellipsis}
+.who b svg{color:var(--hint);transition:transform .2s}
+.iconbtn{width:40px;height:40px;border-radius:12px;background:var(--card);display:grid;place-items:center;color:var(--accent);box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.iconbtn:active{transform:scale(.94)}
+.today-btn{height:40px;padding:0 14px;border-radius:12px;background:color-mix(in srgb,var(--accent) 14%,transparent);color:var(--accent);font-weight:600;font-size:14px;display:none}
+.today-btn.show{display:block}
+
+.weekbar{display:flex;align-items:center;justify-content:space-between;margin:12px 0 8px}
+.weekbar .lbl{font-weight:600;font-size:14px}
+.weekbar .lbl em{font-style:normal;color:var(--hint);font-weight:500;margin-left:6px}
+.arrow{width:32px;height:32px;border-radius:10px;display:grid;place-items:center;color:var(--hint)}
+.arrow:active{background:var(--soft)}
+
+.days{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}
+.day{position:relative;display:flex;flex-direction:column;align-items:center;gap:1px;padding:8px 0 9px;border-radius:14px;background:var(--card);transition:background .18s,color .18s,transform .12s}
+.day:active{transform:scale(.95)}
+.day .dn{font-size:11px;font-weight:600;color:var(--hint);text-transform:uppercase;letter-spacing:.04em}
+.day .dd{font-size:18px;font-weight:700;letter-spacing:-.02em}
+.day .dots{display:flex;gap:2px;height:4px;margin-top:2px}
+.day .dots i{width:4px;height:4px;border-radius:50%;background:var(--accent);opacity:.55}
+.day.today .dn{color:var(--accent)}
+.day.sel{background:var(--accent);color:var(--accent-text)}
+.day.sel .dn{color:color-mix(in srgb,var(--accent-text) 75%,transparent)}
+.day.sel .dots i{background:var(--accent-text);opacity:.8}
+.day.off .dd{color:var(--hint)}
+
+.pager{overflow:hidden;margin-top:16px;touch-action:pan-y}
+.page{transition:transform .22s cubic-bezier(.2,.8,.2,1),opacity .22s}
+.page.out-l{transform:translateX(-24px);opacity:0}
+.page.out-r{transform:translateX(24px);opacity:0}
+.daytitle{display:flex;align-items:baseline;justify-content:space-between;margin:0 4px 10px}
+.daytitle h2{margin:0;font-size:17px;font-weight:700;letter-spacing:-.01em}
+.daytitle span{color:var(--hint);font-size:13px}
+
+.now{display:flex;gap:12px;align-items:center;padding:12px 14px;border-radius:var(--radius);background:linear-gradient(135deg,color-mix(in srgb,var(--accent) 16%,var(--card)),var(--card));margin-bottom:12px;border:1px solid color-mix(in srgb,var(--accent) 22%,transparent)}
+.now .pulse{width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 0 color-mix(in srgb,var(--accent) 60%,transparent);animation:pulse 1.8s infinite;flex:none}
+.now.idle .pulse{animation:none;opacity:.5}
+.now .tx{flex:1;min-width:0}
+.now .tx b{display:block;font-size:14px}
+.now .tx span{color:var(--hint);font-size:13px;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.now .big{font-weight:700;font-size:15px;color:var(--accent);white-space:nowrap}
+@keyframes pulse{70%{box-shadow:0 0 0 9px transparent}100%{box-shadow:0 0 0 0 transparent}}
+
+.lesson{position:relative;display:flex;gap:12px;background:var(--card);border-radius:var(--radius);padding:14px 14px 14px 12px;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+.lesson::before{content:"";position:absolute;left:0;top:12px;bottom:12px;width:4px;border-radius:0 4px 4px 0;background:var(--c)}
+.lesson.past{opacity:.5}
+.lesson.pastday{opacity:.7}
+.lesson.cur{box-shadow:0 0 0 2px var(--accent),0 8px 24px -12px color-mix(in srgb,var(--accent) 60%,transparent)}
+.time{width:50px;flex:none;display:flex;flex-direction:column;align-items:flex-start;padding-left:6px}
+.time b{font-size:16px;font-weight:700;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.time span{color:var(--hint);font-size:13px;font-variant-numeric:tabular-nums}
+.time em{margin-top:6px;font-style:normal;font-size:11px;font-weight:700;color:var(--hint);background:var(--soft);border-radius:6px;padding:1px 6px}
+.body{flex:1;min-width:0}
+.chip{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;color:var(--c);background:color-mix(in srgb,var(--c) 13%,transparent);border-radius:7px;padding:2px 8px;margin-bottom:6px}
+.subj{font-size:16px;font-weight:650;line-height:1.3;letter-spacing:-.01em;word-break:break-word}
+.meta{display:flex;flex-direction:column;gap:5px;margin-top:9px}
+.row{display:flex;align-items:flex-start;gap:7px;font-size:14px;color:var(--hint);min-width:0}
+.row svg{margin-top:2px;opacity:.85}
+.row .v{color:var(--text);opacity:.85;word-break:break-word}
+.row .v small{color:var(--hint);opacity:1;font-size:13px}
+.link{color:var(--link)!important;opacity:1!important}
+.prog{position:absolute;left:0;right:0;bottom:0;height:3px;background:var(--soft)}
+.prog i{display:block;height:100%;background:var(--accent);border-radius:0 3px 3px 0}
+
+.gap{display:flex;align-items:center;gap:10px;color:var(--hint);font-size:12px;margin:8px 6px}
+.gap::before,.gap::after{content:"";flex:1;height:1px;background:var(--sep)}
+.gap.win{color:color-mix(in srgb,var(--c-mil) 85%,var(--text));font-weight:600}
+
+.empty{text-align:center;padding:44px 20px;background:var(--card);border-radius:var(--radius)}
+.empty .em{font-size:44px;line-height:1}
+.empty b{display:block;font-size:17px;margin-top:12px}
+.empty span{color:var(--hint);font-size:14px}
+
+.sk{background:var(--card);border-radius:var(--radius);height:104px;margin-bottom:10px;position:relative;overflow:hidden}
+.sk::after{content:"";position:absolute;inset:0;transform:translateX(-100%);background:linear-gradient(90deg,transparent,var(--soft),transparent);animation:sh 1.2s infinite}
+@keyframes sh{to{transform:translateX(100%)}}
+.list>.lesson+.lesson{margin-top:10px}
+
+.foot{text-align:center;color:var(--hint);font-size:12px;margin-top:22px}
+.foot a{color:var(--link);text-decoration:none}
+
+.sheet{position:fixed;inset:0;z-index:20;background:var(--bg);transform:translateY(100%);visibility:hidden;transition:transform .28s cubic-bezier(.2,.8,.2,1),visibility 0s .28s;display:flex;flex-direction:column}
+.sheet.open{transform:none;visibility:visible;transition:transform .28s cubic-bezier(.2,.8,.2,1),visibility 0s}
+.sbar{padding:14px 14px 10px;max-width:560px;width:100%;margin:0 auto}
+.sbar h3{margin:0 0 10px;font-size:20px;letter-spacing:-.02em}
+.search{display:flex;align-items:center;gap:8px;background:var(--card);border-radius:14px;padding:0 12px;height:46px;color:var(--hint)}
+.search input{flex:1;border:0;outline:0;background:none;color:var(--text);font:inherit;font-size:16px;height:100%}
+.search input::placeholder{color:var(--hint)}
+.results{flex:1;overflow:auto;padding:4px 14px 30px;max-width:560px;width:100%;margin:0 auto}
+.rs-h{color:var(--hint);font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;margin:14px 4px 8px}
+.res{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:11px 12px;background:var(--card);border-radius:14px;margin-bottom:6px}
+.res:active{transform:scale(.985)}
+.res .av{width:36px;height:36px;border-radius:11px;display:grid;place-items:center;font-weight:700;font-size:13px;color:#fff;flex:none}
+.res .nm{flex:1;min-width:0;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.res .tp{color:var(--hint);font-size:12px}
+.hint{color:var(--hint);text-align:center;padding:30px 10px;font-size:14px}
+.closex{position:absolute;right:12px;top:12px}
+.err{color:var(--c-ex)}
+.homebtn{display:none;margin:18px auto 0;align-items:center;gap:8px;height:44px;padding:0 18px;border-radius:14px;background:var(--card);color:var(--accent);font-weight:600;font-size:14px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.homebtn.show{display:flex}
+.res .tp.vpn{color:var(--c-mil)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="head">
+      <button class="who" id="who" aria-label="Сменить группу">
+        <small id="whoKind">Расписание</small>
+        <b><span id="whoTitle">Выбери группу</span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></b>
+      </button>
+      <button class="today-btn" id="todayBtn">Сегодня</button>
+      <button class="iconbtn" id="searchBtn" aria-label="Поиск"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+    </div>
+    <div class="weekbar">
+      <button class="arrow" id="prevW" aria-label="Предыдущая неделя"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+      <div class="lbl" id="weekLbl">&nbsp;</div>
+      <button class="arrow" id="nextW" aria-label="Следующая неделя"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+    </div>
+    <div class="days" id="days"></div>
+  </div>
+  <div class="pager" id="pager"><div class="page" id="page"></div></div>
+  <button class="homebtn" id="homeBtn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="3"/><path d="M12 8v6M9 11h6"/></svg>Добавить на главный экран</button>
+  <div class="foot">Данные: <a href="https://schedule.uust.ru" id="orig" target="_blank" rel="noopener">schedule.uust.ru</a></div>
+</div>
+
+<div class="sheet" id="sheet" aria-hidden="true">
+  <div class="sbar">
+    <h3>Чьё расписание?</h3>
+    <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="Группа или фамилия преподавателя" autocomplete="off" enterkeyhint="search"></label>
+  </div>
+  <div class="results" id="results"></div>
+</div>
+
+<script>
+(() => {
+  const tg = window.Telegram && window.Telegram.WebApp;
+  const inTg = !!(tg && tg.initData);
+  if (inTg) {
+    document.documentElement.classList.add("tg");
+    tg.ready(); tg.expand();
+    try { tg.setHeaderColor("secondary_bg_color"); tg.setBackgroundColor("secondary_bg_color"); } catch (e) {}
+  }
+  const haptic = (k) => { try { k === "sel" ? tg.HapticFeedback.selectionChanged() : tg.HapticFeedback.impactOccurred(k || "light"); } catch (e) {} };
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const DAY = 864e5, TZ = 5;
+  const WD = ["Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс"];
+  const WDF = ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"];
+  const MON = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"];
+  const MONS = ["янв", "фев", "мар", "апр", "мая", "июн", "июл", "авг", "сен", "окт", "ноя", "дек"];
+  const HOL = new Set(["1-1", "1-7", "2-23", "3-8", "5-1", "5-9", "6-12", "11-4"]);
+  const TYPES = {
+    "Лекция": ["--c-lec", "Лекция"], "Практика (семинар)": ["--c-pr", "Практика"], "Лабораторная работа": ["--c-lab", "Лабораторная"],
+    "Военная подготовка": ["--c-mil", "Военная подготовка"], "Экзамен": ["--c-ex", "Экзамен"], "Зачет": ["--c-zach", "Зачёт"], "Зачёт": ["--c-zach", "Зачёт"],
+    "Консультация": ["--c-cons", "Консультация"],
+  };
+  const ICON = {
+    pin: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
+    user: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>',
+    users: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c1.2-3.4 3.6-5 6.5-5s5.3 1.6 6.5 5"/><path d="M16 4.5a3.5 3.5 0 0 1 0 7M18 15c1.8.6 3 2.2 3.6 5"/></svg>',
+    note: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>',
+  };
+
+  const nowMs = () => Date.now() + TZ * 36e5;
+  const todayN = () => Math.floor(nowMs() / DAY);
+  const minsNow = () => Math.floor((nowMs() % DAY) / 6e4);
+  const dOf = (n) => new Date(n * DAY);
+  const wdOf = (n) => ((dOf(n).getUTCDay() + 6) % 7) + 1;
+  const isoN = (s) => Math.floor(Date.parse(s + "T00:00:00Z") / DAY);
+  const toMin = (t) => { const m = /(\d\d):(\d\d)/.exec(t || ""); return m ? +m[1] * 60 + +m[2] : null; };
+  const dur = (m) => (m >= 60 ? Math.floor(m / 60) + " ч" + (m % 60 ? " " + (m % 60) + " мин" : "") : m + " мин");
+
+  const st = { ent: null, data: null, cfg: null, w1: 0, sel: todayN(), stack: [] };
+  const STATIC = /github\.io$/.test(location.hostname);
+  const LIVE = "https://uust-schedule-bot.ethancole304.workers.dev";
+  const bust = () => "v=" + Math.floor(Date.now() / 6e5);
+  async function getJSON(u) { const r = await fetch(u); if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }
+  async function fetchSchedule(ent) {
+    if (!STATIC) return getJSON("/api/schedule?type=" + ent.kind + "&id=" + ent.id);
+    try { return await getJSON("data/" + ent.kind + "/" + ent.id + ".json?" + bust()); } catch (e) {}
+    return getJSON(LIVE + "/api/schedule?type=" + ent.kind + "&id=" + ent.id);
+  }
+  let IDX = null;
+  const norm = (s) => String(s || "").toLowerCase().replace(/ё/g, "е").replace(/[\s\-_.]/g, "");
+  async function searchIdx(query) {
+    if (!STATIC) return getJSON("/api/search?q=" + encodeURIComponent(query));
+    if (!IDX) { IDX = await getJSON("data/idx.json?" + bust()); IDX.av = new Set(IDX.a || []); }
+    const q = norm(query); if (!q) return [];
+    const res = [];
+    for (const [id, title] of IDX.g) { const t = norm(title); if (t.includes(q)) res.push([0, id, title, t.startsWith(q) ? 0 : 1]); }
+    if (/[а-яa-z]{3,}/i.test(q) && !/\d/.test(q)) for (const [id, name] of IDX.t) if (norm(name).includes(q)) res.push([1, id, name, 2]);
+    res.sort((a, b) => a[3] - b[3] || a[2].length - b[2].length || a[2].localeCompare(b[2]));
+    return res.slice(0, 15);
+  }
+  const offline = (k, id) => !STATIC || !IDX || IDX.av.has(k + ":" + id);
+
+  const urlEnt = () => {
+    const p = new URLSearchParams(location.search);
+    return p.get("type") != null && p.get("id") ? { kind: +p.get("type"), id: +p.get("id"), title: p.get("title") || "" } : null;
+  };
+  const localEnt = () => { try { return JSON.parse(localStorage.getItem("ent") || "null"); } catch (e) { return null; } };
+  const saveEnt = (e) => {
+    try { localStorage.setItem("ent", JSON.stringify(e)); } catch (x) {}
+    try { tg && tg.CloudStorage && tg.CloudStorage.setItem("ent", JSON.stringify(e)); } catch (x) {}
+    try {
+      const hist = JSON.parse(localStorage.getItem("hist") || "[]").filter((h) => !(h.kind === e.kind && h.id === e.id));
+      hist.unshift(e); localStorage.setItem("hist", JSON.stringify(hist.slice(0, 6)));
+    } catch (x) {}
+  };
+
+  const weekOf = (n) => Math.max(1, Math.floor((n - st.w1) / 7) + 1);
+  const monOf = (n) => n - (wdOf(n) - 1);
+
+  function lessonsOn(n) {
+    if (!st.data) return [];
+    const w = weekOf(n), wd = wdOf(n);
+    const list = st.data.items.filter((x) => x.d === wd && x.w.includes(w));
+    list.sort((a, b) => (a.n || 99) - (b.n || 99));
+    const out = [];
+    for (const x of list) {
+      const p = out.find((o) => o.n === x.n && o.s === x.s && o.y === x.y && o.r === x.r);
+      if (p && x.g) p.g = p.g ? p.g + ", " + x.g : x.g; else out.push(Object.assign({}, x));
+    }
+    return out;
+  }
+  const isHol = (n) => { const d = dOf(n); return HOL.has(d.getUTCMonth() + 1 + "-" + d.getUTCDate()); };
+
+  function renderHeader() {
+    const e = st.ent;
+    $("whoKind").textContent = !e ? "Расписание УУНиТ" : e.kind === 1 ? "Преподаватель" : e.kind === 2 ? "Аудитория" : "Группа";
+    $("whoTitle").textContent = e ? (e.kind === 1 ? shortFio(e.title) : e.title) || "…" : "Выбери группу";
+    $("orig").href = e ? "https://schedule.uust.ru/schedule?type=" + e.kind + "&id=" + e.id : "https://schedule.uust.ru/";
+    const mon = monOf(st.sel), sat = mon + 5, w = weekOf(st.sel);
+    const a = dOf(mon), b = dOf(sat);
+    const range = a.getUTCMonth() === b.getUTCMonth()
+      ? a.getUTCDate() + "–" + b.getUTCDate() + " " + MONS[b.getUTCMonth()]
+      : a.getUTCDate() + " " + MONS[a.getUTCMonth()] + " – " + b.getUTCDate() + " " + MONS[b.getUTCMonth()];
+    $("weekLbl").innerHTML = st.cfg ? w + " неделя<em>" + range + "</em>" : "&nbsp;";
+    const t = todayN();
+    $("todayBtn").classList.toggle("show", st.sel !== t && !(wdOf(t) === 7 && st.sel === t + 1));
+    let html = "";
+    for (let i = 0; i < 6; i++) {
+      const n = mon + i, cnt = st.cfg ? lessonsOn(n).length : 0;
+      const cls = ["day", n === st.sel ? "sel" : "", n === t ? "today" : "", !cnt ? "off" : ""].join(" ");
+      html += '<button class="' + cls + '" data-n="' + n + '"><span class="dn">' + WD[i] + '</span><span class="dd">' + dOf(n).getUTCDate() + '</span><span class="dots">' + "<i></i>".repeat(Math.min(cnt, 5)) + "</span></button>";
+    }
+    $("days").innerHTML = html;
+  }
+
+  const shortFio = (s) => { const p = String(s || "").split(" ").filter(Boolean); return p.length > 1 ? p[0] + " " + p.slice(1).map((x) => x[0] + ".").join(" ") : s; };
+
+  function renderDay(dir) {
+    const n = st.sel, page = $("page");
+    const t = todayN(), d = dOf(n);
+    let html = '<div class="daytitle"><h2>' + WDF[wdOf(n) - 1] + ", " + d.getUTCDate() + " " + MON[d.getUTCMonth()] + "</h2><span>" + (n === t ? "сегодня" : n === t + 1 ? "завтра" : n === t - 1 ? "вчера" : "") + "</span></div>";
+    if (!st.data) {
+      html += '<div class="sk"></div><div class="sk"></div><div class="sk"></div>';
+    } else if (isHol(n)) {
+      html += '<div class="empty"><div class="em">🎉</div><b>Праздничный день</b><span>Пар нет — отдыхай</span></div>';
+    } else {
+      const items = lessonsOn(n);
+      if (!items.length) {
+        html += '<div class="empty"><div class="em">' + (wdOf(n) === 7 ? "☀️" : "😴") + "</div><b>Пар нет</b><span>" + (wdOf(n) === 7 ? "Воскресенье" : "Свободный день") + "</span></div>";
+      } else {
+        const cur = minsNow();
+        if (n === t) html += nowCard(items, cur);
+        html += '<div class="list">';
+        items.forEach((x, i) => {
+          if (i) {
+            const pe = toMin((items[i - 1].t || "").split("-")[1]), ns = toMin((x.t || "").split("-")[0]);
+            if (pe != null && ns != null && ns > pe) {
+              const g = ns - pe;
+              html += '<div class="gap' + (g >= 60 ? " win" : "") + '">' + (g >= 60 ? "окно · " : "перерыв ") + dur(g) + "</div>";
+            } else html += '<div style="height:10px"></div>';
+          }
+          html += card(x, n === t ? cur : null, n < t);
+        });
+        html += "</div>";
+      }
+    }
+    if (dir) {
+      page.classList.add(dir > 0 ? "out-l" : "out-r");
+      setTimeout(() => {
+        page.innerHTML = html;
+        page.style.transition = "none";
+        page.classList.remove("out-l", "out-r");
+        page.classList.add(dir > 0 ? "out-r" : "out-l");
+        void page.offsetWidth;
+        page.style.transition = "";
+        page.classList.remove("out-l", "out-r");
+      }, 120);
+    } else page.innerHTML = html;
+  }
+
+  function nowCard(items, cur) {
+    const tm = items.map((x) => { const [a, b] = (x.t || "").split("-"); return { x, a: toMin(a), b: toMin(b) }; }).filter((o) => o.a != null);
+    const live = tm.find((o) => cur >= o.a && cur < o.b);
+    if (live) return '<div class="now"><div class="pulse"></div><div class="tx"><b>Сейчас ' + (live.x.n ? live.x.n + " пара" : "пара") + "</b><span>" + esc(live.x.s) + '</span></div><div class="big">ещё ' + dur(live.b - cur) + "</div></div>";
+    const next = tm.find((o) => o.a > cur);
+    if (next) {
+      const first = next === tm[0];
+      return '<div class="now idle"><div class="pulse"></div><div class="tx"><b>' + (first ? "Первая пара" : "Перерыв") + "</b><span>" + esc(next.x.s) + (next.x.r ? " · " + esc(next.x.r) : "") + '</span></div><div class="big">через ' + dur(next.a - cur) + "</div></div>";
+    }
+    return '<div class="now idle"><div class="pulse"></div><div class="tx"><b>Пары на сегодня закончились</b><span>Можно отдыхать</span></div><div class="big">✓</div></div>';
+  }
+
+  function card(x, cur, past) {
+    const [cv, label] = TYPES[x.y] || ["--c-def", x.y || "Занятие"];
+    const [a, b] = (x.t || "").split("-");
+    const am = toMin(a), bm = toMin(b);
+    let cls = "lesson", prog = "";
+    if (cur != null && am != null) {
+      if (cur >= bm) cls += " past";
+      else if (cur >= am) { cls += " cur"; prog = '<div class="prog"><i style="width:' + Math.round(((cur - am) / (bm - am)) * 100) + '%"></i></div>'; }
+    } else if (past) cls += " pastday";
+    let room = x.r || "", comment = (x.c || "").trim();
+    if (room === "Уточняется" && comment) { room = comment; comment = ""; }
+    const rows = [];
+    if (room) rows.push('<div class="row">' + ICON.pin + '<span class="v">' + esc(room) + (x.bs && x.bs !== room ? " <small>· " + esc(x.bs) + "</small>" : "") + "</span></div>");
+    if (st.ent.kind !== 1 && x.p && x.p.replace(/[.\s]/g, "")) {
+      rows.push('<div class="row">' + ICON.user + (x.pid ? '<button class="v link" data-t="' + x.pid + '" data-tn="' + esc(x.pf || x.p) + '">' + esc(x.p.trim()) + "</button>" : '<span class="v">' + esc(x.p) + "</span>") + "</div>");
+    }
+    if (x.g && st.ent.kind !== 0) rows.push('<div class="row">' + ICON.users + '<span class="v">' + esc(x.g) + "</span></div>");
+    if (comment) rows.push('<div class="row">' + ICON.note + '<span class="v">' + esc(comment) + "</span></div>");
+    return '<div class="' + cls + '" style="--c:var(' + cv + ')">' +
+      '<div class="time"><b>' + esc(a || "—") + "</b><span>" + esc(b || "") + "</span>" + (x.n ? "<em>" + x.n + "</em>" : "") + "</div>" +
+      '<div class="body"><div class="chip">' + esc(label) + '</div><div class="subj">' + esc(x.s || "—") + '</div>' + (rows.length ? '<div class="meta">' + rows.join("") + "</div>" : "") + "</div>" + prog + "</div>";
+  }
+
+  function render(dir) { renderHeader(); renderDay(dir); }
+
+  function go(n, dir) {
+    if (wdOf(n) === 7) n += dir < 0 ? -1 : 1;
+    if (n === st.sel) return;
+    const d = dir || (n > st.sel ? 1 : -1);
+    st.sel = n; haptic("sel"); render(d);
+  }
+
+  async function load(ent, push) {
+    if (push && st.ent) st.stack.push({ ent: st.ent, sel: st.sel });
+    st.ent = ent; st.data = null; render();
+    updateBack();
+    try {
+      const j = await fetchSchedule(ent);
+      if (st.ent !== ent) return;
+      st.data = j; st.cfg = j.cfg; st.w1 = isoN(j.cfg.yearStart); st.w1 -= wdOf(st.w1) - 1;
+      if (j.title && !ent.title) ent.title = j.title;
+      if (!push) saveEnt(ent);
+      render();
+    } catch (e) {
+      $("page").innerHTML = '<div class="empty"><div class="em">📡</div><b>Не удалось загрузить</b><span class="err">Этого расписания нет в сохранённой копии, а сервер недоступен без VPN. Выбери свою группу или попробуй позже.</span><br><br><button class="today-btn show" style="margin:0 auto" id="retry">Повторить</button></div>';
+      const rb = $("retry"); if (rb) rb.onclick = () => load(ent);
+    }
+  }
+
+  function updateBack() {
+    if (!tg || !tg.BackButton) return;
+    const open = $("sheet").classList.contains("open");
+    if (open || st.stack.length) tg.BackButton.show(); else tg.BackButton.hide();
+  }
+  function back() {
+    if ($("sheet").classList.contains("open")) return closeSheet();
+    const prev = st.stack.pop();
+    if (prev) { st.sel = prev.sel; load(prev.ent, false); }
+    updateBack();
+  }
+
+  // ---------- поиск ----------
+  let qTimer = null, qSeq = 0;
+  function openSheet() {
+    $("sheet").classList.add("open"); $("sheet").setAttribute("aria-hidden", "false");
+    $("q").value = ""; showHistory(); updateBack();
+    setTimeout(() => $("q").focus(), 250);
+  }
+  function closeSheet() {
+    if (!st.ent) return;
+    $("sheet").classList.remove("open"); $("sheet").setAttribute("aria-hidden", "true");
+    $("q").blur(); updateBack();
+  }
+  const avColor = (k) => (k === 1 ? "linear-gradient(135deg,#a78bfa,#7c3aed)" : "linear-gradient(135deg,#60a5fa,#2563eb)");
+  const avText = (k, t) => (k === 1 ? t.split(" ").slice(0, 2).map((s) => s[0]).join("") : t.replace(/[^А-ЯA-Z]/g, "").slice(0, 2) || "Гр");
+  const resRow = (k, id, t) => '<button class="res" data-k="' + k + '" data-id="' + id + '" data-title="' + esc(t) + '"><span class="av" style="background:' + avColor(k) + '">' + esc(avText(k, t)) + '</span><span class="nm">' + esc(t) + '</span><span class="tp' + (offline(k, id) ? "" : " vpn") + '">' + (offline(k, id) ? (k === 1 ? "преподаватель" : "группа") : "нужен VPN") + "</span></button>";
+  function showHistory() {
+    let hist = [];
+    try { hist = JSON.parse(localStorage.getItem("hist") || "[]"); } catch (e) {}
+    $("results").innerHTML = hist.length
+      ? '<div class="rs-h">Недавние</div>' + hist.map((h) => resRow(h.kind, h.id, h.title)).join("")
+      : '<div class="hint">Начни вводить номер группы, например <b>ПРО-305</b>,<br>или фамилию преподавателя</div>';
+  }
+  async function doSearch(q) {
+    const seq = ++qSeq;
+    if (!q.trim()) return showHistory();
+    $("results").innerHTML = '<div class="hint">Ищу…</div>';
+    try {
+      const r = await searchIdx(q);
+      if (seq !== qSeq) return;
+      $("results").innerHTML = r.length ? '<div class="rs-h">Найдено</div>' + r.map(([k, id, t]) => resRow(k, id, t)).join("") : '<div class="hint">Ничего не нашлось 🤷</div>';
+    } catch (e) { $("results").innerHTML = '<div class="hint err">Ошибка поиска</div>'; }
+  }
+
+  // ---------- события ----------
+  $("days").addEventListener("click", (e) => { const b = e.target.closest(".day"); if (b) go(+b.dataset.n); });
+  $("prevW").onclick = () => { st.sel -= 7; haptic("sel"); render(-1); };
+  $("nextW").onclick = () => { st.sel += 7; haptic("sel"); render(1); };
+  $("todayBtn").onclick = () => { let t = todayN(); if (wdOf(t) === 7) t++; go(t); };
+  $("who").onclick = openSheet; $("searchBtn").onclick = openSheet;
+  $("q").addEventListener("input", (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => doSearch(e.target.value), 180); });
+  $("results").addEventListener("click", (e) => {
+    const b = e.target.closest(".res"); if (!b) return;
+    haptic("light");
+    const ent = { kind: +b.dataset.k, id: +b.dataset.id, title: b.dataset.title };
+    st.stack = [];
+    $("sheet").classList.remove("open"); $("q").blur();
+    load(ent, false);
+  });
+  $("page").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-t]"); if (!b) return;
+    haptic("light");
+    load({ kind: 1, id: +b.dataset.t, title: b.dataset.tn }, true);
+  });
+  if (tg && tg.BackButton) tg.BackButton.onClick(back);
+
+  let sx = null, sy = null;
+  $("pager").addEventListener("touchstart", (e) => { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, { passive: true });
+  $("pager").addEventListener("touchend", (e) => {
+    if (sx == null) return;
+    const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy; sx = null;
+    if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+      let n = st.sel + (dx < 0 ? 1 : -1);
+      go(n, dx < 0 ? 1 : -1);
+    }
+  }, { passive: true });
+
+  setInterval(() => { if (st.data && st.sel === todayN()) renderDay(); }, 30000);
+
+  // ---------- старт ----------
+  if (wdOf(st.sel) === 7) st.sel++;
+  const fallback = () => { const u = urlEnt(); if (u) load(u); else { render(); openSheet(); } };
+  const ent = localEnt();
+  if (ent) load(ent);
+  else if (tg && tg.CloudStorage && inTg) {
+    render();
+    tg.CloudStorage.getItem("ent", (err, v) => {
+      let e = null; try { e = v ? JSON.parse(v) : null; } catch (x) {}
+      if (e) load(e); else fallback();
+    });
+  } else fallback();
+
+  // ---------- ярлык на главный экран ----------
+  const hb = $("homeBtn");
+  if (inTg && tg.checkHomeScreenStatus && tg.isVersionAtLeast && tg.isVersionAtLeast("8.0")) {
+    try {
+      tg.checkHomeScreenStatus((s) => { if (s === "missed" || s === "unknown") hb.classList.add("show"); });
+      tg.onEvent("homeScreenAdded", () => hb.classList.remove("show"));
+    } catch (e) {}
+    hb.onclick = () => { haptic("light"); try { tg.addToHomeScreen(); } catch (e) {} };
+  }
+})();
+</script>
+</body>
+</html>
