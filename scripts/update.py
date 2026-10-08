@@ -41,7 +41,7 @@ def site_cfg():
 
 def compact(x):
     return {
-        "w": [int(w) for w in x.get("schedule_weeks") or []], "d": x.get("schedule_weekday_id"),
+        "w": [int(w) for w in x.get("schedule_weeks") or [] if str(w).strip().isdigit()], "d": x.get("schedule_weekday_id"),
         "n": x.get("schedule_time_num"), "t": x.get("schedule_time_title"), "s": x.get("schedule_subject_title"),
         "y": x.get("type"), "r": x.get("room_title_short") or x.get("room_title"), "bs": x.get("building_short_title"),
         "c": x.get("comment"), "p": x.get("teacher"), "pf": x.get("teacher_fullname"), "pid": x.get("teacher_id"),
@@ -57,8 +57,9 @@ def schedule(cfg, kind, eid):
     if DIRECT_FAILS < 3:  # после трёх неудач подряд ходим только через воркер
         try:
             raw = json.loads(get(f"{API}/{cfg['ver']}/schedule/{kind}/{eid}/semester/{cfg['semester']}?site=schedule", timeout=15))
+            items = [compact(x) for x in (raw or [])]
             DIRECT_FAILS = 0
-            return [compact(x) for x in (raw or [])]
+            return items
         except Exception as e:
             DIRECT_FAILS += 1
             print(f"  direct {kind}/{eid} failed ({e}), via worker")
