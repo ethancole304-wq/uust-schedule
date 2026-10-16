@@ -181,6 +181,7 @@ body.v-week .days,body.v-exam .days,body.v-exam .weekbar{display:none}
 .lpanel .row{font-size:15px}
 textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-radius:14px;padding:12px;background:var(--bg);color:var(--text);font:inherit;font-size:15px}
 .lhint{color:var(--hint);font-size:12px;margin-top:6px}
+.wx{margin-top:6px;font-size:11px;font-weight:600;color:var(--hint);white-space:nowrap}
 </style>
 </head>
 <body class="v-day">
@@ -206,6 +207,7 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
   <div class="actions">
     <div class="offline" id="offline"></div>
     <button class="pill" id="notifyBtn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>Напоминания и изменения</button>
+    <button class="pill" id="calBtn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18M12 14v4M10 16h4"/></svg>В календарь телефона</button>
     <button class="pill" id="homeBtn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="3"/><path d="M12 8v6M9 11h6"/></svg>Добавить на главный экран</button>
   </div>
   <div class="foot">Данные: <a href="https://schedule.uust.ru" id="orig" target="_blank" rel="noopener">schedule.uust.ru</a></div>
@@ -288,7 +290,23 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
   function dateLabel(n) { var d = dOf(n); return WDF[wdOf(n) - 1] + ", " + d.getUTCDate() + " " + MON[d.getUTCMonth()]; }
   function shortDate(n) { var d = dOf(n); return d.getUTCDate() + " " + MON[d.getUTCMonth()]; }
   function relDay(n) { var t = todayN(); return n === t ? "сегодня" : n === t + 1 ? "завтра" : n === t - 1 ? "вчера" : ""; }
-  function isHol(n) { var d = dOf(n); return !!HOL[(d.getUTCMonth() + 1) + "-" + d.getUTCDate()]; }
+  // праздники: производственный календарь (isdayoff.ru + Nager.Date) из data/calendar.json, иначе — фиксированные даты
+  var HSET = {};
+  function setCal(c) { HSET = {}; ((c && c.holidays) || []).forEach(function (d) { HSET[d] = 1; }); }
+  function isHol(n) { var d = dOf(n); return !!HSET[isoOf(n)] || !!HOL[(d.getUTCMonth() + 1) + "-" + d.getUTCDate()]; }
+  // ---------- погода (Open-Meteo, без ключа) ----------
+  var WX = null;
+  function wxIcon(c) { return c === 0 ? "☀️" : c <= 2 ? "🌤" : c === 3 ? "☁️" : c <= 48 ? "🌫" : c <= 57 ? "🌦" : c <= 67 ? "🌧" : c <= 77 ? "🌨" : c <= 82 ? "🌧" : c <= 86 ? "🌨" : "⛈"; }
+  function tfmt(t) { return (t > 0 ? "+" : t < 0 ? "−" : "") + Math.abs(t) + "°"; }
+  function wxAt(n, mins) { if (!WX || mins == null) return null; return WX[isoOf(n) + "T" + ("0" + Math.floor(mins / 60)).slice(-2) + ":00"] || null; }
+  function wxChip(w) { return w ? '<div class="wx">' + wxIcon(w[2]) + " " + tfmt(w[0]) + "</div>" : ""; }
+  function wxDay(n) {
+    if (!WX) return "";
+    var lo = 99, hi = -99, rain = 0, mid = null;
+    for (var h = 8; h <= 18; h++) { var w = WX[isoOf(n) + "T" + ("0" + h).slice(-2) + ":00"]; if (!w) continue; lo = Math.min(lo, w[0]); hi = Math.max(hi, w[0]); rain = Math.max(rain, w[1] || 0); if (h === 12) mid = w; }
+    if (lo === 99) return "";
+    return (mid ? wxIcon(mid[2]) + " " : "") + (lo === hi ? tfmt(lo) : tfmt(lo) + "…" + tfmt(hi)) + (rain >= 50 ? " · ☔" : "");
+  }
 
   var st = { ent: null, data: null, raw: null, cfg: null, w1: 0, sel: todayN(), stack: [], view: "day", cards: [], offline: false };
 
@@ -349,20 +367,93 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
   function loadIdx() {
     if (IDX) return Promise.resolve(IDX);
     var url = STATIC ? "data/idx.json?" + bust() : "/api/idx";
-    return getText(url).then(function (t) { IDX = JSON.parse(t); IDX.av = {}; (IDX.a || []).forEach(function (k) { IDX.av[k] = 1; }); lsSet("idxc", t.length < 400000 ? t : null); return IDX; })
-      .catch(function () { var c = lsGet("idxc", null); if (!c) throw new Error("no idx"); IDX = JSON.parse(c); IDX.av = {}; (IDX.a || []).forEach(function (k) { IDX.av[k] = 1; }); return IDX; });
+    return getText(url).then(function (t) { IDX = prepIdx(JSON.parse(t)); lsSet("idxc", t.length < 600000 ? t : null); return IDX; })
+      .catch(function () { var c = lsGet("idxc", null); if (!c) throw new Error("no idx"); IDX = prepIdx(JSON.parse(c)); return IDX; });
+  }
+  // ---------- умный поиск: раскладка, транслит, опечатки, инициалы ----------
+  var EN = "qwertyuiop[]asdfghjkl;'zxcvbnm,." + String.fromCharCode(96), RU = "йцукенгшщзхъфывапролджэячсмитьбюё";
+  function layoutFix(s) { var o = ""; for (var i = 0; i < s.length; i++) { var k = EN.indexOf(s[i]); o += k >= 0 ? RU[k] : s[i]; } return o; }
+  var TR = [["shch", "щ"], ["sch", "щ"], ["sh", "ш"], ["ch", "ч"], ["zh", "ж"], ["ts", "ц"], ["yu", "ю"], ["ya", "я"], ["yo", "е"], ["kh", "х"],
+    ["a", "а"], ["b", "б"], ["v", "в"], ["g", "г"], ["d", "д"], ["e", "е"], ["z", "з"], ["i", "и"], ["y", "ы"], ["k", "к"], ["l", "л"], ["m", "м"],
+    ["n", "н"], ["o", "о"], ["p", "п"], ["r", "р"], ["s", "с"], ["t", "т"], ["u", "у"], ["f", "ф"], ["h", "х"], ["c", "ц"], ["w", "в"], ["x", "кс"], ["j", "й"], ["q", "к"]];
+  function translit(s) {
+    var o = "", i = 0;
+    while (i < s.length) {
+      var hit = null;
+      for (var k = 0; k < TR.length; k++) if (s.substr(i, TR[k][0].length) === TR[k][0]) { hit = TR[k]; break; }
+      if (hit) { o += hit[1]; i += hit[0].length; } else { o += s[i]; i++; }
+    }
+    return o;
+  }
+  function lev1(a, b) { // расстояние Дамерау–Левенштейна не больше 1
+    if (a === b) return true;
+    var la = a.length, lb = b.length; if (Math.abs(la - lb) > 1) return false;
+    var i = 0; while (i < la && i < lb && a[i] === b[i]) i++;
+    if (la === lb) return a.slice(i + 1) === b.slice(i + 1) || (a[i] === b[i + 1] && a[i + 1] === b[i] && a.slice(i + 2) === b.slice(i + 2));
+    return la > lb ? a.slice(i + 1) === b.slice(i) : a.slice(i) === b.slice(i + 1);
+  }
+  function prepIdx(I) {
+    I.av = {}; (I.a || []).forEach(function (k) { I.av[k] = 1; });
+    I.nav = {}; (I.na || []).forEach(function (k) { I.nav[k] = 1; });
+    I.icsm = {}; (I.ics || []).forEach(function (k) { I.icsm[k] = 1; });
+    I.gk = I.g.map(function (g) { return norm(g[1]); });
+    I.tk = I.t.map(function (t) {
+      var p = String(t[1] || "").split(" ").filter(Boolean);
+      return [norm(t[1]), norm(p[0] + p.slice(1).map(function (x) { return x[0]; }).join(""))];
+    });
+    return I;
+  }
+  function score(key, q) {
+    var i = key.indexOf(q);
+    if (i === 0) return key.length === q.length ? 0 : 1;
+    if (i > 0) return 2;
+    if (q.length >= 4 && (lev1(key.slice(0, q.length), q) || lev1(key.slice(0, q.length + 1), q) || lev1(key.slice(0, q.length - 1), q))) return 3;
+    return -1;
   }
   function searchIdx(query) {
     return loadIdx().then(function (I) {
-      var q = norm(query); if (!q) return [];
-      var res = [];
-      I.g.forEach(function (g) { var t = norm(g[1]); if (t.indexOf(q) >= 0) res.push([0, g[0], g[1], t.indexOf(q) === 0 ? 0 : 1]); });
-      if (/[а-яa-z]{3,}/i.test(q) && !/\d/.test(q)) I.t.forEach(function (t) { if (norm(t[1]).indexOf(q) >= 0) res.push([1, t[0], t[1], 2]); });
+      var raw = String(query || "").toLowerCase().trim(); if (!raw) return [];
+      var qs = [norm(raw)];
+      if (/[a-z\[\];',.]/.test(raw) || raw.indexOf(String.fromCharCode(96)) >= 0) { qs.push(norm(layoutFix(raw))); qs.push(norm(translit(raw))); }
+      qs = qs.filter(function (q, i) { return q && qs.indexOf(q) === i; });
+      var best = {};
+      function add(k, id, title, sc) { var key = k + ":" + id; if (sc >= 0 && (!(key in best) || best[key][3] > sc)) best[key] = [k, id, title, sc]; }
+      qs.forEach(function (q) {
+        I.g.forEach(function (g, j) { add(0, g[0], g[1], score(I.gk[j], q)); });
+        if (/[а-яёa-z]{3,}/i.test(q) && !/^\d/.test(q)) I.t.forEach(function (t, j) {
+          var a = score(I.tk[j][0], q), b = score(I.tk[j][1], q), sc = a < 0 ? b : b < 0 ? a : Math.min(a, b);
+          add(1, t[0], t[1], sc < 0 ? -1 : sc + 0.5);
+        });
+      });
+      var res = Object.keys(best).map(function (k) { return best[k]; });
       res.sort(function (a, b) { return a[3] - b[3] || a[2].length - b[2].length || a[2].localeCompare(b[2]); });
+      if (res.length && res[0][3] < 3) res = res.filter(function (x) { return x[3] < 3; }); // опечатки — только если точного нет
       return res.slice(0, 20);
     });
   }
-  function offlineOk(k, id) { return !STATIC || !IDX || !IDX.a || !!IDX.av[k + ":" + id]; }
+  function offlineOk(k, id) {
+    if (!STATIC || !IDX) return true;
+    if (IDX.na) return !IDX.nav[k + ":" + id];
+    return !IDX.a || !!IDX.av[k + ":" + id];
+  }
+  function loadCal() {
+    var c = lsGet("cal", null); if (c) setCal(c);
+    if (!STATIC) return;
+    getText("data/calendar.json?" + bust()).then(function (t) { var j = JSON.parse(t); setCal(j); lsSet("cal", j); if (st.data && !anyOpen()) render(); }).catch(function () {});
+  }
+  function loadWeather() {
+    var c = lsGet("wx", null);
+    if (c) WX = c.d;
+    if (c && Date.now() - c.at < 36e5) return;
+    fetch("https://api.open-meteo.com/v1/forecast?latitude=54.74&longitude=55.97&hourly=temperature_2m,precipitation_probability,weather_code&timezone=Asia%2FYekaterinburg&forecast_days=7")
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) {
+        var d = {}, h = j.hourly;
+        h.time.forEach(function (t, i) { d[t] = [Math.round(h.temperature_2m[i]), h.precipitation_probability[i] || 0, h.weather_code[i]]; });
+        WX = d; lsSet("wx", { at: Date.now(), d: d });
+        if (st.data && !anyOpen()) renderMain();
+      }).catch(function () {});
+  }
 
   function urlEnt() {
     var p = new URLSearchParams(location.search);
@@ -417,6 +508,7 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
     }
     $("days").innerHTML = html;
     $("notifyBtn").classList.toggle("show", inTg && !!e);
+    $("calBtn").classList.toggle("show", !!e && !!IDX && !!IDX.icsm && !!IDX.icsm[e.kind + ":" + e.id]);
     $("offline").classList.toggle("show", st.offline);
   }
 
@@ -448,7 +540,7 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
     if (nt) rows.push('<div class="row note">' + ICON.pen + '<span class="v">' + esc(nt) + "</span></div>");
     var i = st.cards.push({ x: x, n: n }) - 1;
     return '<div class="' + cls + '" data-i="' + i + '" style="--c:var(' + tc[0] + ')">' +
-      '<div class="time"><b>' + esc(a || "—") + "</b><span>" + esc(b || "") + "</span>" + (x.n ? "<em>" + x.n + "</em>" : "") + "</div>" +
+      '<div class="time"><b>' + esc(a || "—") + "</b><span>" + esc(b || "") + "</span>" + (x.n ? "<em>" + x.n + "</em>" : "") + (n >= todayN() ? wxChip(wxAt(n, am)) : "") + "</div>" +
       '<div class="body"><div class="chip">' + esc(tc[1]) + '</div><div class="subj">' + esc(x.s || "—") + "</div>" + (rows.length ? '<div class="meta">' + rows.join("") + "</div>" : "") + "</div>" + prog + "</div>";
   }
 
@@ -459,7 +551,8 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
     var next = tm.filter(function (o) { return o.a > cur; })[0];
     if (next) {
       var first = next === tm[0], room = roomOf(next.x)[0];
-      return '<div class="now idle"><div class="pulse"></div><div class="tx"><b>' + (first ? "Первая пара" : "Перерыв") + "</b><span>" + esc(next.x.s) + (room ? " · " + esc(room) : "") + '</span></div><div class="big">через ' + dur(next.a - cur) + "</div></div>";
+      var w = wxAt(todayN(), next.a), umb = w && w[1] >= 50 ? " · ☔ возьми зонт" : w ? " · " + wxIcon(w[2]) + " " + tfmt(w[0]) : "";
+      return '<div class="now idle"><div class="pulse"></div><div class="tx"><b>' + (first ? "Первая пара" : "Перерыв") + umb + "</b><span>" + esc(next.x.s) + (room ? " · " + esc(room) : "") + '</span></div><div class="big">через ' + dur(next.a - cur) + "</div></div>";
     }
     return '<div class="now idle"><div class="pulse"></div><div class="tx"><b>Пары на сегодня закончились</b><span>Можно отдыхать</span></div><div class="big">✓</div></div>';
   }
@@ -467,7 +560,8 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
   // ---------- виды ----------
   function viewDay() {
     var n = st.sel, t = todayN();
-    var html = '<div class="daytitle"><h2>' + dateLabel(n) + "</h2><span>" + relDay(n) + "</span></div>";
+    var wd = n >= t ? wxDay(n) : "", rd = relDay(n);
+    var html = '<div class="daytitle"><h2>' + dateLabel(n) + "</h2><span>" + rd + (rd && wd ? " · " : "") + wd + "</span></div>";
     if (isHol(n)) return html + '<div class="empty"><div class="em">🎉</div><b>Праздничный день</b><span>Пар нет — отдыхай</span></div>';
     var items = lessonsOn(n);
     if (!items.length) return html + '<div class="empty"><div class="em">' + (wdOf(n) === 7 ? "☀️" : "😴") + "</div><b>Пар нет</b><span>" + (wdOf(n) === 7 ? "Воскресенье" : "Свободный день") + "</span></div>";
@@ -693,6 +787,11 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
   $("lback").onclick = closeLesson;
   $("note").addEventListener("input", function () { var k = openKey, v = $("note").value; clearTimeout(noteTimer); noteTimer = setTimeout(function () { if (k) saveNote(k, v); }, 500); });
   if (tg && tg.BackButton) tg.BackButton.onClick(back);
+  $("calBtn").onclick = function () {
+    haptic("light");
+    var e = st.ent, u = location.href.split("?")[0].split("#")[0].replace(/[^\/]*$/, "") + "cal.html?k=" + e.kind + "&id=" + e.id + "&t=" + encodeURIComponent(e.title || "");
+    try { if (inTg) tg.openLink(u); else window.open(u, "_blank"); } catch (x) { location.href = u; }
+  };
   $("notifyBtn").onclick = function () {
     haptic("light");
     var link = "https://t.me/" + BOT + "?start=n_" + st.ent.kind + "_" + st.ent.id;
@@ -739,6 +838,9 @@ textarea{width:100%;min-height:96px;resize:vertical;border:0;outline:0;border-ra
     });
   } else fallback();
   syncNotes();
+  loadCal();
+  loadWeather();
+  setTimeout(function () { loadIdx().then(function () { if (st.data && !anyOpen()) render(); }).catch(function () {}); }, 1500);
 
   // ---------- ярлык на главный экран ----------
   var hb = $("homeBtn");
