@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Расписание в календарь</title>
+<style>
+:root{--bg:#f2f3f7;--card:#fff;--tx:#14161c;--hint:#7b8090;--acc:#2f6bff}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#1a1d24;--tx:#eef0f5;--hint:#8a90a0;--acc:#5b8cff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.45 -apple-system,system-ui,Segoe UI,Roboto,sans-serif;padding:24px 16px}
+main{max-width:460px;margin:0 auto}h1{font-size:22px;margin:0 0 4px}p{color:var(--hint);margin:0 0 20px}
+a.b{display:flex;gap:12px;align-items:center;background:var(--card);color:var(--tx);text-decoration:none;padding:16px;border-radius:16px;margin-bottom:10px;font-weight:600}
+a.b span{display:block;font-weight:400;font-size:13px;color:var(--hint)}a.b i{font-style:normal;font-size:26px}
+small{display:block;color:var(--hint);margin-top:18px;font-size:13px}
+</style></head><body><main>
+<h1 id="h">Расписание в календарь</h1>
+<p>Подписка обновляется сама: изменения в расписании появятся в календаре телефона. Праздники уже исключены.</p>
+<a class="b" id="ios"><i>🍏</i><div>iPhone / Mac<span>Откроется «Календарь» → «Подписаться»</span></div></a>
+<a class="b" id="gg" target="_blank"><i>📅</i><div>Google Календарь<span>Android: добавится в аккаунт Google</span></div></a>
+<a class="b" id="dl" download><i>⬇️</i><div>Скачать .ics<span>Разовый импорт в любой календарь</span></div></a>
+<small>Google обновляет подписку раз в несколько часов, iPhone — по настройке «Обновлять календари».</small>
+</main><script>
+(function () {
+  var q = new URLSearchParams(location.search), k = q.get("k") || "0", id = (q.get("id") || "").replace(/\D/g, "");
+  var t = q.get("t"); if (t) document.getElementById("h").textContent = t + " → календарь";
+  var path = location.host + location.pathname.replace(/[^\/]*$/, "") + "data/ics/" + k + "/" + id + ".ics";
+  document.getElementById("ios").href = "webcal://" + path;
+  document.getElementById("gg").href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent("webcal://" + path);
+  document.getElementById("dl").href = "https://" + path;
+})();
+</script></body></html>
