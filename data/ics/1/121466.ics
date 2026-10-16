@@ -286,6 +286,28 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:4fd4477e384972a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Распознавание образов (консультация
+  экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-403Б\n4 пара\nНачало консультации 
+ в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:01dc625f50ac3093@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Распознавание образов (консультация
+  экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-402Б\n4 пара\nНачало консультации 
+ в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:d102aba81b92f9fb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
@@ -826,6 +848,24 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a3f27174d74d87f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Распознавание образов (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-402Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:3521d5dc0b3e0a0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Распознавание образов (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-403Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:90107443177c2acc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T093500
@@ -887,6 +927,24 @@ DTEND;TZID=Asia/Yekaterinburg:20261111T105500
 SUMMARY:Инженерия знаний (лекция)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c71a9610462f84a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Распознавание образов (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-402Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:980bebb6ff6014f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Распознавание образов (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-403Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:128cbbba0ff9cb22@uust-schedule
