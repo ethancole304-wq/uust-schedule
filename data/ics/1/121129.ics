@@ -1,0 +1,624 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Давлетшина Светлана Маратовна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e9dc5b3e8cebab9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:302\, Корпус 9
+DESCRIPTION:ПИ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4bc306e8771a03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:302\, Корпус 9
+DESCRIPTION:ПИ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc2f83f8938e1cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9c760dccf55133@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0352affd1d21c7b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
+DTEND;TZID=Asia/Yekaterinburg:20260907T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbd810715084141@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:391c0df3cde7369a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32f0251dcec2aaf2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffecf90f637570d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d51c9c99dd05b817@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32df3ed314f9ac2a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d854d9b53bff6128@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af39c682ff379a43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b543317466624f7d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1596c4941d2088@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41de829d2a68f9cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25360be275ab65a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbd84963b6cda55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-206\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-203Сзу\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8afd78e4d5386eb8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ad78201c81f8fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f751648f24cf9bcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0732c3898bfad43c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Контроль и ревизия (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ЭБ-553Сз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53813b7ea9e900b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:feb3ba068233aaaa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:322f0ef846df5d91@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-315\, Корпус 3
+DESCRIPTION:ПИ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23e6ff75064bc447@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T182000
+DTEND;TZID=Asia/Yekaterinburg:20260928T194000
+SUMMARY:Контроль и ревизия (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ЭБ-553Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d77a35099fb2c45@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
+DTEND;TZID=Asia/Yekaterinburg:20260901T125500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3829cc7c598ae84d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-201С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82386112dd5a5c83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1ab19a2b383d22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3ccb6da2f4e21f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0aba08dd151d35eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23c068860ce59949@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1cdc32cad292a563@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ИВТ-ИСУ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6cf4986151daaf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T113500
+DTEND;TZID=Asia/Yekaterinburg:20260909T125500
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ef7d4e01f9b851@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T113500
+DTEND;TZID=Asia/Yekaterinburg:20260902T125500
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32a663c93c6e4286@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T113500
+DTEND;TZID=Asia/Yekaterinburg:20260923T125500
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38a38e16043249e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d89c50ca4ac272e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T113500
+DTEND;TZID=Asia/Yekaterinburg:20260916T125500
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4e123eb9ac6f18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-207\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-203Сзу\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0493dfee936bde4a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2b3ce21ee732eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b05e1e64e03d6a2b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f25bf1c887af290@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
+DTEND;TZID=Asia/Yekaterinburg:20260909T143000
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d27de01154e8b93@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T131000
+DTEND;TZID=Asia/Yekaterinburg:20260902T143000
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64ceb5731a5c845f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a1ece3a2bdc77d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Управление инвестиционными проекта
+ ми (лекция)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af2fe5484b4c3abf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5d8949d3f3db53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d300885ec79eb7d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3bc8bba2cdadcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
+DTEND;TZID=Asia/Yekaterinburg:20261022T092000
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-203Сзу\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:052f57b549c8c312@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Экономика организации (предприятия) 
+ (лекция)
+LOCATION:3-204\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-203Сзу\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9ce0c1d1c8c1e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Деньги\, кредит и банки (лекция)
+LOCATION:3-304\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-202Сзу\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fee15b06b1fde83d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Деньги\, кредит и банки (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-202Сзу\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:265968285e3a3bab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Деньги\, кредит и банки (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-202Сзу\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a0787bc270eb939@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e15cc678e7af8910@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c384e0c609c97cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f943ecbc8ab0a112@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f8cec5b59cc73b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:207250193b23582f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T151000
+DTEND;TZID=Asia/Yekaterinburg:20261113T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+END:VCALENDAR

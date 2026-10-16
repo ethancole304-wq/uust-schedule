@@ -1,0 +1,1419 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Федорова Наталья Ивановна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:727b0ef418935093@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93c6c42c229c0267@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:78924e32b6c3a86a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:633c6ac0d5788723@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd19b945d15d39a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45ef66e806fb593f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0af96f0dcf5751f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f95cb7c1b34c04c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47d3504f0c9777d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b74fc02b04a0be43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce9a064e562c45c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c455493ec75f13b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc203c4b435d5400@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac5f9e66e80c75d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4819d27adf8b53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58dd70acbb1a5073@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90997137ae25aedb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af56219b659aaddc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:07a08376ddec7ab4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f7186e3c907ebc2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T113500
+DTEND;TZID=Asia/Yekaterinburg:20270111T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5791e2e6abf539af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T113500
+DTEND;TZID=Asia/Yekaterinburg:20270118T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c41711f6f97bdbd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18fd44c0d7d2a7cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e914d15e0683ecf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:577476d7cde6e6fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37c0ed4d3f74071c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f22f4385826a0900@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4a354a9b150553@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7fbbb61f72887d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e40be5703887e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7555a8888fdb60d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:462a4ce079c078b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a26321e1a1a801c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c98d6bb60591547@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70a572e11c9f6c15@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:057f47c27e6b4636@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ИВТ-ИСУ-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d94e243fe15a65d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ИВТ-ИСУ-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c38f1fc7605d1356@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ИВТ-ИСУ-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:62a66fe7f5e9043e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dea910884546278d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e9412eae6079fa2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:848149adaf8cbd88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a295c680d1080edb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19808001e0d0be54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b5e8333e90e819@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b971df9fa91f16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6285a7c9189938a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c1d5fece49ac9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05e62333900716bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a95554d2b179bcdc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5ab8bee9c3e54c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43893f3f94054fc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e20d76342ad70a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af91c6f0ab570bee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b69c0d35bd7f315e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:44ba15dfdb00d957@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e5c94ec90816dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c585402fe6b411@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54b86710a0c8944a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:73423a7f4dfb89ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a340b292188790@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6fadddcf2257e5b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:479aca815fb83937@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T113500
+DTEND;TZID=Asia/Yekaterinburg:20260923T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:336f9eaef74ea295@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32ac2465ce53c0e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb3d04d911f44681@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:969e28d8a80ca1db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd690051db4083f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0793cdf4a289a651@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:acc95bd82e3c54fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6968c3a63e7376fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:978e08ba928feeb9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79b878fd99a76220@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T113500
+DTEND;TZID=Asia/Yekaterinburg:20270113T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:417287d1c4cfe944@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T113500
+DTEND;TZID=Asia/Yekaterinburg:20270120T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e045d00b9b6a6166@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c517e565505229bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08952df112930d8a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71cb6b100122447b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef868cd786e4f4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9a6c44df6ea92c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5a166d5d5acbd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b641f664883845d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:311c8a199bdd37fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0c6a2a1e8854475@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:564aeb96395d7e35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c76e15480d8b369@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:944d195ea71abd27@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd063f7b2b8f1daf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e59f34b332825c17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8524a4924de15a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:066a8df9c36b2b68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd38eb8b7c518209@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2b6890bc0215033@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1f496877bd60b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5850ad631423c715@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0fd28ada762ea69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb356fca4c69a04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6019284ce9a52a0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e3d4b51f35308a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e50172b709fda0bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:78eec95764011e9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05ce95984c7a2031@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22d92979921b60b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c405814c5705bdc1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af052594952ce673@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0484272d9df0ce1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:12edd9174629a1ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
+DTEND;TZID=Asia/Yekaterinburg:20261105T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1a8514d28b8eda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:666eac69dfbbc0fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8712e46ccb76c693@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7abeb10454da43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0b74cb86a86a25@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2de10bdf87564e4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c20bb129a3722fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7f4be0705340c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0dde3fac17e7213f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cea679c76fbbe117@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01045adae31e8a34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:455d9137cfd09543@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ddad5098f3d1db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:269f6efb52af039f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T113500
+DTEND;TZID=Asia/Yekaterinburg:20270114T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61641c40e94c9ef0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d95f80a7092ddcd6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e413812b2bf99a30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d66cdd588b29567@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb5c38b065d7faa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d32be2fbd9e8720@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f95c560f2d18aecf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6045a254ea2b1f74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:21011f6723fc36ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13f23e4411b75aad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2efefe1af766ddc0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9518371b7d0ef0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ff2ff66226f3ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:179515baeff24414@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb70527ba60358e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ЭАС-104С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4f76af4194b56d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f2762500282e12e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-113
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a4fbce7ffea48804@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лекция)
+LOCATION:6-113
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8895a0b2d29f68bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (лаб.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+END:VCALENDAR

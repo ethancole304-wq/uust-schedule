@@ -1,0 +1,558 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Иванова Александра Сергеевна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f1dbc34ec25e223@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T080000
+DTEND;TZID=Asia/Yekaterinburg:20260908T092000
+SUMMARY:Русский язык и культура речи (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca0197e931d19b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Русский язык и культура речи (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45c342993a5e8ace@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4ce761c25d0203@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d162c583a7e4f1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef1d263ca4a5e9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1aff7330ec1e8314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Русский язык и культура речи (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1626a2f05dc92f13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Русский язык и культура речи (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:62d8436102191bcd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4233c7bb070709@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da451205caae2f0b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1be7a190ac33d5f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:acaf9d649f442a3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Русский язык и культура речи (практи
+ ка)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00a5594684e855de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Русский язык и культура речи (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:СТС-104С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e951d1e7b31a15fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T093500
+DTEND;TZID=Asia/Yekaterinburg:20260908T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ФИИТ-103Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71eee710d389c8aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:304\, Корпус 9
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03423e54dd53ea08@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:530ebd96e73e4285@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c061def0b1dbbd6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:376770750da9206d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46bf0c564059679f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d53030cd17a2e692@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ФИИТ-103Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:75d8ee1a77b97479@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ФИИТ-103Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d6c2ace32fbac7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ФИИТ-103Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:577812bd087bc03a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ФИИТ-103Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:d365fa6e5f58071d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ФИИТ-103Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:9680ad31affbb450@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb188882f12302e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39b0401e46a7d60e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:446f81b68a398b9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bf952b9e2e6a83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65ffb9ef6028626f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e36da815ccedb489@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6da66766c64dca1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:308\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79e2711cd5d080a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:102\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:655fa1d777f612b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:304\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca0059dbcc37cd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6c67bc9fdf2e9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:305\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41249febadde93fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0d34ffdc98c5054d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9c1c03c6c6cf2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a53d00484535efb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb909175d2be377b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
+DTEND;TZID=Asia/Yekaterinburg:20260915T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb901f272035c95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8195738f02ab38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2d12d3b4198c62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d36a192bcd9940c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64710977f75821ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de1e56749cea65ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c2e79c2765fc10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0211eb9606ed9c18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Асинхронно
+DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
+ няться
+END:VEVENT
+BEGIN:VEVENT
+UID:ca564bb11c7995f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Асинхронно
+DESCRIPTION:ПИ-111Бз\n3 пара\nРасписание может ме
+ няться
+END:VEVENT
+BEGIN:VEVENT
+UID:28f4cdd7265650c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Асинхронно
+DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
+ няться
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9463baba73dc2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T151000
+DTEND;TZID=Asia/Yekaterinburg:20261031T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Асинхронно
+DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
+ няться
+END:VEVENT
+END:VCALENDAR

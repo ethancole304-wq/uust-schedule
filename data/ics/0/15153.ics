@@ -1,0 +1,2825 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПРО-АН-104Б — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1956645195e78c43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T080000
+DTEND;TZID=Asia/Yekaterinburg:20261214T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c9288e99376ee2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3d24cc5cfcb38e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df657c965d1debeb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7174fa765367b946@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T080000
+DTEND;TZID=Asia/Yekaterinburg:20270111T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8a570a81d75713@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:0d3c067618e00316@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T080000
+DTEND;TZID=Asia/Yekaterinburg:20261228T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:38524e357f5a805b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2dfe9cb65704b46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
+DTEND;TZID=Asia/Yekaterinburg:20261221T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:877db8fa7d109ff5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Карьерная адаптивность (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f05d4f5e825a600@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:899d5c029b8d0f37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T093500
+DTEND;TZID=Asia/Yekaterinburg:20270111T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:125f048777d8579c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:968e8de3c00f0034@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69176507365a4570@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1559f6f406da116c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:075a36c84e13ee7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1ab9ab9af877a79@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
+DTEND;TZID=Asia/Yekaterinburg:20261228T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0fef51dbd23b56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Иностранный язык (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Ишбердина Миляуша Флюровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e04cb450680cf37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T113500
+DTEND;TZID=Asia/Yekaterinburg:20261228T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7062f9ee72f0d42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T113500
+DTEND;TZID=Asia/Yekaterinburg:20270111T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3170279675f3344@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c44617da73d7f24f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:808f7f00bc2164ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:364bcf3c5b01a70b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbd237281aa7387@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3767268b4ab1054e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9142e9eff6a0b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:90af10d0953a9b1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:a22296a0fb310b02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:6f7019426a800e6f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47db3eb40975e846@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d60124ad6ebeb29@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a86df5f9315eab6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d24927d9cada1b25@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4d3293c1f910f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:892b6967558445cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fded0a84f696cb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5126912ee5355b0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0700c3fed3379bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:ef41a8c2dd0e3b9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:e5807f8c5f16721e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:784bfe9aae743a8e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3338b3f3a5108265@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5fa167240b4b85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90884a7d9b813e14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:56b1e93315041a37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:478fc18f7327498e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7aad8833fd2a9899@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb36fa586d98c180@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3a01529412372926@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad1be0fc75b5618@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-305а\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a75e5b97186de3da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2890596e4b2c58ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
+DTEND;TZID=Asia/Yekaterinburg:20261229T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fbafea059f2cf90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8e90643c1ca1e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:af6da7df354cfb59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c473c5524ce52dac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e949c492ec4f3327@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1c8e0c8877cac5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:b029aeae2f335ce1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:5378ef7d47c76b87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:59dada5334ee1af5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19b2974b4479e914@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfa904e8745628e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:49f075ed68e10b97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-305а\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:57de39e9ba213167@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T093500
+DTEND;TZID=Asia/Yekaterinburg:20261229T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:06ecf869d0b1ac62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:be5e3cbcb6a302dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:4871ca326d7b3733@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d7618b3898833f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c01c3ab501cbcc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:de10ebe123e2ee0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f48a142aa75619@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c1cf4f4dd7b47f07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdf6505a2a3fcfb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aef2ea2920723bd6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb54ee17424a337@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0568c915e6ee59e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9333e2a6377a758@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-305а\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a46e92dcf7966e95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bcd5067df17532b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77f8418c5a069d51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f0309d00a677213@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad5af3b65c4df54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7794ed800b38d5ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae7db925e327133@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:558e1b69d9dc7a03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66792575d0f7ac4f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c29c2ec06e072c0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eab09292a7cf27b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d97bed6fc6f324d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d29f74d4416bd44a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
+DTEND;TZID=Asia/Yekaterinburg:20261014T092000
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51d4244825d69326@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe22a102a996fdd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e062f39eeb525605@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14a4a636551d8568@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:923ecc869a63f57d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33052ef9d0263dbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9af4ff8e14248d30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:eb56837331c1fdcd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddaa103ac7af751@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3813c155a2d589@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a4344a1195ca0d94@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7379dca41c743e3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9925d97ae03145e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a07778d6f5452407@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Алгебра и геометрия (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3db774bc5253367@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T093500
+DTEND;TZID=Asia/Yekaterinburg:20261230T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:170fec654daf22cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69293d5e82c2e4c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:b97d33aa7a726dd1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:eba1332830ccc721@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:44cb50f65822b0b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:ded6d212d8530b0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:be4a417bb2bd6c5a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41fa1e5a8fee3ec8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68ef5ec2a0eb3f12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4cd9b9f37597cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0b211b4ca5a14e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:421629b0cfacf52c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T113500
+DTEND;TZID=Asia/Yekaterinburg:20261230T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4eef57c7415f81@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2dbc410a550fad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f6cb4bd716c88d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fae035d2deb9d463@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ccccec1d7059556@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T113500
+DTEND;TZID=Asia/Yekaterinburg:20270113T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95fc1b7fca360efe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c63a0cfd225eb7f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ea5aa1c2a5ced9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:305\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c18ec5b43702af7c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47f6478e19eb1b74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7cb9a7457a6372c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5eccb1add38640ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1cc862e1dc8a1a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb594885fe8c535@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d9febe7ee55b0e52@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9772fe39633ec451@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc29381fcc0fca4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33444e757c47026a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:a10f19d5fd4b7de9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:269623ebe9ee23c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de657748b30d02cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9df5b8fe68ae9807@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:666dadf41554899f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f027fc0096efeb74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:660f1d2bdfe34b35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:ba054b3d0c478461@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c94ed815912df3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10135a5dec1eab7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:834bcab670d4ac01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e864c79999a7fdf4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae9d91c7d5e78b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9aacff7c74451587@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0355d321742b5c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c26aad36caf55ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca8953245804db9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
+DTEND;TZID=Asia/Yekaterinburg:20261029T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:b26d94d2f24d8648@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
+DTEND;TZID=Asia/Yekaterinburg:20261112T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe9bd95aafb5827@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01e501ca1a9071cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4803893c52ccfa01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:564981630663fbee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Карьерная адаптивность (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f16a301e7cce86c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1309b901346dc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:6712718dcd65fe6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9c9ea58951030f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7ac1c1d50f13b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be7111b47aa8c82c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a894ca15297d02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff15fac4f8134f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:798c8cffbacb4cc9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4137d8f64e02db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:361ca66413cdf684@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45b95593a935eefd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9528897fd8d17062@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:dac1236563822b00@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b96d92232239d00d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7758a52d9b59546@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4210257c0334762@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36d2171ea7a6ae61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:735089863cb2463e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:401\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b870d93d1d0979d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:401\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6a52b227121bb171@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:76173f4c008f3d8b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cedee107dfa884d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Карьерная адаптивность (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfb05bbb05946fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:58f0121fbaa8dc19@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:142fffb509c39501@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T151000
+DTEND;TZID=Asia/Yekaterinburg:20260910T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65b1659df3fb7d87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
+DTEND;TZID=Asia/Yekaterinburg:20260917T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83df204343ca9b2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T151000
+DTEND;TZID=Asia/Yekaterinburg:20260924T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d88d4a283ecdc083@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T151000
+DTEND;TZID=Asia/Yekaterinburg:20261001T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f1b2dc618df802@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T151000
+DTEND;TZID=Asia/Yekaterinburg:20261008T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6668af26c5339b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T151000
+DTEND;TZID=Asia/Yekaterinburg:20261015T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:86d990ad234bce23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T151000
+DTEND;TZID=Asia/Yekaterinburg:20261022T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a6d93a0011de9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
+DTEND;TZID=Asia/Yekaterinburg:20261029T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26fe65984b84048e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:105df1c2602904c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2483a909556ebec6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bdf09c60778aff76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9d45350c991dcc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d395da92ef5c706f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3b6e07f5ced65c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0068909a7bde0dc8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:61e3a0ce9bae38ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:60e9da7b99eb826b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0de917c52fd3dae3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e03701f171f0d9c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:b29781fa14e19182@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed8d248bc102ad9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
+DTEND;TZID=Asia/Yekaterinburg:20261127T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a41d52e86b484ff8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:afd29260e206bfc5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:75940f8acef7bdff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:21924360d7c71a65@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b39912cfd6dc1f57@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8ef1bff845bece@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05d8921df9340fdf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
+DTEND;TZID=Asia/Yekaterinburg:20261120T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:29cf032bd93dc95d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4861b6103eebfb35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:814c256d07cc71b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d63a461619cabe51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:192e3b2796c0ed2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46c108ee47786c0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33345a25cc4e88f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea8c60a0c2a2d6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c7a7f500a803c53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T093500
+DTEND;TZID=Asia/Yekaterinburg:20261016T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf2eefe4e2a538b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:702c6adf8d1effc0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f6b8a469b7555f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc859ae064149e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:2757f198f190215d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c699d25fbeac98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
+DTEND;TZID=Asia/Yekaterinburg:20261016T125500
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a213f28e711e7561@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc94ed9a87d4c1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72759fd4a2cc9dee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T113500
+DTEND;TZID=Asia/Yekaterinburg:20270115T125500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Саитбатталов Искандер Расулевич\n3
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1591b3dd060a7550@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9acaa453fd5eac14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59c021832b0865f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:60f0183b803b55da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf53e807212a5f72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:64183253ce315827@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T131000
+DTEND;TZID=Asia/Yekaterinburg:20261016T143000
+SUMMARY:Математический анализ (лекция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Махота Алла Александровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:80d1a40da394f626@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10c761bc5811031e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42d03b593b7b448e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42e02fd023399a02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n4
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb6057c8bab0fd5f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T151000
+DTEND;TZID=Asia/Yekaterinburg:20261016T163000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e81a0a9f2155b6e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T151000
+DTEND;TZID=Asia/Yekaterinburg:20261113T163000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:997c9ba033b0664d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
+DTEND;TZID=Asia/Yekaterinburg:20261023T163000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f1b27bd31573de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5c7928c86826950f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e695a8c1d1a7f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T151000
+DTEND;TZID=Asia/Yekaterinburg:20261120T163000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea626562a2964861@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
+DTEND;TZID=Asia/Yekaterinburg:20261127T163000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf2b8fa4d29ee73@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
+DTEND;TZID=Asia/Yekaterinburg:20261204T163000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6869fd4939886ead@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T164500
+DTEND;TZID=Asia/Yekaterinburg:20261016T180500
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b98a4ca7e57138f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
+DTEND;TZID=Asia/Yekaterinburg:20261120T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1040472f772204fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:200b70e1790ecd56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
+DTEND;TZID=Asia/Yekaterinburg:20261204T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Саитбатталов Искандер Расулевич\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83d8e8050212285c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e1e2620b1485b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0bed2dea4d8b2bce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8140950dd6ded0ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4236d893d594621@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9aa933e74fab43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
+DTEND;TZID=Asia/Yekaterinburg:20261128T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:355712755d132076@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30b1e3d4e7da8237@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T113500
+DTEND;TZID=Asia/Yekaterinburg:20261212T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c85f6d385ee319fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
+DTEND;TZID=Asia/Yekaterinburg:20261219T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a06fd755cdadbff2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
+DTEND;TZID=Asia/Yekaterinburg:20261226T125500
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8476d76c1d8ee9da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
+DTEND;TZID=Asia/Yekaterinburg:20261107T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32854e6cde22b85a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:144976be1ceee6bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f52eaf073998ecd2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
+DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:576a0a15ccfee7c1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
+DTEND;TZID=Asia/Yekaterinburg:20261128T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28790f677c6c8d86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5931f83ea5f43bb8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T131000
+DTEND;TZID=Asia/Yekaterinburg:20261212T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3872201e368e712f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
+DTEND;TZID=Asia/Yekaterinburg:20261219T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3710b0727b911a04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
+DTEND;TZID=Asia/Yekaterinburg:20261226T143000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d17dab0dcd838192@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3caf4867a0c35289@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:История России (лекция)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0660b97d189b48bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T151000
+DTEND;TZID=Asia/Yekaterinburg:20261031T163000
+SUMMARY:История России (практика)
+LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:Усова Юлия Сергеевна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc3f56540846f3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
+DTEND;TZID=Asia/Yekaterinburg:20261107T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fc742ffddf5221@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T151000
+DTEND;TZID=Asia/Yekaterinburg:20261121T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d2500c47d0b79b9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T151000
+DTEND;TZID=Asia/Yekaterinburg:20261205T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:59bedf4b6200c2f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
+DTEND;TZID=Asia/Yekaterinburg:20261107T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:644c418f48099618@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T164500
+DTEND;TZID=Asia/Yekaterinburg:20261121T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:3a34f7f7ecb7b463@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T164500
+DTEND;TZID=Asia/Yekaterinburg:20261205T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n6 па
+ ра
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Усманова Анжелика Рашитовна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d6b092c3356f3b6c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:629ad21ec98d4ed8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c6f07fd3abc0c57@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31c6f8b29710ae68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff18a317be7e0045@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f472078c43d30a0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5008dd2c41247002@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d33282c757bb6c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18408fece2e824e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6413041c21a9b4c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:212e3f135c6d7f9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d64b85403fac8cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97e08d7c43600616@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe5d9a73b58d57f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0827b22e01347c07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bd55b80ae41e92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ad6e00a1c14fcd86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5de20418f59b2ef2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe7b71649e16f98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f263aa74b548543c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0158e264d447916f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
+DTEND;TZID=Asia/Yekaterinburg:20261014T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8bfab3b0d3eaf9e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c693f77729c796d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:faafc6d36eb80611@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39b2e7d9b32548a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33d2edc1840541ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4705420cbb66fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40e3914aa3d93c5a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a23d6820c6f24357@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f02dc2e9962d5dc6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a52c53a73caa56c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8893a1361b83c2c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ffe79e97cac3a00@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a41bc1490c11f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39f7c8c8721d7b46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b38da6b6c4b86135@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:827d5edd2c899501@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71b1ce768b56a9a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba9d87482a926fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:247efd0e881278e6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:202401c043426a49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1327fc0d98b941d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T113500
+DTEND;TZID=Asia/Yekaterinburg:20261007T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83829fc72de50a2d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6e625caab48b9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f0040d7772b0544@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca9c9f30fec37705@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63c88e16804788f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:55ba8117d4611a1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0e9396b34020ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:560ec52ebc47398d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0de6640f6423df5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7fe32e28cf856a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7da0af48c0f9475@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0067cf2917a2da02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef00a8c0dd3a9770@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2c0ee105b320f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7f4fc3bf2a2990@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0146a4bc6b35361@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:309921dcacf3f6dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1cce9ab8471a313f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2beee2ddb6d69e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf25b932277cfcc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:09b93773fa750ab1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b18c0598e3651650@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd9d5ad2f6c8dd21@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:538e3ecdfbdaef50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a028e468506f1c53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6f93e16d9a770a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd15e4f73389d57d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41aaa420b60e4f32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72a91db40bff2141@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6124db904af32dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9435cfc87842b2bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4239b35e5fdddfa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46f62557ec554d0b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39051d1ab8acef6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb7b631dad7f76e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cba10da2e966c537@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c757ce469ba3e328@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:934d13ab5ba56af6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40837b8c2296a293@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5db6ba0ed5ed3daf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:305ff80bba02fb6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84691a254108f68f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:768f316b30dcf985@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d0e377a78dde9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c35ea63403ac3913@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6d63a2b0696301@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7096c4861a18e097@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38838e272f949502@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:439af2c5bd3c770f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:322e35c31d0c98fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T113500
+DTEND;TZID=Asia/Yekaterinburg:20261002T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01af70d426d6e0a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c520902b00f840d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
+DTEND;TZID=Asia/Yekaterinburg:20261016T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33cc5f7b0c8c26c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdaae4a19768cf1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9b82b8a3dfec3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T131000
+DTEND;TZID=Asia/Yekaterinburg:20261002T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:585c66af7e2714a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5090619146fb90c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T131000
+DTEND;TZID=Asia/Yekaterinburg:20261016T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:223c0ab815036a86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5affcf1e35a8f34a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-АН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c64a4d34861c9497@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T093500
+DTEND;TZID=Asia/Yekaterinburg:20260912T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c1ccb3fb3b8fbc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T093500
+DTEND;TZID=Asia/Yekaterinburg:20260919T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:837116fac14fa6ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T093500
+DTEND;TZID=Asia/Yekaterinburg:20260926T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:842436eb6ae57389@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T093500
+DTEND;TZID=Asia/Yekaterinburg:20261003T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14b20c0b56c80554@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T093500
+DTEND;TZID=Asia/Yekaterinburg:20261010T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4bffb75ec95208c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T093500
+DTEND;TZID=Asia/Yekaterinburg:20261017T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a3013a8e1406165c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T093500
+DTEND;TZID=Asia/Yekaterinburg:20261024T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8f91061c332fd358@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T093500
+DTEND;TZID=Asia/Yekaterinburg:20261031T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87e549e0a5e0328b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T093500
+DTEND;TZID=Asia/Yekaterinburg:20261107T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:294269ff8f7b2cca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
+DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e64babe2f07ef11e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T093500
+DTEND;TZID=Asia/Yekaterinburg:20261121T105500
+SUMMARY:Обеспечение качества и тестирование
+  программного обеспечения (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b31ae9f8d51f6a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T113500
+DTEND;TZID=Asia/Yekaterinburg:20260912T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7b49eb6e70f442@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T113500
+DTEND;TZID=Asia/Yekaterinburg:20260919T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e76611efd8f705@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T113500
+DTEND;TZID=Asia/Yekaterinburg:20260926T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2df638cde5f986@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T113500
+DTEND;TZID=Asia/Yekaterinburg:20261003T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe95593dd796d6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T113500
+DTEND;TZID=Asia/Yekaterinburg:20261010T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b36ed4e0562e1c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:edba24462fd3b181@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a33ec4100c1e7bdc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d84508851e825697@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5432066c345f78@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8cee113de3e490@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:984f7f3fc8d6c4cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
+DTEND;TZID=Asia/Yekaterinburg:20261128T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0053fadc1fbfba60@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d68e4d031ac45d59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T113500
+DTEND;TZID=Asia/Yekaterinburg:20261212T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82b2434cbc221945@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
+DTEND;TZID=Asia/Yekaterinburg:20261219T125500
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71160a784f9cd468@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T131000
+DTEND;TZID=Asia/Yekaterinburg:20261010T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bb21efbad07e4455@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6db835edc36574e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5df5481ce40270b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d031b0f62ebd784@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb33f614ae31dae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
+DTEND;TZID=Asia/Yekaterinburg:20261128T143000
+SUMMARY:Технология разработки программного 
+ обеспечения и оценка качества (практика)
+LOCATION:Асинхронно
+DESCRIPTION:МО-403Б\n4 пара
+END:VEVENT
+END:VCALENDAR

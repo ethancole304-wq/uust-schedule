@@ -1,0 +1,1729 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Низамутдинова Гульназ Саматовна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b77d5370959bc49e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7df7767355939ba9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:75dcf27949587ac2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a109746ad319d4c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
+DTEND;TZID=Asia/Yekaterinburg:20260907T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8117ba0d1cd498eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5aed14a6db7ee3da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98745a947a137e53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6a05387e4e09f162@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
+DTEND;TZID=Asia/Yekaterinburg:20260907T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0193800e66ed8b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee04b2362ca1f70@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca29cb2360d3b3ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15423bba18654aad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bbb26d7278636d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5c97f1e3837610@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8a38cb0976d978@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
+DTEND;TZID=Asia/Yekaterinburg:20260907T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:efa87e91533b3148@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
+DTEND;TZID=Asia/Yekaterinburg:20260914T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1014b4a11e7a03a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T131000
+DTEND;TZID=Asia/Yekaterinburg:20260921T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a62e6bff8a6a69a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85b29659a8bdf32b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bee0c2c9de60cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbcc7240adf1ba13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e69c7adb39f4060c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45eef03ecdfbadb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:792a7b813f58b8d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d84f77ca186a7a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63efe0514d4b1d3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00b4c2b28fc4df6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a39251bf0f22ffd6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4805b4d906aa7305@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98848728309e9aa5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T151000
+DTEND;TZID=Asia/Yekaterinburg:20260907T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54b8f4f9d8ea1b49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T151000
+DTEND;TZID=Asia/Yekaterinburg:20260914T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e5e8fd67935ecd2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
+DTEND;TZID=Asia/Yekaterinburg:20260921T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97c42b71fcf477cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
+DTEND;TZID=Asia/Yekaterinburg:20260928T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2e6835266c8af2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:229adb5ed4dbc444@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:771b16edb55a0062@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a073014e1cab2e8a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a1bb0d12232374@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:406b3bcfb635b330@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eead8dd12aad2e14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:013758dd9461167a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28f19e4af2f5b460@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1eab77ff4a9c0813@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a1f0c92d462087@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:607e984990f1f1fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T164500
+DTEND;TZID=Asia/Yekaterinburg:20260907T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51bfd25a53802b3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T164500
+DTEND;TZID=Asia/Yekaterinburg:20260914T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc7d151bc19436a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:514492bcadd472ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9036680920b2319b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51cc62d56ab043ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0671b18708773e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:520231171faad996@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f480098c584c5b8c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94cf42b720369751@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa4d88244a4fe95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10373b5181d4d785@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e06f404f9093ffcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9355a95901d633@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9bbde13c1de123f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa224f881d3c33c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0472b36922e80b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1119ded333fccb5f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51174f7022a19218@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d0ad796c258609@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccb02a10a9d3bf6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bca048e36b36fc55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0598e36cad9bebb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff37b61e5bd58ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:505eb703fd8b2e31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb4abd5e320341a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f44f6b1a3a89ffba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fd46123ae0ecaeab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
+DTEND;TZID=Asia/Yekaterinburg:20260908T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5bcf3bd21a982e5a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T151000
+DTEND;TZID=Asia/Yekaterinburg:20260908T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:857c12d5ea3bd46e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
+DTEND;TZID=Asia/Yekaterinburg:20260915T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3419d57f54d97c76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d983b017fa540e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1c0b70d54170d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6181522558767a23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37b626466c8e6664@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8987a79ae250492@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f6006df03f7f55d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3259a8e3b7079b17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e52bf1716fb43727@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f85a8f8e5559c8ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae4f0c48336e2ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3480ced2e92b219f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6f4354ab08f667@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:036aee08bae3488f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5754dbe7994857@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T164500
+DTEND;TZID=Asia/Yekaterinburg:20260908T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7922c439abe5a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
+DTEND;TZID=Asia/Yekaterinburg:20260915T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb91d98d6f412d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T164500
+DTEND;TZID=Asia/Yekaterinburg:20260922T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb5ddd928217217@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T164500
+DTEND;TZID=Asia/Yekaterinburg:20260929T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f15c0fb33c535c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:67c986bf65645433@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1984245af7644976@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6399dcc1afe06d8e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e19dae16fcdd421@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aadda2daeebe9138@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d844ae94d5d99e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a92d50c70dd44ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4c03807e775039@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc18e595382bf076@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4efcfe00b7c134@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b4e8c6dacd2514e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
+DTEND;TZID=Asia/Yekaterinburg:20261222T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbee29b71ece20c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
+DTEND;TZID=Asia/Yekaterinburg:20260909T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:575a4add5fb776bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:624952cf7a3e4496@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:241695496a65312f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d6126df6e4c0fbbf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a380c805937688a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b56d3e829d4e0a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa24500ebf1ea466@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81377a2f72ffc189@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40e2f9b484204a61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fee7d43a898ad766@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c43106a17cd65b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9afd497eb647aece@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b197d3cd74b6858@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6762b6aa76414e6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИБ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc2c3cc85cf396e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T151000
+DTEND;TZID=Asia/Yekaterinburg:20260909T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05bb395a9759bb16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T151000
+DTEND;TZID=Asia/Yekaterinburg:20260916T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50c89c821fdbc30c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:62711f6d399179e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:34cf4618497d0186@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c37399db6d60f864@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33f2643578541515@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:897b59075cc81d2b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a84521a34388559@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdca6a44446727c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2abfdede0c5cb3e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c64310e870db3d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae08c4a4485f4a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:89ba3ae31e1b6a75@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4a97464516f710@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fb93c99e59f822ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T164500
+DTEND;TZID=Asia/Yekaterinburg:20260909T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3343ffeee9f0cc66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T164500
+DTEND;TZID=Asia/Yekaterinburg:20260916T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b079baf3c54481e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39fd180fefbd7c43@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca00e1aa6edcb54a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:accf1439e23e35b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:772c2bb4afec4e10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ddbc304d0dbec3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f37bcb78c3b643f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1cbafb09fd2dbb4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:903ae71bf9b03dfd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c16018fb11fbb642@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6606ac08cd5652@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48466355dfa71b72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2816d0093ddcf682@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c0cc0418eac59901@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T131000
+DTEND;TZID=Asia/Yekaterinburg:20260910T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3177761442bebb6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T131000
+DTEND;TZID=Asia/Yekaterinburg:20260917T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d7b85f5bb01a63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
+DTEND;TZID=Asia/Yekaterinburg:20260924T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25b402b41daad449@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T151000
+DTEND;TZID=Asia/Yekaterinburg:20260910T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:537b95573dddc365@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
+DTEND;TZID=Asia/Yekaterinburg:20260917T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05b0006797247c1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T151000
+DTEND;TZID=Asia/Yekaterinburg:20260924T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3567d672c971fc77@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T151000
+DTEND;TZID=Asia/Yekaterinburg:20261001T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a24d17ab6142221@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T164500
+DTEND;TZID=Asia/Yekaterinburg:20260910T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИБ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfab5f8260dec453@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T164500
+DTEND;TZID=Asia/Yekaterinburg:20260917T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИБ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ab852bc3c59727f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ИБ-208Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3359fa6ed451e5d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T164500
+DTEND;TZID=Asia/Yekaterinburg:20261001T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:069049b45255e398@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T131000
+DTEND;TZID=Asia/Yekaterinburg:20260911T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32393d53c54b9564@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T131000
+DTEND;TZID=Asia/Yekaterinburg:20260918T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcab058d3720e92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T131000
+DTEND;TZID=Asia/Yekaterinburg:20260925T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:МО-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e9970740a32482a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T151000
+DTEND;TZID=Asia/Yekaterinburg:20260911T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ИВТ-ИВС-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72debf92322410a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T151000
+DTEND;TZID=Asia/Yekaterinburg:20260918T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ИВТ-ИВС-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e71f1a9b775c45@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T151000
+DTEND;TZID=Asia/Yekaterinburg:20260925T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d8191ab30e14d164@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
+DTEND;TZID=Asia/Yekaterinburg:20261002T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47abce0e29768d6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T164500
+DTEND;TZID=Asia/Yekaterinburg:20261002T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69f342b5250d7c6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T164500
+DTEND;TZID=Asia/Yekaterinburg:20260911T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ИВТ-ИСУ-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2852565938882fd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T164500
+DTEND;TZID=Asia/Yekaterinburg:20260918T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:ИВТ-ИСУ-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63ee58d2bbe6bc37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T164500
+DTEND;TZID=Asia/Yekaterinburg:20260925T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+END:VCALENDAR

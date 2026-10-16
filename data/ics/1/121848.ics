@@ -1,0 +1,1358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Мешков Иван Константинович — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:00df4c1ec2916b39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
+DTEND;TZID=Asia/Yekaterinburg:20260907T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e41725b78e3694d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:605d94666e545167@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9afdf4edaa29c66a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8325fa8dc1908a92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bbb9e0863438e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03b4051c95e4d8f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9455ad18308425d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e279d04b9e92a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03a6dd71c9e68427@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8f921d4202d3114c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:402f55a43dae15cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5ba3a6a7421e15@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c42ceeaa94fb15b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТС-302С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5964988ea6e23df7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
+DTEND;TZID=Asia/Yekaterinburg:20260914T125500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТС-302С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0e2e4f07436ad2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТС-302С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c60dd6daf78d2bbc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:657a8dd01c15581c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d51c98e479c86398@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cdebd677bae3cbda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3394795a647555@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c73d467b2f71883b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ef1e212d7c22f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08a5a12a9dad570a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90144afbf0dc0af6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6885d4ae2a1f3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb831bc3f0a1f955@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fecc23f7112920@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e6771910445674@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f77e43c7abcdb655@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36ea460f7574b409@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a27e5b890797b661@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-534С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bda514c746ae43fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4dbf712baa7de8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:741f6310c1e73a6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1909ae9d7b196d9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e81cab416f45645@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (практика)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5c61a626fc1cf46e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (практика)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:635485e62aabfdd7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (практика)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТС-302С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb6ebb8003c2b8e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T093500
+DTEND;TZID=Asia/Yekaterinburg:20260908T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ad3d01b53495f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T093500
+DTEND;TZID=Asia/Yekaterinburg:20260915T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3132d0e2da43d242@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9614582a78442858@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0bb1e520bb267d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8049435b94bfe27a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea221383c36b97c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:709e97289fc07677@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db7f6e37e71da6fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2f40f0ff4be719@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-511\, Корпус 6
+DESCRIPTION:ИКТ-533Бз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8086c56897a852f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a283d09212792a24@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec27c87229893f55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1253da210d42c973@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b85422909b623c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b835da9d8f89092d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:76c113e5b77adc66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9743ea0588809ca8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fd6a0bbbd672f95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (лекция)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:619cbbf7e75dbe2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-511\, Корпус 6
+DESCRIPTION:ИКТ-533Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab9e02d10c04457@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ab0296552c5b86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74f9807f3a1a742b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1979e8adbde2c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:255393c8902e0a3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35205fd5a31bbe2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcd854c98994aec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Электропитание телекоммуникационны
+ х систем и устройств (практика)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-304Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66c42b3c2338c2a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b274337342757e06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c633a894b98de4d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02fc3b35ae621dc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10a835573771b2a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b5ac36e72ca7902@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19b20ea46ae1ce53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0571cbec5573de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f2271ee6c8e911f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c29ee7a153343b65@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e72af596ee70872@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:338367228160c892@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:44137b9b2a8f585b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b295c91853c33ccd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e8cf76ca19dedeb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0181ba9daa42926d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5066e3ea21a736d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66ceff9a6740b91d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54c64e43dc479d80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-402Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d03c9ae127f2fb1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:ИКТ-402Бз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffff5210a8ee0a99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
+DTEND;TZID=Asia/Yekaterinburg:20260910T092000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в инфокоммуникациях (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТС-401С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4844da0ba04b67f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T080000
+DTEND;TZID=Asia/Yekaterinburg:20260917T092000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в инфокоммуникациях (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТС-401С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b87afd3e2baaa9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T093500
+DTEND;TZID=Asia/Yekaterinburg:20260917T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3360570d82b3099@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T093500
+DTEND;TZID=Asia/Yekaterinburg:20261001T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a33bec73c9f067d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T093500
+DTEND;TZID=Asia/Yekaterinburg:20261015T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33c47b4c290df55e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
+DTEND;TZID=Asia/Yekaterinburg:20260903T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30cff6814d04ca25@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
+DTEND;TZID=Asia/Yekaterinburg:20260924T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f139ef1bb37c3151@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
+DTEND;TZID=Asia/Yekaterinburg:20260903T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:113289f0e3e9552c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T113500
+DTEND;TZID=Asia/Yekaterinburg:20260910T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c650d5fa02506051@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T113500
+DTEND;TZID=Asia/Yekaterinburg:20260917T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e6919a8cac54964@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:728bb8e73eeb8d93@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
+DTEND;TZID=Asia/Yekaterinburg:20261001T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ff1b420a244200@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30ffd15e21d303f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd9fb2537e847cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:04ea4b30204b438b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b708fbce71ba1a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef22d9e6c631846a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50488b95692b2477@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42b344fae13eb3d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84d80bbd551d8012@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48166a40ffa5f87b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8b28415b803862@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
+DTEND;TZID=Asia/Yekaterinburg:20260903T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93d0c391ef49c5a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T131000
+DTEND;TZID=Asia/Yekaterinburg:20260910T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b9f6a53bac326f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T131000
+DTEND;TZID=Asia/Yekaterinburg:20260917T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6904d17629d97e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
+DTEND;TZID=Asia/Yekaterinburg:20260924T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6facd7dd0ecddb15@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T131000
+DTEND;TZID=Asia/Yekaterinburg:20261001T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42071a4bf981b8b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T131000
+DTEND;TZID=Asia/Yekaterinburg:20261008T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0bdb0bebdc432de7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8675ca65bc16af69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:21230eea7b6365d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f93c32b86db84d2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1be43660547176@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТ-535С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1405923f812bb60e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:67bc3ed41336aa6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61c30cf677466cbc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:55d614a7a1ecb85d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f188232fd0e4645@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98527dd3a77dbf5c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Электромагнитная совместимость и ча
+ стотное планирование (практика)
+LOCATION:6-513\, Корпус 6
+DESCRIPTION:ИКТ-534С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15fabd4559eb15de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-511\, Корпус 6
+DESCRIPTION:ИКТ-533Бз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:958b1eb9a0671b92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:409\, УК-3-4
+DESCRIPTION:ИКТ-402Бз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:755115edaa29c7c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:52f1e59b81b51c1f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68e6f31a2a80052f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d20839f64157db21@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (лекция
+ )
+LOCATION:6-511\, Корпус 6
+DESCRIPTION:ИКТ-533Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94b4b02db28a0128@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (лекция)
+LOCATION:409\, УК-3-4
+DESCRIPTION:ИКТ-402Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f3abdc27f5865306@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
+DTEND;TZID=Asia/Yekaterinburg:20261204T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f155bf8bbcc53730@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
+DTEND;TZID=Asia/Yekaterinburg:20261211T163000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (практи
+ ка)
+LOCATION:6-403в\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n5 пара
+END:VEVENT
+END:VCALENDAR

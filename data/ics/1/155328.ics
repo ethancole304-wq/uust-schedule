@@ -1,0 +1,334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Алгушаева Венера Рафкатовна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3d815d90a0ff18a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T151000
+DTEND;TZID=Asia/Yekaterinburg:20260911T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0d2fdda063fb5c3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T151000
+DTEND;TZID=Asia/Yekaterinburg:20260918T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3dcf2f9e1aeaf410@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T151000
+DTEND;TZID=Asia/Yekaterinburg:20260925T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c375ffd741cbb11@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
+DTEND;TZID=Asia/Yekaterinburg:20261002T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef5159e692338a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T151000
+DTEND;TZID=Asia/Yekaterinburg:20261009T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce8da2bd3ebdc6ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T151000
+DTEND;TZID=Asia/Yekaterinburg:20261016T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fde449bebdbfc664@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
+DTEND;TZID=Asia/Yekaterinburg:20261023T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b80aed807adf210e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ЭАС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebc0a26abbb7bfe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T080000
+DTEND;TZID=Asia/Yekaterinburg:20260905T092000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:766717e29d7ebbcd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T080000
+DTEND;TZID=Asia/Yekaterinburg:20260912T092000
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db876ec7767e28ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T080000
+DTEND;TZID=Asia/Yekaterinburg:20261031T092000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:badd95f163fe164f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T080000
+DTEND;TZID=Asia/Yekaterinburg:20261107T092000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:185d1b5ce5433796@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T093500
+DTEND;TZID=Asia/Yekaterinburg:20260905T105500
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b68027664770d477@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T093500
+DTEND;TZID=Asia/Yekaterinburg:20260912T105500
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e55995e8090a55e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T093500
+DTEND;TZID=Asia/Yekaterinburg:20260919T105500
+SUMMARY:Психология и педагогика (лекция)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c359bb1a3dc1c314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T093500
+DTEND;TZID=Asia/Yekaterinburg:20261031T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd32558325cd203@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T093500
+DTEND;TZID=Asia/Yekaterinburg:20261107T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec66724066da1b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T113500
+DTEND;TZID=Asia/Yekaterinburg:20261003T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ФИИТ-202Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:656ef0e434794843@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ФИИТ-202Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf0e725b86fbb74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f3149ac887592c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:17248f43d19ded44@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3fcccb6ba4b91d54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
+DTEND;TZID=Asia/Yekaterinburg:20261128T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f19c1401615d0821@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5daa0a0d1548e5e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T131000
+DTEND;TZID=Asia/Yekaterinburg:20261003T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ФИИТ-202Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebd4e26d1a08ebc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ФИИТ-202Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:24dff5ad10f637b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ФИИТ-202Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a61f1032de679836@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d84475c9939f5a48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4da50e4b8f41e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
+DTEND;TZID=Asia/Yekaterinburg:20261128T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a52cd68c5d501307@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-208Б\n4 пара
+END:VEVENT
+END:VCALENDAR

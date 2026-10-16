@@ -1,0 +1,459 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ложкина Дарья Данииловна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f7562d757f3e4ad9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4722e108ff140c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
+DTEND;TZID=Asia/Yekaterinburg:20260914T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:11d841a48b230bb8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2ae079cd5fbdea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee0f51275cf08ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4648c919fd118a18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eac78ab1f6539990@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (лекция)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:Без группы\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:978dfa36a60cecef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:861a3ccb5f0b801a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0218d34b7a2d6ee5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebcd662fdbb3410@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcf0e35c862c829@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:061f33af6a1ff096@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5c8a9f6a22895273@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b52862f6c5e069@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7dd74598525f85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ac59589bf79759@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce59102beeb50e18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7982578c6eec1245@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aee16e87d8507848@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6188e0072ff49a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b1db8ee53ce72df3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae0c3cdc8e25515@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3445d85af7ded821@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:364629477eb5f2e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:326b1b64d4f3ad69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc9a93d712a6c68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ceebcc43543311fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53d8c0ae482b94d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (практика)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c3b8d1d63580e2a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a63772fee33fba8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:069cdd3415a67ab5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d861da79248c966e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94bb119586e0c278@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ebb3e72658d07b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:792b20d7e4990f5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:401\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:baeaa93f0d1e1e24@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43477e3b7eba36f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b543c24a71d8e6bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e96ef0d7cef308e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b75d89ecd31f4a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13b25bd5403647f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
+DTEND;TZID=Asia/Yekaterinburg:20261226T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e20fee29ff1e30d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
+DTEND;TZID=Asia/Yekaterinburg:20261226T125500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:099c5d5001f981e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
+DTEND;TZID=Asia/Yekaterinburg:20261226T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+END:VCALENDAR

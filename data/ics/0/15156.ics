@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПРО-ТРСИИ-103Моз — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10b5ddc42bfbe054@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e09622daad7bf34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:62bc40cdb5d1078a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:c59d514622e83c0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:976d3c418ab38006@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:bba961128b7d3947@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:546831f221a4dde2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd6fa721710cb1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:d6967354b9e7d1e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Технология управления бизнес-коммун
+ икациями (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b2844d19cdb209c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Технология управления бизнес-коммун
+ икациями (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e645c29d4d1694ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Технология управления бизнес-коммун
+ икациями (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eeff1ccc983d5fbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Технология управления бизнес-коммун
+ икациями (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b8fb963c7df6aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:Технология управления бизнес-коммун
+ икациями (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5613fb621883e58a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T182000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Технология управления бизнес-коммун
+ икациями (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba749056a1222d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T182000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Технология управления бизнес-коммун
+ икациями (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0442988e8766cae1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T182000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Технология управления бизнес-коммун
+ икациями (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fb3d3a04b04979@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Методология программной инженерии (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7051aea783b51ec7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Методология программной инженерии (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc590ade08908d82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T182000
+DTEND;TZID=Asia/Yekaterinburg:20261014T194000
+SUMMARY:Методология программной инженерии (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c14b7e84360e4355@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T182000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:Методология программной инженерии (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42e2c360f0375174@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T195500
+DTEND;TZID=Asia/Yekaterinburg:20261014T211500
+SUMMARY:Методология программной инженерии (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf56c4a2c428089@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195500
+DTEND;TZID=Asia/Yekaterinburg:20261021T211500
+SUMMARY:Методология программной инженерии (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:105b92e36472537e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T195500
+DTEND;TZID=Asia/Yekaterinburg:20260923T211500
+SUMMARY:Программирование на Python (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданов Марат Робертович\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7e2b19ba0bc6fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T195500
+DTEND;TZID=Asia/Yekaterinburg:20260930T211500
+SUMMARY:Программирование на Python (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданов Марат Робертович\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe1eb06aaf96aeb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195500
+DTEND;TZID=Asia/Yekaterinburg:20261007T211500
+SUMMARY:Программирование на Python (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданов Марат Робертович\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb0eeeaa1c0cd17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T212500
+DTEND;TZID=Asia/Yekaterinburg:20261014T224500
+SUMMARY:Методология программной инженерии (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n9 пара
+END:VEVENT
+END:VCALENDAR

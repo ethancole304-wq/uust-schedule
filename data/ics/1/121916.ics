@@ -1,0 +1,3789 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Костюкова Анастасия Петровна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c0b1888dbb2b08ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T080000
+DTEND;TZID=Asia/Yekaterinburg:20261228T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff24fc44bdceafc9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1940ed32196a9364@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c61269118646dbf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fcfc9fa148cc996@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5480aeec7dbc5184@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18b6ff6b012c2dcc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49ff1bae9d41ccde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
+DTEND;TZID=Asia/Yekaterinburg:20261228T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37e21a9b7934d882@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a267623345e06e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c03dd7ce377b12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c90362e03407ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15fd16805f504928@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a095321c6baf18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b4057ece8687e1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6898a1422d0a0ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7186312ab2ee58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59a19fb76ea725b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
+DTEND;TZID=Asia/Yekaterinburg:20260907T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6520adb714feb32b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a8983051c650d838@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47a04c8de3ff55ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe810a95a22bc0c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T113500
+DTEND;TZID=Asia/Yekaterinburg:20261228T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:936d301c2896ec75@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39cac8f401541420@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c405eb7f1951157@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca58547c61258e86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aea892599f17cbfe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-107\, Корпус 6
+DESCRIPTION:УТС-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87cb8386fdc8b9e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-107\, Корпус 6
+DESCRIPTION:УТС-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01a4a3320591b49e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c39dff0fb1412694@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa47a5e52b41ee59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a784ccde2043e03b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9c60ae8dd3e7219@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36a6ab96b8f623bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T131000
+DTEND;TZID=Asia/Yekaterinburg:20260921T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-111\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4f529e31a98e61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-107\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8df45fa7c6354f3c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-107\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53c5f3eed48a0391@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:34e99c84ea0d299f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf4280211f20ac2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc0be05909db1a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:76e6f3dedf6e8314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd5627b7ce3c959@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7892ba464ecb262@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6184205615fc0105@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T151000
+DTEND;TZID=Asia/Yekaterinburg:20260907T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03c50e8652d4dd48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T151000
+DTEND;TZID=Asia/Yekaterinburg:20260914T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d906fef5a1ca0538@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
+DTEND;TZID=Asia/Yekaterinburg:20260928T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b36ea6c6f9bdcc9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a9888a89411a1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3652986eb2d3c47c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f631470747a5dbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25ebf341c9c7fef2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c9008a4b5132bc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:12c74e63aba74cfe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:09c808612000676b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66775d853488d2e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba5bb6d9f591501@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e344588e7b263be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a88686fc242497d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6508521f4bbc652c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e31293820b0cfaef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ef4fbde99d6deb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ba3df918e85f35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f06d8e49ef5adc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c7a0c1519e68f8f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79cd81ca2d7cb255@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9626293fb25f4227@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:972501cebf41c189@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:201ed327372ccdcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35a329cef9bf19e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3aa8997853462411@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69825414825ba725@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:892f93fc45d06779@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a2cc18d52260a9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95f8d3c7a98c28c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6be5c98634eb2a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33d5f4e8850f243f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7080a42775b8a53d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e2337e612d2a0357@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c7b81acaffe81bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9dae7b9282eb8f74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08b06ae5dbbf1098@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddf4230c31d36bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c82f9ec274a88d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:07edb4109af79aea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa11d43f5df1c46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8cea84ceaffae0a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f44ed9fecfb05a65@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c03594340a1692e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61e87ee412b64768@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7ba06376ec1d06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ecf86eb53d3b6e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2e773d47bae5cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:07c2b21e9912a2a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4af514fe1fc47449@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81fb9a0cb80e002a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T151000
+DTEND;TZID=Asia/Yekaterinburg:20261229T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27e15457d49a6391@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe52dbc5160839d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6560e6533b5afd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb17537954936361@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42efbd402194c3f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36b6a8fc1132b20c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca3361ce4ea05f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c0dc2fc124612cc1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:807d2373b8fa4412@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e722e82a1b37852e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6df774cb7f2deb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3df3be116311c6fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d66325d06b76a54b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38954d5ea06482ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T164500
+DTEND;TZID=Asia/Yekaterinburg:20261229T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e37076355b30ba96@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T164500
+DTEND;TZID=Asia/Yekaterinburg:20260929T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:115628b4a3b935de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fc65113a1674841a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59f29dd4bd441d08@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22e947733444bb0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:512b85ddc57139e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8b94727891f3410@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6bc82f6457f4d78@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93b31d441258c688@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb8a4f9921b150c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b24bf4b41271cf34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22821fcb1e959e03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee99bf31b50f5a63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
+DTEND;TZID=Asia/Yekaterinburg:20261222T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1cf7f038ae76d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b157996c7e0fccd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T080000
+DTEND;TZID=Asia/Yekaterinburg:20260909T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8788b5f057e1878@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T080000
+DTEND;TZID=Asia/Yekaterinburg:20260923T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c767c418f615b376@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T080000
+DTEND;TZID=Asia/Yekaterinburg:20260930T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b21d53907de0d042@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T080000
+DTEND;TZID=Asia/Yekaterinburg:20261007T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6742e0323bbeab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
+DTEND;TZID=Asia/Yekaterinburg:20261014T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6715d379a4b13bcd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1eff9bbf9c51d9b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9da89ccb23508d95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5785db3196f9a79@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de3b95d6d9d2a5ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95cec7d72e1e80e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d53a29c7c99e8259@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4c114bc76e7297c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:082de8efaaecc322@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:832dde86ad1c6c61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d35327d7a4b9bd1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f019171cd7ee2f30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0676a674522e312f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T093500
+DTEND;TZID=Asia/Yekaterinburg:20261230T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70d90ff0f46e9243@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87120d5eb4969bf7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d821a4c6f2e6b533@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ced3bd94c2dfe6b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd254d0521791847@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:085f5379f9544c3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9907b4d1aa9ed89f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T113500
+DTEND;TZID=Asia/Yekaterinburg:20260923T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8aedecd93b6dfdae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:102c3f77e9d5e881@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T113500
+DTEND;TZID=Asia/Yekaterinburg:20261007T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c124a41917ab0cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:441443bf509fcb49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdd48510d1c37db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53fa5aca69dc362a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e69e898d1341ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7f468f2461cb2c06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:99ad13c1d4ab39f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T113500
+DTEND;TZID=Asia/Yekaterinburg:20261230T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f41acccb23e212d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5022aab193504333@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4884be6b00a67ea9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71af418bfa45be17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42688b025d6575d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f063e6ff50151e04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c60ac6fda07155@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed7274d9a7f8c59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:145ed54b6853ccb0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:339176a3492b9f19@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T131000
+DTEND;TZID=Asia/Yekaterinburg:20261230T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:830766de7c2bf896@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
+DTEND;TZID=Asia/Yekaterinburg:20260909T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dbac0f37e0b34e13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da0b74c17d8c7470@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6e9a8d52058eca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd158b0c64bc21c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca26ce6f3483e7ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5d0c9f6ba7a3898@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f65c4ecf902d4913@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50679cb973cc25e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebcfc9256cdbf75@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5130b07555abe056@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2547610bbe8f6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ff005e3e385d37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91b56114115c02ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d44346240479b55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f83250e1a1a916df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T151000
+DTEND;TZID=Asia/Yekaterinburg:20261230T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c288815307d2561a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0eb4d41f13cb61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbe6458ae67ebb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b8fe1235883ba42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b20c0cff73103c92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c075b2856c067ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:adc1f1edf9c66a67@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a4752d7eb2f95b23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7cb7a69e538eaf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:99fd6a1680d9af51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48c2b2dc7fc80f09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc6c8394e4419cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:385123d62809de7d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ccf6b6e5f4fc464@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T164500
+DTEND;TZID=Asia/Yekaterinburg:20261230T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a800fd11c05326f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9897c6b449dc7257@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69dfedf539c51dfa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6241aac6c062c028@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:908c8970618db357@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5863010ad9ee53f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6985d1375b94a0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
+DTEND;TZID=Asia/Yekaterinburg:20261029T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a60a3faef28d33@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
+DTEND;TZID=Asia/Yekaterinburg:20261112T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5ce192af9c4ac5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
+DTEND;TZID=Asia/Yekaterinburg:20260910T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd85d75daf84427@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T080000
+DTEND;TZID=Asia/Yekaterinburg:20260917T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b54dc29705748c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T080000
+DTEND;TZID=Asia/Yekaterinburg:20260924T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15de3b1e79777f9a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T080000
+DTEND;TZID=Asia/Yekaterinburg:20261001T092000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:УТС-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fbe22666d9ff33a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
+DTEND;TZID=Asia/Yekaterinburg:20261022T092000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05723d98b77a5b94@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
+DTEND;TZID=Asia/Yekaterinburg:20261105T092000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:УТС-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b96ca1cd306d82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e07ecf2720f8242@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27ebf9b6f26910d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74901b875cb5c4f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b99cb43cd1553d1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38f297bfd6798e22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26acd298e35256b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49fe85c402e83464@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83048bd59f547181@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
+DTEND;TZID=Asia/Yekaterinburg:20260910T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5aaa9fba5b93b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T093500
+DTEND;TZID=Asia/Yekaterinburg:20260917T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:974c6817d793817f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
+DTEND;TZID=Asia/Yekaterinburg:20260924T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00b5dd22419a4708@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:719538fa441c395c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T113500
+DTEND;TZID=Asia/Yekaterinburg:20260917T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b690b6accc02366@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:611e5cb6ab4ddb7e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
+DTEND;TZID=Asia/Yekaterinburg:20261001T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33ab065284424de6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:676335417d08c126@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:822b53a08309e4aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4b1c9748915f5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea54dddf6be4ddfd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97e5e9c284a2083a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de90a041760d0ff1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54e64cc57a1a866f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:649c46c29ffe38e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:232e5521ba77bc31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b83d941e0dac7c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:УТС-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30dc2d9ee2dfa0ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db0ca53883d23217@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f7a4a94ad1fa830@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7952b3d611f43af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2bbc5a2afead63ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8bf593df9a43d9b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Схемотехника управляющих систем (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:681ec6e32f730e2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Схемотехника управляющих систем (пр
+ актика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:УТС-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26684d1a2c061d94@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:55e60b922b6773ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:267e8de1ff641e2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31218a34e1a0a8ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8467c927ac3aa40a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d8f6b48a524f20cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28d82536bfe09a58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58bdad2e25e5a7bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
+DTEND;TZID=Asia/Yekaterinburg:20260917T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:620e74cfb2a944e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T151000
+DTEND;TZID=Asia/Yekaterinburg:20260924T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59fe088959422c8e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T151000
+DTEND;TZID=Asia/Yekaterinburg:20261001T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7f8851fe03f7ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T151000
+DTEND;TZID=Asia/Yekaterinburg:20261008T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61bd3e672c48f7bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T151000
+DTEND;TZID=Asia/Yekaterinburg:20261015T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00df602fddd42bfd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T151000
+DTEND;TZID=Asia/Yekaterinburg:20261022T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72dd2355d67a0113@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
+DTEND;TZID=Asia/Yekaterinburg:20261029T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6281fe161911f997@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:febe3e978c6b181d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4a72af5241a31e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27b485d12cd40524@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:763c3f50fffcf8bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d435d2a3c0e98a96@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84530097d9c5cf3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b77df18e02bdb812@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:07f14a5e704e88bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T164500
+DTEND;TZID=Asia/Yekaterinburg:20260917T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc219a1689b85c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2da2ee444ca2fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T164500
+DTEND;TZID=Asia/Yekaterinburg:20261001T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3073e7d37c04cfc5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
+DTEND;TZID=Asia/Yekaterinburg:20261008T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef876c49ec65a714@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T164500
+DTEND;TZID=Asia/Yekaterinburg:20261015T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:586709621d51664e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T164500
+DTEND;TZID=Asia/Yekaterinburg:20261022T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3a879ad24193d381@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bdf92849b3c4189c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Схемотехника управляющих систем (ла
+ б.)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:УТС-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eef6bc968dc4d117@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
+DTEND;TZID=Asia/Yekaterinburg:20261127T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea58083af12e9ac5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:affd9eac52beaabf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2bef0d381b326d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77ef4cbc92809ee7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0bab54fe03ed3c9b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f8a83d3acf8567@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28a31c71afbdb140@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e9d25996350d7eac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1979215c0cf27e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f226121d1a738dd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d96aef4c0881c9d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
+DTEND;TZID=Asia/Yekaterinburg:20261120T092000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9be5e2d7e521269a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a03932ab20796acc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6c5baade1ea802@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe5acb18a3f5f9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f7735e46713280ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8fd30083cb89d6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T093500
+DTEND;TZID=Asia/Yekaterinburg:20261016T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:650ae6f377a18ea3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26f80bf15039df7c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d33e231660d2783@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:973a0843ac7b4c7a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2fba7d111108c8f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T113500
+DTEND;TZID=Asia/Yekaterinburg:20260918T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:12747bea43a71114@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T113500
+DTEND;TZID=Asia/Yekaterinburg:20261002T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffef50816084ee80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68d84368ff27f8cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
+DTEND;TZID=Asia/Yekaterinburg:20261016T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42676ca2bb42af2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1567dcbe45d17f0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91b5b6a9b5eedd87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f42e5bce1c9ffaba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f29b37b9af444de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8768c1df693a88b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fd8676e275553add@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbe9055406a4b14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8fd6c70b3ec6814@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b42fc13160cf1a5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-110Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d83cfb8f99a693b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T131000
+DTEND;TZID=Asia/Yekaterinburg:20260918T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60b28e6a8419d7c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T131000
+DTEND;TZID=Asia/Yekaterinburg:20261002T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c573727920336b53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bdf40d15114da86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T131000
+DTEND;TZID=Asia/Yekaterinburg:20261016T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fef0526ce06ea51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fc02a440eb59dd6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c06c8658b37fab3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:257b1c53272aa3fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1ae448a8d54f3b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:925e97eeeaa0171d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f13cd086b4ec854@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b36b399837065480@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46ab3837a8ec2ef6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
+DTEND;TZID=Asia/Yekaterinburg:20261225T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b9bf0838440ce77@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T151000
+DTEND;TZID=Asia/Yekaterinburg:20260918T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-АМО-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c92e229c8503a04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0282ff4e3cc3ff1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15cd51cb139ef441@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T164500
+DTEND;TZID=Asia/Yekaterinburg:20260918T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИСТ-АМО-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31cdc3f403604ff6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0456e0c5037759e6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ad10b8912b139d39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T080000
+DTEND;TZID=Asia/Yekaterinburg:20261128T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:883a35eebd59b30f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T080000
+DTEND;TZID=Asia/Yekaterinburg:20261205T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:567aa882c63ddb48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T080000
+DTEND;TZID=Asia/Yekaterinburg:20261212T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79ad4e0ca7715864@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T080000
+DTEND;TZID=Asia/Yekaterinburg:20261003T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc876ba78beab881@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T080000
+DTEND;TZID=Asia/Yekaterinburg:20261010T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb18d46b1d99391@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T080000
+DTEND;TZID=Asia/Yekaterinburg:20261017T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d857dccb36e7e7c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T080000
+DTEND;TZID=Asia/Yekaterinburg:20261024T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c44b75ed88b534af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T080000
+DTEND;TZID=Asia/Yekaterinburg:20261031T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a63007984514c20d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T080000
+DTEND;TZID=Asia/Yekaterinburg:20261107T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ae115798f13ddc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
+DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf9b62aa2d89992@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T080000
+DTEND;TZID=Asia/Yekaterinburg:20261121T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a1772b30c4543c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T093500
+DTEND;TZID=Asia/Yekaterinburg:20261128T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:583d78e1ef9927ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T093500
+DTEND;TZID=Asia/Yekaterinburg:20261205T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33f81c514fbfabf9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T093500
+DTEND;TZID=Asia/Yekaterinburg:20261212T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d152fc572d112572@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T093500
+DTEND;TZID=Asia/Yekaterinburg:20261003T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb32be1babc2e88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T093500
+DTEND;TZID=Asia/Yekaterinburg:20261010T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:696a4ca726769cdb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T093500
+DTEND;TZID=Asia/Yekaterinburg:20261017T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4cf0f2200c0dc7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T093500
+DTEND;TZID=Asia/Yekaterinburg:20261024T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1647709661258ff4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T093500
+DTEND;TZID=Asia/Yekaterinburg:20261031T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1165d90e0bf64c52@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T093500
+DTEND;TZID=Asia/Yekaterinburg:20261107T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9bc5680e5146b83a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
+DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c2bef8e5784c649@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T093500
+DTEND;TZID=Asia/Yekaterinburg:20261121T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41b9453fd8afc447@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T113500
+DTEND;TZID=Asia/Yekaterinburg:20260919T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:699bed5ab3085fe8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T113500
+DTEND;TZID=Asia/Yekaterinburg:20260926T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23af124da1378734@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T113500
+DTEND;TZID=Asia/Yekaterinburg:20261003T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b2a055b08a5eb5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T113500
+DTEND;TZID=Asia/Yekaterinburg:20261010T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b17e6f76e64a490@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74351d735db0deb4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1aaaebd4e20b34f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9c9ffdd28c4900@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d6e461ec030691@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71a71fa4dd9c0335@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:191fc721b03b85c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T131000
+DTEND;TZID=Asia/Yekaterinburg:20260919T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79899bc678a468f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T131000
+DTEND;TZID=Asia/Yekaterinburg:20260926T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27d655243a850476@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T131000
+DTEND;TZID=Asia/Yekaterinburg:20261003T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc0b537e5721d34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T131000
+DTEND;TZID=Asia/Yekaterinburg:20261010T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1d699c311601aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b251fdcfd68d388@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fa1460caef672f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
+DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9adb46047103029@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
+DTEND;TZID=Asia/Yekaterinburg:20261107T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93826c13ad9de6bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e379625823ea54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf435599d72cd11@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
+DTEND;TZID=Asia/Yekaterinburg:20261107T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7b7e710798dbde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T151000
+DTEND;TZID=Asia/Yekaterinburg:20261121T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d1aeec41d9c09a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T151000
+DTEND;TZID=Asia/Yekaterinburg:20261205T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac2348f61274a18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
+DTEND;TZID=Asia/Yekaterinburg:20261107T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a353b197574271@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T164500
+DTEND;TZID=Asia/Yekaterinburg:20261121T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8f67f58302604506@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T164500
+DTEND;TZID=Asia/Yekaterinburg:20261205T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n6 пара
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Хайруллин Рим Нурович — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2112083863206588@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4dfe767252223e8a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd83411ce3d6f09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e1786395e4c088@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35f7e338aed131e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46e7a0822543bb66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:374de0c2906216fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:707697ee12545f99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:343ecbde3caf0303@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T080000
+DTEND;TZID=Asia/Yekaterinburg:20261228T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a60de8bcd70b30aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Философия (практика)
+LOCATION:3-202\, Корпус 3
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbd6bf0fc280c38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Философия (практика)
+LOCATION:3-202\, Корпус 3
+DESCRIPTION:ТОП-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40a59c3912845dc0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e497351331aa24e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db0eb243108b5841@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a87639875eb4a24@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab1f155bb5cf0b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4405afbaf43d36f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3e648e91960d01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
+DTEND;TZID=Asia/Yekaterinburg:20261221T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7e09a124699cc8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
+DTEND;TZID=Asia/Yekaterinburg:20261228T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c09cb4c4d3cdfee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Философия (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:687db49724b418b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Философия (лекция)
+LOCATION:211\, УК-3-4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e47854c9bde3e61e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
+DTEND;TZID=Asia/Yekaterinburg:20260907T143000
+SUMMARY:Философия (лекция)
+LOCATION:211\, УК-3-4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9100ab5359fc71a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e6637e7ad895eda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T182000
+DTEND;TZID=Asia/Yekaterinburg:20261019T194000
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:852a9e914d9d2676@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T182000
+DTEND;TZID=Asia/Yekaterinburg:20260921T194000
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65b167504e222611@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T182000
+DTEND;TZID=Asia/Yekaterinburg:20260928T194000
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3fb6aaea3a6ed0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T182000
+DTEND;TZID=Asia/Yekaterinburg:20261005T194000
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb22bf7a6582b10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
+DTEND;TZID=Asia/Yekaterinburg:20261207T194000
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:1-311\, Корпус 1
+DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8fbc7b9e100791@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T182000
+DTEND;TZID=Asia/Yekaterinburg:20261214T194000
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6792516ec29ebf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T195500
+DTEND;TZID=Asia/Yekaterinburg:20261019T211500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:92e73bd617a40e6f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T195500
+DTEND;TZID=Asia/Yekaterinburg:20260921T211500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbde81c457f07af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T195500
+DTEND;TZID=Asia/Yekaterinburg:20260928T211500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d619eafae5f7cb0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T195500
+DTEND;TZID=Asia/Yekaterinburg:20261005T211500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50bc1851ba0bea1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T195500
+DTEND;TZID=Asia/Yekaterinburg:20261207T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:1-311\, Корпус 1
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:373fb43c817b5ec3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T195500
+DTEND;TZID=Asia/Yekaterinburg:20261102T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1a6fe9a2d27e53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T195500
+DTEND;TZID=Asia/Yekaterinburg:20261109T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ad1b504728410b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T195500
+DTEND;TZID=Asia/Yekaterinburg:20261116T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5d3b9ed856ac9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195500
+DTEND;TZID=Asia/Yekaterinburg:20261123T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f07d2b1537231203@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T195500
+DTEND;TZID=Asia/Yekaterinburg:20261130T211500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0b47435d8af6ed32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Философия (практика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77fc8981039d3ebc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Философия (практика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ТОП-204Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:24c787cb1762ad8c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Философия (практика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ТОП-204Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9b40e1c5285db6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Философия (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a97aae669d701013@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Философия (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4493f8ebbd1b544@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Философия (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3f57b62a4c7847@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Философия (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8bece0e42447cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Философия (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2583445e5f917207@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a47b84e18d09efb6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48866f3bc1bba247@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:467692ef0194a52b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61e73d2a4a58f4f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T195500
+DTEND;TZID=Asia/Yekaterinburg:20261208T211500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c76a741d5c58699e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T195500
+DTEND;TZID=Asia/Yekaterinburg:20261215T211500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10ebebf5370926c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
+DTEND;TZID=Asia/Yekaterinburg:20261110T211500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c29a78b2432a9af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T195500
+DTEND;TZID=Asia/Yekaterinburg:20261117T211500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e58afa88ea802902@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T195500
+DTEND;TZID=Asia/Yekaterinburg:20261124T211500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf15fb004e21084@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T195500
+DTEND;TZID=Asia/Yekaterinburg:20261201T211500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c45a3989975036a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T195500
+DTEND;TZID=Asia/Yekaterinburg:20260922T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ae6128a0b68576e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T195500
+DTEND;TZID=Asia/Yekaterinburg:20260929T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e47f8d13f39800bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T195500
+DTEND;TZID=Asia/Yekaterinburg:20261006T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec0c4809657bd72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195500
+DTEND;TZID=Asia/Yekaterinburg:20261013T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15d8eb868b968020@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T195500
+DTEND;TZID=Asia/Yekaterinburg:20261020T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aab723f7b0996a01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T195500
+DTEND;TZID=Asia/Yekaterinburg:20261027T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15cdc2ce30df2366@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
+DTEND;TZID=Asia/Yekaterinburg:20261103T211500
+SUMMARY:Современная сиволическая логика (ле
+ кция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93139031c52fec31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0365652b6b690938@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53abec91a68f6349@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd5f7c75c0ac37a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94d373939b1d61ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ecdd0896db3b88e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31f80953df38557e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63bac4dc8744b94d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5ef102fb3f6b24@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:392c851e7fdd9eea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d07fdc0f769d59d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69b46c717b19d322@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2c379a77f5a755@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Цифровые технологии в культуре (прак
+ тика)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d015b4c8a8369d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T182000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Философия науки и техники (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7752980a79cfe3f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195500
+DTEND;TZID=Asia/Yekaterinburg:20261007T211500
+SUMMARY:Философия науки и техники (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f30d490d2dc20ae8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195500
+DTEND;TZID=Asia/Yekaterinburg:20261021T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd3f94318702645@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T195500
+DTEND;TZID=Asia/Yekaterinburg:20261028T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5360798e4a4f3b80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T195500
+DTEND;TZID=Asia/Yekaterinburg:20261111T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a0c4a18759ec736@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T195500
+DTEND;TZID=Asia/Yekaterinburg:20261118T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4b54751e0affe5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T195500
+DTEND;TZID=Asia/Yekaterinburg:20261125T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a67b123bc4052c9a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T195500
+DTEND;TZID=Asia/Yekaterinburg:20261202T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d81baaec83fcf691@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T195500
+DTEND;TZID=Asia/Yekaterinburg:20261209T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90aefaec056983bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T195500
+DTEND;TZID=Asia/Yekaterinburg:20261216T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b69df129431002d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T195500
+DTEND;TZID=Asia/Yekaterinburg:20261223T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:04513cc11b1480a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T195500
+DTEND;TZID=Asia/Yekaterinburg:20261230T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1110c3de53409be8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:673c6356acf34686@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b66b1d7cc03d53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:44bc1a9fb99dc252@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:046454cadbf8811a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63e55702915b1cd6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bb537bb61ec2036b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T093500
+DTEND;TZID=Asia/Yekaterinburg:20260917T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9eedfb36301805ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
+DTEND;TZID=Asia/Yekaterinburg:20260924T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:73d3c88266689488@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T093500
+DTEND;TZID=Asia/Yekaterinburg:20261001T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:332451a151bac661@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
+DTEND;TZID=Asia/Yekaterinburg:20261008T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa715a67eff19e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T093500
+DTEND;TZID=Asia/Yekaterinburg:20261015T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4e2c0ca9896ad151@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e72b701242475bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b8515e56d1b04a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
+DTEND;TZID=Asia/Yekaterinburg:20261105T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a1aef2a29dd715@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Философские проблемы естествознани
+ я (лекция)
+LOCATION:307\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:ФС-ОП-301Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:540b7249865efb5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0a6a04583ab167@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T164500
+DTEND;TZID=Asia/Yekaterinburg:20261001T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:080e268a7754e4b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
+DTEND;TZID=Asia/Yekaterinburg:20261008T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:348ca80c39708fe6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T164500
+DTEND;TZID=Asia/Yekaterinburg:20261015T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26d3a56e367d0876@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T164500
+DTEND;TZID=Asia/Yekaterinburg:20261022T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:812a9a5471af4c85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Основные проблемы философии сознани
+ я (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eade6676d01c8d6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:44b56881b1570f88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01808fbb8f6c343f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d633d2382ecccd3c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0753dc6c268d4fc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26c27cd93c9c4a34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e94ac97ea46e4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
+DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b808b1519cb6ef4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58ed6df51aa21b80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T182000
+DTEND;TZID=Asia/Yekaterinburg:20261210T194000
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:664072d2b71def37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T182000
+DTEND;TZID=Asia/Yekaterinburg:20260924T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f47de833bcfeffac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T182000
+DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:767024c5280226ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T182000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:702da32b27bde5ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T182000
+DTEND;TZID=Asia/Yekaterinburg:20261015T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:55a310b074162e56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T182000
+DTEND;TZID=Asia/Yekaterinburg:20261022T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90773dedbdcfaa77@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T182000
+DTEND;TZID=Asia/Yekaterinburg:20261029T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e594e3e1c8aa4ad1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T182000
+DTEND;TZID=Asia/Yekaterinburg:20261105T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0f5972b955c0f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:427918de2178f21a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T182000
+DTEND;TZID=Asia/Yekaterinburg:20261119T194000
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-203Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7bde8d419d8db258@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T195500
+DTEND;TZID=Asia/Yekaterinburg:20261015T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13b56b0a33188c2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T195500
+DTEND;TZID=Asia/Yekaterinburg:20261022T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2800756473a584@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T195500
+DTEND;TZID=Asia/Yekaterinburg:20261029T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49bcc3f6991ca3a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T195500
+DTEND;TZID=Asia/Yekaterinburg:20261105T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be137e3345182228@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T195500
+DTEND;TZID=Asia/Yekaterinburg:20261112T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d420365bcbd0ead@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T195500
+DTEND;TZID=Asia/Yekaterinburg:20261119T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6e1498e10075ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T195500
+DTEND;TZID=Asia/Yekaterinburg:20261126T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a555e926169c09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T195500
+DTEND;TZID=Asia/Yekaterinburg:20261203T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c695605ef869de7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T195500
+DTEND;TZID=Asia/Yekaterinburg:20261210T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbc412c3f5169d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T195500
+DTEND;TZID=Asia/Yekaterinburg:20261217T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70fe1f8654409448@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T195500
+DTEND;TZID=Asia/Yekaterinburg:20261224T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f18934330c9bce90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f20d64eedd722273@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40af7cc9cbafa7a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5e13da2e3b9762@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28756caa35c209b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b759d00570425f63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c925ed66c95796d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e35c635c69281e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e2e1b78ca5f8646@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8f3f38ed03cf4da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:524b65cdea38190a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Философия (лекция)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bbaaf552fd629e84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T093500
+DTEND;TZID=Asia/Yekaterinburg:20260911T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f24f9177493ec492@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T093500
+DTEND;TZID=Asia/Yekaterinburg:20260918T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca58158cfa08fd0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T093500
+DTEND;TZID=Asia/Yekaterinburg:20260925T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4ef7c861381883@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T093500
+DTEND;TZID=Asia/Yekaterinburg:20261002T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b8924d90238aec4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f106233325f99c4f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:236e9563d8da63a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:039b5d05a22166ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f2a502bd29dbcd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70067e2d96ea05f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf2a044a6ee6791@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:237b62b15d383a0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:922cd1410214ca24@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1de6f5c356a021@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Философия (практика)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:783015791ba02b83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T113500
+DTEND;TZID=Asia/Yekaterinburg:20260904T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61f97795ed502ad9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T113500
+DTEND;TZID=Asia/Yekaterinburg:20260911T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b435c5c025a9116@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T113500
+DTEND;TZID=Asia/Yekaterinburg:20260918T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4aed1be2b3bfadf7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T113500
+DTEND;TZID=Asia/Yekaterinburg:20260925T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31793d9575372d3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T113500
+DTEND;TZID=Asia/Yekaterinburg:20261002T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de2f051d068e29a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e30e4ea109720b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
+DTEND;TZID=Asia/Yekaterinburg:20261016T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d44ab8d4dfe9854@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54e0fd93ba7bedab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c289d2bb8271b1ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T131000
+DTEND;TZID=Asia/Yekaterinburg:20260904T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e0002f8646536a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T131000
+DTEND;TZID=Asia/Yekaterinburg:20260911T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0141230a9872b3d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T131000
+DTEND;TZID=Asia/Yekaterinburg:20260918T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87a4103171e2d16d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T131000
+DTEND;TZID=Asia/Yekaterinburg:20260925T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:191207de8aa5b16d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T131000
+DTEND;TZID=Asia/Yekaterinburg:20261002T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c6f7f9a2ff2a1a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37fa37a4827dc567@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T131000
+DTEND;TZID=Asia/Yekaterinburg:20261016T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:927e53fb6f7ea01f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:752a3248881edbd1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Цифровая культура (лекция)
+LOCATION:308\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:К-УСК-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e7aec9cee249683@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e053a7754fc0fc2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fefec3fc76dca4ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46b931b59d6e4576@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
+DTEND;TZID=Asia/Yekaterinburg:20261113T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c074c1920cda262d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
+DTEND;TZID=Asia/Yekaterinburg:20261120T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30bc8a62a4075005@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0880ff50243adc87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
+DTEND;TZID=Asia/Yekaterinburg:20261204T180500
+SUMMARY:Культура информационного общества (
+ практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИАСП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70a0f8e3f3a5c12c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T182000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (практи
+ ка)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81c541ceb2bf563e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T182000
+DTEND;TZID=Asia/Yekaterinburg:20261113T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (практи
+ ка)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:470dfbaedf70a468@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T182000
+DTEND;TZID=Asia/Yekaterinburg:20261120T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (практи
+ ка)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da1645b9deb782ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T182000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0893c27ca60dba4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T182000
+DTEND;TZID=Asia/Yekaterinburg:20261002T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f1c67bf4b20576e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T182000
+DTEND;TZID=Asia/Yekaterinburg:20261009T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18fa0786c3b6793a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T182000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:800454b314a7d508@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T182000
+DTEND;TZID=Asia/Yekaterinburg:20261023T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5549869fd515e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T182000
+DTEND;TZID=Asia/Yekaterinburg:20261030T194000
+SUMMARY:Аналитика информационных процессов 
+ в искусственных и живых системах (лекция
+ )
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9821f08de5844d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T182000
+DTEND;TZID=Asia/Yekaterinburg:20261127T194000
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc53144bb83ec74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T182000
+DTEND;TZID=Asia/Yekaterinburg:20261204T194000
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc5e8e2583909e6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T195500
+DTEND;TZID=Asia/Yekaterinburg:20260925T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f94acf55e57f9234@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T195500
+DTEND;TZID=Asia/Yekaterinburg:20261002T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ba6e02b419a17260@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T195500
+DTEND;TZID=Asia/Yekaterinburg:20261009T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:caf02554819db321@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T195500
+DTEND;TZID=Asia/Yekaterinburg:20261016T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6a14bef191b919@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T195500
+DTEND;TZID=Asia/Yekaterinburg:20261023T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40f0ec8defa8deb5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T195500
+DTEND;TZID=Asia/Yekaterinburg:20261030T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d13025b70c2b55f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195500
+DTEND;TZID=Asia/Yekaterinburg:20261106T211500
+SUMMARY:Философия математики (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:736739728aa732df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T195500
+DTEND;TZID=Asia/Yekaterinburg:20261113T211500
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8b971e0d06271ec9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T195500
+DTEND;TZID=Asia/Yekaterinburg:20261120T211500
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab1a5fcd9139d02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T195500
+DTEND;TZID=Asia/Yekaterinburg:20261127T211500
+SUMMARY:Философия математики (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-102М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6780768e1e1b97b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T151000
+DTEND;TZID=Asia/Yekaterinburg:20261010T163000
+SUMMARY:Проблема обоснования знания (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-5ОПФ221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fcef2541c25df39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T151000
+DTEND;TZID=Asia/Yekaterinburg:20260926T163000
+SUMMARY:Цифровые технологии в культуре (лекц
+ ия)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c36869422f4b9326@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T164500
+DTEND;TZID=Asia/Yekaterinburg:20261010T180500
+SUMMARY:Проблема обоснования знания (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-5ОПФ221Бз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a80ebf92a9c767@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T164500
+DTEND;TZID=Asia/Yekaterinburg:20260926T180500
+SUMMARY:Цифровые технологии в культуре (лекц
+ ия)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95ab22e8556714d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T182000
+DTEND;TZID=Asia/Yekaterinburg:20261010T194000
+SUMMARY:Проблема обоснования знания (практи
+ ка)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-5ОПФ221Бз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da27ad4a1f567981@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T182000
+DTEND;TZID=Asia/Yekaterinburg:20260926T194000
+SUMMARY:Цифровые технологии в культуре (лекц
+ ия)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad49e6b96162b1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T195500
+DTEND;TZID=Asia/Yekaterinburg:20260926T211500
+SUMMARY:Цифровые технологии в культуре (лекц
+ ия)
+LOCATION:Дистанционно
+DESCRIPTION:СКД-5МСД221Бз\n8 пара
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1821 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Макеев Григорий Анатольевич — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df7c5358fa758957@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a48dc778794ef508@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1dcb178ac9bbfd0f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b9dfb79f511413@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84f739246197707e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae58b75b1395220d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c7ca7dd6eda4508@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6dba877652f598d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85ff1822a89922a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a81f7d1129335acd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:861d56886cb9caae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ecac43b78ebf5a99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8559ed6dcd598b19@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61617f498f055188@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e06dc6db0b4dd590@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72160a2e415a29d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ccf93c59996be30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5db76daf5727f938@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15457080ccf436b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a15f1267b6262949@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79bab5a458170587@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:680ccde34cac4423@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1903aa9d88b87d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f80d588c7654308a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
+DTEND;TZID=Asia/Yekaterinburg:20260921T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:857c61f354f6b048@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9c1cc06ec1d492a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T151000
+DTEND;TZID=Asia/Yekaterinburg:20260914T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9903de85743492a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5be5084269fe25e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:640f7345feab0c88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a347144736f0fcff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T151000
+DTEND;TZID=Asia/Yekaterinburg:20261228T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c0eebab38a1ffdc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
+DTEND;TZID=Asia/Yekaterinburg:20260928T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:814071bd2ef2b112@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdf3930650b984f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5571ba2e453a65ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79fd066c5addc7c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8736d0a1a7c696@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e410c840cf89870@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0791101509db74fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T164500
+DTEND;TZID=Asia/Yekaterinburg:20260914T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc010a72ba958a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd01296a9accf8ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15cb2af449d89c7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6de4f8615c67f8f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T164500
+DTEND;TZID=Asia/Yekaterinburg:20261228T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0528ca157c8057e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c86a4c06efcf2e85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
+DTEND;TZID=Asia/Yekaterinburg:20260915T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bab17f12f264e397@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
+DTEND;TZID=Asia/Yekaterinburg:20260922T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac8d27bab504d7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
+DTEND;TZID=Asia/Yekaterinburg:20260929T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:939e330a4d265d9e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee14f800357a10f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f71612dd0018aef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50e451589c167dd7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fa96c8fccacfeb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3abd8a1382930cc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9761ce1f36e16c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:178cae4e71afac49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6202e6719967967@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f020353d267078e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36a48862b01eaff9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
+DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f28873ec1efd103c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:134f7f8f3ff17b34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
+DTEND;TZID=Asia/Yekaterinburg:20261229T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bfe12bb2592928@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T093500
+DTEND;TZID=Asia/Yekaterinburg:20260915T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:784125f3f538af82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49e525ca545d5389@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T093500
+DTEND;TZID=Asia/Yekaterinburg:20260929T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5c26ea5be8fa4a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d44cb7c87d0a389@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6354e3a3d0c8a5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b4fdd1dbba49d91@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de17785a488344ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db7514c5b2451c57@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:374d9dd4bbc7c72b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb4d54642baa190@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e183f25f7ef0650d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8755f7dac62442@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ec7683f2f22878@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af7597127aede251@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d77d42d7dd84026d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T093500
+DTEND;TZID=Asia/Yekaterinburg:20261229T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14ca21b574e2f13f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a73c399e2c6de32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ccbe32538903c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:96626cc6197f9940@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7f0ba7d0383a83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c70c82e2571e97fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6179202a7bb83cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:764554801c345feb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb4604993de9b94b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b946a4472eb221b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa6684c68624e3b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6cad5619b30d83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd82f9d28cdaab07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
+DTEND;TZID=Asia/Yekaterinburg:20260915T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8ef786faa972a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9f17c980f51e4f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:481f1ba7fadb6a0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f440ea9ccb6de74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93e755a28d4d1f7e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dae5a2da873c3007@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60d9ed059510ca48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e910b85795eedc68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:851efed198d274fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
+DTEND;TZID=Asia/Yekaterinburg:20260915T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0644c0609370eea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T164500
+DTEND;TZID=Asia/Yekaterinburg:20260922T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27dd1ee6efdeae6c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T164500
+DTEND;TZID=Asia/Yekaterinburg:20260929T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dcaee07cd18fd6fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b3208cf26be76f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:391637349174e2c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e22ee2d6f4c81cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:950ccd51ab105c75@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2056c3160efd0a55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94fb690c45620dd7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94ed1bdfc66ac89c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee1d146ed4beb78@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10a104aeceaed41c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51ca893d0f09a7cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:944a2a856542298a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54c4a9fee2dd0cbe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:230709745f30d0ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:495838059de01d1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T113500
+DTEND;TZID=Asia/Yekaterinburg:20261230T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1829ecf177121928@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19d43f99f93315bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e11b923aa211cb71@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a32b23e543862628@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c063afef312a186@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9668e30ba01019f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fdc55deaf35fec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T131000
+DTEND;TZID=Asia/Yekaterinburg:20261230T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:384082dc9d4f1829@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7763f449c9347f52@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f18b81be76c4153c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f187c057dd20bd1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b25981a262ed8485@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d611ae6a0ca4f411@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T080000
+DTEND;TZID=Asia/Yekaterinburg:20260903T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e01e8746a63a67ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
+DTEND;TZID=Asia/Yekaterinburg:20260910T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4e99662dd9711e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T080000
+DTEND;TZID=Asia/Yekaterinburg:20260917T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3dd17635f597ded@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T080000
+DTEND;TZID=Asia/Yekaterinburg:20260924T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:88355313f084ce7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T080000
+DTEND;TZID=Asia/Yekaterinburg:20261001T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a41d338982c8b0f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T080000
+DTEND;TZID=Asia/Yekaterinburg:20261008T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6eaf7cd297c81892@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T080000
+DTEND;TZID=Asia/Yekaterinburg:20261015T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1732566ba43e0913@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
+DTEND;TZID=Asia/Yekaterinburg:20261022T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a615eec4a5b37080@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
+DTEND;TZID=Asia/Yekaterinburg:20261029T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d704778d4df5d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
+DTEND;TZID=Asia/Yekaterinburg:20261105T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe64738b46f232@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
+DTEND;TZID=Asia/Yekaterinburg:20261112T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40c396bb87e51dc6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:886e20db5e754ffc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd757bd9d504b803@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4db941e20022c1f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b04b3d3643eb6223@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6447d900f516b7c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:878d085d2b44c1f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc93ce5cc6fd212b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f44bf6fcfcdd8cf1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72a8bf3f7f46fadc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:105899635c919a30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e35c344ebc9f55d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec2d6ac1752664a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
+DTEND;TZID=Asia/Yekaterinburg:20261029T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab5eab0be44067f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5952ccabc095f069@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd60747fbf32b39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:537c327530593129@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30b80fa56976e58f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5ac5bccab6a80b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64a643a16e314405@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:386d3931486df62c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8bfc653bc18cc845@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e40a9ef4b26b3915@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f53a6b4482dc8166@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
+DTEND;TZID=Asia/Yekaterinburg:20261127T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41fe4205e4b66a00@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7849564866c2344d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:201c3c6eee97fecc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd2767577173eb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23f351770dfbb0d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
+DTEND;TZID=Asia/Yekaterinburg:20260911T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa86d4d104212a46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1bfb60c6dcacf0f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a010ec8488cce95b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6710abe2373b9190@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be432c6b7a6b846f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84681e3e65b4f198@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01f4b6185deda6cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e66e780b9db05b51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8769731bca44b5a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a7876f94bd4fc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
+DTEND;TZID=Asia/Yekaterinburg:20261120T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94f3ba9c2831f203@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T080000
+DTEND;TZID=Asia/Yekaterinburg:20260904T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5722e8d7b5939f5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a896b3a7372a9c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5acf987ce13ee58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14d788c29f4b3652@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f9a9d6be24b661@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+END:VCALENDAR

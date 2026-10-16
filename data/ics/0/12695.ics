@@ -1,0 +1,3086 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПРО-307Б — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:03159db0b8a972b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
+DTEND;TZID=Asia/Yekaterinburg:20260907T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e11aea0e7be93806@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c6b8bce2aae0b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ffb075d4a984543@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5afedc3efd931a88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10703bcb4c1600e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b50e011291a3e23a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d31b20023096f112@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:57d95eee3f8e0205@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T080000
+DTEND;TZID=Asia/Yekaterinburg:20261214T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7af7bb3780a411dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:6016ccd2f4e329ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
+DTEND;TZID=Asia/Yekaterinburg:20260907T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe64b45dce9f11e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6dadc437812199@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T093500
+DTEND;TZID=Asia/Yekaterinburg:20260921T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e3152a6eb738e3e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:845a49164b4186fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
+DTEND;TZID=Asia/Yekaterinburg:20261005T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d768a0aee2a61a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:a94c7601fd8c0ac6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:ef008536a36ea64f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:28948f5e11b09801@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c1bc3a85d1d61a9b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08b3ee60a99aecbd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6661887dd9029e51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0513b9ea4306aa30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d635ce642fd0713a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4bde138f529198ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bf0746693c2cc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65ed848e2aa5cafd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:598ca3ec6965f7be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:15f91e707cc8ac16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1947baf24ceb1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c355310a77fdea38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:3d372bac2fbc05f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:6a134dfb84c3e03e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:285a8f397684aac1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
+DTEND;TZID=Asia/Yekaterinburg:20260914T125500
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e8d4c748258da5d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:883b360a8e150c92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95c05dbb87bb871f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bbd6218ce33f62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63d3606ea3bb3f4d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0d4150f9683f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0aac4116a13e26f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63bd83f975f30bc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:94782b939cc7f1e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a23784b89efa86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:82731e2afc4bb35b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:8ce161fbc590d809@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d442076ee84634@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:45ee5bf5ff0346d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
+DTEND;TZID=Asia/Yekaterinburg:20260914T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:88dfe2e54a0b1994@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T131000
+DTEND;TZID=Asia/Yekaterinburg:20260921T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b1db665f70691917@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31f66919515f8b8f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
+DTEND;TZID=Asia/Yekaterinburg:20260921T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b1097d8dd305ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:c145d6c326e76a17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d532dd9923c0f512@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d21041a7942b9557@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:fa0ef0cffec2da61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:b81371d990fcd41c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6cac368eb573e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
+DTEND;TZID=Asia/Yekaterinburg:20260928T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9cfbee77169bb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:6b75c5e177fc9643@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:73d6b89906a7c603@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:1718df99d2721564@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7cf08a9dc9055d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:852eb12297f7e6a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e6be32e5ee91f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:302\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:99a75fca8ab88153@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:385687566e90d204@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
+DTEND;TZID=Asia/Yekaterinburg:20260929T092000
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa7dad96c9b4df5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
+DTEND;TZID=Asia/Yekaterinburg:20260915T092000
+SUMMARY:Методы приближенных вычислений (пра
+ ктика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee2dbbcf550a9bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Методы приближенных вычислений (пра
+ ктика)
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:10ba5350131c40ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Методы приближенных вычислений (пра
+ ктика)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:b702cdb9484a596b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c31f99f2b56fde7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:396e8bd76ecfe816@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:742fea9b793405c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:52fe281a6dde1de9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T093500
+DTEND;TZID=Asia/Yekaterinburg:20260929T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:67f5a7ca80068ded@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7ac6afbec145a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cab608b4b8717fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1ad33351fab7f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6257656e73a0dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82b4957598f4516f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72391a59ee31b121@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
+DTEND;TZID=Asia/Yekaterinburg:20260901T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e9a65d66b29d88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:27df56731f26e8ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:7f43a5e5d112ccc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:c81428e4dc899360@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:553aba8c5d42b01b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f18258fb7da3768d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa23f366d2046415@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f9b82d2df4fe315@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b22a7fb1188f04e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Методы приближенных вычислений (пра
+ ктика)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6cea597614486e4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T131000
+DTEND;TZID=Asia/Yekaterinburg:20260901T143000
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:861889830e8990e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
+DTEND;TZID=Asia/Yekaterinburg:20260908T143000
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6bf2edc937d5ef3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:7df18f2706ee2430@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:74bfb29773f3d848@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c243d53ad18d9344@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:92e830da3110ead0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd05fa6164256229@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e65d189b1176434f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Федорова Наталья Ивановна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f49d9ec49ca48e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca09814210875431@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a50c82a4b400ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40bd808ef166f495@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:013c1a12b85577fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff260e0ac363e35f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:132a8dd406766919@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e69abac90e858611@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5718690634f89339@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4eef2dd9d12999@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Компьютерное моделирование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25f4ca7aa870934e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:1de61602847ba21d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:2f54f004d9c6c8d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T080000
+DTEND;TZID=Asia/Yekaterinburg:20260930T092000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d207af81bf29137@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T080000
+DTEND;TZID=Asia/Yekaterinburg:20261007T092000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d2fe917fe73602@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
+DTEND;TZID=Asia/Yekaterinburg:20261014T092000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1c50a803f356dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d34f01f8a21690ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T093500
+DTEND;TZID=Asia/Yekaterinburg:20260930T105500
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:6-213\, Корпус 6
+DESCRIPTION:Герасимова Ильмира Барыевна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d038b04c84ec900b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T093500
+DTEND;TZID=Asia/Yekaterinburg:20261007T105500
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:6-213\, Корпус 6
+DESCRIPTION:Герасимова Ильмира Барыевна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8ffa35f888a064@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:6-213\, Корпус 6
+DESCRIPTION:Герасимова Ильмира Барыевна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d20a63124aa1f193@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:6-213\, Корпус 6
+DESCRIPTION:Герасимова Ильмира Барыевна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:3f75656cf731e0ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T113500
+DTEND;TZID=Asia/Yekaterinburg:20260916T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9a50bac1082f07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T113500
+DTEND;TZID=Asia/Yekaterinburg:20260923T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3664e0641e6453@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4fae0c342eb848@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T113500
+DTEND;TZID=Asia/Yekaterinburg:20261007T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:090d96d80635efb9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb23fda03d5b044@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:8a61b2293849b451@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Инженерия знаний (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5ae9f04ef5c76b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd422f3378dcebb0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T113500
+DTEND;TZID=Asia/Yekaterinburg:20260909T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7ab0051d645a26@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
+DTEND;TZID=Asia/Yekaterinburg:20260909T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ec0e83e78b4dc50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40d9f2c52efbba01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df14290bd09f7681@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe8f5ee35623be8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a06748e7c9d78f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed34f9a9c9312a32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83da25ca37c74be0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Компьютерное моделирование (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28664cf62529901c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:7feb885036f3b50e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:612f47255eb8c8ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:f14fd2c58f8d43f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:576bbde526523f58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4552a58548c2090b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f06152d484b8e488@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51a8dee9aa1109cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ced918ab8be747a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8977707dec864bb5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T151000
+DTEND;TZID=Asia/Yekaterinburg:20260909T163000
+SUMMARY:Экономика программной инженерии (ле
+ кция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:275b6c293ddbc388@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T151000
+DTEND;TZID=Asia/Yekaterinburg:20260916T163000
+SUMMARY:Экономика программной инженерии (ле
+ кция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:092b8e1ff832e2fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Экономика программной инженерии (ле
+ кция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68dcb6f4f877125e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:41ff8df1614bff39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc213bcd060cc186@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb5e9a42d960503@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:216924956570700c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae4e146a6de78f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aee42b77308d1ba7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a3008e3205f2ad31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e78d8d1bb1b825ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
+DTEND;TZID=Asia/Yekaterinburg:20261111T194000
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb1e2a7c5082541@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T182000
+DTEND;TZID=Asia/Yekaterinburg:20261118T194000
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:603495f29f104c84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T080000
+DTEND;TZID=Asia/Yekaterinburg:20260903T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a25f63b1fe81de6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
+DTEND;TZID=Asia/Yekaterinburg:20260910T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8df974614e60dd90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T080000
+DTEND;TZID=Asia/Yekaterinburg:20260917T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:793e89bdc1c280e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T080000
+DTEND;TZID=Asia/Yekaterinburg:20260924T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:972fd80e4625b367@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T080000
+DTEND;TZID=Asia/Yekaterinburg:20261001T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d32a9520428bcb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T080000
+DTEND;TZID=Asia/Yekaterinburg:20261008T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3920f9d1342b02b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T080000
+DTEND;TZID=Asia/Yekaterinburg:20261015T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03370d430c7f692c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
+DTEND;TZID=Asia/Yekaterinburg:20261022T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db081f8ea7e249a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
+DTEND;TZID=Asia/Yekaterinburg:20261029T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca5f1603a50a55f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
+DTEND;TZID=Asia/Yekaterinburg:20261105T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f72395b4ed698955@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
+DTEND;TZID=Asia/Yekaterinburg:20261112T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3bc0856308372e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5cd2d40e35beff4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:877943743b1d9e47@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef875f612fffb15d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3307ff667e24ed0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7ac0f7085ff6bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed34483f81f991e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
+DTEND;TZID=Asia/Yekaterinburg:20260903T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:739e038296720d16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
+DTEND;TZID=Asia/Yekaterinburg:20260910T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae229d40b0ad51d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T093500
+DTEND;TZID=Asia/Yekaterinburg:20260917T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:290288d047b0076d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
+DTEND;TZID=Asia/Yekaterinburg:20260924T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b394e565fd857d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T093500
+DTEND;TZID=Asia/Yekaterinburg:20261001T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03b4a1dcd0e49e36@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
+DTEND;TZID=Asia/Yekaterinburg:20261008T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d20683b2604ee956@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T093500
+DTEND;TZID=Asia/Yekaterinburg:20261015T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9eafc0b4a3d5a7cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb903f3be80966e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35010216d40e5574@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
+DTEND;TZID=Asia/Yekaterinburg:20261105T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ab97c6acb3403277@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3583a527a1b0ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c11226afacf4c71@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ac840513cffec0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e756de10b87f4fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c43ffe5283f174a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea86b5e1ff3a3f95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:931ec96f4518585d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
+DTEND;TZID=Asia/Yekaterinburg:20260903T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:967c378e3e6198b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T113500
+DTEND;TZID=Asia/Yekaterinburg:20260910T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8fe123bbc27237@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T113500
+DTEND;TZID=Asia/Yekaterinburg:20260917T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7553552144946349@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b0eb5ce3d8b0f1a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
+DTEND;TZID=Asia/Yekaterinburg:20261001T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f6b52e15dda4b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66ee93e53ca40332@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0dc16d15c30f34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3a07aaf80d8af90c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0779aae73211b1d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:642aa45c243b3000@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfb5f0006e553ff0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b925abb819e0be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb43c6a3d6202c1a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f837bd3d97e26c19@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:889ec93741ad3ebf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51a446b3fca9cd3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd93fd157b193c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
+DTEND;TZID=Asia/Yekaterinburg:20260903T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be9ba4497a335727@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T131000
+DTEND;TZID=Asia/Yekaterinburg:20260910T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e50e85a6260f0f80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T131000
+DTEND;TZID=Asia/Yekaterinburg:20260917T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48423547092153d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
+DTEND;TZID=Asia/Yekaterinburg:20260924T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca71dbafc7371f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T131000
+DTEND;TZID=Asia/Yekaterinburg:20261001T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8ab95e5e86c08f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T131000
+DTEND;TZID=Asia/Yekaterinburg:20261008T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8fbd24ed4dbe30fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8d18334cd8b6d55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f1102cbd9f4075ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d13c3c357d8b0aa8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee8eaea69f6f090@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:247e65576aace5fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:502e8bca3917e64a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a56c1bbe54c2689@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:daccf78171edefc5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7771b2a351b4a9d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b22cee6da3ce9e95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2de6a289cd4966@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T151000
+DTEND;TZID=Asia/Yekaterinburg:20260903T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49c2d8d2fe73f3ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T151000
+DTEND;TZID=Asia/Yekaterinburg:20260910T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48dce6a83bc282b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
+DTEND;TZID=Asia/Yekaterinburg:20260917T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:081ce7fa4479acc7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T151000
+DTEND;TZID=Asia/Yekaterinburg:20260924T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b394358769761f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T151000
+DTEND;TZID=Asia/Yekaterinburg:20261001T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:17be409c7acc9ee1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T151000
+DTEND;TZID=Asia/Yekaterinburg:20261008T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1994bb23b683286@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T151000
+DTEND;TZID=Asia/Yekaterinburg:20261015T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5503c99486ec3247@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T151000
+DTEND;TZID=Asia/Yekaterinburg:20261022T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58a8db600872b691@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
+DTEND;TZID=Asia/Yekaterinburg:20261029T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:835948ff35e86e71@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6093f1bfca761644@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64ee7a748da18d48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f363b8c6316bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:090b6162544161ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:abbf78301c7fed1f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6e213b3294e129@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc25e4d1510f97d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:faca52cd1baab7cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T164500
+DTEND;TZID=Asia/Yekaterinburg:20260903T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4f43418e4b325a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T164500
+DTEND;TZID=Asia/Yekaterinburg:20260910T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e82a6bda69f1be00@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T164500
+DTEND;TZID=Asia/Yekaterinburg:20260917T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:408d2988118ded62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:858d24f6b655e440@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T164500
+DTEND;TZID=Asia/Yekaterinburg:20261001T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a40bff14f2a91de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
+DTEND;TZID=Asia/Yekaterinburg:20261008T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0b46fb851a3ebd05@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T164500
+DTEND;TZID=Asia/Yekaterinburg:20261015T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db7e82fbe1542ecf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T164500
+DTEND;TZID=Asia/Yekaterinburg:20261022T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64002338347a7881@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:435d278d5dba381a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8450fe086e7d11b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fef5544b183b39d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb91b7db0c3975d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1b00f0337fdf6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45637ea16168cb1f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3dfde9fd3c2bd1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7395303f33b4d59d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Другое (военная подготовка)
+LOCATION:Уточняется
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e86140dc6c4790c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
+DTEND;TZID=Asia/Yekaterinburg:20260904T105500
+SUMMARY:Экономика программной инженерии (ле
+ кция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8979d9421fa687c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T093500
+DTEND;TZID=Asia/Yekaterinburg:20260911T105500
+SUMMARY:Экономика программной инженерии (ле
+ кция)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:064052ed821951f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9098b18cfc1410e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d25089edd350bfe6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec77779959795c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T113500
+DTEND;TZID=Asia/Yekaterinburg:20260904T125500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64dfb634d4adc0f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T113500
+DTEND;TZID=Asia/Yekaterinburg:20260911T125500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Гаянова Майя Марсовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:583c9e211b92ce76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf5f7a02a4ce6ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:033ed8dbeea149a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23535618f871fc5a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T131000
+DTEND;TZID=Asia/Yekaterinburg:20260904T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:585f127619bdf55c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T131000
+DTEND;TZID=Asia/Yekaterinburg:20260911T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8912088dbe46de5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
+DTEND;TZID=Asia/Yekaterinburg:20261002T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b50e5b2cf0853a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T151000
+DTEND;TZID=Asia/Yekaterinburg:20261009T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb12ea0bebafd86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T151000
+DTEND;TZID=Asia/Yekaterinburg:20261016T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26bf2213d0400de8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
+DTEND;TZID=Asia/Yekaterinburg:20261023T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bcf997821ee2be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f54880ee2e5bdd64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:869edfd5c49f2ab4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T164500
+DTEND;TZID=Asia/Yekaterinburg:20261002T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5296eff586cdd391@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T164500
+DTEND;TZID=Asia/Yekaterinburg:20261009T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ebff7742e3da839@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T164500
+DTEND;TZID=Asia/Yekaterinburg:20261016T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:556d7ff5fa13c715@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b11398c1a3c35838@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a5f5807f6986cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Павлов Сергей Владимирович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee7afb0e798de31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T080000
+DTEND;TZID=Asia/Yekaterinburg:20261205T092000
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:2605ddeba8ac5921@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T080000
+DTEND;TZID=Asia/Yekaterinburg:20261212T092000
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:06f37ab9b4560196@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T080000
+DTEND;TZID=Asia/Yekaterinburg:20261219T092000
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4bfd507ac80729a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T080000
+DTEND;TZID=Asia/Yekaterinburg:20261226T092000
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0bedcafdcad8522a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T080000
+DTEND;TZID=Asia/Yekaterinburg:20260919T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:053738c80301ce84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T080000
+DTEND;TZID=Asia/Yekaterinburg:20260926T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87e8f00b156025c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T080000
+DTEND;TZID=Asia/Yekaterinburg:20261003T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:21001954f2f99ee6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T080000
+DTEND;TZID=Asia/Yekaterinburg:20261010T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1a304614b2c3ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T080000
+DTEND;TZID=Asia/Yekaterinburg:20261017T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:310709638d90d480@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T080000
+DTEND;TZID=Asia/Yekaterinburg:20261024T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f1bf9c128d1996b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T080000
+DTEND;TZID=Asia/Yekaterinburg:20261031T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:52e5cbd33055f462@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T080000
+DTEND;TZID=Asia/Yekaterinburg:20261107T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe40f36c3c3bfe8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
+DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85f15f9d4ff1ed6c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T080000
+DTEND;TZID=Asia/Yekaterinburg:20261121T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e09e57259e0bee01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T080000
+DTEND;TZID=Asia/Yekaterinburg:20261128T092000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e97e57162047cb0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T093500
+DTEND;TZID=Asia/Yekaterinburg:20261205T105500
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc3e6b2afc0cd59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T093500
+DTEND;TZID=Asia/Yekaterinburg:20261212T105500
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cccbde8afa6aeaf3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T093500
+DTEND;TZID=Asia/Yekaterinburg:20261219T105500
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:65b901f72c61a277@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
+DTEND;TZID=Asia/Yekaterinburg:20261226T105500
+SUMMARY:Логическое программирование (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Ризванов Константин Анварович\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:b40e00e1470b8468@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T093500
+DTEND;TZID=Asia/Yekaterinburg:20261024T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ad7777b6a7d904@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T093500
+DTEND;TZID=Asia/Yekaterinburg:20261017T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22177ee318d50b1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f87b63a05d6b969c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T113500
+DTEND;TZID=Asia/Yekaterinburg:20260919T125500
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5429a893b6d0ffb8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0eabddddf3ffaff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:Безопасность жизнедеятельности (лек
+ ция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3662ea9043c92458@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T151000
+DTEND;TZID=Asia/Yekaterinburg:20261024T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:5 пара\n16:00\, ЦТиП
+END:VEVENT
+BEGIN:VEVENT
+UID:643bcaa2202b9785@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T164500
+DTEND;TZID=Asia/Yekaterinburg:20261024T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:6 пара\nЦТиП
+END:VEVENT
+BEGIN:VEVENT
+UID:2270037e38a21243@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T182000
+DTEND;TZID=Asia/Yekaterinburg:20261017T194000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:7 пара\n18:00\, ЦТиП
+END:VEVENT
+BEGIN:VEVENT
+UID:3234a481183f9220@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T182000
+DTEND;TZID=Asia/Yekaterinburg:20261024T194000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:7 пара\nЦТиП
+END:VEVENT
+BEGIN:VEVENT
+UID:044b3122bcc72a1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T195500
+DTEND;TZID=Asia/Yekaterinburg:20261017T211500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:8 пара\n18:00\, ЦТиП
+END:VEVENT
+END:VCALENDAR

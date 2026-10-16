@@ -1,0 +1,646 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Волошенюк Оксана Владимировна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1d0ce087cd34e161@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:308\, Корпус 9
+DESCRIPTION:ИБ-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61b809a182ef2908@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИБ-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f27c4d7646a5326@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИБ-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02b6a6ff70731a4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:2-407\, Корпус 2
+DESCRIPTION:ИБ-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf6dff77e3331d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e86e575c6f8ac1ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3456667dfbf517c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a38a6a61081af4c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:537b8571b2982e0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec7d469676bf54f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:893f492169664299@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7e2c527ead8295@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-103Моз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:96638e673146e9b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
+DTEND;TZID=Asia/Yekaterinburg:20260921T163000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:8-406\, Корпус 8
+DESCRIPTION:ТМО-302Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8cbb8417a409335@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:8-406\, Корпус 8
+DESCRIPTION:ТМО-302Бз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32e5c97b79fd6770@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79f0bef0226b08db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e8b840b515479b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ead7e0411dad0b17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65fd4b944e73b73d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:20308515e2d83121@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0b164f8c71262e4b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:309\, Корпус 9
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64ab0a7a731c9121@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Профессиональный иностранный язык (
+ практика)
+LOCATION:309\, Корпус 9
+DESCRIPTION:ИБ-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:049a74ed195ac015@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
+DTEND;TZID=Asia/Yekaterinburg:20260924T143000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:309\, Корпус 9
+DESCRIPTION:ТМО-302Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf86c72f2841ff8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T164500
+DTEND;TZID=Asia/Yekaterinburg:20260917T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8be22ac0a52fa9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8275e8377ac4f726@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T164500
+DTEND;TZID=Asia/Yekaterinburg:20261001T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:264039d0ebf07483@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
+DTEND;TZID=Asia/Yekaterinburg:20261008T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebf54763368efd0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4caad116b168a823@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74b995653d8a0d62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d60858b4ddad3795@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe26a48d9425cbad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af0126725d8058d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ced0f657b5d808eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4106e217971128a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c2016e2b20cb45@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ead51865b8bf6e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T182000
+DTEND;TZID=Asia/Yekaterinburg:20261210T194000
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:76a0cb5504f2c700@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T182000
+DTEND;TZID=Asia/Yekaterinburg:20261217T194000
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:МХ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36b9885f2d35dfbc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T164500
+DTEND;TZID=Asia/Yekaterinburg:20260925T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:860e63d1aa201325@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T164500
+DTEND;TZID=Asia/Yekaterinburg:20261002T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8b9bdfe269ad310@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T164500
+DTEND;TZID=Asia/Yekaterinburg:20261009T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d93da7c7dd138728@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T164500
+DTEND;TZID=Asia/Yekaterinburg:20261016T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca64ec08c86290e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61594c4094cd0a4a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dc013a1d19c0b801@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:550b54e159ea3b7a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
+DTEND;TZID=Asia/Yekaterinburg:20261113T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f0642e3f76c7dac1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
+DTEND;TZID=Asia/Yekaterinburg:20261120T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:100150d81f2de40a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d54bf7e2bf4911a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
+DTEND;TZID=Asia/Yekaterinburg:20261204T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c278d831e788618e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
+DTEND;TZID=Asia/Yekaterinburg:20261211T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d94ad9620df05fba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T164500
+DTEND;TZID=Asia/Yekaterinburg:20261218T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f84880119779f2cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T164500
+DTEND;TZID=Asia/Yekaterinburg:20261225T180500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa7500e2930c7ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T182000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:582a75405f6a826f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T182000
+DTEND;TZID=Asia/Yekaterinburg:20261002T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7cb1c351146261ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T182000
+DTEND;TZID=Asia/Yekaterinburg:20261009T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18b5b70e26900280@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T182000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ee1836f0cf8487@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T182000
+DTEND;TZID=Asia/Yekaterinburg:20261023T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4fbc62c04e678f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T182000
+DTEND;TZID=Asia/Yekaterinburg:20261030T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:134e2826ae8d2d64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T182000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72fc4186c27e292c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T182000
+DTEND;TZID=Asia/Yekaterinburg:20261113T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97d7629051a5dfd0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T182000
+DTEND;TZID=Asia/Yekaterinburg:20261120T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e466ecfa19781ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T182000
+DTEND;TZID=Asia/Yekaterinburg:20261127T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8abe2d89974c5bf2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T182000
+DTEND;TZID=Asia/Yekaterinburg:20261204T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c01a6c48fdc137c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T182000
+DTEND;TZID=Asia/Yekaterinburg:20261211T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f613e5b78cf5db0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T182000
+DTEND;TZID=Asia/Yekaterinburg:20261218T194000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ТП-201М\n7 пара
+END:VEVENT
+END:VCALENDAR

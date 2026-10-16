@@ -1,0 +1,750 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ураков Айрат Ренатович — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:667e1b3e851cd418@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de6c236ed144fb72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50133326641cc340@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7acc0a37540420@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf161b74228349f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85a7a0e6aaafd0d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f822147158c14838@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84901f5b8cba6b34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:912024aed33c643d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:061a5de1255fb396@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60d431859734acc5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec6dcbc1ab40f29@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:21f7197162fc3506@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d91163e3e60c4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:117462be627e3e46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
+DTEND;TZID=Asia/Yekaterinburg:20260907T143000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff435de2d742fefa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
+DTEND;TZID=Asia/Yekaterinburg:20260914T143000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38b858c57d3c7827@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5f08312b4fc5a032@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a99bc6d9a743e7ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
+DTEND;TZID=Asia/Yekaterinburg:20260901T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0a059521727dedd2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22d2566a241b90e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a3f20cde77e38c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69db304437861701@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7d41c435af2aab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a16a8c19a9830d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0e3a56ce73945c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb66d32969d47f9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1046209e8c7be413@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лекци
+ я)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e16d4881e2c30577@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7285aeac2064342c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лекция)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:592c419ce863c987@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:158892a1cf2b249a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:80b3cee72cbb20d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:baf7e60d92b5de27@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68960421bb2cd7b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2a23ac0078c620@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e5295a86584aa1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd1d161a3347793@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:29e31409fafc3ef2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1176ddc49d824d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:06d8e5abd25d67b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d67261b723333b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6966ce2010f438@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98fe2be7d73a6007@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bbcc546c642e2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe40011275a343d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2397afbb34c63731@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T182000
+DTEND;TZID=Asia/Yekaterinburg:20260902T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:efd46283133115b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T182000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da916a0d8b0370f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T182000
+DTEND;TZID=Asia/Yekaterinburg:20260916T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0c962fd67121574@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T182000
+DTEND;TZID=Asia/Yekaterinburg:20260923T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1842832313f1720f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T182000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fef779202448fa22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
+DTEND;TZID=Asia/Yekaterinburg:20260904T105500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4beab4e07c11ff8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T093500
+DTEND;TZID=Asia/Yekaterinburg:20260911T105500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (практ
+ ика)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ddcd4ebb723e8d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4726379128738c37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T151000
+DTEND;TZID=Asia/Yekaterinburg:20261113T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:92de49f9a1085032@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T151000
+DTEND;TZID=Asia/Yekaterinburg:20261120T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc10f7c594e8dd0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
+DTEND;TZID=Asia/Yekaterinburg:20261127T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5c75252e90f4f2fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
+DTEND;TZID=Asia/Yekaterinburg:20261204T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1cf9756bfaba3fa0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
+DTEND;TZID=Asia/Yekaterinburg:20261211T163000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c0bcdccea0d850@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c879187a5b60aa21@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
+DTEND;TZID=Asia/Yekaterinburg:20261113T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7f74c88e07dea2d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
+DTEND;TZID=Asia/Yekaterinburg:20261120T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c52acfe2ca4d2c10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1af5871df3f0eb13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
+DTEND;TZID=Asia/Yekaterinburg:20261204T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c53bdfe1b2fab5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
+DTEND;TZID=Asia/Yekaterinburg:20261211T180500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-305\, Корпус 7
+DESCRIPTION:СТС-203С\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6402aa422e40e28@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T182000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0fde15deb4c3888a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T182000
+DTEND;TZID=Asia/Yekaterinburg:20261113T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:684778dba366652d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T182000
+DTEND;TZID=Asia/Yekaterinburg:20261120T194000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dcdb8052f235a0de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195500
+DTEND;TZID=Asia/Yekaterinburg:20261106T211500
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f1ff20bec38b0b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T195500
+DTEND;TZID=Asia/Yekaterinburg:20261113T211500
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:163142cb0822f492@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T195500
+DTEND;TZID=Asia/Yekaterinburg:20261120T211500
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n8 пара
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,3253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПРО-210Б — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b44eb8f1497d4045@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:09c0c6cbfec4df0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3dc7f27b25fd51b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:299a4c083734c14a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3de4a09eeb375e46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:Давлетшина Светлана Маратовна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:00262faafc1cfe1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:Давлетшина Светлана Маратовна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f06c0e7d4be2c3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
+DTEND;TZID=Asia/Yekaterinburg:20260914T105500
+SUMMARY:Операционные системы (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63e29f72d3d6af05@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:75d33fa7d480b19a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac03a5e242b3e07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (практика)
+LOCATION:3-201\, Корпус 3
+DESCRIPTION:Дмитриева Ирина Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5bcd68bb9bac4a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:60616bae77eb608d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf42fd3355ecf32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:d03dfdc3c307b545@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c56d5ac14e0514@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:71154feea6a38a7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:83193314b1493a66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:d93eb12219979099@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:08eecf76c2ce9d3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a86c184a0ec2dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2e248f96fa3a9a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6a5fb11a7dd18d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e48f1e63bab066f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
+DTEND;TZID=Asia/Yekaterinburg:20260914T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9727c06711de4576@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e24b86ca6e1e668@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f6d7a64f97430c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:027512e7c2f654de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:020b464602414719@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e43c5cdbde6c330c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb3f1208450f077@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:11f9c38429dc5ed0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c40e5c8bac4d61f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cef62eea607e7355@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee041f774a15c024@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:5632041e6ae074a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:214a4a54059622a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:Щербаков Сергей Витальевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ed39e407dfa77d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:Щербаков Сергей Витальевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48cbca842962c8e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:Щербаков Сергей Витальевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b1f88420d5c88d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T164500
+DTEND;TZID=Asia/Yekaterinburg:20260907T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9403a25dbb5092@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T164500
+DTEND;TZID=Asia/Yekaterinburg:20260914T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc0bf81ba97f598@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f41626b9a26160dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e3911ce2dfcec92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00c6be67c72ebe87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb6c4f1b5f29ffb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:166909b64b6b5b3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a13562dbb78020@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b621f29f2b44e63f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f28b89c3b445c18a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54b5b2115ca9f54c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa73fa75f1c5f545@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1fe30556a10654@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f03090009ad9179@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
+DTEND;TZID=Asia/Yekaterinburg:20261221T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1c088d5aa599ada@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
+DTEND;TZID=Asia/Yekaterinburg:20260915T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:de32e22dbd938f0c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
+DTEND;TZID=Asia/Yekaterinburg:20260922T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a04e184065383e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
+DTEND;TZID=Asia/Yekaterinburg:20260929T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e0975c0492ef5825@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:70800a824dd63209@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:36dacde1108b6600@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:b33d915569890da0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4a69ff38d92c11@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab47fe7f59343a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:245e87bd3f529762@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e0633ecfe15939c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:638cd46770cd5c0f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:05c056d725d88b73@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:bf21bebe6f04b5c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
+DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:fb33f5f83141e079@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:4563af0987ebe24d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
+DTEND;TZID=Asia/Yekaterinburg:20261229T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c34755b5a457f406@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
+DTEND;TZID=Asia/Yekaterinburg:20260915T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:642ca5a1dafec7fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
+DTEND;TZID=Asia/Yekaterinburg:20260922T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae78671e926d687c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
+DTEND;TZID=Asia/Yekaterinburg:20260929T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:697e5212f4bd4179@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a30295448b93010@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5728c9e9547597b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a138601c46de1e5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be3d633a96b3e233@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e924cb352a51e6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1afd32c82db377f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f909f0ad61da5f85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfab8e3ca2398a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
+DTEND;TZID=Asia/Yekaterinburg:20261201T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fff6634f5c860d02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0455eed27fe0eb81@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
+DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:171dcb122dc4fac3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T093500
+DTEND;TZID=Asia/Yekaterinburg:20260915T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d54f30e6b2d2b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:690d46d638e3ad3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T093500
+DTEND;TZID=Asia/Yekaterinburg:20260929T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:6dcdb1f8c64a21c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d99c72b35763dc04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:87cba010c043119f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:50e2ce6aa7c9c898@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:cd981c9f7c7f86b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:318be961a90c5396@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:905c59e7ff91be69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0ceb076903da26@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:24d9ab32b92f6154@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:9d027fde074c2990@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:044b3ba0c9f49a38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:57da8090e2021b14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:193e5a52b6eb6734@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T093500
+DTEND;TZID=Asia/Yekaterinburg:20261229T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:bb60e72fe8565962@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T093500
+DTEND;TZID=Asia/Yekaterinburg:20260915T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01a4e2443d8abfb6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:574b6575cd155f2b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T093500
+DTEND;TZID=Asia/Yekaterinburg:20260929T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:421c366ded796ae9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cdba4281e532a47@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25d9d8cfe5512ae0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:548f7216a9ff7f7e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab700b3ecb1975a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d4edc75c97e81b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dad9e39b08169023@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b47013ff92a54111@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca4fe363c9de99ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af76779056dac2f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:907e62dfff8f4b03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Веденяпин Игорь Эдуардович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:039a8e59d11e34c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
+DTEND;TZID=Asia/Yekaterinburg:20260901T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43d2af315c05b814@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:10a8195c97c61fff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3faf7276239f0b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:debaaac405d2b0ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e13d2fc0c08c02c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0c619dd366c5b13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d05a7e26cd8cac01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T131000
+DTEND;TZID=Asia/Yekaterinburg:20260901T143000
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:24540eca13d1a85a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
+DTEND;TZID=Asia/Yekaterinburg:20260908T143000
+SUMMARY:Операционные системы (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a98d53b60f0e9ad7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Щербаков Сергей Витальевич\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f556209ab3d33ca2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d362dc5247de0174@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a12543df269e1789@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b60252b8bfd5a855@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4db12ed5f7fb4f0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9683abd556a1f9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa81d317a08217b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05ba85ea2ba42d1d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ad45b86db9743b70@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca21e9d4113cff7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcdce85bd0c69c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31a6274c49f71f66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9be2afb52fe5e78c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
+DTEND;TZID=Asia/Yekaterinburg:20260915T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97b903a0748fa1da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd627fd18d93eb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0d15a1f441ca4d94@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9ac0fe8138f436@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4bdc763585dd8e54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bcef22b39cd7df4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f08ec35fc3521fb2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6178420de604659a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c70cfc9eb245ac77@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:4e380c8e2e2b8874@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:bd59e3bc0246f5ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:64367b9125db1ec2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:8d614890bddcf519@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
+DTEND;TZID=Asia/Yekaterinburg:20260915T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f73706e7763ee91@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T164500
+DTEND;TZID=Asia/Yekaterinburg:20260922T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9eec2b374215bf30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T164500
+DTEND;TZID=Asia/Yekaterinburg:20260929T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:96a58fa327f5b7f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa31d859ec05dd6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19ed07a6a115bda4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f442573c759ba28@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd26935f61d3e0c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5efaac5cb95b3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:840451ea0f303344@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T080000
+DTEND;TZID=Asia/Yekaterinburg:20260902T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90361df2363692db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T080000
+DTEND;TZID=Asia/Yekaterinburg:20260909T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47e6b80a5f6b27fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T080000
+DTEND;TZID=Asia/Yekaterinburg:20260916T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33dcef63b4fb41be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T080000
+DTEND;TZID=Asia/Yekaterinburg:20260923T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8b74f76ff20a6dff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T080000
+DTEND;TZID=Asia/Yekaterinburg:20260930T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5c8bd757a6ae056a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T080000
+DTEND;TZID=Asia/Yekaterinburg:20261007T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3106a37085b2be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
+DTEND;TZID=Asia/Yekaterinburg:20261014T092000
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e01b3dab489c784@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:911687a7f87d7d95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ef948050335c22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
+DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc75b39a5415c50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9b880f5c5a3429@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c925c1e1e70d6f1a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e1c11caaf88a81fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5efc15f8dd8b5c7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f9e02c26b77742@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T093500
+DTEND;TZID=Asia/Yekaterinburg:20260902T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9519860cc5a617@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T093500
+DTEND;TZID=Asia/Yekaterinburg:20260909T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c839b4df8c35a314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T093500
+DTEND;TZID=Asia/Yekaterinburg:20260916T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee98e368e88acc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T093500
+DTEND;TZID=Asia/Yekaterinburg:20260923T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00162810e005f0f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T093500
+DTEND;TZID=Asia/Yekaterinburg:20260930T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7fed3136e5897eed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T093500
+DTEND;TZID=Asia/Yekaterinburg:20261007T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54332bd59c0f439d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Базы данных (лекция)
+LOCATION:Уточняется
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc7c05e42995db2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:fe28d4973504c491@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:e664737086dbb6ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7513018be302c52b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47cf90fb6665f7c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:695f16250c7c1c10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c20d7002b7f9ae5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:192a30319e4d9d4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e590621d8a5c0076@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T113500
+DTEND;TZID=Asia/Yekaterinburg:20260916T125500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b3e6cc14e09d03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:78f59dc250fbc200@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:147ffea7d7c1c63b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91fd09ab4838e3fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n3 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:21249af227e4c376@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n3 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:351ca4ebcf8ab382@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n3 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e4b2bf46c29a2a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6caf5ea38584247@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6142b36880a76209@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0e7277041b40f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:943c9b14901985c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n4 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4ea73931df1950@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n4 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:9adc9e1f56dc836c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n4 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:b42ca3b8aa9cb7c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T151000
+DTEND;TZID=Asia/Yekaterinburg:20260916T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b04b5ef99011731@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58b5f9fe9b4518ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:993be98f87fc311c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2c88f22ad50a3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9994c2f71d9d27@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5421a84ca76c8618@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68bff8f2ba5d32cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc0c62ffb30325a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:217db92abb193511@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb15a6eb18f5707@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6896014eacf6fea4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b0ba701eb00415@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e2d6a9812956cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:040dd3638a5f2592@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e516166f830d2ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T164500
+DTEND;TZID=Asia/Yekaterinburg:20260916T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ed42a8e797ad3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:788ee826f0ad64d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:340ed396f06a4fc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14e07ed63d2d5bd1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85286273d87ea2f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bde1ad8c109635@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:694edf63c5f279b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e3938866ff4b38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:09b9ff86ee50d180@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c114963d2fc4e984@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7a1ad36b1b4cca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8b45e63a184a8b1d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f150090fb35f3931@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3408015c874f6805@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Сети и телекоммуникации (лаб.)
+LOCATION:6-403а\, Корпус 6
+DESCRIPTION:Гизатулин Азат Ринатович\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df526ad08bcaf347@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d16d2f27cd0a1ecb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eceda06880f8668b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a46a914a4e41bc82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:203147e7d45608b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
+DTEND;TZID=Asia/Yekaterinburg:20261105T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f1e3ea8c160360@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f64820f2da1edb50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb3a8e32c760898@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b0041570031f03bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Базы данных (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:390d0129ce73f33b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
+DTEND;TZID=Asia/Yekaterinburg:20261210T105500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d78b749cd43458ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5156a761ff89709@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:254dc99c1a38892b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T093500
+DTEND;TZID=Asia/Yekaterinburg:20260917T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c607eb29c19ad49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T093500
+DTEND;TZID=Asia/Yekaterinburg:20261001T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a35b10e9ba3f221@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T093500
+DTEND;TZID=Asia/Yekaterinburg:20261015T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42a2f8361e0f7084@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
+DTEND;TZID=Asia/Yekaterinburg:20260910T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Гизатулин Азат Ринатович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:203ab95a91da2b14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
+DTEND;TZID=Asia/Yekaterinburg:20260924T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Гизатулин Азат Ринатович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:80bca9e157cff606@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
+DTEND;TZID=Asia/Yekaterinburg:20261008T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Гизатулин Азат Ринатович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1352ddcd1f5ba93a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Гизатулин Азат Ринатович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f30e43e68e98f765@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
+DTEND;TZID=Asia/Yekaterinburg:20260903T105500
+SUMMARY:Сети и телекоммуникации (лекция)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Мешков Иван Константинович\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66758bab495bfcf2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
+DTEND;TZID=Asia/Yekaterinburg:20260903T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd10da84defa7c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:25bf10c17e73b39a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
+DTEND;TZID=Asia/Yekaterinburg:20261001T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18d28ee04b63eb4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5450403ea1e2ad1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87a7e0bf658b6b94@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f239b3d596b7a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02c842d6c57369c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02c7228e2f954506@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b02abc29e27fd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a64f6e41c8bc7ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb19727150d1e6f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6470988c0a90635@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f179b5c61a1d3d53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4bcaa6659d0fbd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
+DTEND;TZID=Asia/Yekaterinburg:20260903T143000
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8555b344aaf04eaa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3343f142cf3690b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4ddfbc77877fbe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a13c45a73c22c11@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64268b38f4b6a799@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83f9305f4a2295f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5485bad54205e6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e04063d72215c9e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:243b7b6e3d01fd72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2c062fbe4009450@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
+DTEND;TZID=Asia/Yekaterinburg:20260911T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:a3170d5f42cbcf17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:9bc5cf0a49cd685c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:4518a85709a35845@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6548c52697c1d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:42f01919d8007b20@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:a7fd58353396f7e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:c66083baffc806ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:440000bb30bf318d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:843a4bb1945b2ece@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:a814fe8f109a54ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
+DTEND;TZID=Asia/Yekaterinburg:20261120T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:ee6a83fb1e82b671@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T080000
+DTEND;TZID=Asia/Yekaterinburg:20260904T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:46c528c9d1316f6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T093500
+DTEND;TZID=Asia/Yekaterinburg:20261002T105500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf109c4133ee6e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:fd14b98d75f14e64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a8756269806884@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb92963833f5ba10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T093500
+DTEND;TZID=Asia/Yekaterinburg:20261009T105500
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9e8b1723472a5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T093500
+DTEND;TZID=Asia/Yekaterinburg:20260925T105500
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7e4b46a968ec49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T093500
+DTEND;TZID=Asia/Yekaterinburg:20260911T105500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a399efecace339@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Щербаков Сергей Витальевич\n2 пара\
+ n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:87517cf83762c7b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T113500
+DTEND;TZID=Asia/Yekaterinburg:20260918T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf9b89a35cb20860@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T113500
+DTEND;TZID=Asia/Yekaterinburg:20260925T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:1794b5536f34b57c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T113500
+DTEND;TZID=Asia/Yekaterinburg:20261002T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e70258e5fe3b0983@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:38518f20d1429f6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
+DTEND;TZID=Asia/Yekaterinburg:20261016T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:35e9f07fb55de1ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
+DTEND;TZID=Asia/Yekaterinburg:20261023T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:21fa4a8b87b4b6c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4141ee20a3ea75bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:27e44eb223651472@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-517\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3021a0b51cf8320@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T113500
+DTEND;TZID=Asia/Yekaterinburg:20260911T125500
+SUMMARY:Основы микропрограммирования (лекци
+ я)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:138e29ef66656553@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Корпус 9
+DESCRIPTION:Щербаков Сергей Витальевич\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6cc6217be559958@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T131000
+DTEND;TZID=Asia/Yekaterinburg:20260918T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2aceef2a600cc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T131000
+DTEND;TZID=Asia/Yekaterinburg:20260925T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:99ad3c54cdd9096c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T131000
+DTEND;TZID=Asia/Yekaterinburg:20261002T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43911f93295002e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b254fd37cd6e585a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T131000
+DTEND;TZID=Asia/Yekaterinburg:20261016T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4609bad66baf3292@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:988172c63a1a7da5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6cae1c6a722698a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0a4d1ea5a82a36@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a2aac217faaca99c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:622ac670312e8e04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Элективные дисциплины по физической
+  культуре и спорту (практика)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c8e27d1d595f543@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
+DTEND;TZID=Asia/Yekaterinburg:20261127T163000
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d37fcb9b11da771@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T151000
+DTEND;TZID=Asia/Yekaterinburg:20260925T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82f32464872b6102@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
+DTEND;TZID=Asia/Yekaterinburg:20261002T163000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n5
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51b87bc90dd3a493@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Базы данных (лаб.)
+LOCATION:6-217а\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b13ff46adc59901@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T164500
+DTEND;TZID=Asia/Yekaterinburg:20261002T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Низамутдинова Гульназ Саматовна\n6
+  пара
+END:VEVENT
+BEGIN:VEVENT
+UID:904655b243bcd5fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T113500
+DTEND;TZID=Asia/Yekaterinburg:20261003T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Алгушаева Венера Рафкатовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:0e547875540fed16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Алгушаева Венера Рафкатовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:aa40da11c23af219@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Алгушаева Венера Рафкатовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:554f3084301627dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T131000
+DTEND;TZID=Asia/Yekaterinburg:20261003T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Алгушаева Венера Рафкатовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:51d124ced71cc45d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:101\, Корпус 9
+DESCRIPTION:Алгушаева Венера Рафкатовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:df0b9af04b4127b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Алгушаева Венера Рафкатовна\n4 пар
+ а
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Щербаков Сергей Витальевич — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1717646a2b1f83a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:101\, Корпус 9
+DESCRIPTION:ПРО-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59d73700196fed0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63c78011d9580dfb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd42d203036abc38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:505\, Корпус 9
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45b92cf49f6da594@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ПРО-209Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:8f88a74e7029582b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ПРО-209Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:9f5361a6d8d51900@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:401\, Спортзал.КФ
+DESCRIPTION:ПРО-209Б\n3 пара\n3-401
+END:VEVENT
+BEGIN:VEVENT
+UID:74fe0cf92d4ab794@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:308\, Корпус 9
+DESCRIPTION:ПРО-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:028c05590d5457b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:201\, Корпус 9
+DESCRIPTION:ПРО-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2dd36da8f52f16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c02767dc4d92d2b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-210Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e88875a03cbb4b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdb980cb4d84a84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n3 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:5013511f6d082fc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n3 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:4fce8dc1f69dae2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n3 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:563413a5cedef43c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n4 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:1901474cdc89741d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n4 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:2d97781c5c79c4ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n4 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:a8422248948e7a0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ПРО-210Б\n2 пара\n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:952b0eb1a4f9dce5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4cf4641fbc7e273@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70ad5fe6aa2609e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:308\, Корпус 9
+DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:11f18a811285322a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c6245e911efc5906@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Корпус 9
+DESCRIPTION:ПРО-210Б\n3 пара
+END:VEVENT
+END:VCALENDAR

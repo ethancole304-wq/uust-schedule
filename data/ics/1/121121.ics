@@ -1,0 +1,2787 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Нагимова Ирина Альбертовна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d100ac13b6234478@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-403Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:787e66bb90e392d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:26d5d0f5b4275c81@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T080000
+DTEND;TZID=Asia/Yekaterinburg:20261214T092000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:193947733b1ac6ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b36d8d1468c69b53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4b4738320afd72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8a35725a0cb211@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea15b16bb5bec0f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac488cb298d0d830@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:623baf027aebe29e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f50e1c3aa60f803a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70890c069745eb92@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
+DTEND;TZID=Asia/Yekaterinburg:20261221T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6b55058ef9429d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a0a837ee5b60ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:913ade88d4050251@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8c066b9a38224399@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6446fa27c4887639@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddd15589bb962c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c054b2bd322f1200@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0781c9411aaf12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ee599747904fb5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f80a860214e67884@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c111f2c54067429@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5c8414982818de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bde7b7033d1b1d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d40e3acfd0e9910e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53ae7f4a29e098e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab1194a9e1f3255@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2efb117850a7285e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:abd3e61fe4eb2c59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30e30f7ee630fda5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a97856c0f47775f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
+DTEND;TZID=Asia/Yekaterinburg:20261109T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:46bfce0c15c9272f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42e5e424f897df0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:657427bea6e9a3e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91d149cbddddee90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1004e92e66044f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f380ee156f9553@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
+DTEND;TZID=Asia/Yekaterinburg:20260907T143000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e13afaff0065ab5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T131000
+DTEND;TZID=Asia/Yekaterinburg:20260921T143000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68c5d466a07582cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a895a8f7b6bd8729@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
+DTEND;TZID=Asia/Yekaterinburg:20260921T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:346a21d69a10aeed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
+DTEND;TZID=Asia/Yekaterinburg:20260928T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:17f2d0471439c4db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
+DTEND;TZID=Asia/Yekaterinburg:20261005T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e4fd074698e7b04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
+DTEND;TZID=Asia/Yekaterinburg:20261019T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94bd8cecc43964b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
+DTEND;TZID=Asia/Yekaterinburg:20261026T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:312c88929664faee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T151000
+DTEND;TZID=Asia/Yekaterinburg:20261102T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6cf65ed7bf28dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:545c199101d16438@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2add2268a150b897@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:890472d370c64097@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
+DTEND;TZID=Asia/Yekaterinburg:20260921T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2072ea5cf6711027@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
+DTEND;TZID=Asia/Yekaterinburg:20260928T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1aaab513798a4458@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
+DTEND;TZID=Asia/Yekaterinburg:20261005T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1dc29c88fc9eb82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
+DTEND;TZID=Asia/Yekaterinburg:20261019T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0d79de06df104d49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
+DTEND;TZID=Asia/Yekaterinburg:20261026T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28b96423db131ea4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0c29a13e968a76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de6999a32a6e4c40@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf414d182dc55d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2956a91e23393e78@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:384bd10ba048ebbf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc23e7ec2d6dcf0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:038a560432d5cff4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
+DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b235f2292d20dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c545b30105b78d95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-414
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb36b0c64f9ab616@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc195fdd7aee863@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7448368635beb553@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d88e38a04b8309b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d73358c472d4483@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51787fd2cb107ebe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cd21777205675db6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:МО-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7980e1d8809ed36f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51f0504d6152edf0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d5115fb07bc2c69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b280b59879582bf2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-414
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6042e67d4fd43f4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45ecdafd2f520299@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:99fdb22d7fd9d0c1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7871f1c00a35e99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:47a2057beaabe779@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:89cfe6d7396ce85a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ba78203d6a7dc360@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f562aaef513becda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b889978c9ef92f21@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:feaa4e8cd3beebad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:819ea4e28a6678bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69121f8c875bc161@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b38fa9f0735b3e6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:992ac63e459303fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:56e65219ee7fd25b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72bd6dc0036076dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T113500
+DTEND;TZID=Asia/Yekaterinburg:20261117T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c81563015faff48f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43865202a05a4934@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de09888374558082@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:656a3daa66e8268d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d54ce2171364798c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4487f7233702bcad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:785e10bfa15f4cb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9ef3716380a5ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c2578dbdb008f42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d8326133704ed8fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dda8f1cbf5fcee87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c985c479adf9f53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7459f77684cfb45@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f71c0055e99c64f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c60fae8049045ebb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Электронный бизнес (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:11959349ddbe6487@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d096f4f9a747936b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30cdabad71db48ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:873cf26709cc56ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:29487364f5c599af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
+DTEND;TZID=Asia/Yekaterinburg:20261124T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d96743cd1315b328@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8add1f3f8aab3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
+DTEND;TZID=Asia/Yekaterinburg:20260929T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f820c270a0bd8fff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b987dc057399cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a002f4b09a1bae9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
+DTEND;TZID=Asia/Yekaterinburg:20261020T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb5bf743bd0b699@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec538d7ef78b2c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd7500bf6384133@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:12f3d969e9ca335d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fab0e464b483ff62@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b29cda5309123167@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3503f3e81e6fea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T164500
+DTEND;TZID=Asia/Yekaterinburg:20260922T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7e33689e4d71c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T164500
+DTEND;TZID=Asia/Yekaterinburg:20260929T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b3c8cfe5e3fd778@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2408eb673d28d6ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90eaf7a239b709cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
+DTEND;TZID=Asia/Yekaterinburg:20261020T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bf5436657f89c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T164500
+DTEND;TZID=Asia/Yekaterinburg:20261027T180500
+SUMMARY:Пакеты офисных прикладных программ (
+ лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f652278e528949@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T093500
+DTEND;TZID=Asia/Yekaterinburg:20260923T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a40a5df66a6d22be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T093500
+DTEND;TZID=Asia/Yekaterinburg:20260930T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:686f8694aa0d589d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T093500
+DTEND;TZID=Asia/Yekaterinburg:20261007T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af727d464c95919f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:49e338cc9d3586bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4727dd26d037fc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38b4130a580e5c5a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:492356ee7151ed6b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T113500
+DTEND;TZID=Asia/Yekaterinburg:20261007T125500
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5eae10e2e36649cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7f259aa614a606@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a96cfed19c4e16@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лекция)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5841cb57b77a6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a44cc536530cec9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3a2b6b73206aff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Другое (прочее)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Без группы\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb30d95b1217c97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7968a3aa64bfd99f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6d2780cd04bc86@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c826a906b2ff58c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fed15c55ce572982@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0ca486e01d7044d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4f36545502521b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfca6d5b4efbe947@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c94633ef456cc25@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МО-108Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:41a19570753239d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МО-108Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:09bc33f93f88fa56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T151000
+DTEND;TZID=Asia/Yekaterinburg:20260916T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1878d566d4de2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
+DTEND;TZID=Asia/Yekaterinburg:20260923T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:baf44f28ebea1de7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T151000
+DTEND;TZID=Asia/Yekaterinburg:20260930T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f34c0558defb8be7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f4d318f5c62b7f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d43959d89ab3b74a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d17c7544f49c485@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e861a01757022f93@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:448e7f9ce113f6ed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:125495f18cb052e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МО-108Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74f0bae10c8b0836@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Дискретная математика (лаб.)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МО-108Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a966ecd8f0854568@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T164500
+DTEND;TZID=Asia/Yekaterinburg:20260916T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0e5a61a25d2499@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T164500
+DTEND;TZID=Asia/Yekaterinburg:20260923T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81e65c03ba971ad9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T164500
+DTEND;TZID=Asia/Yekaterinburg:20260930T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9930fa22abd305@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
+DTEND;TZID=Asia/Yekaterinburg:20261007T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad4e86f14750327@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
+DTEND;TZID=Asia/Yekaterinburg:20261014T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f28af8c5f6c1bf8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
+DTEND;TZID=Asia/Yekaterinburg:20261021T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e7d78a30139a442@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
+DTEND;TZID=Asia/Yekaterinburg:20261028T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1e3177f4f98261@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:05fa90aadffad93d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-210Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31ec1abb71c08c06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91307cc31c02bb4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53419d2285a19b77@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T080000
+DTEND;TZID=Asia/Yekaterinburg:20261008T092000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33556879f338c388@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Инженерия знаний (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-403Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc3d75c0ab92c81@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
+DTEND;TZID=Asia/Yekaterinburg:20261217T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdff6b1e685194a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ada9437e74d6aec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
+DTEND;TZID=Asia/Yekaterinburg:20261008T105500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b5d699b271f3ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9febfe514d919ac1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:948aaae35068ddb9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
+DTEND;TZID=Asia/Yekaterinburg:20261112T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c91ccc8e229f2ac0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
+DTEND;TZID=Asia/Yekaterinburg:20261119T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3784f52c0934a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c1bb30828ce1a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fec6b9ce9fc25669@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c94b11e2f09dddb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1470d8a67de24f13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b2c85529ab718e9e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be8f2c14214c20c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:624d9f2982c9d272@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef76edcd7e86c8db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T113500
+DTEND;TZID=Asia/Yekaterinburg:20260910T125500
+SUMMARY:Основы информационных технологий (л
+ екция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-207Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da1ae1e0907cfa67@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T113500
+DTEND;TZID=Asia/Yekaterinburg:20260917T125500
+SUMMARY:Основы информационных технологий (л
+ екция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-207Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a99c85915cd18528@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Основы информационных технологий (л
+ екция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-207Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8ef12a10b2af981@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef0dbfa1cff4169a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8c063d1997af95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a1a5a248257d725@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b12b58b41843788e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2de638942409e6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c6272a0b67fb481@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e493f4a137a3d46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:452bf8e7de4b05f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc69df07a2265e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T131000
+DTEND;TZID=Asia/Yekaterinburg:20261008T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:24f298253f958512@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca100cf250b7d2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c15ec77563773473@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b1c7b1698ba1de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18dc69be8af63a3a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fba6ba315d09a8cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d69289e0b5fb9040@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:374185ca292e7001@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:86b0c59e7a00f5f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec33c09c15b7ce7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdafb22927dde8ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T151000
+DTEND;TZID=Asia/Yekaterinburg:20260924T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3778ddc990d5e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T151000
+DTEND;TZID=Asia/Yekaterinburg:20261008T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed8a1f074441e9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T151000
+DTEND;TZID=Asia/Yekaterinburg:20261015T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:92c3b052320f562b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T151000
+DTEND;TZID=Asia/Yekaterinburg:20261022T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a01fbff465602918@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
+DTEND;TZID=Asia/Yekaterinburg:20261029T163000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13d7028096f5564a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:86d4aa5f49d4bdec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be106512fe13db42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2448e3f2b9581b05@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc65dd2fa7ed20a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbe8e4085aa5bcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T164500
+DTEND;TZID=Asia/Yekaterinburg:20261210T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a75d84af9b962a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c2fc245ceedc01d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:МО-206Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b6a42211f6ac1af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T164500
+DTEND;TZID=Asia/Yekaterinburg:20260924T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:654c43ce1b578ac8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
+DTEND;TZID=Asia/Yekaterinburg:20261008T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c07b2c8c29701e6c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T164500
+DTEND;TZID=Asia/Yekaterinburg:20261015T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a77a0150ea0738cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T164500
+DTEND;TZID=Asia/Yekaterinburg:20261022T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23be6c628e2354e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:229ac184564abe95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:897819e6a7455861@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c0dc07cbc8320d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee95d7cec18e1616@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7052113efff1239@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e1bc2584f3f35b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T080000
+DTEND;TZID=Asia/Yekaterinburg:20260904T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:daab483dcc0a5185@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
+DTEND;TZID=Asia/Yekaterinburg:20260911T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be4a739d7490209e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b669ae30932f893c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:740e9e06c2b1226d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8153e61329c2cc1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9da5997c6ac75d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
+DTEND;TZID=Asia/Yekaterinburg:20261106T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:208fd712c20e0101@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2c723177072204@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T093500
+DTEND;TZID=Asia/Yekaterinburg:20261016T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f832d31ca38f277c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
+DTEND;TZID=Asia/Yekaterinburg:20261023T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c3d8b0c4e3a61b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce5d5b7ed9495d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
+DTEND;TZID=Asia/Yekaterinburg:20260904T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13d0ffaf8d0c22e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T093500
+DTEND;TZID=Asia/Yekaterinburg:20260911T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7dede85b767f5bc4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T093500
+DTEND;TZID=Asia/Yekaterinburg:20260918T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a350b9c00a0a09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T093500
+DTEND;TZID=Asia/Yekaterinburg:20260925T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71aef08c29c8b1f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T093500
+DTEND;TZID=Asia/Yekaterinburg:20261002T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb09918e2e82ce7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T093500
+DTEND;TZID=Asia/Yekaterinburg:20261009T105500
+SUMMARY:Пакеты офисных прикладных программ (
+ лекция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:723103a2567ea730@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3c39c208d789e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3de3f6776049d8e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:332299295547548d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee82f7fb877914d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de2191b9a3054413@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6306b95382c52a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc2a8ae4a3f612c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T113500
+DTEND;TZID=Asia/Yekaterinburg:20261009T125500
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f75d0445b9ece91c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T113500
+DTEND;TZID=Asia/Yekaterinburg:20261002T125500
+SUMMARY:Электронный бизнес (лекция)
+LOCATION:404\, Корпус 9
+DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27134b1bc7285ba1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:421223fbb9dc4f83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54e362667d14f31e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d05903bf82677e3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a54c4134527728a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f1f42934b167569d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77d98380074c00a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3508c4c6d3fd1dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Основы современных цифровых техноло
+ гий и искусственного интеллекта (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31092e8948df2223@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c075b513cbfae18c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T151000
+DTEND;TZID=Asia/Yekaterinburg:20261113T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c838e41315c4c7a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T151000
+DTEND;TZID=Asia/Yekaterinburg:20261120T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a973c1838d4dfca0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
+DTEND;TZID=Asia/Yekaterinburg:20261127T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0875831d832de8df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
+DTEND;TZID=Asia/Yekaterinburg:20261204T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:36d477aa61cdda87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
+DTEND;TZID=Asia/Yekaterinburg:20261211T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84ddca7b11bba218@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T151000
+DTEND;TZID=Asia/Yekaterinburg:20261218T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cadb7fac1ad852fa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T151000
+DTEND;TZID=Asia/Yekaterinburg:20261225T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c33030a0a32bdd55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
+DTEND;TZID=Asia/Yekaterinburg:20261002T163000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6679d4a31411a7ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
+DTEND;TZID=Asia/Yekaterinburg:20261106T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bdee8231fd487c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
+DTEND;TZID=Asia/Yekaterinburg:20261113T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:15cb3364e068d50b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
+DTEND;TZID=Asia/Yekaterinburg:20261120T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c66ea1a335c72975@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc3f8259720a819@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
+DTEND;TZID=Asia/Yekaterinburg:20261204T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5db9c125f6b1a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
+DTEND;TZID=Asia/Yekaterinburg:20261211T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9856529331d5862b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T164500
+DTEND;TZID=Asia/Yekaterinburg:20261218T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5b533100dad18f59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T164500
+DTEND;TZID=Asia/Yekaterinburg:20261225T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0755fe69f87024e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T164500
+DTEND;TZID=Asia/Yekaterinburg:20261002T180500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+END:VCALENDAR

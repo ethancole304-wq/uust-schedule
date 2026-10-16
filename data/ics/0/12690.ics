@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ПРО-113Б — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d9763b6714f687d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0b56944b4e4472a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
+DTEND;TZID=Asia/Yekaterinburg:20260914T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e528d609eb3200e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T113500
+DTEND;TZID=Asia/Yekaterinburg:20260921T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:07f5aabf443f3c4f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:04feaf49a76a518b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T113500
+DTEND;TZID=Asia/Yekaterinburg:20261005T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:db4ed5e52102391f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
+DTEND;TZID=Asia/Yekaterinburg:20261019T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6744bc0858b729c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c56e56696d5491@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:88e791018a520328@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6ef55a59e0d19d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:790afbe1c6384385@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:20502ae62fb969a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9d7ca1b20c67f71@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2bc28965f02d5cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:309443a3faf7c12e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Физическая культура и спорт (практик
+ а)
+LOCATION:Спортивный зал\, Корпус 3 - Спортзал
+DESCRIPTION:3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c98231125c2bffea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T093500
+DTEND;TZID=Asia/Yekaterinburg:20260902T105500
+SUMMARY:Другое (уунит-старт)
+LOCATION:Концертный зал им. М.И. Рабиновича\, К
+ орпус 11
+DESCRIPTION:2 пара\nМодуль Творчество и самораз
+ витие
+END:VEVENT
+BEGIN:VEVENT
+UID:b42b7c335a89f0b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T113500
+DTEND;TZID=Asia/Yekaterinburg:20260902T125500
+SUMMARY:Другое (уунит-старт)
+LOCATION:Концертный зал им. М.И. Рабиновича\, К
+ орпус 11
+DESCRIPTION:3 пара\nМодуль Творчество и самораз
+ витие
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2e5f21e3f388cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T131000
+DTEND;TZID=Asia/Yekaterinburg:20260902T143000
+SUMMARY:Другое (уунит-старт)
+LOCATION:Тьюторский час
+DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff180bda1076b17f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
+DTEND;TZID=Asia/Yekaterinburg:20260903T105500
+SUMMARY:Другое (уунит-старт)
+LOCATION:501\, Корпус 9
+DESCRIPTION:2 пара\nМодуль Карьера и компетенци
+ и
+END:VEVENT
+BEGIN:VEVENT
+UID:276d831ffe5bb2ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
+DTEND;TZID=Asia/Yekaterinburg:20260903T125500
+SUMMARY:Другое (уунит-старт)
+LOCATION:7-404\, Корпус 7
+DESCRIPTION:3 пара\nМодуль Наука и предпринимат
+ ельство
+END:VEVENT
+BEGIN:VEVENT
+UID:98845843679cb930@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T151000
+DTEND;TZID=Asia/Yekaterinburg:20260903T163000
+SUMMARY:Другое (уунит-старт)
+LOCATION:Тьюторский час
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7771734b50880dff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T164500
+DTEND;TZID=Asia/Yekaterinburg:20260903T180500
+SUMMARY:Другое (уунит-старт)
+LOCATION:Дистанционный модуль в СДО УУНиТ
+DESCRIPTION:6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4e2762363993a8c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
+DTEND;TZID=Asia/Yekaterinburg:20260904T105500
+SUMMARY:Другое (уунит-старт)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:2 пара\nМодуль Полезные ресурсы
+END:VEVENT
+BEGIN:VEVENT
+UID:20ebe539a8281841@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260904T131000
+DTEND;TZID=Asia/Yekaterinburg:20260904T143000
+SUMMARY:Другое (уунит-старт)
+LOCATION:Тьюторский час
+DESCRIPTION:4 пара
+END:VEVENT
+END:VCALENDAR

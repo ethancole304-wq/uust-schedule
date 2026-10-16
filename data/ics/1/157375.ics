@@ -1,0 +1,1725 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uust-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Гайсина Галия Ахтяровна — УУНиТ
+X-WR-TIMEZONE:Asia/Yekaterinburg
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2641db13b03eca3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
+DTEND;TZID=Asia/Yekaterinburg:20260907T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa7e41e143f93e03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
+DTEND;TZID=Asia/Yekaterinburg:20260914T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fad95e729d578c7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T080000
+DTEND;TZID=Asia/Yekaterinburg:20260921T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a7acfb4aa4ce06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T080000
+DTEND;TZID=Asia/Yekaterinburg:20260928T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e786aee75d3126f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
+DTEND;TZID=Asia/Yekaterinburg:20261005T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c28a08bfe68c0b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
+DTEND;TZID=Asia/Yekaterinburg:20261019T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed28f6071418259a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T080000
+DTEND;TZID=Asia/Yekaterinburg:20261026T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e86f341f868f634@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
+DTEND;TZID=Asia/Yekaterinburg:20261102T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8337e7118241be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Математический анализ (лекция)
+LOCATION:202\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2cb571f670988d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:1adf664d3c03a93d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T080000
+DTEND;TZID=Asia/Yekaterinburg:20261214T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:9af4f897aa0d490a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:06ccddce115e7ccb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd485eb9782f23c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e21ec13aa70610@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T093500
+DTEND;TZID=Asia/Yekaterinburg:20260928T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:426\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n2 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef2623e127da1e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T113500
+DTEND;TZID=Asia/Yekaterinburg:20260928T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:426\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:b1904a25a37d6970@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
+DTEND;TZID=Asia/Yekaterinburg:20260907T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n3 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:a819260fb8b69377@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
+DTEND;TZID=Asia/Yekaterinburg:20260922T092000
+SUMMARY:Математика (лекция)
+LOCATION:Дистанционный формат проведения
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:413951055726c330@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T080000
+DTEND;TZID=Asia/Yekaterinburg:20260908T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb449b8b0cdf22f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
+DTEND;TZID=Asia/Yekaterinburg:20260915T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:04b483427ef1f03a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T080000
+DTEND;TZID=Asia/Yekaterinburg:20261006T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1676cc3b98ae1a3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T080000
+DTEND;TZID=Asia/Yekaterinburg:20261013T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a6295650fc9a64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
+DTEND;TZID=Asia/Yekaterinburg:20261020T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:78bcf152bda9ee68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
+DTEND;TZID=Asia/Yekaterinburg:20261027T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a07128e39ac82717@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d09addb9daaf756@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:2cebb6f04fb7817d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:0265efb5291b6df7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260901T093500
+DTEND;TZID=Asia/Yekaterinburg:20260901T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d96b1292b7237d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T093500
+DTEND;TZID=Asia/Yekaterinburg:20260908T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3f84e8887239e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T093500
+DTEND;TZID=Asia/Yekaterinburg:20260915T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5983d8f32d61899a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
+DTEND;TZID=Asia/Yekaterinburg:20261006T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5279986862d2f282@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
+DTEND;TZID=Asia/Yekaterinburg:20261013T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f00372f8611f416b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:86909a3f0d155fba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e11e3beb843fd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Математика (лекция)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d362cc47ee47474c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T093500
+DTEND;TZID=Asia/Yekaterinburg:20260922T105500
+SUMMARY:Математика (лекция)
+LOCATION:Дистанционный формат проведения
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ef55a715ee839d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:862697ed6082f05b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:510621b9f6642d3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:b207cd36957cee82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Математика (практика)
+LOCATION:Дистанционный формат проведения
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6774b26564c5e32c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
+DTEND;TZID=Asia/Yekaterinburg:20261006T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3102c9509a60bd38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69a62e7aca1a057a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
+DTEND;TZID=Asia/Yekaterinburg:20261020T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81f897528986afbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1b874dbfe7ccd1db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
+DTEND;TZID=Asia/Yekaterinburg:20261103T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c313125d65db2337@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e13b4c4998b0b5f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Математика (практика)
+LOCATION:524\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:686fa18287bebcc6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T113500
+DTEND;TZID=Asia/Yekaterinburg:20260908T125500
+SUMMARY:Математика (практика)
+LOCATION:515\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f66bd3b556ebe11c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Математика (практика)
+LOCATION:509\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dd74e55e794d47f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:Дистанционный формат проведения (по
+ дгруппа 2)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18ba0d9058e7f018@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
+DTEND;TZID=Asia/Yekaterinburg:20260908T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8c7817e5a6b578@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
+DTEND;TZID=Asia/Yekaterinburg:20261006T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ec634824456e07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
+DTEND;TZID=Asia/Yekaterinburg:20261020T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:bb6395e1527e4e7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
+DTEND;TZID=Asia/Yekaterinburg:20261103T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6a74d10d5cd12a8e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:f51eeea50f7fc005@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:b5296ec8e37cfec6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bd1ae1ad882c6433@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5d79906dc59c5329@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:146f2d18b14078d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
+DTEND;TZID=Asia/Yekaterinburg:20261110T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3cf7f281a064a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbe4ba36a95959e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1afe69ef296bd8a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
+DTEND;TZID=Asia/Yekaterinburg:20260922T163000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:Дистанционный формат проведения (по
+ дгруппа 1)
+DESCRIPTION:ПМИ-ПАД-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:11a724f4ca67cf60@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:4411e99aa7f31170@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:549441764f1b7630@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T093500
+DTEND;TZID=Asia/Yekaterinburg:20260909T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6362e2b011dbb37d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T093500
+DTEND;TZID=Asia/Yekaterinburg:20260916T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bad6ebbd06276cd8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T093500
+DTEND;TZID=Asia/Yekaterinburg:20260923T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8aa5f414d312d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T093500
+DTEND;TZID=Asia/Yekaterinburg:20261007T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f99f516a13f13527@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
+DTEND;TZID=Asia/Yekaterinburg:20261014T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:80a8d9a5d9efa603@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
+DTEND;TZID=Asia/Yekaterinburg:20261021T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b9dbfbfa9a78f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3caa1dd1cfc26bf6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
+DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbe2ef27fabf844@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9768cf26adfc805@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:89bdcc7056d55b49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
+DTEND;TZID=Asia/Yekaterinburg:20261202T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82829dd8a766551b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4322a48f45ec1ffe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1797f28bcac189@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2070672787b068@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T113500
+DTEND;TZID=Asia/Yekaterinburg:20260909T125500
+SUMMARY:Математика (практика)
+LOCATION:511\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c58eb0715ff2cd06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5bfb1ef81678563@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:96fcec6a0a72b780@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35e81962ee6223e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e5b642a332d284@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Математика (практика)
+LOCATION:517\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-202С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e0baca059c062e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260902T113500
+DTEND;TZID=Asia/Yekaterinburg:20260902T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n3 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:946a2e2577c2cb49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T113500
+DTEND;TZID=Asia/Yekaterinburg:20260923T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:86938ce7b734a604@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T113500
+DTEND;TZID=Asia/Yekaterinburg:20261007T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:204be43620c8e669@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d37fd4b3e3b0ca9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7761847ed0a7c680@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1865b40d64255d0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T113500
+DTEND;TZID=Asia/Yekaterinburg:20260916T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:86151e71a4c6d50a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T113500
+DTEND;TZID=Asia/Yekaterinburg:20260930T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8a737654526139@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:60ac9c3360232a6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ce60e12f78c847@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
+DTEND;TZID=Asia/Yekaterinburg:20260923T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:415f5198f38447e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
+DTEND;TZID=Asia/Yekaterinburg:20261007T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2646b652e2b7d304@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8115674ac5c43973@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0c25910bcce61f8a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc1dfe1874dec33@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
+DTEND;TZID=Asia/Yekaterinburg:20260916T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3903b8db250219@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T131000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:e75974df5b25c718@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:601c327f2662b6ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:10ae23fe9ce65449@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T151000
+DTEND;TZID=Asia/Yekaterinburg:20261007T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:98cf3d382f335d35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
+DTEND;TZID=Asia/Yekaterinburg:20261014T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:698c3279889ca983@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
+DTEND;TZID=Asia/Yekaterinburg:20261021T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:82438c6b499d6764@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
+DTEND;TZID=Asia/Yekaterinburg:20261028T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa2107fe4162290@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:59a6e49614111a29@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:18b3915374e8c221@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:c76c62aa29034ff6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9994a1c67a69a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:74d6cf8645796aad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n5 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:91a056fa818c2fa4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:304\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c755099fed925056@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Другое (кружок по фунд. дис.)
+LOCATION:527\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:Без группы\n6 пара\nКружок "Математи
+ ческий анализ"
+END:VEVENT
+BEGIN:VEVENT
+UID:000eecf2b4690b5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
+DTEND;TZID=Asia/Yekaterinburg:20260910T092000
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f46de2cb0a114df8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T080000
+DTEND;TZID=Asia/Yekaterinburg:20261008T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1713c3253a8ba36f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
+DTEND;TZID=Asia/Yekaterinburg:20261022T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6f75fddbd2ac28@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
+DTEND;TZID=Asia/Yekaterinburg:20261105T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0978f96cfac49e69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:89ef09875f316d6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
+DTEND;TZID=Asia/Yekaterinburg:20261203T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9bc6380b57ece2dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T080000
+DTEND;TZID=Asia/Yekaterinburg:20261217T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:54607dde664fbdad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T080000
+DTEND;TZID=Asia/Yekaterinburg:20261015T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:7acd05468e6847d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
+DTEND;TZID=Asia/Yekaterinburg:20261029T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:231888057b83bfd4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
+DTEND;TZID=Asia/Yekaterinburg:20261112T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:61652130ed81afb6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb31e66ede0fed5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
+DTEND;TZID=Asia/Yekaterinburg:20261210T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:46d7dacd76189d38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:38f1cd5462a56a55@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
+DTEND;TZID=Asia/Yekaterinburg:20260910T105500
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:119019337384a593@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
+DTEND;TZID=Asia/Yekaterinburg:20261210T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f145b7e83cb00044@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0054c8848e16ca05@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
+DTEND;TZID=Asia/Yekaterinburg:20261224T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8c0e0a891c51eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72aabaa2233cb325@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71313257d8a08488@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:210eba9f5a9ebb57@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
+DTEND;TZID=Asia/Yekaterinburg:20261029T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de6b1df17a237445@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed57c3a91476ffe2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
+DTEND;TZID=Asia/Yekaterinburg:20261001T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ff024d852d4222@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T113500
+DTEND;TZID=Asia/Yekaterinburg:20260924T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9e6e6faf098f34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T113500
+DTEND;TZID=Asia/Yekaterinburg:20260917T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43b28280bf8503d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
+DTEND;TZID=Asia/Yekaterinburg:20260903T125500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n3 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:20cfbb312dbb6090@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
+DTEND;TZID=Asia/Yekaterinburg:20261210T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:915be4a2a2293215@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T131000
+DTEND;TZID=Asia/Yekaterinburg:20260917T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f78abd738d8fae34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
+DTEND;TZID=Asia/Yekaterinburg:20260924T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8a24860ccfe1db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T131000
+DTEND;TZID=Asia/Yekaterinburg:20261001T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9dd02deba9e35a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T131000
+DTEND;TZID=Asia/Yekaterinburg:20261008T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c166a4d09ef415fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
+DTEND;TZID=Asia/Yekaterinburg:20261015T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70d1b1d1a4cc58d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:57590ed86cd2171a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
+DTEND;TZID=Asia/Yekaterinburg:20261029T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5941fb17a29c2484@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
+DTEND;TZID=Asia/Yekaterinburg:20261105T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:35ac2aa2b7578f0f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
+DTEND;TZID=Asia/Yekaterinburg:20261224T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e54818fd3510fc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
+DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:506\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1685aeade802af64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:506\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6e32914703a36ecd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:506\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4625d656f804df09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:506\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:93cd9761b7abc56f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ba31fbf909888af9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T131000
+DTEND;TZID=Asia/Yekaterinburg:20260910T143000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 2
+END:VEVENT
+BEGIN:VEVENT
+UID:d9601f013360bf01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
+DTEND;TZID=Asia/Yekaterinburg:20260917T163000
+SUMMARY:Математика (практика)
+LOCATION:531\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:БИТ-103С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a1feaab1350e08de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
+DTEND;TZID=Asia/Yekaterinburg:20261112T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f1e779ab8e79a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0224b98579756cec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8866029f85f58b42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T151000
+DTEND;TZID=Asia/Yekaterinburg:20261203T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32f80bcb0b87d51f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb5df8f83288e48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:66583cdd2cefdee6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:507\, Корпус 9
+DESCRIPTION:ПРО-112Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9ced9f058257e54f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
+DTEND;TZID=Asia/Yekaterinburg:20261002T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:23d55966c170a792@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
+DTEND;TZID=Asia/Yekaterinburg:20260911T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:7ebb0c9343499c4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T080000
+DTEND;TZID=Asia/Yekaterinburg:20260925T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:c11a6663bb56b627@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T080000
+DTEND;TZID=Asia/Yekaterinburg:20261009T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:acbd3c8e2d1c3e22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
+DTEND;TZID=Asia/Yekaterinburg:20261016T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2f43fbc218193d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:4b04ad2f4c26bee0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:28328cb530941605@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:f0001aa993570c85@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:89254d682fe1bc01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
+DTEND;TZID=Asia/Yekaterinburg:20261120T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac331eb946d2831@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
+DTEND;TZID=Asia/Yekaterinburg:20261127T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:a62ae275f27acbc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:c45022d0e85daf06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:32a6329c43e5de74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1d29fd33811ef7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:359589a87e38ea3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:Дистанционный формат проведения (Вс
+ я группа)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3890e83cc0b32df1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:55d64fe9d4fa90a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:35c8c56619203feb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:07aca7e85401b57a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n2 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1474c40be866c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5f7a621f42726890@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+END:VCALENDAR
