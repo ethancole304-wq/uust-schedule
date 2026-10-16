@@ -83,6 +83,26 @@ LOCATION:Коворкинг &quot\;Соты&quot\;\, Гуманитарны
 DESCRIPTION:МО-ВП-304Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5e8f398decb8f0d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T182000
+DTEND;TZID=Asia/Yekaterinburg:20261019T194000
+SUMMARY:История и методология исследований 
+ международных отношений (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:483b88cf06d407ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T195500
+DTEND;TZID=Asia/Yekaterinburg:20261019T211500
+SUMMARY:История и методология исследований 
+ международных отношений (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9c400a74763929a7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T093500
@@ -722,6 +742,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261118T180500
 SUMMARY:История России (лекция)
 LOCATION:609\, Гуманитарный (Карла Маркса 3/1)
 DESCRIPTION:ПРО-АН-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a38b67f5125c17d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T182000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:История и методология исследований 
+ международных отношений (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e6c8c51f6a9e44@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195500
+DTEND;TZID=Asia/Yekaterinburg:20261021T211500
+SUMMARY:История и методология исследований 
+ международных отношений (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f39687cb27021108@uust-schedule

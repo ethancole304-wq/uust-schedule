@@ -610,46 +610,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6b0f87a48591588e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
-DTEND;TZID=Asia/Yekaterinburg:20261116T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7ff33e5957c95890@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
-DTEND;TZID=Asia/Yekaterinburg:20261207T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:de0aa9d7fd41a14c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
-DTEND;TZID=Asia/Yekaterinburg:20261214T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0e0b413949294784@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
-DTEND;TZID=Asia/Yekaterinburg:20261221T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:7b9354722d509b27@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
@@ -678,126 +638,6 @@ SUMMARY:Технологии искусственного интеллек
  та (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e95646749f706244@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T182000
-DTEND;TZID=Asia/Yekaterinburg:20261116T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:83b3568b65efaaf3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
-DTEND;TZID=Asia/Yekaterinburg:20261207T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d9a6fcaaa316b1a1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261214T182000
-DTEND;TZID=Asia/Yekaterinburg:20261214T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3372f04392ed4c7f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261221T182000
-DTEND;TZID=Asia/Yekaterinburg:20261221T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:83fffac36111c063@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T182000
-DTEND;TZID=Asia/Yekaterinburg:20261019T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f53d4dfe5acccb60@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T182000
-DTEND;TZID=Asia/Yekaterinburg:20261026T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:87e555f44ec7be54@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
-DTEND;TZID=Asia/Yekaterinburg:20261102T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e57bf69fb641a706@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T182000
-DTEND;TZID=Asia/Yekaterinburg:20261109T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:51ce5217e0e36dea@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T195500
-DTEND;TZID=Asia/Yekaterinburg:20261019T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b41a0433e9ea9b2a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T195500
-DTEND;TZID=Asia/Yekaterinburg:20261026T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:753fc3276b420370@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T195500
-DTEND;TZID=Asia/Yekaterinburg:20261102T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:26e7d594144d860e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T195500
-DTEND;TZID=Asia/Yekaterinburg:20261109T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ЦТКС-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb838496bd7e1c2@uust-schedule
@@ -1230,166 +1070,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261027T180500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-206Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:979f375f4086dc4f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
-DTEND;TZID=Asia/Yekaterinburg:20261124T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e5671a84cca1321b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
-DTEND;TZID=Asia/Yekaterinburg:20261201T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1f327a8e5bfe3f57@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T182000
-DTEND;TZID=Asia/Yekaterinburg:20261208T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9c279d691ec4d061@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T182000
-DTEND;TZID=Asia/Yekaterinburg:20261215T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:367398f592b388e1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T182000
-DTEND;TZID=Asia/Yekaterinburg:20261027T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:590f3a02ec953c18@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
-DTEND;TZID=Asia/Yekaterinburg:20261103T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f213ff6ff3202ebc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T182000
-DTEND;TZID=Asia/Yekaterinburg:20261110T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:09c0e0b5683bf995@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
-DTEND;TZID=Asia/Yekaterinburg:20261117T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0f369740f1410798@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T195500
-DTEND;TZID=Asia/Yekaterinburg:20261124T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9c6250fc4b5f11b4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T195500
-DTEND;TZID=Asia/Yekaterinburg:20261201T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8138b1f85f2f8b3b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T195500
-DTEND;TZID=Asia/Yekaterinburg:20261208T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b29f96a1f9a30d30@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T195500
-DTEND;TZID=Asia/Yekaterinburg:20261215T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ОДБС-203Мс\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9a6892ebb8f2be91@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T195500
-DTEND;TZID=Asia/Yekaterinburg:20261027T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ce0346c3f55655ed@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
-DTEND;TZID=Asia/Yekaterinburg:20261103T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5649ee974cd48774@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
-DTEND;TZID=Asia/Yekaterinburg:20261110T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:70cb7c30673e237b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T195500
-DTEND;TZID=Asia/Yekaterinburg:20261117T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПИ-РБП-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:9c443548862a5784@uust-schedule
@@ -2010,46 +1690,6 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:f86d993e13c78b37@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
-DTEND;TZID=Asia/Yekaterinburg:20261202T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:314a085925547ce7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T182000
-DTEND;TZID=Asia/Yekaterinburg:20261209T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ac1a86037c4f3419@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261216T182000
-DTEND;TZID=Asia/Yekaterinburg:20261216T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3614286712c6f1ff@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261223T182000
-DTEND;TZID=Asia/Yekaterinburg:20261223T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:fffbc2caef880773@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T182000
@@ -2088,46 +1728,6 @@ SUMMARY:Технологии и системы искусственного
   интеллекта (лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-202Моз\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d13642e5dbad626c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T195500
-DTEND;TZID=Asia/Yekaterinburg:20261202T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e0a4f8fa83f95623@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T195500
-DTEND;TZID=Asia/Yekaterinburg:20261209T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:30491abf84992fa0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261216T195500
-DTEND;TZID=Asia/Yekaterinburg:20261216T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b10445a94dba165c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261223T195500
-DTEND;TZID=Asia/Yekaterinburg:20261223T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИСТ-ИСТ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:834f6ee1008c8f2a@uust-schedule
@@ -2560,46 +2160,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d3bc1e092af5d231@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
-DTEND;TZID=Asia/Yekaterinburg:20261119T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-КАИД-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0511d8b83c920d10@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
-DTEND;TZID=Asia/Yekaterinburg:20261029T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313
-DESCRIPTION:ИВТ-КАИД-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:eced5056845357ed@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
-DTEND;TZID=Asia/Yekaterinburg:20261105T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313
-DESCRIPTION:ИВТ-КАИД-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7a333e8604b5a2ea@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
-DTEND;TZID=Asia/Yekaterinburg:20261112T180500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313
-DESCRIPTION:ИВТ-КАИД-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c33ae8f8c92d09e4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T164500
@@ -2678,46 +2238,6 @@ SUMMARY:Технологии искусственного интеллек
  та (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:ПРО-ИТ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:afb6f55ff820a644@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T182000
-DTEND;TZID=Asia/Yekaterinburg:20261029T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-КАИД-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:38ef13474e90ee5a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T182000
-DTEND;TZID=Asia/Yekaterinburg:20261105T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-КАИД-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b2cca37af620fcf6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
-DTEND;TZID=Asia/Yekaterinburg:20261112T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-КАИД-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4b55434ccfeab13e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T182000
-DTEND;TZID=Asia/Yekaterinburg:20261119T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-КАИД-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:df3e3a809063da98@uust-schedule
@@ -3192,46 +2712,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-МОВКС-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6349a48ccf0037ca@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T182000
-DTEND;TZID=Asia/Yekaterinburg:20261127T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:96d3a64da87b83f4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T182000
-DTEND;TZID=Asia/Yekaterinburg:20261204T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e91f016fb79b234b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T182000
-DTEND;TZID=Asia/Yekaterinburg:20261211T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7f421f3fa51654bc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T182000
-DTEND;TZID=Asia/Yekaterinburg:20261218T194000
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:380bc58992094c93@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T182000
@@ -3310,46 +2790,6 @@ SUMMARY:Технологии искусственного интеллек
  та (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-МОВКС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:005f9bc693d3b10b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T195500
-DTEND;TZID=Asia/Yekaterinburg:20261127T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a8251037aa4f5b54@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T195500
-DTEND;TZID=Asia/Yekaterinburg:20261204T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f6f67324f474e7df@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T195500
-DTEND;TZID=Asia/Yekaterinburg:20261211T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:335fd70ccb6ff26c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T195500
-DTEND;TZID=Asia/Yekaterinburg:20261218T211500
-SUMMARY:Технологии искусственного интеллек
- та (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ИВТ-ИПОАС-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:5dcb1b56faf74ff1@uust-schedule

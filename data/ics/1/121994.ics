@@ -2317,6 +2317,16 @@ LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПИ-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2a75bd1d718b5b97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b07ac2997a442f0c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
@@ -2364,6 +2374,116 @@ DTEND;TZID=Asia/Yekaterinburg:20260904T143000
 SUMMARY:Имитационное моделирование процесс
  ов и систем (лекция)
 LOCATION:301\, Корпус 9
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f902eea73186d741@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T131000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:751a06407e9f50df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T131000
+DTEND;TZID=Asia/Yekaterinburg:20261023T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c43bfec4f1eac8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
+DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f7621934a4e37cde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c8f5093c252c2ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e75c58d8d6566168@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:01039ddb17c49638@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e2fe9516642a28a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94d00d9d6f6f5a8c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:693d5d941e912c3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfe3810078418ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
+DTEND;TZID=Asia/Yekaterinburg:20261225T143000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПИ-403Б\n4 пара
 END:VEVENT
 END:VCALENDAR

@@ -82,26 +82,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:2bdf28c856967ddb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
-DTEND;TZID=Asia/Yekaterinburg:20261019T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:301\, Корпус 9
-DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6484fbda61926f3f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
-DTEND;TZID=Asia/Yekaterinburg:20261026T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:301\, Корпус 9
-DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:cc312d82b2f4e9e1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
@@ -149,6 +129,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261214T143000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:405\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6484fbda61926f3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
 DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -369,6 +359,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T105500
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:404\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:854316fa1aa5c8cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:306\, Корпус 9
 DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
 END:VEVENT
 BEGIN:VEVENT

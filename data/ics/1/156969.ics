@@ -107,26 +107,6 @@ LOCATION:2-407\, Корпус 2
 DESCRIPTION:ПРО-АН-203Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:0218d34b7a2d6ee5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
-DTEND;TZID=Asia/Yekaterinburg:20261019T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:301\, Корпус 9
-DESCRIPTION:ПРО-АН-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1ebcd662fdbb3410@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
-DTEND;TZID=Asia/Yekaterinburg:20261026T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:301\, Корпус 9
-DESCRIPTION:ПРО-АН-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:9fcf0e35c862c829@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
@@ -174,6 +154,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261214T143000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:405\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebcd662fdbb3410@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
+DTEND;TZID=Asia/Yekaterinburg:20261026T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:301\, Корпус 9
 DESCRIPTION:ПРО-АН-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -234,6 +224,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T105500
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:404\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f06392288779ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:306\, Корпус 9
 DESCRIPTION:ПРО-АН-203Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT

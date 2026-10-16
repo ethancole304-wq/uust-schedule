@@ -2751,16 +2751,6 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ТОП-108Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:931a9defc6130733@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
-DTEND;TZID=Asia/Yekaterinburg:20261023T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (лекция)
-LOCATION:6-304\, Корпус 6
-DESCRIPTION:ТОП-108Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3b14b9c6433fe2a7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T080000
@@ -2769,6 +2759,16 @@ SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:304\, Корпус 9
 DESCRIPTION:ТОП-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:931a9defc6130733@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T080000
+DTEND;TZID=Asia/Yekaterinburg:20261023T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ТОП-108Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:63f05970e5eb6003@uust-schedule
