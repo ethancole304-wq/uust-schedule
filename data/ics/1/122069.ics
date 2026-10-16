@@ -4088,16 +4088,6 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:c224dff1a5903212@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
-DTEND;TZID=Asia/Yekaterinburg:20261219T125500
-SUMMARY:Администрирование информационных с
- истем (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-АН-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:cace7ae89a4d8b25@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T131000
@@ -4166,15 +4156,5 @@ SUMMARY:Администрирование информационных с
  истем (практика)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-404Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:df8be06e976c97d0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
-DTEND;TZID=Asia/Yekaterinburg:20261219T143000
-SUMMARY:Администрирование информационных с
- истем (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-АН-401Б\n4 пара
 END:VEVENT
 END:VCALENDAR

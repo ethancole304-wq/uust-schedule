@@ -1578,26 +1578,4 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:Верхотуров Михаил Александрович\n3
   пара
 END:VEVENT
-BEGIN:VEVENT
-UID:4d7dbe513eadd55f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
-DTEND;TZID=Asia/Yekaterinburg:20261219T125500
-SUMMARY:Администрирование информационных с
- истем (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Верхотуров Михаил Александрович\n3
-  пара
-END:VEVENT
-BEGIN:VEVENT
-UID:856cedca4ba4b73e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
-DTEND;TZID=Asia/Yekaterinburg:20261219T143000
-SUMMARY:Администрирование информационных с
- истем (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Верхотуров Михаил Александрович\n4
-  пара
-END:VEVENT
 END:VCALENDAR
