@@ -1591,10 +1591,10 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:69a22677a4a395cc@uust-schedule
+UID:9f9b8b0cf701c857@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
-DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
 SUMMARY:Распознавание образов (практика)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
@@ -1622,10 +1622,10 @@ DESCRIPTION:Верхотуров Михаил Александрович\n4
   пара
 END:VEVENT
 BEGIN:VEVENT
-UID:afbebefd6f9e9950@uust-schedule
+UID:fd3f23054a8aa0b9@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
-DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
 SUMMARY:Распознавание образов (практика)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара

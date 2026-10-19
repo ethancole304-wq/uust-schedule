@@ -152,6 +152,106 @@ LOCATION:1-304\, Корпус 1
 DESCRIPTION:МА-Л-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ececda18fe8a0c4b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5ca5355c660e83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1abafb23e7ea084@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59980f032db5ebfa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:020e1ecff8788474@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5162cde5db95f066@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc3cdd3b5112af38@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42c385f44cc710cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:67cb269a0535d8eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9893750fc1abb3b9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c8f208a036c302f3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
@@ -294,5 +394,25 @@ DTEND;TZID=Asia/Yekaterinburg:20261218T180500
 SUMMARY:Иностранный язык (практика)
 LOCATION:1-304\, Корпус 1
 DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1f34d3face4702d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T080000
+DTEND;TZID=Asia/Yekaterinburg:20261226T092000
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48c33e5f2d30f369@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
+DTEND;TZID=Asia/Yekaterinburg:20261226T105500
+SUMMARY:Академический курс иностранного язы
+ ка (практика)
+LOCATION:1-425\, Корпус 1
+DESCRIPTION:ИСТ-АМО-204Б\n2 пара
 END:VEVENT
 END:VCALENDAR

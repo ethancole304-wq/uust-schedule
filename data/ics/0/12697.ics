@@ -421,6 +421,17 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:fdb7b7397c875005@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
+DTEND;TZID=Asia/Yekaterinburg:20261109T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:b268db3c36e15f57@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T164500
@@ -518,6 +529,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261130T180500
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:3bff36b2b4a6e892@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T164500
+DTEND;TZID=Asia/Yekaterinburg:20261109T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
  ра
 END:VEVENT
 BEGIN:VEVENT
@@ -1921,28 +1943,6 @@ SUMMARY:Обеспечение качества и тестирование
 LOCATION:Асинхронно
 DESCRIPTION:Усманова Анжелика Рашитовна\n4 пар
  а
-END:VEVENT
-BEGIN:VEVENT
-UID:bcdd5a5b1dac9589@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
-DTEND;TZID=Asia/Yekaterinburg:20261111T163000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:6ce80147d1b78159@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
-DTEND;TZID=Asia/Yekaterinburg:20261111T180500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
- ра
 END:VEVENT
 BEGIN:VEVENT
 UID:18644a436c3e144b@uust-schedule

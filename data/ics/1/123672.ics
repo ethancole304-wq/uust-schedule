@@ -447,6 +447,17 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-307Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1380826fc254fef8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T131000
+DTEND;TZID=Asia/Yekaterinburg:20270112T143000
+SUMMARY:Интеллектуальные информационные си
+ стемы (консультация экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:БИБ-302Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:19808001e0d0be54@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
@@ -1037,6 +1048,16 @@ LOCATION:6-314\, Корпус 6
 DESCRIPTION:ЭАС-104С\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:75d5f48641885848@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Интеллектуальные информационные си
+ стемы (экзамен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:БИБ-302Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:22d92979921b60b7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
@@ -1055,6 +1076,16 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-314\, Корпус 6
 DESCRIPTION:ЭАС-104С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37699048c5deafbf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (экзамен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:af052594952ce673@uust-schedule

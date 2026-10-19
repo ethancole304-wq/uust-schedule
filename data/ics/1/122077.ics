@@ -296,6 +296,28 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:МО-304Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:64473f72f8d5178f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Имитационное моделирование (консуль
+ тация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-304Б\n5 пара\nНачало консультации 
+ в 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:53406588c219f823@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T151000
+DTEND;TZID=Asia/Yekaterinburg:20270111T163000
+SUMMARY:Имитационное моделирование (консуль
+ тация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-305Б\n5 пара\nНачало консультации 
+ в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:ae058ca52e7b1299@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
@@ -375,6 +397,26 @@ DTEND;TZID=Asia/Yekaterinburg:20260928T180500
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-307Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4f393ab76fc14c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Имитационное моделирование (экзамен
+ )
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-304Б\n4 пара\nНачало экзамена в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:4d03f5020e6e98b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T131000
+DTEND;TZID=Asia/Yekaterinburg:20270112T143000
+SUMMARY:Имитационное моделирование (экзамен
+ )
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-305Б\n4 пара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:ecf2bb429094bde2@uust-schedule

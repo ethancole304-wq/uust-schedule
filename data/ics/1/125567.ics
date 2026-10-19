@@ -539,6 +539,17 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7368007f348cf2ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T131000
+DTEND;TZID=Asia/Yekaterinburg:20270126T143000
+SUMMARY:Теория принятия решений (консультац
+ ия экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-305Б\n4 пара\nНачало консультации 
+ в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:997e76abcb5804df@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
@@ -977,6 +988,15 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-207Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7720e4667c9030c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Теория принятия решений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-305Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:97cd85671b843fb8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
@@ -1020,6 +1040,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261210T105500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60dd51e841ba4cd0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Теория принятия решений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-305Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4e2732512045f82f@uust-schedule
@@ -1182,6 +1211,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261224T143000
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7521e929e959c4be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Теория принятия решений (консультац
+ ия экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-304Б\n4 пара\nНачало консультации 
+ в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4121256451006f@uust-schedule
@@ -1442,6 +1482,15 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:МО-207Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:38702861f797b98a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Теория принятия решений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-304Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:b9038b5162bf33c7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
@@ -1476,6 +1525,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261225T105500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22c28e507b46c1bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Теория принятия решений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-304Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:af6803dc776764ea@uust-schedule

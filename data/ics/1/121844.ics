@@ -116,6 +116,26 @@ LOCATION:Асинхронно
 DESCRIPTION:МО-305Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:6e8fd13ef534617e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Дистанционно
+DESCRIPTION:МО-304Б\n4 пара\nНачало консультации 
+ в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0655b66bedbe56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Дистанционно
+DESCRIPTION:МО-305Б\n4 пара\nНачало консультации 
+ в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:8f0ce1d6d3416db4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T182000
@@ -159,6 +179,42 @@ DTEND;TZID=Asia/Yekaterinburg:20260914T211500
 SUMMARY:Иерархические модели данных (лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-КАИД-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b508ed2d4c73cac7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Дистанционно
+DESCRIPTION:МО-304Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc32b3d31054820@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Дистанционно
+DESCRIPTION:МО-305Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:a0fb195ea92448c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Дистанционно
+DESCRIPTION:МО-304Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:d61ee2033ad55cac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Дистанционно
+DESCRIPTION:МО-305Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:10ff32462741085a@uust-schedule
