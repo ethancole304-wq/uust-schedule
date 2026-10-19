@@ -357,6 +357,18 @@ LOCATION:6-301\, Корпус 6
 DESCRIPTION:ИСТ-АМО-204Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c7c4bf7459082ab2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Теоретические основы нейронных сете
+ й и машинного обучения (консультация экз
+ амена)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n4 пара\nНачало консульт
+ ации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:1b12874316e2d16e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
@@ -687,6 +699,17 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ИСАПД-101Мс\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:42f298dcb5054625@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Теоретические основы нейронных сете
+ й и машинного обучения (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n1 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:288b0dbcf0df4b03@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
@@ -765,6 +788,17 @@ SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77d1ce9fa454daca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Теоретические основы нейронных сете
+ й и машинного обучения (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n2 пара\nНачало экзамена 
+ в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4411ec28af3ad1@uust-schedule

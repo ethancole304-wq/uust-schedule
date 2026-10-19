@@ -1004,6 +1004,17 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-302Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2e29225abec60b67@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T131000
+DTEND;TZID=Asia/Yekaterinburg:20270112T143000
+SUMMARY:Интеллектуальные системы и технолог
+ ии (консультация экзамена)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-401Б\n4 пара\nНачало консульт
+ ации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:d66336c813def3d0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
@@ -1886,6 +1897,30 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f6426d5750584dae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (консультация экзамена)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n4 пара\nНачало консульт
+ ации в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:7f8f87296ca769a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (консультация экзамена)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-302Б\n4 пара\nНачало консульт
+ ации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:aa2ac80ee679dccc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
@@ -2114,6 +2149,17 @@ LOCATION:6-301\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ba49e5e9b329da59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Интеллектуальные системы и технолог
+ ии (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-401Б\n1 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:d64dbdf5cd7d9ce3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
@@ -2180,6 +2226,41 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-302Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:414f408a367213f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n1 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:09b31f5868568dc9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-302Б\n1 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:ad44918e1c892c98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Интеллектуальные системы и технолог
+ ии (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-401Б\n2 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:c59c091730ab4224@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T093500
@@ -2244,6 +2325,30 @@ SUMMARY:Компьютерная геометрия и графика (ла
  б.)
 LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c40fb58b69285556@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n2 пара\nНачало экзамена 
+ в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:0442fdaef911d093@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Организационно-правовые аспекты раз
+ работки и сопровождения информационных 
+ систем (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-302Б\n2 пара\nНачало экзамена 
+ в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:a020e492c97f1276@uust-schedule

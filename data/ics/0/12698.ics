@@ -1627,6 +1627,17 @@ DESCRIPTION:Верхотуров Михаил Александрович\n4
   пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ac96fa2f5ee50730@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n4
+  пара\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:05c8a0ff376e9126@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
@@ -1702,6 +1713,28 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:7c12e7155fde088b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n4 пара\
+ nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e48108c2bcae04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n1
+  пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:62855931b1d5e14c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T080000
@@ -1711,6 +1744,28 @@ SUMMARY:Программирование мобильных приложе
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:e634d86fc725f070@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара\
+ nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:78aeec46b4d9b585@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n2
+  пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:bb73651ce29dc012@uust-schedule
@@ -1767,6 +1822,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261112T105500
 SUMMARY:Распознавание образов (практика)
 LOCATION:6-313
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c87e2e9d005cb2f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара\
+ nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:afd553e9dbcda1e8@uust-schedule
@@ -2493,17 +2559,6 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:d2721d32527b3b14@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
-DTEND;TZID=Asia/Yekaterinburg:20261113T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:1925b3b00e19aca0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
@@ -2675,17 +2730,6 @@ UID:99fb64540fcd3796@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
 DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:be475acf99481c99@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
-DTEND;TZID=Asia/Yekaterinburg:20261113T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417а\, Корпус 6
@@ -2932,6 +2976,17 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:bbfe9f527c30c999@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
+DTEND;TZID=Asia/Yekaterinburg:20261023T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:12fe864a76587349@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T164500
@@ -2961,6 +3016,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261002T180500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab4cb44fd2b36de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
  ра
 END:VEVENT

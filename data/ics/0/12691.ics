@@ -1010,6 +1010,17 @@ LOCATION:6-403а\, Корпус 6
 DESCRIPTION:Мешков Иван Константинович\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ab3cee1c5c301ce0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:3f276af1a6aee7c4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T080000
@@ -2022,17 +2033,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260903T105500
 SUMMARY:Сети и телекоммуникации (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:Мешков Иван Константинович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ac07ae6ef704ef8b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
-DTEND;TZID=Asia/Yekaterinburg:20261022T125500
-SUMMARY:Алгоритмы и структуры данных (практи
- ка)
-LOCATION:6-313
-DESCRIPTION:Верхотурова Галина Николаевна\n3 п
- ара
 END:VEVENT
 BEGIN:VEVENT
 UID:69b251de45f3e810@uust-schedule

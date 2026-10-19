@@ -17,6 +17,28 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:9729578d5f74b0e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Web-дизайн\, программирование и продви
+ жение сайтов (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:e391576ab4b8f90f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Цифровые инновации и бизнес (консуль
+ тация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:bab0c4e33620dc2a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
@@ -607,6 +629,36 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:БИБ-401Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9fee714d0cbd7106@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Web-дизайн\, программирование и продви
+ жение сайтов (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:7a87b860baef0213@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Цифровые инновации и бизнес (экзамен
+ )
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:a67beae73d5b564b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Web-дизайн\, программирование и продви
+ жение сайтов (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:bebae1b79083f8a5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
@@ -685,6 +737,16 @@ SUMMARY:Программирование мобильных приложе
  ний (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:ПРО-404Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8d45d66644eaf0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Цифровые инновации и бизнес (экзамен
+ )
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:9854d93588021cc1@uust-schedule

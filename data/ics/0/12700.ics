@@ -1498,6 +1498,17 @@ DESCRIPTION:Верхотуров Михаил Александрович\n4
   пара
 END:VEVENT
 BEGIN:VEVENT
+UID:4cd4425d47aedb0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n4
+  пара\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:17f738e2af39af7f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
@@ -1605,6 +1616,17 @@ SUMMARY:Программирование мобильных приложе
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:38d99682e864eebe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n4 пара\
+ nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:162f83c2e3cdf7aa@uust-schedule
@@ -1787,6 +1809,17 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:41d01d35571229c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n1
+  пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:cb4e56df1663e538@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T080000
@@ -1897,6 +1930,17 @@ DESCRIPTION:Верхотуров Михаил Александрович\n1
   пара
 END:VEVENT
 BEGIN:VEVENT
+UID:32d5d22551c42184@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара\
+ nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:e13afb772fca64e1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T080000
@@ -1995,6 +2039,17 @@ SUMMARY:Системы искусственного интеллекта (
  лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0fc0164467b300@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n2
+  пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:ee85a5f0b19bfabb@uust-schedule
@@ -2105,6 +2160,17 @@ SUMMARY:Администрирование информационных с
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:Верхотуров Михаил Александрович\n2
   пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe98d92a316c91e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара\
+ nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:94e22c5a5c7b68ba@uust-schedule

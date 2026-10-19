@@ -571,17 +571,6 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:af6da7df354cfb59@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
-DTEND;TZID=Asia/Yekaterinburg:20261027T092000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-413
-DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:c473c5524ce52dac@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
@@ -704,17 +693,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261020T105500
 SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:6-416\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:4871ca326d7b3733@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
-DTEND;TZID=Asia/Yekaterinburg:20261027T105500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-413
 DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
  а
 END:VEVENT
@@ -2341,6 +2319,17 @@ LOCATION:8-Актовый зал\, Корпус 8
 DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:25a01e9a628e6068@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:59c021832b0865f2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
@@ -2425,6 +2414,17 @@ SUMMARY:Основы российской государственност
 LOCATION:6-204\, Корпус 6
 DESCRIPTION:Саитбатталов Искандер Расулевич\n4
   пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60a706a3a878bbb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-413
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
 END:VEVENT
 BEGIN:VEVENT
 UID:cb6057c8bab0fd5f@uust-schedule

@@ -270,6 +270,17 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:62aeec46cfd8af23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Облачные сервисы и системы (консульт
+ ация экзамена)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n5 пара\nНачало консуль
+ тации в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:0d7d8f7a4bf24ca0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T164500
@@ -884,6 +895,16 @@ LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-203Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2407868e7dae2460@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Облачные сервисы и системы (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n1 пара\nНачало экзамен
+ а в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:caa057afd46a38bf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
@@ -902,6 +923,16 @@ SUMMARY:Основы современных цифровых техноло
  гий и искусственного интеллекта (лаб.)
 LOCATION:6-301\, Корпус 6
 DESCRIPTION:ИСТ-101Бз\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98eb8d1b7ed6ab9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Облачные сервисы и системы (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n2 пара\nНачало экзамен
+ а в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:58252f1e768d8905@uust-schedule

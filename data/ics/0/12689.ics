@@ -128,6 +128,17 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Нагимова Ирина Альбертовна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:50a0453702f270eb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
+DTEND;TZID=Asia/Yekaterinburg:20261130T092000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:0b9bce7e53c2a064@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
@@ -255,6 +266,17 @@ SUMMARY:Основы современных цифровых техноло
  гий и искусственного интеллекта (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Нагимова Ирина Альбертовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e020bb7e39e91f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
+DTEND;TZID=Asia/Yekaterinburg:20261130T105500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а
 END:VEVENT
 BEGIN:VEVENT
 UID:804a1f1fb5ef36ce@uust-schedule
@@ -550,16 +572,6 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
-UID:f1ed872c6c44d980@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
-DTEND;TZID=Asia/Yekaterinburg:20261019T163000
-SUMMARY:История России (практика)
-LOCATION:101\, Корпус 9
-DESCRIPTION:Коваленко Екатерина Сергеевна\n5 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:893b5e6219c013ac@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
@@ -597,16 +609,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260921T163000
 SUMMARY:Карьерная адаптивность (лекция)
 LOCATION:7-304\, Корпус 7
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7b5d6d23828e29e6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
-DTEND;TZID=Asia/Yekaterinburg:20261019T180500
-SUMMARY:История России (практика)
-LOCATION:101\, Корпус 9
-DESCRIPTION:Коваленко Екатерина Сергеевна\n6 п
- ара
 END:VEVENT
 BEGIN:VEVENT
 UID:fa353776c3577f57@uust-schedule
@@ -1157,17 +1159,6 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:0c23eb5bb8007931@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
-DTEND;TZID=Asia/Yekaterinburg:20261027T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:cb4ba0df515e3f3b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
@@ -1406,17 +1397,6 @@ UID:73942e6163d860e9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
 DTEND;TZID=Asia/Yekaterinburg:20261020T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:6e436f98b68b672d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
-DTEND;TZID=Asia/Yekaterinburg:20261027T143000
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
@@ -3598,6 +3578,16 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n6 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:bc7332935d904cbc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T080000
+DTEND;TZID=Asia/Yekaterinburg:20261031T092000
+SUMMARY:История России (практика)
+LOCATION:1-311\, Корпус 1
+DESCRIPTION:Коваленко Екатерина Сергеевна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:c55ce025d996c8d6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270109T080000
@@ -3606,6 +3596,16 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:106\, Корпус 9
 DESCRIPTION:Габдулхаков Рамзиль Борисович\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:890ec5a3a1427abf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T093500
+DTEND;TZID=Asia/Yekaterinburg:20261031T105500
+SUMMARY:История России (практика)
+LOCATION:1-311\, Корпус 1
+DESCRIPTION:Коваленко Екатерина Сергеевна\n2 п
  ара
 END:VEVENT
 BEGIN:VEVENT

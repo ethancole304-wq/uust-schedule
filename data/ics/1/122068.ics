@@ -1151,6 +1151,16 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d2ff1123c6e2fdc8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Алгоритмы и структуры данных (практи
+ ка)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0d7a9cace5b6a291@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
@@ -1801,16 +1811,6 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d762acca6afd6931@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
-DTEND;TZID=Asia/Yekaterinburg:20261022T125500
-SUMMARY:Алгоритмы и структуры данных (практи
- ка)
-LOCATION:6-313
-DESCRIPTION:ПРО-209Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:f3fc7fa24364c4c5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T113500
@@ -1838,6 +1838,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261015T125500
 SUMMARY:Структуры и алгоритмы компьютерной 
  обработки данных (лекция)
 LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-207Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca278b3815a88ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (лекция)
+LOCATION:6-313
 DESCRIPTION:МО-207Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -17,6 +17,26 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:36c41492b8d8e41d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd9615eedd6c17f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:51935a16b9122275@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
@@ -380,16 +400,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-401Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:a630a6347c6a5d4b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
-DTEND;TZID=Asia/Yekaterinburg:20261111T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:ПРО-401Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:81b1fb551aec63ef@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T093500
@@ -470,56 +480,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:eaace82b32be4833@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
-DTEND;TZID=Asia/Yekaterinburg:20261111T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:ПРО-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:582e6da9dbbadf98@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
-DTEND;TZID=Asia/Yekaterinburg:20261014T125500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:943de2a6b4f056da@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
-DTEND;TZID=Asia/Yekaterinburg:20261021T125500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6a9fd0a0c19b5c97@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
-DTEND;TZID=Asia/Yekaterinburg:20261028T125500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:102c2dd304ac7738@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
-DTEND;TZID=Asia/Yekaterinburg:20261111T125500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a1ed0f38499631c5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T113500
@@ -570,44 +530,44 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-404Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:27679d294964cf57@uust-schedule
+UID:582e6da9dbbadf98@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
-DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261014T113500
+DTEND;TZID=Asia/Yekaterinburg:20261014T125500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n4 пара
+DESCRIPTION:ПРО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:a5e32d79f8216159@uust-schedule
+UID:943de2a6b4f056da@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
-DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n4 пара
+DESCRIPTION:ПРО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:a73ba0888c522d90@uust-schedule
+UID:6a9fd0a0c19b5c97@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
-DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n4 пара
+DESCRIPTION:ПРО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9d24f17117cd666f@uust-schedule
+UID:102c2dd304ac7738@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
-DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
+DTEND;TZID=Asia/Yekaterinburg:20261111T125500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n4 пара
+DESCRIPTION:ПРО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:7c69c508ee8fa25c@uust-schedule
@@ -660,6 +620,56 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-404Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:27679d294964cf57@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T131000
+DTEND;TZID=Asia/Yekaterinburg:20261014T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e32d79f8216159@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a73ba0888c522d90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d24f17117cd666f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
+DTEND;TZID=Asia/Yekaterinburg:20261111T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b514f69bffb989b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a352c0691632e668@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
@@ -676,6 +686,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261028T180500
 SUMMARY:Веб-дизайн (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:446f54000bff357a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ПРО-401Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3825c3f3d72d6652@uust-schedule
@@ -776,26 +796,6 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-401Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:7593eb2e06bf5dcc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
-DTEND;TZID=Asia/Yekaterinburg:20261119T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:69b5e2c4fc71cfa5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
-DTEND;TZID=Asia/Yekaterinburg:20261126T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:9bf9dd2629a608ec@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
@@ -890,26 +890,6 @@ UID:1516d7a3d4f70349@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
 DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ba98bf53c45d571c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
-DTEND;TZID=Asia/Yekaterinburg:20261119T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ff54c350c7f8edb8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
-DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417\, Корпус 6
@@ -1285,30 +1265,10 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-402Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:70ed6f1c0dd0f693@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
-DTEND;TZID=Asia/Yekaterinburg:20261113T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:5c185afba7ff1457@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
 DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4d222458f3e604ec@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
-DTEND;TZID=Asia/Yekaterinburg:20261113T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417а\, Корпус 6
@@ -1365,6 +1325,26 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-402Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a9183d28f032c1c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0c0d05a64284db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
+DTEND;TZID=Asia/Yekaterinburg:20261023T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:384d235224d5fc08@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T164500
@@ -1410,6 +1390,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261002T180500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82dd2efb6b65a55b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:ПРО-401Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c46ea24ff4b68b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-402Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT

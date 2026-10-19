@@ -17,6 +17,28 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3aa2ece0ae6eb42d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:7d07f9495530a8c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:6ad1627c7c4abafd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
@@ -257,6 +279,17 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ad8bd9a2e5a5b49d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n4
+  пара\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:e36efa7d978d740b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
@@ -275,6 +308,17 @@ SUMMARY:Распознавание образов (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:704915702bbcd8d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n4 пара\
+ nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:90061f9a787bcf05@uust-schedule
@@ -477,6 +521,17 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n6 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:1be3a13f45e792db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n1
+  пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:faed041e03792e29@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T080000
@@ -630,6 +685,28 @@ LOCATION:Уточняется
 DESCRIPTION:1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f9860996bf4ff088@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара\
+ nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1667b5fa3162ae99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n2
+  пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:a8d54e2dbeb8d46a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T093500
@@ -781,6 +858,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261222T105500
 SUMMARY:Другое (военная подготовка)
 LOCATION:Уточняется
 DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:72c507afe289e40f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара\
+ nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:65030f856eeb5c0b@uust-schedule
@@ -1494,17 +1582,6 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:63f97eb443ffbfe2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
-DTEND;TZID=Asia/Yekaterinburg:20261111T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:d8dda58b60a54795@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T093500
@@ -1597,17 +1674,6 @@ UID:0a221050eaf4b439@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
 DTEND;TZID=Asia/Yekaterinburg:20261028T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:8d9119b51f9c7954@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
-DTEND;TZID=Asia/Yekaterinburg:20261111T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-419\, Корпус 6
@@ -1857,6 +1923,28 @@ DESCRIPTION:Усманова Анжелика Рашитовна\n4 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:bcdd5a5b1dac9589@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce80147d1b78159@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:18644a436c3e144b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
@@ -1945,28 +2033,6 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:40f3f1987a1c2749@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
-DTEND;TZID=Asia/Yekaterinburg:20261119T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:edd5ce22698ca583@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
-DTEND;TZID=Asia/Yekaterinburg:20261126T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:884ec4ebc52e40d0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
@@ -2048,28 +2114,6 @@ UID:44c374ccf760d542@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
 DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:acde750a9861201f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
-DTEND;TZID=Asia/Yekaterinburg:20261119T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:90a97669bfa5cb4a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
-DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417\, Корпус 6
@@ -2898,6 +2942,17 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:835dc0e963ef1174@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
+DTEND;TZID=Asia/Yekaterinburg:20261030T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:3e003fe2f7cfed69@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T151000
@@ -2946,6 +3001,17 @@ SUMMARY:Системы искусственного интеллекта (
  лаб.)
 LOCATION:6-313
 DESCRIPTION:Ризванов Дмитрий Анварович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53bfbd7ff5768576@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
+DTEND;TZID=Asia/Yekaterinburg:20261030T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc4e588d773513e@uust-schedule

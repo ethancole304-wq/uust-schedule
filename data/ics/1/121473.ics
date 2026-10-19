@@ -274,6 +274,28 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:15cc4fb9e2c22dcf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:d3cc98b5e10a8f4a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:f11c76e27f92d866@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T151000
@@ -424,6 +446,26 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0ed932a9d7de538e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-403Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:16bc079d35066abf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:cbb838496bd7e1c2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
@@ -452,6 +494,26 @@ SUMMARY:Методы искусственного интеллекта (п
  рактика)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ada7d4ec07dff68f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-403Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1970c7d1dc5338db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:709e6c2f3c8b73a2@uust-schedule
@@ -1296,6 +1358,28 @@ LOCATION:6-313
 DESCRIPTION:ПРО-АН-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f8e8c105dc8efd7d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:f3b5161d77ea33c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Системы искусственного интеллекта (
+ консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:fcd832d76ed72a55@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
@@ -1506,6 +1590,26 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-404Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:68a340c84d51a0ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3d0fe2b4e1affa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-404Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:120c75c94c57b769@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
@@ -1614,6 +1718,26 @@ SUMMARY:Системы искусственного интеллекта (
  лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4e58535f7fe156@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1019f02fe34d91ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Системы искусственного интеллекта (
+ экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-404Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:f4ecc0ad5525669e@uust-schedule

@@ -1158,6 +1158,17 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:252fa0bde110cd32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Верхотуров Михаил Александрович\n4
+  пара\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:fcbb665f35e03dbb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T131000
@@ -1234,24 +1245,13 @@ DESCRIPTION:Ризванов Дмитрий Анварович\n4 пара\
  nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
-UID:715abafcfc73716b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270121T151000
-DTEND;TZID=Asia/Yekaterinburg:20270121T163000
-SUMMARY:Администрирование информационных с
- истем (консультация экзамена)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:Верхотуров Михаил Александрович\n5
-  пара\nНачало консультации в 15:00
-END:VEVENT
-BEGIN:VEVENT
 UID:6e745d0b340dbadb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
 DTEND;TZID=Asia/Yekaterinburg:20270122T092000
 SUMMARY:Администрирование информационных с
  истем (экзамен)
-LOCATION:6-204\, Корпус 6
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:Верхотуров Михаил Александрович\n1
   пара\nНачало экзамена в 9:00
 END:VEVENT
@@ -1273,7 +1273,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
 DTEND;TZID=Asia/Yekaterinburg:20270122T105500
 SUMMARY:Администрирование информационных с
  истем (экзамен)
-LOCATION:6-204\, Корпус 6
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:Верхотуров Михаил Александрович\n2
   пара\nНачало экзамена в 9:00
 END:VEVENT

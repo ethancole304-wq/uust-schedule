@@ -247,6 +247,28 @@ LOCATION:7-201\, Корпус 7
 DESCRIPTION:СТС-302С\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ea1cbfc9f79e7c97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-403Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:99ade0c0bb5ac09c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:941bba358876335d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
@@ -742,6 +764,26 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:МО-403Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bad463a04166db9a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-403Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:9942f7ecb83ecf2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:5e2b719b91a99b45@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270126T080000
@@ -841,6 +883,26 @@ SUMMARY:Администрирование информационных с
  истем (лекция)
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9560ffeaab30bccf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-403Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:7d57120dd1dc7caf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-401Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:e8c89ce1c146d705@uust-schedule
@@ -1988,6 +2050,28 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f5827e5628b69e95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:88b815f1f8d7671d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-404Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:2d53b470266a09f5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T131000
@@ -2041,18 +2125,6 @@ SUMMARY:Архитектура информационно-вычислит
  ратно-программные комплексы (практика)
 LOCATION:505\, Корпус 9
 DESCRIPTION:СТС-302С\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:cdbf9eb05a1b6fa7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
-DTEND;TZID=Asia/Yekaterinburg:20270120T143000
-SUMMARY:Системы обработки данных в организа
- ционно-технических системах (консультац
- ия экзамена)
-LOCATION:304\, Корпус 9
-DESCRIPTION:СТС-302С\n4 пара\nНачало консультации
-  в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:bef3768f2f9561c7@uust-schedule
@@ -2196,6 +2268,18 @@ SUMMARY:Модели и методы исследования эффект
  тем (лаб.)
 LOCATION:1-112\, Корпус 1
 DESCRIPTION:СТС-512С\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08d68c35b0f0f136@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T151000
+DTEND;TZID=Asia/Yekaterinburg:20270120T163000
+SUMMARY:Системы обработки данных в организа
+ ционно-технических системах (консультац
+ ия экзамена)
+LOCATION:304\, Корпус 9
+DESCRIPTION:СТС-302С\n5 пара\nНачало консультации
+  в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:da7b664dd5e681c2@uust-schedule
@@ -2481,6 +2565,26 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-404Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:87d7fbff3f15fa6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:238396b6383da13a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-404Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:b56a711a666417f8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
@@ -2621,6 +2725,26 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-404Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:6b32a13e66ddd63a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-402Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:c19611d0c3238be5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Администрирование информационных с
+ истем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-404Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:008d2e7f78a7a43b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
@@ -2739,6 +2863,17 @@ SUMMARY:Администрирование информационных с
  истем (практика)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:17fc397892db9089@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Администрирование информационных с
+ истем (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-401Б\n4 пара\nНачало консульта
+ ции в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:244483e9af6f945f@uust-schedule
@@ -2976,17 +3111,6 @@ SUMMARY:Администрирование информационных с
  истем (лекция)
 LOCATION:7-404\, Корпус 7
 DESCRIPTION:ПРО-402Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:807a04e83c9289db@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270121T151000
-DTEND;TZID=Asia/Yekaterinburg:20270121T163000
-SUMMARY:Администрирование информационных с
- истем (консультация экзамена)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:ПРО-АН-401Б\n5 пара\nНачало консульта
- ции в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:42118cf9344a697a@uust-schedule
@@ -3375,7 +3499,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
 DTEND;TZID=Asia/Yekaterinburg:20270122T092000
 SUMMARY:Администрирование информационных с
  истем (экзамен)
-LOCATION:6-204\, Корпус 6
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n1 пара\nНачало экзамена в
   9:00
 END:VEVENT
@@ -3467,7 +3591,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
 DTEND;TZID=Asia/Yekaterinburg:20270122T105500
 SUMMARY:Администрирование информационных с
  истем (экзамен)
-LOCATION:6-204\, Корпус 6
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n2 пара\nНачало экзамена в
   9:00
 END:VEVENT
