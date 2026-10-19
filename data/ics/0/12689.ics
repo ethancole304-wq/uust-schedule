@@ -1690,6 +1690,17 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:d598d10c51629882@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:09db6605b6b7fce8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
@@ -2239,17 +2250,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260924T105500
 SUMMARY:Карьерная адаптивность (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:162dcc680348e4a2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
-DTEND;TZID=Asia/Yekaterinburg:20261022T105500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лекция)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
- а
 END:VEVENT
 BEGIN:VEVENT
 UID:996f9f9cfa627130@uust-schedule

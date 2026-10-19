@@ -26,6 +26,16 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:de25a07aed9014e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
+DTEND;TZID=Asia/Yekaterinburg:20261026T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:211\, УК-3-4
+DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e54baa978744bfe2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
@@ -915,6 +925,16 @@ LOCATION:6-309\, Корпус 6
 DESCRIPTION:ПРО-111Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e70a1770f9e3cbbd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
+DTEND;TZID=Asia/Yekaterinburg:20261118T092000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:805f5f87864c59f1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T080000
@@ -1467,16 +1487,6 @@ LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-ИСАПД-101Мс\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b24c7dfb664c1345@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T080000
-DTEND;TZID=Asia/Yekaterinburg:20261022T092000
-SUMMARY:Объектно-ориентированное программи
- рование (лекция)
-LOCATION:4-127\, Корпус 4
-DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a23f0c7c4c334405@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
@@ -1525,16 +1535,6 @@ SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:6-305\, Корпус 6
 DESCRIPTION:ИСТ-101Бз\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8cdefd0588518983@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
-DTEND;TZID=Asia/Yekaterinburg:20261022T105500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лекция)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:ПРО-112Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:eb65fd9cd6bf7c6e@uust-schedule

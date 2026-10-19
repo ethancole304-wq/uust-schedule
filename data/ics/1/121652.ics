@@ -588,56 +588,6 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ИСТ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:36f29e6bbab7d25f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
-DTEND;TZID=Asia/Yekaterinburg:20261008T125500
-SUMMARY:Инструментальные средства информац
- ионных систем (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:54729c43e1b0f8b0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
-DTEND;TZID=Asia/Yekaterinburg:20261015T125500
-SUMMARY:Инструментальные средства информац
- ионных систем (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:fea1813fb96b3c39@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
-DTEND;TZID=Asia/Yekaterinburg:20261022T125500
-SUMMARY:Инструментальные средства информац
- ионных систем (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4bc29f4b6e90a461@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
-DTEND;TZID=Asia/Yekaterinburg:20261029T125500
-SUMMARY:Инструментальные средства информац
- ионных систем (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:17fd65fdff2ddb17@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
-DTEND;TZID=Asia/Yekaterinburg:20261105T125500
-SUMMARY:Инструментальные средства информац
- ионных систем (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e9b3b40962ea7ea2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T113500
@@ -678,10 +628,60 @@ LOCATION:6-305\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:36f29e6bbab7d25f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T113500
+DTEND;TZID=Asia/Yekaterinburg:20261008T125500
+SUMMARY:Инструментальные средства информац
+ ионных систем (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54729c43e1b0f8b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T113500
+DTEND;TZID=Asia/Yekaterinburg:20261015T125500
+SUMMARY:Инструментальные средства информац
+ ионных систем (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fea1813fb96b3c39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T113500
+DTEND;TZID=Asia/Yekaterinburg:20261022T125500
+SUMMARY:Инструментальные средства информац
+ ионных систем (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:17fd65fdff2ddb17@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
+SUMMARY:Инструментальные средства информац
+ ионных систем (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:acaf79817c89502b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
 DTEND;TZID=Asia/Yekaterinburg:20260903T143000
+SUMMARY:Инструментальные средства информац
+ ионных систем (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d86e04f110ab94c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
+DTEND;TZID=Asia/Yekaterinburg:20261022T143000
 SUMMARY:Инструментальные средства информац
  ионных систем (лекция)
 LOCATION:6-305\, Корпус 6
@@ -956,10 +956,30 @@ LOCATION:6-301\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:33984a91256ecd3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
+SUMMARY:Инструментальные средства информац
+ ионных систем (лаб.)
+LOCATION:6-301\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:bb30c7312eac6e03@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
 DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+SUMMARY:Инструментальные средства информац
+ ионных систем (лаб.)
+LOCATION:6-301\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4dfc202b6507910e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
+DTEND;TZID=Asia/Yekaterinburg:20261225T143000
 SUMMARY:Инструментальные средства информац
  ионных систем (лаб.)
 LOCATION:6-301\, Корпус 6
@@ -1020,16 +1040,6 @@ UID:05c36d1f787146b3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T151000
 DTEND;TZID=Asia/Yekaterinburg:20261023T163000
-SUMMARY:Инструментальные средства информац
- ионных систем (лаб.)
-LOCATION:6-301\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7ca6f7ee324b6745@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
-DTEND;TZID=Asia/Yekaterinburg:20261030T163000
 SUMMARY:Инструментальные средства информац
  ионных систем (лаб.)
 LOCATION:6-301\, Корпус 6
@@ -1150,16 +1160,6 @@ UID:ee26f78b1a62c553@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
 DTEND;TZID=Asia/Yekaterinburg:20261023T180500
-SUMMARY:Инструментальные средства информац
- ионных систем (лаб.)
-LOCATION:6-301\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e890a66b2644e39f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
-DTEND;TZID=Asia/Yekaterinburg:20261030T180500
 SUMMARY:Инструментальные средства информац
  ионных систем (лаб.)
 LOCATION:6-301\, Корпус 6
