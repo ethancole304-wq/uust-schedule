@@ -202,6 +202,39 @@ LOCATION:7-404\, Корпус 7
 DESCRIPTION:ПРО-308Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f2e3411b44d328be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-305Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9a30de23c85ee9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-306Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:51ec7011ad045b5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T151000
+DTEND;TZID=Asia/Yekaterinburg:20270111T163000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n5 пара\nНачало консультации
+  в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:a15f1267b6262949@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T151000
@@ -442,6 +475,24 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ТОП-204Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cd7bc546ce899203@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
+DTEND;TZID=Asia/Yekaterinburg:20270119T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:dcedb9d59efb4749@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-306Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:c86a4c06efcf2e85@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
@@ -600,6 +651,24 @@ SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8f73c67b65e61afa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T093500
+DTEND;TZID=Asia/Yekaterinburg:20270119T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0393505468d400@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-306Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:d9bfe12bb2592928@uust-schedule
@@ -1080,6 +1149,15 @@ LOCATION:7-206\, Корпус 7
 DESCRIPTION:ПРО-308Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b0f3de2396688c64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:4ee1d146ed4beb78@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
@@ -1107,6 +1185,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261111T105500
 SUMMARY:Модели хранения данных (лекция)
 LOCATION:7-404\, Корпус 7
 DESCRIPTION:ПРО-308Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aceaa687b15bf8a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:944a2a856542298a@uust-schedule
@@ -1409,6 +1496,17 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ТОП-204Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:afef52d37096c4fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-308Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:4db941e20022c1f0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T131000
@@ -1654,6 +1752,15 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-305Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0fc11d66191a8cba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:23f351770dfbb0d1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
@@ -1817,5 +1924,14 @@ DTEND;TZID=Asia/Yekaterinburg:20261225T105500
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d777a21f6270fe0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 END:VCALENDAR

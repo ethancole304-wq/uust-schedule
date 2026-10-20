@@ -483,6 +483,15 @@ LOCATION:104\, Корпус 9
 DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:988b344f518a2130@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Иностранный язык (практика)
+LOCATION:104\, Корпус 9
+DESCRIPTION:Ишбердина Миляуша Флюровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:478fc18f7327498e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
@@ -1754,15 +1763,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
 DTEND;TZID=Asia/Yekaterinburg:20261203T143000
 SUMMARY:Иностранный язык (практика)
 LOCATION:605\, Корпус 9
-DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:735089863cb2463e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T131000
-DTEND;TZID=Asia/Yekaterinburg:20261022T143000
-SUMMARY:Иностранный язык (практика)
-LOCATION:401\, Корпус 9
 DESCRIPTION:Ишбердина Миляуша Флюровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT

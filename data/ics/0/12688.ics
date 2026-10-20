@@ -1003,16 +1003,6 @@ DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:92d6c4855a34bc3b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
-DTEND;TZID=Asia/Yekaterinburg:20261020T105500
-SUMMARY:История России (лекция)
-LOCATION:7-206\, Корпус 7
-DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:91ea3e7211f86a6a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
@@ -1059,6 +1049,16 @@ DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
 DTEND;TZID=Asia/Yekaterinburg:20261201T105500
 SUMMARY:История России (лекция)
 LOCATION:7-206\, Корпус 7
+DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:92d6c4855a34bc3b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:История России (лекция)
+LOCATION:404\, Корпус 9
 DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
 END:VEVENT
@@ -1433,17 +1433,6 @@ DESCRIPTION:Костюкова Анастасия Петровна\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:f54a991d591f1b57@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
-DTEND;TZID=Asia/Yekaterinburg:20261020T163000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n5 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:e475bbde60dc1d70@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
@@ -1586,17 +1575,6 @@ UID:ecdda9ef7dc6b4f8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
 DTEND;TZID=Asia/Yekaterinburg:20261013T180500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n6 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:0b24c7d2dab68d58@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
-DTEND;TZID=Asia/Yekaterinburg:20261020T180500
 SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
@@ -3624,6 +3602,17 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n3 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:d8a362b2c8b10df8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:118bc003689e6196@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270109T131000
@@ -3633,5 +3622,16 @@ SUMMARY:Основы российской государственност
 LOCATION:106\, Корпус 9
 DESCRIPTION:Габдулхаков Рамзиль Борисович\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4dc47ea044fce3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:Костюкова Анастасия Петровна\n4 па
+ ра
 END:VEVENT
 END:VCALENDAR

@@ -117,16 +117,6 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:МО-207Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6edebcc913055190@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
-DTEND;TZID=Asia/Yekaterinburg:20261130T105500
-SUMMARY:Структуры и алгоритмы компьютерной 
- обработки данных (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:МО-207Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:00d3f5f2c4a6afad@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T113500

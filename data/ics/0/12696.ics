@@ -342,6 +342,17 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7c7d6e11e901723d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T151000
+DTEND;TZID=Asia/Yekaterinburg:20270111T163000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (консультация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n5 пара\nНача
+ ло консультации в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:6dbaf0c1a40817e1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
@@ -622,6 +633,17 @@ SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a1d318aabe09b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T131000
+DTEND;TZID=Asia/Yekaterinburg:20270112T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (экзамен)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара\nНача
+ ло экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:2418756d17bd4c49@uust-schedule
@@ -1290,6 +1312,17 @@ DTEND;TZID=Asia/Yekaterinburg:20260930T143000
 SUMMARY:Компьютерное моделирование (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:27376798d83697cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:6c01546e8c2145c0@uust-schedule
@@ -2274,6 +2307,39 @@ LOCATION:Уточняется
 DESCRIPTION:4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5adc75a8bb859900@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара\nНач
+ ало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2123c35bcab64788@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
+DTEND;TZID=Asia/Yekaterinburg:20270128T143000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало экзамена в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:782987fc40d459af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
+ а\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:a0497b14f6ae05e5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T151000
@@ -2630,6 +2696,16 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8a221097da3dd4bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:0e8b78fb3521936c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
@@ -2778,6 +2854,16 @@ SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
  ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90ad365c72994657@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:551bcda4ae19b59f@uust-schedule
@@ -3452,6 +3538,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261211T143000
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Валеева Аида Фаритовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:315317fd1d103068@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара\nНач
+ ало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:42bb2c94ae904c69@uust-schedule

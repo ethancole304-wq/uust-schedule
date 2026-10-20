@@ -699,6 +699,16 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ИСАПД-101Мс\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:baa79017f8aadca8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПИ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:42f298dcb5054625@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
@@ -2499,5 +2509,15 @@ SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПИ-403Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:711776a1dbfad38f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
+DTEND;TZID=Asia/Yekaterinburg:20261106T163000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПИ-403Б\n5 пара
 END:VEVENT
 END:VCALENDAR

@@ -312,6 +312,17 @@ DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:9f1cb9c5aa44be2e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
+ а\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:2d62198f1945e8da@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
@@ -361,6 +372,26 @@ SUMMARY:Методы приближенных вычислений (пра
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:4186bfb0f8b27ea5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
+DTEND;TZID=Asia/Yekaterinburg:20270112T092000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:47a1386cb6efb72b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4ac166437785c535@uust-schedule
@@ -729,6 +760,17 @@ SUMMARY:Методы приближенных вычислений (лек
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:99bc944322fa9386@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:080322cd9cfeb042@uust-schedule
@@ -1399,6 +1441,17 @@ LOCATION:7-206\, Корпус 7
 DESCRIPTION:Валеева Аида Фаритовна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:227154935747ba31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n4 пара\nНач
+ ало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:1bf491506034c853@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
@@ -1408,6 +1461,17 @@ SUMMARY:Методы приближенных вычислений (лаб.
 LOCATION:6-313
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:753edf70137cddea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:59027aa98f4da4b6@uust-schedule
@@ -1721,6 +1785,17 @@ LOCATION:Уточняется
 DESCRIPTION:1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0658708364841764@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n1 пара\nНач
+ ало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:d935fd5ba90763df@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
@@ -1872,6 +1947,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261224T105500
 SUMMARY:Другое (военная подготовка)
 LOCATION:Уточняется
 DESCRIPTION:2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:089cb7a703ccb677@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валеева Аида Фаритовна\n2 пара\nНач
+ ало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:60146de5b981475d@uust-schedule
@@ -2178,6 +2264,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261224T143000
 SUMMARY:Другое (военная подготовка)
 LOCATION:Уточняется
 DESCRIPTION:4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28f2847f88169ef5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (консультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара\nНача
+ ло консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:3501a3b000d8e94f@uust-schedule
@@ -2649,6 +2746,17 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a4a7a4dc1c4e8cf2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара\nНача
+ ло экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:62700ed0683f4790@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T093500
@@ -2810,6 +2918,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T105500
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:025b50195c2eaae6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара\nНача
+ ло экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:f89095206c3df3b6@uust-schedule

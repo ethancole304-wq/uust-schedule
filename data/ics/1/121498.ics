@@ -496,6 +496,17 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:67b476dd092ef3ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало консульта
+ ции в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:2397afbb34c63731@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T182000
@@ -544,6 +555,17 @@ SUMMARY:Современные численные методы и паке
  ты прикладных программ (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e13d82543b336d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
+DTEND;TZID=Asia/Yekaterinburg:20270128T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
+  13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:fef779202448fa22@uust-schedule

@@ -233,6 +233,17 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:МО-305Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9a0919d9c47d5e06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-305Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:d034741eefc28ea0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
@@ -609,6 +620,26 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d80d826310f8a127@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T080000
+DTEND;TZID=Asia/Yekaterinburg:20270127T092000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1011fd9441db837d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
+DTEND;TZID=Asia/Yekaterinburg:20270127T105500
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:05899762a3e9eed1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
@@ -733,6 +764,17 @@ DTEND;TZID=Asia/Yekaterinburg:20260930T143000
 SUMMARY:Компьютерное моделирование (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77b549c26ee24b4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-306Б\n4 пара\nНачало консультации
+  в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:5fbc24369f7e7580@uust-schedule
@@ -951,6 +993,48 @@ LOCATION:6-414
 DESCRIPTION:ПРО-305Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b18ac3d29ab63f76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-306Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:99b891aa80eb449d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-306Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:579a965a193d51db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-308Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:7512ad21f7e83eb2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n4 пара\nНачало консультации
+  в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:9131acbe9e027fdf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T164500
@@ -1131,6 +1215,16 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:МО-МОВКС-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3382b750711d4221@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:c3dfd418013d2ad7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T093500
@@ -1219,6 +1313,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261106T105500
 SUMMARY:Имитационное моделирование (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:МО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9fdcf3ba9b2f933f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-307Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:b1f2e6fa25d9463f@uust-schedule
@@ -1435,6 +1539,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261211T143000
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a7a989d28037552@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-308Б\n4 пара\nНачало экзамена в 13:0
+ 0
 END:VEVENT
 BEGIN:VEVENT
 UID:793e52bce468994a@uust-schedule

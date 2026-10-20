@@ -151,6 +151,17 @@ LOCATION:6-414
 DESCRIPTION:МО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5ca0df0713c056a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало консульта
+ ции в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:a1adbd4c705b8c92@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
@@ -493,6 +504,16 @@ SUMMARY:Технология разработки программного
  обеспечения и оценка качества (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:МО-403Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a82b78d91e862c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
+  13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:35c6203d8beca988@uust-schedule

@@ -876,16 +876,6 @@ DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:16abf7150ef40314@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
-DTEND;TZID=Asia/Yekaterinburg:20261020T105500
-SUMMARY:История России (лекция)
-LOCATION:7-206\, Корпус 7
-DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:9ccf35e246828f34@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
@@ -932,6 +922,16 @@ DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
 DTEND;TZID=Asia/Yekaterinburg:20261201T105500
 SUMMARY:История России (лекция)
 LOCATION:7-206\, Корпус 7
+DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:16abf7150ef40314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:История России (лекция)
+LOCATION:404\, Корпус 9
 DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
 END:VEVENT

@@ -160,6 +160,17 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:Ураков Айрат Ренатович\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d0764c2dccc1c1e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Модели хранения данных (консультаци
+ я экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара\nНачало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:060918310ca6c3fb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
@@ -543,6 +554,16 @@ SUMMARY:Методы приближенных вычислений (лек
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:7117921cf7b407f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Модели хранения данных (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:424b06ddd079a469@uust-schedule
@@ -1015,6 +1036,17 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:9f57c9291be575b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Ураков Айрат Ренатович\n4 пара\nНач
+ ало консультации в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:a642d66e688a97f0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
@@ -1063,6 +1095,17 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:303\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d54787f3e92fd7c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T151000
+DTEND;TZID=Asia/Yekaterinburg:20270113T163000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара\nНачало консультации в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4a674c98db901ecd@uust-schedule
@@ -1175,6 +1218,28 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:4-314\, Корпус 4
 DESCRIPTION:Насырова Элина Сагитовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:42d22f528d8d6ef6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало экзамена в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:29b361797bab84b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
+DTEND;TZID=Asia/Yekaterinburg:20270128T143000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Ураков Айрат Ренатович\n4 пара\nНач
+ ало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef6015da101a4f1@uust-schedule
@@ -1745,6 +1810,17 @@ DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:203ede75392c85f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валеев Руслан Сагитович\n5 пара\nНа
+ чало консультации в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:9a647ac2ad57c380@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
@@ -2131,6 +2207,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261226T143000
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:Валеев Руслан Сагитович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:853bf85b501a71f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270123T131000
+DTEND;TZID=Asia/Yekaterinburg:20270123T143000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валеев Руслан Сагитович\n4 пара\nНа
+ чало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:e864849a9c56b4b9@uust-schedule

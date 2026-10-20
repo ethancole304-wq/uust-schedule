@@ -17,6 +17,17 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:30930ab4a8c0ee3c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Компьютерное моделирование (консуль
+ тация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара\nНачало консульта
+ ции в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:4494641cee0c8640@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T080000
@@ -447,5 +458,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261226T143000
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ada05b60f7fbb95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270123T131000
+DTEND;TZID=Asia/Yekaterinburg:20270123T143000
+SUMMARY:Компьютерное моделирование (экзамен
+ )
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
+  13:00
 END:VEVENT
 END:VCALENDAR
