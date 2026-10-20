@@ -73,6 +73,15 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a4f5c5495d58c7c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0dd5acb9766f46ad@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
@@ -1957,15 +1966,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
 DTEND;TZID=Asia/Yekaterinburg:20261008T180500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лекция)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1c4a383623fb1a91@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
-DTEND;TZID=Asia/Yekaterinburg:20261126T180500
-SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT

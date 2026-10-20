@@ -65,26 +65,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:666b130aabe29af1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
-DTEND;TZID=Asia/Yekaterinburg:20261102T105500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ffe77c460a905716@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
-DTEND;TZID=Asia/Yekaterinburg:20261109T105500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:6a4b9c7ba5ed7e95@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
@@ -101,6 +81,35 @@ DTEND;TZID=Asia/Yekaterinburg:20261207T105500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00d2e8db8bb3b9d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8faba66926c80742@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:98a40afe46a2a244@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c301ee0c5ed5079f@uust-schedule
@@ -662,7 +671,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
 DTEND;TZID=Asia/Yekaterinburg:20261020T163000
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:Ураков Айрат Ренатович\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -672,7 +681,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
 DTEND;TZID=Asia/Yekaterinburg:20261103T163000
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:Ураков Айрат Ренатович\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -772,7 +781,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
 DTEND;TZID=Asia/Yekaterinburg:20261020T180500
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:Ураков Айрат Ренатович\n6 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -782,7 +791,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
 DTEND;TZID=Asia/Yekaterinburg:20261103T180500
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:Ураков Айрат Ренатович\n6 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1397,15 +1406,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
 DTEND;TZID=Asia/Yekaterinburg:20261008T180500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лекция)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a94694df4ad1803d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
-DTEND;TZID=Asia/Yekaterinburg:20261126T180500
-SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
 END:VEVENT

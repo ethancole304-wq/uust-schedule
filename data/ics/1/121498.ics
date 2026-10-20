@@ -382,7 +382,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
 DTEND;TZID=Asia/Yekaterinburg:20261020T163000
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -392,7 +392,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
 DTEND;TZID=Asia/Yekaterinburg:20261103T163000
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +462,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261020T164500
 DTEND;TZID=Asia/Yekaterinburg:20261020T180500
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -472,7 +472,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
 DTEND;TZID=Asia/Yekaterinburg:20261103T180500
 SUMMARY:Теория вероятностей и математическа
  я статистика (лаб.)
-LOCATION:6-413
+LOCATION:6-419
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
