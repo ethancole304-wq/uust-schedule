@@ -1025,16 +1025,6 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:541ebc81a70af0f7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
-DTEND;TZID=Asia/Yekaterinburg:20261021T125500
-SUMMARY:Методы и средства проектирования ин
- формационных систем и технологий (лаб.)
-LOCATION:6-303а\, Корпус 6
-DESCRIPTION:ИСТ-ГИС-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0b03e15bae5e6fd6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
@@ -1155,16 +1145,6 @@ LOCATION:6-303а\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:79d281ac5d6d5507@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
-DTEND;TZID=Asia/Yekaterinburg:20261021T143000
-SUMMARY:Методы и средства проектирования ин
- формационных систем и технологий (лаб.)
-LOCATION:6-303а\, Корпус 6
-DESCRIPTION:ИСТ-ГИС-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:941b20f86e289e2b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
@@ -1235,6 +1215,16 @@ LOCATION:4-127\, Корпус 4
 DESCRIPTION:ПИШ-ИТ-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b4e0266de7e17093@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e5d256a027d761d4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
@@ -1293,6 +1283,16 @@ SUMMARY:Основы современных цифровых техноло
  гий и искусственного интеллекта (лаб.)
 LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-АМО-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:815ceffc47085e91@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:ИСТ-ГИС-401Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3d9868e4d277cbc1@uust-schedule
