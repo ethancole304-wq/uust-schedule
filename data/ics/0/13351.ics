@@ -888,6 +888,16 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:0344b21a690412dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T182000
+DTEND;TZID=Asia/Yekaterinburg:20261218T194000
+SUMMARY:Иностранный язык (практика)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:Навалихина Адель Исмагиловна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:5743cbfc8a7f277f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T182000

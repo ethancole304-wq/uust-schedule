@@ -558,39 +558,6 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
-UID:11a88d4806778b1d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
-DTEND;TZID=Asia/Yekaterinburg:20261109T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:ed445c6f18da7d29@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
-DTEND;TZID=Asia/Yekaterinburg:20261123T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:eb4549fdcc013052@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
-DTEND;TZID=Asia/Yekaterinburg:20261130T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:7-404\, Корпус 7
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
 UID:72fa2da8cfd61dd3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
@@ -598,17 +565,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261019T143000
 SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:7-304\, Корпус 7
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:f5b540ca6b6460e3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
-DTEND;TZID=Asia/Yekaterinburg:20261026T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:405\, Корпус 9
 DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а\nЯиМП
 END:VEVENT
@@ -661,17 +617,6 @@ UID:812065ad4f105ba8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
 DTEND;TZID=Asia/Yekaterinburg:20261005T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:501\, Корпус 9
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:da036c5be4beb056@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
-DTEND;TZID=Asia/Yekaterinburg:20261116T143000
 SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:501\, Корпус 9
@@ -1780,6 +1725,39 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:d0d51d232e4e5ab5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
+UID:0d89c57de7a771de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
+UID:1fdce9577b21e2ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
 UID:909f99b538862a38@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
@@ -2322,6 +2300,17 @@ DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:67f0671cdf2ec87c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
+ а\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
 UID:64cf8f3fa22a888e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T093500
@@ -2413,6 +2402,17 @@ SUMMARY:Основы 3D-моделирования и визуализац
 LOCATION:6-309\, Корпус 6
 DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:63e45aa3bd4d0630@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
+ а\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
 UID:bb38a38bfdf2df5e@uust-schedule
@@ -3382,6 +3382,15 @@ DTEND;TZID=Asia/Yekaterinburg:20260904T125500
 SUMMARY:Другое (уунит-старт)
 LOCATION:8-Актовый зал\, Корпус 8
 DESCRIPTION:3 пара\nМодуль Полезные ресурсы
+END:VEVENT
+BEGIN:VEVENT
+UID:c1538815b4b4d2b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
+SUMMARY:Иностранный язык (практика)
+LOCATION:7-205\, Корпус 7
+DESCRIPTION:3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:d8cc325711df3746@uust-schedule

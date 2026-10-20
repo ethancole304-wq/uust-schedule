@@ -1430,4 +1430,26 @@ SUMMARY:Основы предпринимательства и коммер
 LOCATION:309\, Корпус 9
 DESCRIPTION:МКН-АДКМ-203М\n7 пара
 END:VEVENT
+BEGIN:VEVENT
+UID:1b15c1a193d6ec8b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T093500
+DTEND;TZID=Asia/Yekaterinburg:20261031T105500
+SUMMARY:Производственная практика 2 (научно-
+ исследовательская работа) (защита (к/р\,р
+ гр))
+LOCATION:Асинхронно
+DESCRIPTION:Э-ЭФП-302Мз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ffef7082081f0f3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Производственная практика 2 (научно-
+ исследовательская работа) (зачёт с оценк
+ ой)
+LOCATION:Асинхронно
+DESCRIPTION:Э-ЭФП-302Мз\n3 пара
+END:VEVENT
 END:VCALENDAR

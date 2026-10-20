@@ -157,36 +157,6 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
-UID:8f0a783dcbbbc8ff@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
-DTEND;TZID=Asia/Yekaterinburg:20261109T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:1ee1ec70b59eebfa@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
-DTEND;TZID=Asia/Yekaterinburg:20261123T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:4a8a2e228728cb55@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
-DTEND;TZID=Asia/Yekaterinburg:20261130T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:7-404\, Корпус 7
-DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
 UID:94e47ca85a63ad20@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
@@ -194,16 +164,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261019T143000
 SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:7-304\, Корпус 7
-DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:f7b96ae68a0325dc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
-DTEND;TZID=Asia/Yekaterinburg:20261026T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:405\, Корпус 9
 DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
@@ -261,16 +221,6 @@ UID:9c5d58bf1a88d96b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
 DTEND;TZID=Asia/Yekaterinburg:20261005T143000
-SUMMARY:Языки и методы программирования (лек
- ция)
-LOCATION:501\, Корпус 9
-DESCRIPTION:ПРО-112Б\n4 пара\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:5d160c0d90a92491@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
-DTEND;TZID=Asia/Yekaterinburg:20261116T143000
 SUMMARY:Языки и методы программирования (лек
  ция)
 LOCATION:501\, Корпус 9
@@ -777,6 +727,36 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:404b450d3e66268c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e2b777b534d8d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
+UID:2d633f06f229419e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
 UID:9618fcff8c9c4343@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T093500
@@ -1187,16 +1167,6 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:МО-206Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:78d2088b2d7bad8e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
-DTEND;TZID=Asia/Yekaterinburg:20261119T092000
-SUMMARY:Операционные системы и оболочки (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:МО-206Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c366c90489586624@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
@@ -1277,6 +1247,16 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-207Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:491c9db8d2106e21@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
+DTEND;TZID=Asia/Yekaterinburg:20261119T092000
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
 UID:81836c49e3bfefc9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
@@ -1311,16 +1291,6 @@ UID:3a2608a681fe00bc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
 DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Операционные системы и оболочки (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:МО-206Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d9dabac80f66d75e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
-DTEND;TZID=Asia/Yekaterinburg:20261119T105500
 SUMMARY:Операционные системы и оболочки (лаб
  .)
 LOCATION:6-414\, Корпус 6
@@ -1405,6 +1375,16 @@ SUMMARY:Операционные системы и оболочки (лаб
  .)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:434dc61dc8de0a56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
+DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+SUMMARY:Языки и методы программирования (лек
+ ция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-112Б\n2 пара\nЯиМП
 END:VEVENT
 BEGIN:VEVENT
 UID:13edd86545085d02@uust-schedule
@@ -1677,6 +1657,16 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:МО-207Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3d907a2374e9ac82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Операционные системы и оболочки (лаб
+ .)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:129fb17b04a91bae@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
@@ -1705,6 +1695,16 @@ SUMMARY:Операционные системы и оболочки (лек
  ция)
 LOCATION:7-404\, Корпус 7
 DESCRIPTION:МО-207Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65326e089fb5a953@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Операционные системы и оболочки (лаб
+ .)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:1064592b4ee2b498@uust-schedule
