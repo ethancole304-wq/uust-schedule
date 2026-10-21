@@ -149,6 +149,28 @@ LOCATION:405\, Корпус 9
 DESCRIPTION:ПРО-209Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:959da90ff399e527@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d02f8ba646ccdbe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
+DTEND;TZID=Asia/Yekaterinburg:20261117T163000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:5fdb980cb4d84a84@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
@@ -279,5 +301,115 @@ SUMMARY:Психология межличностной коммуника
  ве (практика)
 LOCATION:501\, Корпус 9
 DESCRIPTION:ПРО-210Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7065980972f4cff0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c120c1561e90e56@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ab3adf988c3df0bb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eeacadad1dcab0f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T113500
+DTEND;TZID=Asia/Yekaterinburg:20261212T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7b25c8c69d70426c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
+DTEND;TZID=Asia/Yekaterinburg:20261219T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c71e972152c2454@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
+DTEND;TZID=Asia/Yekaterinburg:20261226T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:195a1887c0bdd69b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bd363588c956e480@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T131000
+DTEND;TZID=Asia/Yekaterinburg:20261212T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ef1e20bb509cb32a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
+DTEND;TZID=Asia/Yekaterinburg:20261219T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:379d29b11b74bb0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
+DTEND;TZID=Asia/Yekaterinburg:20261226T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (практика)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
 END:VEVENT
 END:VCALENDAR

@@ -2173,16 +2173,6 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:33345a25cc4e88f6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
-DTEND;TZID=Asia/Yekaterinburg:20261113T105500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лекция)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3ea8c60a0c2a2d6a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
@@ -2190,6 +2180,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261030T105500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лекция)
 LOCATION:6-303а\, Корпус 6
+DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:33345a25cc4e88f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-305\, Корпус 6
 DESCRIPTION:Егорова Юлия Вадимовна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2319,13 +2319,13 @@ LOCATION:8-Актовый зал\, Корпус 8
 DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:25a01e9a628e6068@uust-schedule
+UID:461571f344c7ca1d@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
-DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
-LOCATION:6-413
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
@@ -2416,13 +2416,13 @@ DESCRIPTION:Саитбатталов Искандер Расулевич\n4
   пара
 END:VEVENT
 BEGIN:VEVENT
-UID:60a706a3a878bbb7@uust-schedule
+UID:057186b62b1f79f5@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
-DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
 SUMMARY:Языки и методы программирования (лаб
  .)
-LOCATION:6-413
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а
 END:VEVENT

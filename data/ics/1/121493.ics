@@ -17,6 +17,36 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:0788ee09d7ab69e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8cf806de441399@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69f65e1e15583b90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T080000
+DTEND;TZID=Asia/Yekaterinburg:20261109T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9dcd4390c6234495@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
@@ -65,6 +95,36 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da19e45086747954@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d1117a20d9d1cd9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e58e92070c46f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
+DTEND;TZID=Asia/Yekaterinburg:20261109T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:657657a2c2bf40cb@uust-schedule
@@ -117,6 +177,56 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-112Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a3f0ce0a1de3eacb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T113500
+DTEND;TZID=Asia/Yekaterinburg:20261130T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c68a86ab331d65f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f172137aa39b9298@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
+DTEND;TZID=Asia/Yekaterinburg:20261214T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a29c3d7ccb214c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e2b74949fa591333@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:bc6182a9c36b579a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261228T113500
@@ -135,6 +245,36 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414
 DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e66b0840657b7d90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0384d222c95f23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3b86483a2f04b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8d47a6309a66d4ff@uust-schedule
@@ -1667,6 +1807,56 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-206Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b586d88f241d8dbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71c787c1a2f17314@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bd106c1074b11d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c137b873d693f467@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:990998349fd4f094@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T080000
+DTEND;TZID=Asia/Yekaterinburg:20261030T092000
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:306\, Корпус 9
+DESCRIPTION:МКН-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:129fb17b04a91bae@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
@@ -1707,6 +1897,56 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-206Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2a905d5ff47adc93@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
+DTEND;TZID=Asia/Yekaterinburg:20261211T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f02dd6a84c68a634@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
+DTEND;TZID=Asia/Yekaterinburg:20261218T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38010dcd8ced6bee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59d924fd6780d1a3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf3de8a6322d46e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
+DTEND;TZID=Asia/Yekaterinburg:20261030T105500
+SUMMARY:Технология разработки программного 
+ обеспечения (лекция)
+LOCATION:306\, Корпус 9
+DESCRIPTION:МКН-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1064592b4ee2b498@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
@@ -1717,23 +1957,63 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b82a0142e63ef8e0@uust-schedule
+UID:f5c9c9256dd46719@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:87e58114d90d88e7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
 DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:МКН-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fad7a279c096c438@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
-LOCATION:6-413
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:922c7fffedea52ed@uust-schedule
+UID:1c17250a115afe52@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
+DTEND;TZID=Asia/Yekaterinburg:20261127T143000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:МКН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3c33d1f5b2e775@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
 DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Технология разработки программного 
+ обеспечения (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:МКН-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4674adfade27d619@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
 SUMMARY:Языки и методы программирования (лаб
  .)
-LOCATION:6-413
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n4 пара
 END:VEVENT
 END:VCALENDAR

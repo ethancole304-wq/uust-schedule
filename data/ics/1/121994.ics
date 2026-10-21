@@ -2301,16 +2301,6 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6304f1207fbc0787@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
-DTEND;TZID=Asia/Yekaterinburg:20261113T105500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лекция)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:ПРО-АН-104Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:06861cfa40fd9fc4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
@@ -2318,6 +2308,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261030T105500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лекция)
 LOCATION:6-303а\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6304f1207fbc0787@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
+DTEND;TZID=Asia/Yekaterinburg:20261113T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лекция)
+LOCATION:6-305\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
