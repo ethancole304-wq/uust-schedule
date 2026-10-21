@@ -295,6 +295,26 @@ LOCATION:3-415\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-201С\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:17dda00f13cbd832@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e767690df317ab0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T151000
+DTEND;TZID=Asia/Yekaterinburg:20261027T163000
+SUMMARY:Основы стартап-менеджмента и проект
+ ной акселерации (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-209Бзу\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:82386112dd5a5c83@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T080000

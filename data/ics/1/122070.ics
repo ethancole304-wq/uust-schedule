@@ -127,6 +127,26 @@ LOCATION:7-307\, Корпус 7
 DESCRIPTION:ПИ-110Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:93f9db162eddecec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
+DTEND;TZID=Asia/Yekaterinburg:20261026T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a45d09c9b4dc8688@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T093500
+DTEND;TZID=Asia/Yekaterinburg:20261019T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:8b919eeaaf80c4fe@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
@@ -447,6 +467,26 @@ SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:7-205\, Корпус 7
 DESCRIPTION:ПИ-110Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:56245b033b57268c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T080000
+DTEND;TZID=Asia/Yekaterinburg:20261028T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:395bbaeb210b7e79@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
+DTEND;TZID=Asia/Yekaterinburg:20261021T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:537e776f1ee1abad@uust-schedule
@@ -849,6 +889,16 @@ SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:101\, Корпус 9
 DESCRIPTION:ПИ-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:520033c0e7bc048a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
+DTEND;TZID=Asia/Yekaterinburg:20261022T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ПИ-210Бз\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:5a34275d250668b0@uust-schedule
