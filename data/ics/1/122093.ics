@@ -1725,6 +1725,56 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-307Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d78d88ef1e457f6c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T182000
+DTEND;TZID=Asia/Yekaterinburg:20261125T194000
+SUMMARY:Основы рекомендательных систем (лаб.
+ )
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:62cb9757987843c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
+DTEND;TZID=Asia/Yekaterinburg:20261202T194000
+SUMMARY:Основы рекомендательных систем (пра
+ ктика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2fd8d3c1ff9585@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T182000
+DTEND;TZID=Asia/Yekaterinburg:20261118T194000
+SUMMARY:Основы рекомендательных систем (лек
+ ция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3885cde70cf0d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T195500
+DTEND;TZID=Asia/Yekaterinburg:20261125T211500
+SUMMARY:Основы рекомендательных систем (лаб.
+ )
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da3965e207b0a6d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T195500
+DTEND;TZID=Asia/Yekaterinburg:20261118T211500
+SUMMARY:Основы рекомендательных систем (лек
+ ция)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c3c5611229e6d647@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270121T080000

@@ -105,6 +105,36 @@ LOCATION:Асинхронно
 DESCRIPTION:Нургаянова Ольга Сергеевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:edf30cba7d8d6f20@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T182000
+DTEND;TZID=Asia/Yekaterinburg:20261125T194000
+SUMMARY:Основы рекомендательных систем (лаб.
+ )
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b2983819f3dce6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
+DTEND;TZID=Asia/Yekaterinburg:20261202T194000
+SUMMARY:Основы рекомендательных систем (пра
+ ктика)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e9db26216636ade4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T182000
+DTEND;TZID=Asia/Yekaterinburg:20261118T194000
+SUMMARY:Основы рекомендательных систем (лек
+ ция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b7b4b935ac2626d8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T182000
@@ -142,6 +172,26 @@ DTEND;TZID=Asia/Yekaterinburg:20260923T211500
 SUMMARY:Нейросетевые технологии (лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:Нургаянова Ольга Сергеевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc6cc09e38767b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T195500
+DTEND;TZID=Asia/Yekaterinburg:20261125T211500
+SUMMARY:Основы рекомендательных систем (лаб.
+ )
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7dfb536bb42ee12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T195500
+DTEND;TZID=Asia/Yekaterinburg:20261118T211500
+SUMMARY:Основы рекомендательных систем (лек
+ ция)
+LOCATION:Асинхронно
+DESCRIPTION:Богданова Диана Радиковна\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:6314609f39fc379b@uust-schedule

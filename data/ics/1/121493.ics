@@ -817,6 +817,66 @@ LOCATION:6-414
 DESCRIPTION:ПРО-112Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:46e2c5f844802c59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be52362ecd53698f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:023742485fb92f02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c791bd3edef2568b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:30214bf5627037b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c24d89e50adc16ab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
+DTEND;TZID=Asia/Yekaterinburg:20261222T180500
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-204Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:5ea77703c34e1da6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T080000
@@ -1987,6 +2047,26 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bf53851d6995adc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d2fe2c73552d3904@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f5c9c9256dd46719@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
@@ -2015,6 +2095,26 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:de5b2f0209e136ef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:542c4b837f7c9984@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
+DTEND;TZID=Asia/Yekaterinburg:20261225T143000
+SUMMARY:Теория автоматов и формальных языко
+ в (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:1c17250a115afe52@uust-schedule
