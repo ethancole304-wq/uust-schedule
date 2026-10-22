@@ -564,24 +564,6 @@ LOCATION:3-304\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-202Сзу\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:fee15b06b1fde83d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
-DTEND;TZID=Asia/Yekaterinburg:20261023T105500
-SUMMARY:Деньги\, кредит и банки (лекция)
-LOCATION:3-405\, Корпус 3
-DESCRIPTION:ЭБ-ЭББ-202Сзу\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:265968285e3a3bab@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
-DTEND;TZID=Asia/Yekaterinburg:20261023T125500
-SUMMARY:Деньги\, кредит и банки (лекция)
-LOCATION:3-405\, Корпус 3
-DESCRIPTION:ЭБ-ЭББ-202Сзу\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:4a0787bc270eb939@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
@@ -640,5 +622,23 @@ SUMMARY:Основы стартап-менеджмента и проект
  ной акселерации (практика)
 LOCATION:3-201\, Корпус 3
 DESCRIPTION:МО-206Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3be8f46a20641b13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
+DTEND;TZID=Asia/Yekaterinburg:20261023T180500
+SUMMARY:Деньги\, кредит и банки (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-202Сзу\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3cdd8d1b736425a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T182000
+DTEND;TZID=Asia/Yekaterinburg:20261023T194000
+SUMMARY:Деньги\, кредит и банки (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-202Сзу\n7 пара
 END:VEVENT
 END:VCALENDAR

@@ -171,6 +171,123 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b3861855b53a90d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T182000
+DTEND;TZID=Asia/Yekaterinburg:20261027T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5842aa66960936d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5ab2b5358ab3a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T182000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:06f1492cdf659f7f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d58c15d18be1555@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
+DTEND;TZID=Asia/Yekaterinburg:20261124T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bee356f2da514016@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T195500
+DTEND;TZID=Asia/Yekaterinburg:20261027T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ee32efdaa63545cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
+DTEND;TZID=Asia/Yekaterinburg:20261103T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8283cac3f58e761f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
+DTEND;TZID=Asia/Yekaterinburg:20261110T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2c05cf6fab2ee66b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T195500
+DTEND;TZID=Asia/Yekaterinburg:20261117T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-203Боз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:5fdb980cb4d84a84@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
@@ -325,6 +442,188 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b4c02a0556940506@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T182000
+DTEND;TZID=Asia/Yekaterinburg:20261030T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4f34ddc268d90495@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T182000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e73856fcdb9d351@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T182000
+DTEND;TZID=Asia/Yekaterinburg:20261113T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4957a5e78ece2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T182000
+DTEND;TZID=Asia/Yekaterinburg:20261120T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b984eae8c9e4015@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T182000
+DTEND;TZID=Asia/Yekaterinburg:20261127T194000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e2dd249f26b87c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T195500
+DTEND;TZID=Asia/Yekaterinburg:20261030T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2556b2c510986375@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195500
+DTEND;TZID=Asia/Yekaterinburg:20261106T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:deb34debdc1d26d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T195500
+DTEND;TZID=Asia/Yekaterinburg:20261113T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:04b75dc91a0003ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T195500
+DTEND;TZID=Asia/Yekaterinburg:20261120T211500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-202Бозу\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a3d457700d3f940c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1df4b195aafcca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe44a9d2e522527@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n3 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:404900b0b54cc379@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n3 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:303246b946b98a32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n3 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
 UID:ab3adf988c3df0bb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
@@ -367,6 +666,58 @@ SUMMARY:Психология межличностной коммуника
  ве (практика)
 LOCATION:501\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3504deed27479ae3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f7058f6eadd7d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
+DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:преподаватель Бурдилёва Мария Стан
+ иславовна
+DESCRIPTION:П-ПП-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f287a1b2b9b2c2bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
+DTEND;TZID=Asia/Yekaterinburg:20261107T143000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n4 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:3820fac33dcca400@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n4 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
 END:VEVENT
 BEGIN:VEVENT
 UID:195a1887c0bdd69b@uust-schedule
