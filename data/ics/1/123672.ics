@@ -47,16 +47,6 @@ LOCATION:6-318\, Корпус 6
 DESCRIPTION:БИБ-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:633c6ac0d5788723@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T093500
-DTEND;TZID=Asia/Yekaterinburg:20261026T105500
-SUMMARY:Интеллектуальные информационные си
- стемы (лекция)
-LOCATION:6-318\, Корпус 6
-DESCRIPTION:БИБ-302Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:1bd19b945d15d39a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
@@ -395,6 +385,16 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-314
 DESCRIPTION:ИВТ-ИСУ-104Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a337287f1a5809f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
+DTEND;TZID=Asia/Yekaterinburg:20261027T105500
+SUMMARY:Интеллектуальные информационные си
+ стемы (лекция)
+LOCATION:6-318\, Корпус 6
+DESCRIPTION:БИБ-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:62a66fe7f5e9043e@uust-schedule

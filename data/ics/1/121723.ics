@@ -815,6 +815,17 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:209d3ac823f4d842@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T093500
+DTEND;TZID=Asia/Yekaterinburg:20261028T105500
+SUMMARY:Научно-исследовательский семинар &quo
+ t\;Информационная бизнес-аналитика&quot\; (л
+ екция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4dae23f902c7b4ff@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
@@ -1617,17 +1628,6 @@ UID:bb1505f3e35a4797@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
 DTEND;TZID=Asia/Yekaterinburg:20261023T105500
-SUMMARY:Научно-исследовательский семинар &quo
- t\;Информационная бизнес-аналитика&quot\; (л
- екция)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:БИБ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c278ae05d6bed863@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
-DTEND;TZID=Asia/Yekaterinburg:20261030T105500
 SUMMARY:Научно-исследовательский семинар &quo
  t\;Информационная бизнес-аналитика&quot\; (л
  екция)
