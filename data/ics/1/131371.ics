@@ -1144,26 +1144,6 @@ LOCATION:6-512\, Корпус 6
 DESCRIPTION:ИКТС-401С\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:7a64d1ac986ea087@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
-DTEND;TZID=Asia/Yekaterinburg:20261029T092000
-SUMMARY:Системы многоканальной связи специа
- льного назначения (лекция)
-LOCATION:6-512\, Корпус 6
-DESCRIPTION:ИКТС-401С\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9ffc93ffca84169f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
-DTEND;TZID=Asia/Yekaterinburg:20261105T092000
-SUMMARY:Системы многоканальной связи специа
- льного назначения (лекция)
-LOCATION:6-512\, Корпус 6
-DESCRIPTION:ИКТС-401С\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a9e0900c24147603@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
@@ -1198,6 +1178,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261022T105500
 SUMMARY:Сети и телекоммуникации (лекция)
 LOCATION:7-401\, Корпус 7
 DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d55b91e8696fca7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
+DTEND;TZID=Asia/Yekaterinburg:20261029T105500
+SUMMARY:Системы многоканальной связи специа
+ льного назначения (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТС-401С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2e508c91fb26edda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
+DTEND;TZID=Asia/Yekaterinburg:20261105T105500
+SUMMARY:Системы многоканальной связи специа
+ льного назначения (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТС-401С\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:0b269457e908c5e0@uust-schedule
