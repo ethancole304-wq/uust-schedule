@@ -1225,6 +1225,16 @@ LOCATION:6-309\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2d726290bbe6908f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e5d256a027d761d4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
@@ -1293,6 +1303,16 @@ SUMMARY:Методы и средства проектирования ин
  формационных систем и технологий (лаб.)
 LOCATION:6-309\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-401Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3a1fd35afe2b41@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:ПРО-111Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3d9868e4d277cbc1@uust-schedule
@@ -1507,16 +1527,6 @@ LOCATION:4-127\, Корпус 4
 DESCRIPTION:ПИШ-ИТ-203Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:90fd88aedfdb63cc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
-DTEND;TZID=Asia/Yekaterinburg:20261112T092000
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:939bacf8d5d10ae0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
@@ -1524,6 +1534,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261029T092000
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лекция)
 LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4451cdea2acd3b18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
 DESCRIPTION:ПРО-112Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1567,14 +1587,14 @@ LOCATION:202\, Корпус 9
 DESCRIPTION:ПРО-112Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:562b431b39f10402@uust-schedule
+UID:c0a4c16e4815c9e6@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-111Б\n2 пара
+DESCRIPTION:ПРО-112Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3ce96ef7b491031c@uust-schedule
@@ -1624,26 +1644,6 @@ SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-309\, Корпус 6
 DESCRIPTION:ИСТ-101Бз\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:58afbd9be3010e66@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
-DTEND;TZID=Asia/Yekaterinburg:20261030T125500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ae65c6c4405b8eaf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
-DTEND;TZID=Asia/Yekaterinburg:20261113T125500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c717a37e8a7c10c2@uust-schedule
@@ -1706,24 +1706,14 @@ LOCATION:6-309\, Корпус 6
 DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:20ea57a16895f75d@uust-schedule
+UID:ae65c6c4405b8eaf@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
-DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:956751d28a769d0e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3348c0727b465f26@uust-schedule
@@ -1780,6 +1770,16 @@ UID:e0911bcd66102c42@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
 DTEND;TZID=Asia/Yekaterinburg:20261225T143000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:956751d28a769d0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6

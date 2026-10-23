@@ -2248,6 +2248,28 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:f5bfe306562ef4b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:Трубин Владислав Дмитриевич\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:50bae42c0b5d7b4b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:Трубин Владислав Дмитриевич\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:29e4d000f68f48fc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261210T080000
@@ -2289,17 +2311,6 @@ DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:404312f1ee74e6e0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
-DTEND;TZID=Asia/Yekaterinburg:20261112T092000
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:67f0671cdf2ec87c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
@@ -2309,6 +2320,17 @@ SUMMARY:Языки и методы программирования (лек
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
  а\nЯиМП
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7b62703f33b5a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:64cf8f3fa22a888e@uust-schedule
@@ -2389,17 +2411,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261015T105500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лекция)
 LOCATION:202\, Корпус 9
-DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:57775cf79e4c9013@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
 DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
  а
 END:VEVENT
@@ -3335,17 +3346,6 @@ UID:efd61c6613f0cd18@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T113500
 DTEND;TZID=Asia/Yekaterinburg:20261016T125500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:20ebeb31da2db365@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
-DTEND;TZID=Asia/Yekaterinburg:20261023T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-416\, Корпус 6

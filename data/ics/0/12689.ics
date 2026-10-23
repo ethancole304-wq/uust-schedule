@@ -2211,6 +2211,17 @@ DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:183ba789f034210b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
+DESCRIPTION:Трубин Владислав Дмитриевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:fa4a404922fb9c3a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
@@ -2270,6 +2281,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261015T105500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лекция)
 LOCATION:202\, Корпус 9
+DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:41351ac2370a87af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Основы 3D-моделирования и визуализац
+ ии данных (лаб.)
+LOCATION:6-309\, Корпус 6
 DESCRIPTION:Трубин Владислав Дмитриевич\n2 пар
  а
 END:VEVENT
@@ -2944,10 +2966,10 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:Гайсина Галия Ахтяровна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:2fa821de2fb9ef74@uust-schedule
+UID:24d99394b4684180@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
-DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
@@ -2959,17 +2981,6 @@ UID:b1f52d30bbce5912@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
 DTEND;TZID=Asia/Yekaterinburg:20261113T125500
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:Трубин Владислав Дмитриевич\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:24d99394b4684180@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
-DTEND;TZID=Asia/Yekaterinburg:20261225T125500
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
@@ -3159,10 +3170,10 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:24c928d16ca1c7e0@uust-schedule
+UID:95c80011e65a8c43@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
-DTEND;TZID=Asia/Yekaterinburg:20261030T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
+DTEND;TZID=Asia/Yekaterinburg:20261225T143000
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
@@ -3174,17 +3185,6 @@ UID:e3fdf698a84e0b4f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
 DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:Основы 3D-моделирования и визуализац
- ии данных (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:Трубин Владислав Дмитриевич\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:95c80011e65a8c43@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
-DTEND;TZID=Asia/Yekaterinburg:20261225T143000
 SUMMARY:Основы 3D-моделирования и визуализац
  ии данных (лаб.)
 LOCATION:6-309\, Корпус 6
