@@ -35,6 +35,17 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:57e1af2badec2e0b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:ac34f13b2f3242fb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T093500
@@ -885,6 +896,17 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:2321fb548b296f2d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:cb1ff90235303fe3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
@@ -961,6 +983,17 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:6b1f44b07ce7705b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:5bcb1787eebcd57a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
@@ -999,6 +1032,17 @@ SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:d0ef074375622ae1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n4 пар
+ а
 END:VEVENT
 BEGIN:VEVENT
 UID:201e9670b886d275@uust-schedule
@@ -1106,6 +1150,17 @@ LOCATION:303\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:be2d9350f80ff283@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:d54787f3e92fd7c6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270113T151000
@@ -1165,6 +1220,39 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:303\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8532b0b0015491b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:9c66393c77684f09@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:a68b5c178058676b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T182000
+DTEND;TZID=Asia/Yekaterinburg:20261216T194000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n7 пар
+ а
 END:VEVENT
 BEGIN:VEVENT
 UID:890065d4702b7a12@uust-schedule
@@ -1284,24 +1372,35 @@ DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:031eacb7b1c898b0@uust-schedule
+UID:84a692eac3a1dd36@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
 DTEND;TZID=Asia/Yekaterinburg:20261029T163000
 SUMMARY:Компьютерная обработка эксперимент
- альных данных (лекция)
-LOCATION:6-415\, Корпус 6
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:970051a2895c6ba1@uust-schedule
+UID:d3bdcf51cfb9a1c1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:0aed7e66e9ff5273@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
 DTEND;TZID=Asia/Yekaterinburg:20261105T163000
 SUMMARY:Компьютерная обработка эксперимент
- альных данных (лекция)
-LOCATION:6-415\, Корпус 6
+ альных данных (лаб.)
+LOCATION:6-417\, Корпус 6
 DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
  а
 END:VEVENT
@@ -1366,6 +1465,39 @@ SUMMARY:Экономика программной инженерии (ла
  б.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c7aab64e6a5fee4a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:337ff2d88be708ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:2f8654ae049d68df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
+ а
 END:VEVENT
 BEGIN:VEVENT
 UID:1bb523ffb67688e9@uust-schedule
@@ -2218,137 +2350,5 @@ SUMMARY:Компьютерное моделирование (экзамен
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Валеев Руслан Сагитович\n4 пара\nНа
  чало экзамена в 13:00
-END:VEVENT
-BEGIN:VEVENT
-UID:e864849a9c56b4b9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
-DTEND;TZID=Asia/Yekaterinburg:20261107T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:2dd17fbded52fe38@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T151000
-DTEND;TZID=Asia/Yekaterinburg:20261114T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:c997e7f779b072b6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T151000
-DTEND;TZID=Asia/Yekaterinburg:20261121T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:a9ee74e4817ba75b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T151000
-DTEND;TZID=Asia/Yekaterinburg:20261128T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:f829ce8125d21025@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261205T151000
-DTEND;TZID=Asia/Yekaterinburg:20261205T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:cd3d23e3080a7e72@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261212T151000
-DTEND;TZID=Asia/Yekaterinburg:20261212T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:7f8f5df016a91a83@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
-DTEND;TZID=Asia/Yekaterinburg:20261107T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:1106dcd51b7a2365@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T164500
-DTEND;TZID=Asia/Yekaterinburg:20261114T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:4bde3ee9204e1a4f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T164500
-DTEND;TZID=Asia/Yekaterinburg:20261121T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:b8fd9b848a0f90a6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T164500
-DTEND;TZID=Asia/Yekaterinburg:20261128T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:0ca7198cfcbbe289@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261205T164500
-DTEND;TZID=Asia/Yekaterinburg:20261205T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:6cd9bef00b1f29ce@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261212T164500
-DTEND;TZID=Asia/Yekaterinburg:20261212T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Абдрахманова Римма Петровна\n6 пар
- а
 END:VEVENT
 END:VCALENDAR

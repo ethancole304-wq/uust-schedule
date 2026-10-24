@@ -107,6 +107,16 @@ LOCATION:7-201\, Корпус 7
 DESCRIPTION:ПРО-308Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:558ae0b9b161144c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b78490d871d0d997@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -1267,6 +1277,16 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:МО-403Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ff8139c07a83a334@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T093500
+DTEND;TZID=Asia/Yekaterinburg:20261118T105500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лекция)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:78588e552a02c151@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T093500
@@ -1387,6 +1407,16 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-308Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7820678a2a167533@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c9e3020ae8cded2d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T113500
@@ -1497,6 +1527,16 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-308Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a575971db92f17ee@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:fb309a08f728f8da@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T131000
@@ -1587,6 +1627,16 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-307Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:da6b1e59ed13a101@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:23576282bc3f44eb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
@@ -1637,6 +1687,26 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-307Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:71168e81be4897f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:857d60075b3f2ac6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:17206d0a9cd66a03@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
@@ -1685,6 +1755,16 @@ SUMMARY:Методы статистической обработки инф
  ормации (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:МО-МОВКС-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ed9c09b30344d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T182000
+DTEND;TZID=Asia/Yekaterinburg:20261216T194000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3326a11eeeb5ad60@uust-schedule
@@ -2127,24 +2207,64 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:1d01393d6d86b2fc@uust-schedule
+UID:de1f6b176fa504af@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
 DTEND;TZID=Asia/Yekaterinburg:20261029T163000
 SUMMARY:Компьютерная обработка эксперимент
- альных данных (лекция)
-LOCATION:6-415\, Корпус 6
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6692adb31fb5b534@uust-schedule
+UID:06e1ba54d04e6b73@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed5a041436b30c6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
 DTEND;TZID=Asia/Yekaterinburg:20261105T163000
 SUMMARY:Компьютерная обработка эксперимент
- альных данных (лекция)
-LOCATION:6-415\, Корпус 6
+ альных данных (лаб.)
+LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:412d54b54b075091@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T164500
+DTEND;TZID=Asia/Yekaterinburg:20261029T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:664417287844f63d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aea626f8340aada8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Компьютерная обработка эксперимент
+ альных данных (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e510509c73e5c173@uust-schedule
@@ -2835,125 +2955,5 @@ SUMMARY:Методы статистической обработки инф
  ормации (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:МО-МОВКС-104М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9cbda702c4394dde@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
-DTEND;TZID=Asia/Yekaterinburg:20261107T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6c0431d0a3b3e578@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T151000
-DTEND;TZID=Asia/Yekaterinburg:20261114T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:84275655a83de63a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T151000
-DTEND;TZID=Asia/Yekaterinburg:20261121T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2130b959ef1cf0a5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T151000
-DTEND;TZID=Asia/Yekaterinburg:20261128T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8fc503647afd3be6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261205T151000
-DTEND;TZID=Asia/Yekaterinburg:20261205T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:72d270b7b3ad038f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261212T151000
-DTEND;TZID=Asia/Yekaterinburg:20261212T163000
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:69728b3fcef971f9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
-DTEND;TZID=Asia/Yekaterinburg:20261107T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:00fb555383e003bd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T164500
-DTEND;TZID=Asia/Yekaterinburg:20261114T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4f28ad06716b90a7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T164500
-DTEND;TZID=Asia/Yekaterinburg:20261121T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:54afd13259e69deb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T164500
-DTEND;TZID=Asia/Yekaterinburg:20261128T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ddc549de52ba6a3d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261205T164500
-DTEND;TZID=Asia/Yekaterinburg:20261205T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b41af2f88d6bae76@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261212T164500
-DTEND;TZID=Asia/Yekaterinburg:20261212T180500
-SUMMARY:Компьютерная обработка эксперимент
- альных данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 END:VCALENDAR
