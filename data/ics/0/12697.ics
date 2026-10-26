@@ -2033,17 +2033,6 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:7e14bc83a984ab89@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
-DTEND;TZID=Asia/Yekaterinburg:20261105T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:884ec4ebc52e40d0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
@@ -2103,17 +2092,6 @@ UID:4eb9b3122c38af95@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
 DTEND;TZID=Asia/Yekaterinburg:20261029T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:c03e6c529165d864@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
-DTEND;TZID=Asia/Yekaterinburg:20261105T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417\, Корпус 6
@@ -3183,5 +3161,27 @@ SUMMARY:Обеспечение качества и тестирование
 LOCATION:Асинхронно
 DESCRIPTION:Усманова Анжелика Рашитовна\n2 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:ce18548f856b2c66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:fdae0a625c1e8c0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
+DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра
 END:VEVENT
 END:VCALENDAR

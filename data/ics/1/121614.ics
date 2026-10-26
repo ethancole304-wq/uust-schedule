@@ -796,16 +796,6 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-401Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ec9796eeb92030c8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
-DTEND;TZID=Asia/Yekaterinburg:20261105T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:9bf9dd2629a608ec@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T080000
@@ -880,16 +870,6 @@ UID:3812e5d0643350dd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
 DTEND;TZID=Asia/Yekaterinburg:20261029T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:ПРО-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:61245ebab8fd76db@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
-DTEND;TZID=Asia/Yekaterinburg:20261105T105500
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417\, Корпус 6
@@ -1253,26 +1233,6 @@ SUMMARY:Программирование клиентских сценар
  иев веб-приложений (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a24c6547779c90aa@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
-DTEND;TZID=Asia/Yekaterinburg:20261106T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5c185afba7ff1457@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
-DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-402Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:9dc0025d70526bc7@uust-schedule
@@ -1699,6 +1659,16 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8675db7026895027@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
+DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:ecdd3aa95ffd05f2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T113500
@@ -1769,6 +1739,16 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a230f4653c56c1e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
+DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:ПРО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4992ade26bbb60eb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T131000
@@ -1809,6 +1789,16 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a9367c025b6f39ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T151000
+DTEND;TZID=Asia/Yekaterinburg:20261031T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b8b723d487689100@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261003T151000
@@ -1827,6 +1817,16 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3220a2b306a5de91@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T164500
+DTEND;TZID=Asia/Yekaterinburg:20261031T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:ПРО-402Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d95713a0140be5@uust-schedule

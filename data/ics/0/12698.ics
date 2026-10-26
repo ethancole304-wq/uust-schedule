@@ -2548,17 +2548,6 @@ DESCRIPTION:Верхотуров Михаил Александрович\n1
   пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8da24028d08819a5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
-DTEND;TZID=Asia/Yekaterinburg:20261106T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:1925b3b00e19aca0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
@@ -2724,17 +2713,6 @@ SUMMARY:Программирование мобильных приложе
  ний (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:Богданов Марат Робертович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:99fb64540fcd3796@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
-DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
 END:VEVENT
 BEGIN:VEVENT
 UID:017de26fc36097c9@uust-schedule
@@ -3150,5 +3128,27 @@ SUMMARY:Обеспечение качества и тестирование
 LOCATION:Асинхронно
 DESCRIPTION:Усманова Анжелика Рашитовна\n2 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:8da10fa8bc474244@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T151000
+DTEND;TZID=Asia/Yekaterinburg:20261031T163000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:2d04c5b4e743434d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T164500
+DTEND;TZID=Asia/Yekaterinburg:20261031T180500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
 END:VEVENT
 END:VCALENDAR

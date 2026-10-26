@@ -17,6 +17,16 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:9ede6c642f2c69a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:64549b4283d09fd6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
@@ -43,17 +53,6 @@ UID:6042a36df2e7d7d1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T164500
 DTEND;TZID=Asia/Yekaterinburg:20261026T180500
-SUMMARY:Мероприятия по предотвращению и лок
- ализации аварий и инцидентов на опасных 
- производственных объектах (лекция)
-LOCATION:305\, УК-3-4
-DESCRIPTION:ТБ-203М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:033364ce7f3723f7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
-DTEND;TZID=Asia/Yekaterinburg:20261102T180500
 SUMMARY:Мероприятия по предотвращению и лок
  ализации аварий и инцидентов на опасных 
  производственных объектах (лекция)
@@ -110,6 +109,16 @@ SUMMARY:Основы интеллектуальной собственно
  сти (лекция)
 LOCATION:305\, УК-3-4
 DESCRIPTION:ЭП-204М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e3ebff0d9a1b29@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T182000
+DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ПРО-АН-302Б\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f8fbba7f29859f97@uust-schedule
@@ -506,6 +515,17 @@ LOCATION:303\, УК-3-4
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:73b56d3eb39fffd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
+DTEND;TZID=Asia/Yekaterinburg:20261111T194000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ТБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:80c7d0c2d9bebc1b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T182000
@@ -626,6 +646,16 @@ LOCATION:4-314\, Корпус 4
 DESCRIPTION:ПРО-АН-302Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:afa18eee2cf26427@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:306\, УК-3-4
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:d6d6c8493a6b272b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
@@ -654,26 +684,6 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:304\, УК-3-4
 DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2e7b423c2b3d9148@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
-DTEND;TZID=Asia/Yekaterinburg:20261106T163000
-SUMMARY:Безопасность жизнедеятельности (лаб
- .)
-LOCATION:4-314\, Корпус 4
-DESCRIPTION:ПРО-АН-302Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bd370914dda628de@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
-DTEND;TZID=Asia/Yekaterinburg:20261030T180500
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:305\, УК-3-4
-DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3df16faca57bfbf9@uust-schedule
@@ -713,16 +723,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261113T180500
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:304\, УК-3-4
-DESCRIPTION:ПРО-АН-302Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c7f561ed6dc9dba2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
-DTEND;TZID=Asia/Yekaterinburg:20261106T180500
-SUMMARY:Безопасность жизнедеятельности (лаб
- .)
-LOCATION:4-314\, Корпус 4
 DESCRIPTION:ПРО-АН-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT

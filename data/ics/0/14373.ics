@@ -329,6 +329,26 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8cd1c8231cd7c4a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
+DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:305\, УК-3-4
+DESCRIPTION:Насырова Элина Сагитовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:514ab62af51e5adc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T182000
+DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+SUMMARY:Безопасность жизнедеятельности (лаб
+ .)
+LOCATION:305\, УК-3-4
+DESCRIPTION:Насырова Элина Сагитовна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b8294a1753c8bda3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
@@ -1732,6 +1752,16 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:73d83fc0748b5652@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T113500
+DTEND;TZID=Asia/Yekaterinburg:20261030T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:306\, УК-3-4
+DESCRIPTION:Насырова Элина Сагитовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:10d63d13f1f34a96@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
@@ -1888,16 +1918,6 @@ LOCATION:304\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:63f78978f909b8c0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
-DTEND;TZID=Asia/Yekaterinburg:20261106T163000
-SUMMARY:Безопасность жизнедеятельности (лаб
- .)
-LOCATION:4-314\, Корпус 4
-DESCRIPTION:Насырова Элина Сагитовна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c17389b319cdef92@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T151000
@@ -1989,16 +2009,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b1c7a89a29d8299c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T164500
-DTEND;TZID=Asia/Yekaterinburg:20261030T180500
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:305\, УК-3-4
-DESCRIPTION:Насырова Элина Сагитовна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:92268da032c1c77d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T164500
@@ -2036,16 +2046,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261113T180500
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Насырова Элина Сагитовна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f64fb3e58a52f99b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
-DTEND;TZID=Asia/Yekaterinburg:20261106T180500
-SUMMARY:Безопасность жизнедеятельности (лаб
- .)
-LOCATION:4-314\, Корпус 4
 DESCRIPTION:Насырова Элина Сагитовна\n6 пара
 END:VEVENT
 BEGIN:VEVENT

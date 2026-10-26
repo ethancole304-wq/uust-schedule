@@ -1027,6 +1027,16 @@ LOCATION:105\, Корпус 9
 DESCRIPTION:ПИ-111Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c9b44e3c77afff87@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T182000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:bf033f9c27733feb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
@@ -1905,6 +1915,26 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:302\, Корпус 9
 DESCRIPTION:МО-109Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd815a380872551@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
+DTEND;TZID=Asia/Yekaterinburg:20261201T194000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5274b2e60e475723@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T195500
+DTEND;TZID=Asia/Yekaterinburg:20261201T211500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fcab9d5d6df28e69@uust-schedule
@@ -3307,16 +3337,6 @@ LOCATION:405\, Корпус 9
 DESCRIPTION:БИ-ЦРБ-104Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:51ebaa5e460974bf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
-DTEND;TZID=Asia/Yekaterinburg:20261029T125500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:405\, Корпус 9
-DESCRIPTION:БИ-ЦРБ-104Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:ef13a43df1f19040@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
@@ -3907,6 +3927,26 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:УТС-103Бз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a859dd67db51a1ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
+DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:82949f409088e7aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4c5ebfb9b9193474@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T195500
@@ -3915,6 +3955,26 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:6-106\, Корпус 6
 DESCRIPTION:УТС-103Бз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:562ea3656eac696e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T195500
+DTEND;TZID=Asia/Yekaterinburg:20261126T211500
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ebd77df01daefe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T195500
+DTEND;TZID=Asia/Yekaterinburg:20261203T211500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:3-405\, Корпус 3
+DESCRIPTION:ЭБ-ЭББ-103Сз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:d68581d94ba172e4@uust-schedule
@@ -5215,6 +5275,16 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:106\, Корпус 9
 DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:16935fa797b6fc5b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270109T151000
+DTEND;TZID=Asia/Yekaterinburg:20270109T163000
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:106\, Корпус 9
+DESCRIPTION:БИ-ЦРБ-104Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:99a10357cc9a398f@uust-schedule
