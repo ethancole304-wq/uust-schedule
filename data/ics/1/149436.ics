@@ -17,10 +17,10 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9ede6c642f2c69a5@uust-schedule
+UID:d2715c0a94655433@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
-DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:305\, УК-3-4
@@ -111,10 +111,10 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ЭП-204М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b9e3ebff0d9a1b29@uust-schedule
+UID:dfacc44ee21c07c1@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T182000
-DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:305\, УК-3-4
@@ -147,17 +147,6 @@ UID:cf94766b153dd1cb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T182000
 DTEND;TZID=Asia/Yekaterinburg:20261026T194000
-SUMMARY:Мероприятия по предотвращению и лок
- ализации аварий и инцидентов на опасных 
- производственных объектах (практика)
-LOCATION:305\, УК-3-4
-DESCRIPTION:ТБ-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:cc2f4cf0f4893ecb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
-DTEND;TZID=Asia/Yekaterinburg:20261102T194000
 SUMMARY:Мероприятия по предотвращению и лок
  ализации аварий и инцидентов на опасных 
  производственных объектах (практика)
@@ -293,10 +282,10 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4ced484476618574@uust-schedule
+UID:04912c0cc6a9733f@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T195500
-DTEND;TZID=Asia/Yekaterinburg:20261102T211500
+DTSTART;TZID=Asia/Yekaterinburg:20261109T195500
+DTEND;TZID=Asia/Yekaterinburg:20261109T211500
 SUMMARY:Мероприятия по предотвращению и лок
  ализации аварий и инцидентов на опасных 
  производственных объектах (практика)
@@ -304,10 +293,10 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:04912c0cc6a9733f@uust-schedule
+UID:4ced484476618574@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T195500
-DTEND;TZID=Asia/Yekaterinburg:20261109T211500
+DTSTART;TZID=Asia/Yekaterinburg:20261102T195500
+DTEND;TZID=Asia/Yekaterinburg:20261102T211500
 SUMMARY:Мероприятия по предотвращению и лок
  ализации аварий и инцидентов на опасных 
  производственных объектах (практика)
@@ -522,7 +511,7 @@ DTEND;TZID=Asia/Yekaterinburg:20261111T194000
 SUMMARY:Мероприятия по предотвращению и лок
  ализации аварий и инцидентов на опасных 
  производственных объектах (лекция)
-LOCATION:Уточняется
+LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -564,6 +553,17 @@ SUMMARY:Основы интеллектуальной собственно
  сти (практика)
 LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1918ee2b5382fd74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T195500
+DTEND;TZID=Asia/Yekaterinburg:20261111T211500
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (практика)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:9e2e5d8dcea543c2@uust-schedule

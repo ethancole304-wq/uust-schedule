@@ -117,26 +117,6 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:ПРО-404Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:21b4c4a7fe191d90@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
-DTEND;TZID=Asia/Yekaterinburg:20261102T125500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0d52759a15fd872a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e29812e24d65a08a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T113500
@@ -2069,6 +2049,26 @@ SUMMARY:Технологии искусственного интеллек
  та (лекция)
 LOCATION:7-206\, Корпус 7
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ec213b1ac3bcf6e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd80bbd4c71ea40@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8a5daf3571f043ef@uust-schedule

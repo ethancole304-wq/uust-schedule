@@ -103,26 +103,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8faba66926c80742@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
-DTEND;TZID=Asia/Yekaterinburg:20261102T125500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:98a40afe46a2a244@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
-SUMMARY:Логическое программирование (лекция
- )
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Ризванов Дмитрий Анварович\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c301ee0c5ed5079f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
@@ -329,20 +309,20 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8cd1c8231cd7c4a2@uust-schedule
+UID:4f86284f49f8c47e@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
-DTEND;TZID=Asia/Yekaterinburg:20261116T180500
+DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
+DTEND;TZID=Asia/Yekaterinburg:20261102T180500
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:305\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:514ab62af51e5adc@uust-schedule
+UID:56b43f8e337dc9e1@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T182000
-DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:305\, УК-3-4
@@ -1710,6 +1690,26 @@ SUMMARY:Элективные дисциплины по физической
   культуре и спорту (практика)
 LOCATION:Спортивный зал\, Корпус 3 - Спортзал
 DESCRIPTION:7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:68a7b54657793a58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T080000
+DTEND;TZID=Asia/Yekaterinburg:20261106T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f055c784be710f0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
+SUMMARY:Логическое программирование (лекция
+ )
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1bde29efe9b441@uust-schedule
