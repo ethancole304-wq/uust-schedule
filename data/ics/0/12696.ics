@@ -734,6 +734,17 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:76209d52dafe590e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T151000
+DTEND;TZID=Asia/Yekaterinburg:20270126T163000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара\nНачало консультации в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:4c9924fb1bd89839@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
@@ -1042,7 +1053,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261125T125500
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+DESCRIPTION:Кальсин Никита Александрович\n3 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:5a258d208d27701e@uust-schedule
@@ -1052,7 +1064,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261202T125500
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+DESCRIPTION:Кальсин Никита Александрович\n3 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:b645e6db660c78f4@uust-schedule
@@ -1062,7 +1075,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261209T125500
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+DESCRIPTION:Кальсин Никита Александрович\n3 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:131ae17a3caa309b@uust-schedule
@@ -1186,7 +1200,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261125T143000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+DESCRIPTION:Кальсин Никита Александрович\n4 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8487b058b096d2@uust-schedule
@@ -1196,7 +1211,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261202T143000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+DESCRIPTION:Кальсин Никита Александрович\n4 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:1f1f40a33d323a6c@uust-schedule
@@ -1206,7 +1222,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261209T143000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+DESCRIPTION:Кальсин Никита Александрович\n4 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:ae69ba3c3b5e8d4e@uust-schedule
@@ -1314,15 +1331,15 @@ LOCATION:7-206\, Корпус 7
 DESCRIPTION:Валеева Аида Фаритовна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:27376798d83697cb@uust-schedule
+UID:adfe0b7a0124da70@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
 DTEND;TZID=Asia/Yekaterinburg:20270127T143000
-SUMMARY:Методы приближенных вычислений (кон
- сультация экзамена)
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара\nНачало консультации в 13:00
+ ара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:6c01546e8c2145c0@uust-schedule
@@ -2316,17 +2333,6 @@ SUMMARY:Компьютерное моделирование (консуль
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Валеева Аида Фаритовна\n4 пара\nНач
  ало консультации в 13:00
-END:VEVENT
-BEGIN:VEVENT
-UID:2123c35bcab64788@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
-DTEND;TZID=Asia/Yekaterinburg:20270128T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:782987fc40d459af@uust-schedule

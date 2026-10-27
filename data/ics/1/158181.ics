@@ -607,6 +607,16 @@ LOCATION:7-301\, Корпус 7
 DESCRIPTION:ПРО-210Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:fd46123ae0ecaeab@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
+DTEND;TZID=Asia/Yekaterinburg:20260908T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:aa224f881d3c33c6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
@@ -704,36 +714,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261117T143000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-401\, Корпус 7
-DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3bb4abd5e320341a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
-DTEND;TZID=Asia/Yekaterinburg:20261124T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f44f6b1a3a89ffba@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
-DTEND;TZID=Asia/Yekaterinburg:20261201T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:fd46123ae0ecaeab@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
-DTEND;TZID=Asia/Yekaterinburg:20260908T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-301\, Корпус 7
 DESCRIPTION:БИ-ЦРБ-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -841,26 +821,6 @@ UID:e52bf1716fb43727@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
 DTEND;TZID=Asia/Yekaterinburg:20261117T163000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f85a8f8e5559c8ab@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
-DTEND;TZID=Asia/Yekaterinburg:20261124T163000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1ae4f0c48336e2ba@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
-DTEND;TZID=Asia/Yekaterinburg:20261201T163000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-401\, Корпус 7
@@ -1001,26 +961,6 @@ UID:9d844ae94d5d99e9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
 DTEND;TZID=Asia/Yekaterinburg:20261117T180500
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1a92d50c70dd44ef@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
-DTEND;TZID=Asia/Yekaterinburg:20261124T180500
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:7-401\, Корпус 7
-DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5d4c03807e775039@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
-DTEND;TZID=Asia/Yekaterinburg:20261201T180500
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-401\, Корпус 7
@@ -1537,6 +1477,16 @@ LOCATION:301\, Корпус 9
 DESCRIPTION:ПРО-209Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:df85c681d96c6eea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
+DTEND;TZID=Asia/Yekaterinburg:20261203T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ИВТ-ИВС-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:25b402b41daad449@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T151000
@@ -1615,6 +1565,26 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-401\, Корпус 7
 DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe88eb28086710c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:638d8f2708ba89b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:БИ-ЦРБ-203Б\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:069049b45255e398@uust-schedule

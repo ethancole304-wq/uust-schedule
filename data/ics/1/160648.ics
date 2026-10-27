@@ -497,26 +497,6 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:61e73d2a4a58f4f5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T195500
-DTEND;TZID=Asia/Yekaterinburg:20261208T211500
-SUMMARY:Основные проблемы философии сознани
- я (практика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c76a741d5c58699e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T195500
-DTEND;TZID=Asia/Yekaterinburg:20261215T211500
-SUMMARY:Основные проблемы философии сознани
- я (практика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:10ebebf5370926c7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
@@ -2034,6 +2014,16 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-102М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:027dc61bb17b2ced@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
+DTEND;TZID=Asia/Yekaterinburg:20261107T163000
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6780768e1e1b97b9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T151000
@@ -2051,6 +2041,16 @@ SUMMARY:Цифровые технологии в культуре (лекц
  ия)
 LOCATION:Дистанционно
 DESCRIPTION:СКД-5МСД221Бз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:897339f333fd06fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
+DTEND;TZID=Asia/Yekaterinburg:20261107T180500
+SUMMARY:Основные проблемы философии сознани
+ я (практика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c36869422f4b9326@uust-schedule

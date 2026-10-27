@@ -17,6 +17,26 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:82c354253218ed34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51c8ac843a92d637@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:2dd28eee6efb82ac@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
@@ -84,6 +104,36 @@ DTEND;TZID=Asia/Yekaterinburg:20261116T163000
 SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:302\, УК-3-4
+DESCRIPTION:ПРО-307Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b84c0e22ac3173e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc5aacebdf0e6db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:92c1ebd23ab3dbe2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
 DESCRIPTION:ПРО-307Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -155,6 +205,96 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:302\, УК-3-4
 DESCRIPTION:ПРО-307Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:259a3bdde3457f79@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:128ee36ce526769f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-306Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b111b8abfc003c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-307Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb13a5a66c4b79d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:73b3499d5b3114b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c08432672bd2d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a49c629fc6d733bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd51da247c7b9e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:348b500f79d7eeb5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:ПРО-308Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:ef9a47e5077ebf87@uust-schedule

@@ -354,6 +354,16 @@ LOCATION:4-314\, Корпус 4
 DESCRIPTION:ЭП-204М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b1b29f11d041a20d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T182000
+DTEND;TZID=Asia/Yekaterinburg:20261027T194000
+SUMMARY:Основы интеллектуальной собственно
+ сти (лекция)
+LOCATION:303\, УК-3-4
+DESCRIPTION:ЭП-204М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:076389378fcd31a5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T195500
@@ -401,6 +411,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261020T211500
 SUMMARY:Основы интеллектуальной собственно
  сти (практика)
 LOCATION:4-314\, Корпус 4
+DESCRIPTION:ЭП-204М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:828834f4cc486600@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T195500
+DTEND;TZID=Asia/Yekaterinburg:20261027T211500
+SUMMARY:Основы интеллектуальной собственно
+ сти (лекция)
+LOCATION:303\, УК-3-4
 DESCRIPTION:ЭП-204М\n8 пара
 END:VEVENT
 BEGIN:VEVENT

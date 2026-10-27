@@ -612,6 +612,17 @@ DESCRIPTION:Кальсин Никита Александрович\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:c52526ca999ea6bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:eb6cac368eb573e0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
@@ -709,6 +720,17 @@ DESCRIPTION:Кальсин Никита Александрович\n6 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:87f4ab73a06598a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:99a75fca8ab88153@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
@@ -735,17 +757,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260915T092000
 SUMMARY:Методы приближенных вычислений (пра
  ктика)
 LOCATION:6-415\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:6ee2dbbcf550a9bc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
-DTEND;TZID=Asia/Yekaterinburg:20261103T092000
-SUMMARY:Методы приближенных вычислений (пра
- ктика)
-LOCATION:6-313
 DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
  ара
 END:VEVENT
@@ -2719,14 +2730,15 @@ LOCATION:304\, УК-3-4
 DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d25089edd350bfe6@uust-schedule
+UID:e5628c26ece72e15@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
-DTEND;TZID=Asia/Yekaterinburg:20261106T125500
-SUMMARY:Безопасность жизнедеятельности (пра
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Методы приближенных вычислений (пра
  ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n3 пара
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
 END:VEVENT
 BEGIN:VEVENT
 UID:0ec77779959795c8@uust-schedule
@@ -2763,16 +2775,6 @@ UID:eaf5f7a02a4ce6ee@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T131000
 DTEND;TZID=Asia/Yekaterinburg:20261030T143000
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:033ed8dbeea149a1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
-DTEND;TZID=Asia/Yekaterinburg:20261106T143000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4

@@ -1771,16 +1771,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:79ddcfcbf6d3c1b7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
-DTEND;TZID=Asia/Yekaterinburg:20261218T125500
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-414
-DESCRIPTION:Верхотурова Галина Николаевна\n3 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:c5df8b1613f8f744@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
@@ -1889,16 +1879,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T143000
 SUMMARY:Алгоритмы и структуры данных (лекция
  )
 LOCATION:6-415\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n4 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:e75ce35fc2481940@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
-DTEND;TZID=Asia/Yekaterinburg:20261218T143000
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-414
 DESCRIPTION:Верхотурова Галина Николаевна\n4 п
  ара
 END:VEVENT

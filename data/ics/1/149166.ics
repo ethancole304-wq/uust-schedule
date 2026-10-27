@@ -147,16 +147,6 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-307Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5abadc386f0de4a9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
-DTEND;TZID=Asia/Yekaterinburg:20261103T092000
-SUMMARY:Методы приближенных вычислений (пра
- ктика)
-LOCATION:6-313
-DESCRIPTION:ПРО-307Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2a3ed02d972620da@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T080000
@@ -195,6 +185,46 @@ SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:7-307\, Корпус 7
 DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:774797896e3514c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b893221317a53241@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:ТОП-105Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:282ff67d5211f1dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0a733a076b0d20@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5b755bd5cebca7@uust-schedule
@@ -267,56 +297,6 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:ТОП-106Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6661d6c6b451d149@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
-DTEND;TZID=Asia/Yekaterinburg:20261103T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (лекция)
-LOCATION:6-202\, Корпус 6
-DESCRIPTION:ТОП-106Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:774797896e3514c2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-307\, Корпус 7
-DESCRIPTION:ТОП-105Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b893221317a53241@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
-DTEND;TZID=Asia/Yekaterinburg:20261208T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-307\, Корпус 7
-DESCRIPTION:ТОП-105Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:282ff67d5211f1dc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
-DTEND;TZID=Asia/Yekaterinburg:20261215T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-АН-104Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8e0a733a076b0d20@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
-DTEND;TZID=Asia/Yekaterinburg:20261222T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-АН-104Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:83ada24163b21bb1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
@@ -361,16 +341,6 @@ UID:53eb6a8e9060387c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
 DTEND;TZID=Asia/Yekaterinburg:20261027T125500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:42e8d43b58f55a73@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T113500
-DTEND;TZID=Asia/Yekaterinburg:20261103T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-416\, Корпус 6
@@ -617,16 +587,6 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:cac4d55d69c48de6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
-DTEND;TZID=Asia/Yekaterinburg:20261103T143000
-SUMMARY:Методы приближенных вычислений (лек
- ция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a86b953b2e30e286@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
@@ -740,66 +700,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-306Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:afe9fbc80823100b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
-DTEND;TZID=Asia/Yekaterinburg:20261006T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:79328a8b3a70d9bd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
-DTEND;TZID=Asia/Yekaterinburg:20261013T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:02c4b3e1700708a7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
-DTEND;TZID=Asia/Yekaterinburg:20261103T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:057a87231b509b03@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
-DTEND;TZID=Asia/Yekaterinburg:20261110T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a64dab0ac042aca3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
-DTEND;TZID=Asia/Yekaterinburg:20261201T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d5c2fcdc82a12d5d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
-DTEND;TZID=Asia/Yekaterinburg:20261208T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d2c946ad6c518b4e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T151000
@@ -860,6 +760,78 @@ LOCATION:6-313
 DESCRIPTION:ПРО-308Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:afe9fbc80823100b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
+DTEND;TZID=Asia/Yekaterinburg:20261006T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:79328a8b3a70d9bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T151000
+DTEND;TZID=Asia/Yekaterinburg:20261013T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:057a87231b509b03@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
+DTEND;TZID=Asia/Yekaterinburg:20261110T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a64dab0ac042aca3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c2fcdc82a12d5d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:81a35fb8a8e071f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T151000
+DTEND;TZID=Asia/Yekaterinburg:20270112T163000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n5 пара\nНачало консульта
+ ции в 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3d3acf385cfc7a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T151000
+DTEND;TZID=Asia/Yekaterinburg:20270126T163000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-308Б\n5 пара\nНачало консультации
+  в 15:00
+END:VEVENT
+BEGIN:VEVENT
 UID:8e9d6398317e3cc9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
@@ -908,66 +880,6 @@ SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-306Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:eeb3e516c0d3c811@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
-DTEND;TZID=Asia/Yekaterinburg:20261006T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:540984e3b6cae042@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
-DTEND;TZID=Asia/Yekaterinburg:20261013T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:afe9536813360658@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
-DTEND;TZID=Asia/Yekaterinburg:20261103T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f46f5e0e0a3206a6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
-DTEND;TZID=Asia/Yekaterinburg:20261110T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:162fd8917c9fc7f7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
-DTEND;TZID=Asia/Yekaterinburg:20261201T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:39977a319b31a1d5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
-DTEND;TZID=Asia/Yekaterinburg:20261208T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:ПРО-305Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c338ce8fbd44f6a6@uust-schedule
@@ -1028,6 +940,56 @@ SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313
 DESCRIPTION:ПРО-308Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb3e516c0d3c811@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T164500
+DTEND;TZID=Asia/Yekaterinburg:20261006T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:540984e3b6cae042@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T164500
+DTEND;TZID=Asia/Yekaterinburg:20261013T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f46f5e0e0a3206a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:162fd8917c9fc7f7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:39977a319b31a1d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:1ebcfb082fafcfc3@uust-schedule
@@ -1177,6 +1139,16 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-306Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:668998cbdabfd3f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-306Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:b5d46ffd4fb38540@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T080000
@@ -1185,6 +1157,16 @@ SUMMARY:Методы приближенных вычислений (экз
  амен)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-307Б\n1 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffe7b78711975d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-305Б\n1 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4f79d27e7c23dd9f@uust-schedule
@@ -1337,6 +1319,16 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-306Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:4a3b48769978d612@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-306Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:da47caf056346095@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
@@ -1345,6 +1337,16 @@ SUMMARY:Методы приближенных вычислений (экз
  амен)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-307Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:9a37b6bddccdfd14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-305Б\n2 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:52b7f43b2301ad6c@uust-schedule
@@ -1627,37 +1629,26 @@ LOCATION:6-313
 DESCRIPTION:ПРО-305Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:826a8ee657a8c26c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-308Б\n4 пара\nНачало экзамена в 13:0
+ 0
+END:VEVENT
+BEGIN:VEVENT
 UID:6577fb627e520d6b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
 DTEND;TZID=Asia/Yekaterinburg:20270113T143000
 SUMMARY:Методы приближенных вычислений (экз
  амен)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ПРО-305Б\n4 пара\nНачало экзамена в 13:0
- 0
-END:VEVENT
-BEGIN:VEVENT
-UID:eebbde183d48093f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
-DTEND;TZID=Asia/Yekaterinburg:20270120T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ПРО-306Б\n4 пара\nНачало экзамена в 13:0
- 0
-END:VEVENT
-BEGIN:VEVENT
-UID:2a93673cc8a07805@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
-DTEND;TZID=Asia/Yekaterinburg:20270127T143000
-SUMMARY:Методы приближенных вычислений (кон
- сультация экзамена)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ПРО-308Б\n4 пара\nНачало консультации
-  в 13:00
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
+  13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:358dbbd130ba33f5@uust-schedule
@@ -1789,17 +1780,6 @@ SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313
 DESCRIPTION:ПРО-307Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f89a30e6c28bf451@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270113T151000
-DTEND;TZID=Asia/Yekaterinburg:20270113T163000
-SUMMARY:Методы приближенных вычислений (кон
- сультация экзамена)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n5 пара\nНачало консульта
- ции в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:c76966d90263555a@uust-schedule
@@ -2446,28 +2426,6 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-112Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:31dcfd6e73a095af@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
-DTEND;TZID=Asia/Yekaterinburg:20270128T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ПРО-308Б\n4 пара\nНачало экзамена в 13:0
- 0
-END:VEVENT
-BEGIN:VEVENT
-UID:43c3c4ce940f5931@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
-DTEND;TZID=Asia/Yekaterinburg:20270114T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
-  13:00
-END:VEVENT
-BEGIN:VEVENT
 UID:85cd3ef50e86267c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T131000
@@ -2920,6 +2878,16 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ТОП-107Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9e3ee16e92352b0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1ab9f0bae454b35d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T093500
@@ -3020,6 +2988,16 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ТОП-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2341d2af6eb1f711@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T093500
+DTEND;TZID=Asia/Yekaterinburg:20261204T105500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:ПРО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6ceb08b424d76001@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
@@ -3040,6 +3018,16 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2d3f8e029683fe50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ПРО-АН-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:83ae14fd7abce290@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
@@ -3047,7 +3035,7 @@ DTEND;TZID=Asia/Yekaterinburg:20261120T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-106\, Корпус 6
-DESCRIPTION:ПРО-АН-104Б\n3 пара
+DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:0100376f3babb54d@uust-schedule
@@ -3068,6 +3056,16 @@ SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313
 DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:123b4340719798cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Методы приближенных вычислений (пра
+ ктика)
+LOCATION:6-313
+DESCRIPTION:ПРО-307Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b396344d5b59f871@uust-schedule
@@ -3100,13 +3098,23 @@ LOCATION:6-313
 DESCRIPTION:ПРО-306Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:581ff8277a755224@uust-schedule
+UID:626c3350f2a5d9e2@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
-DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:65d38f7b2ee16f35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
 SUMMARY:Дискретная математика и математичес
  кая логика (лекция)
-LOCATION:6-106\, Корпус 6
+LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -3128,6 +3136,16 @@ SUMMARY:Дискретная математика и математичес
  кая логика (лекция)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:581ff8277a755224@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-106Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:78b1c06a8d5b21cd@uust-schedule

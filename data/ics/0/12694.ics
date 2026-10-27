@@ -24,27 +24,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261116T092000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e6a23fd3888e87dd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
-DTEND;TZID=Asia/Yekaterinburg:20261123T092000
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f139b2b762646ee4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
-DTEND;TZID=Asia/Yekaterinburg:20261130T092000
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
+DESCRIPTION:Кальсин Никита Александрович\n1 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:80b9b0bf75c96c67@uust-schedule
@@ -124,27 +105,8 @@ DTEND;TZID=Asia/Yekaterinburg:20261116T105500
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:67d04b934d6350c8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
-DTEND;TZID=Asia/Yekaterinburg:20261123T105500
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:079f655d44bff0f0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
-DTEND;TZID=Asia/Yekaterinburg:20261130T105500
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Ахмеров Вильмир Венерович\n2 пара
+DESCRIPTION:Кальсин Никита Александрович\n2 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:09931532856632f9@uust-schedule
@@ -353,6 +315,50 @@ LOCATION:7-206\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b36471ab81246ab4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
+DTEND;TZID=Asia/Yekaterinburg:20261130T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:be17be96d707c9bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2233be6d17e9da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:3d82e26431fa783c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:2f8ee8f0d572b84e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
@@ -498,6 +504,16 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:7063facfb2bcb5b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
+DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:5473adf7486daf0d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
@@ -512,16 +528,6 @@ UID:0d6e941c47124693@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T113500
 DTEND;TZID=Asia/Yekaterinburg:20261020T125500
-SUMMARY:Основы машинного обучения и анализ д
- анных (лаб.)
-LOCATION:6-313
-DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:29117a32b065e707@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
-DTEND;TZID=Asia/Yekaterinburg:20261027T125500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
 LOCATION:6-313
@@ -588,13 +594,13 @@ LOCATION:6-313
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:7063facfb2bcb5b2@uust-schedule
+UID:29117a32b065e707@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T113500
-DTEND;TZID=Asia/Yekaterinburg:20261013T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261027T113500
+DTEND;TZID=Asia/Yekaterinburg:20261027T125500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
-LOCATION:6-313\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -773,6 +779,16 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара\nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:ee3f7052d05851fe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
+DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:080322cd9cfeb042@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
@@ -787,16 +803,6 @@ UID:1e5e92f55c7d2a5b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T131000
 DTEND;TZID=Asia/Yekaterinburg:20261020T143000
-SUMMARY:Основы машинного обучения и анализ д
- анных (лаб.)
-LOCATION:6-313
-DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1def36c9636188b3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
-DTEND;TZID=Asia/Yekaterinburg:20261027T143000
 SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
 LOCATION:6-313
@@ -863,13 +869,13 @@ LOCATION:6-313
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ee3f7052d05851fe@uust-schedule
+UID:1def36c9636188b3@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T131000
-DTEND;TZID=Asia/Yekaterinburg:20261013T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261027T131000
+DTEND;TZID=Asia/Yekaterinburg:20261027T143000
 SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
-LOCATION:6-313\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1151,6 +1157,17 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:b418572af369ba49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
 UID:1f7f4bbde6b1d7f6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
@@ -1265,6 +1282,17 @@ SUMMARY:Методы приближенных вычислений (пра
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b502e0e0753c0a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
 UID:ed43bf97a19da648@uust-schedule
@@ -1461,17 +1489,6 @@ SUMMARY:Методы приближенных вычислений (лаб.
 LOCATION:6-313
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
-END:VEVENT
-BEGIN:VEVENT
-UID:753edf70137cddea@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
-DTEND;TZID=Asia/Yekaterinburg:20270120T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:59027aa98f4da4b6@uust-schedule

@@ -2248,13 +2248,13 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:2757f198f190215d@uust-schedule
+UID:e1b19cdf65539df3@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
-DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
-LOCATION:6-106\, Корпус 6
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
  ара
 END:VEVENT
@@ -2330,13 +2330,13 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:59c021832b0865f2@uust-schedule
+UID:bf773e1bf7562ef2@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
-DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
 SUMMARY:Дискретная математика и математичес
  кая логика (лекция)
-LOCATION:6-106\, Корпус 6
+LOCATION:6-204\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT

@@ -328,6 +328,16 @@ DESCRIPTION:ПИ-114Бзу\n1 пара\nРасписание может м
  еняться
 END:VEVENT
 BEGIN:VEVENT
+UID:1cc0ebefa179961a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
+DTEND;TZID=Asia/Yekaterinburg:20261020T105500
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПИ-114Бзу\n2 пара\nРасписание может м
+ еняться
+END:VEVENT
+BEGIN:VEVENT
 UID:97693ede60f50d44@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
@@ -351,7 +361,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
 DTEND;TZID=Asia/Yekaterinburg:20261124T105500
 SUMMARY:Модуль саморазвития (практика)
-LOCATION:6-304\, Корпус 6
+LOCATION:6-203\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -360,18 +370,8 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
 DTEND;TZID=Asia/Yekaterinburg:20261201T105500
 SUMMARY:Модуль саморазвития (практика)
-LOCATION:6-304\, Корпус 6
+LOCATION:6-203\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-302Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1cc0ebefa179961a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T093500
-DTEND;TZID=Asia/Yekaterinburg:20261020T105500
-SUMMARY:Модуль саморазвития (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ПИ-114Бзу\n2 пара\nРасписание может м
- еняться
 END:VEVENT
 BEGIN:VEVENT
 UID:a5e331f331f3b806@uust-schedule

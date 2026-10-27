@@ -750,36 +750,6 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПИ-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:edf424d6af487155@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
-DTEND;TZID=Asia/Yekaterinburg:20261124T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bbdf1f2c1c6563f3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8deaaf8b82c81cf0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
-DTEND;TZID=Asia/Yekaterinburg:20261208T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:22afa8186548a4ca@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
@@ -797,6 +767,36 @@ DTEND;TZID=Asia/Yekaterinburg:20261222T105500
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:edf424d6af487155@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bbdf1f2c1c6563f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8deaaf8b82c81cf0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПИ-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT

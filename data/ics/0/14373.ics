@@ -123,15 +123,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ed385445b9ed3a41@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261228T113500
-DTEND;TZID=Asia/Yekaterinburg:20261228T125500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d4004695cac8ddfa@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
@@ -532,17 +523,6 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:952bacafef177f31@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
-DTEND;TZID=Asia/Yekaterinburg:20261103T143000
-SUMMARY:Методы приближенных вычислений (лек
- ция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:6591c7b7f2674a0a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
@@ -604,6 +584,17 @@ SUMMARY:Теория вероятностей и математическа
  я статистика (лекция)
 LOCATION:7-305\, Корпус 7
 DESCRIPTION:Ураков Айрат Ренатович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c18dc63c4ba81b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T151000
+DTEND;TZID=Asia/Yekaterinburg:20270112T163000
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара\nНачало консультации в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:b348d8b0fe5347b7@uust-schedule
@@ -1089,6 +1080,17 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:450bce0c308d9927@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Методы приближенных вычислений (экз
+ амен)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
+ ара\nНачало экзамена в 13:00
+END:VEVENT
+BEGIN:VEVENT
 UID:9f57c9291be575b1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
@@ -1159,17 +1161,6 @@ SUMMARY:Компьютерная обработка эксперимент
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Абдрахманова Римма Петровна\n5 пар
  а
-END:VEVENT
-BEGIN:VEVENT
-UID:d54787f3e92fd7c6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270113T151000
-DTEND;TZID=Asia/Yekaterinburg:20270113T163000
-SUMMARY:Методы приближенных вычислений (кон
- сультация экзамена)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
- ара\nНачало консультации в 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4a674c98db901ecd@uust-schedule
@@ -1315,17 +1306,6 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:4-314\, Корпус 4
 DESCRIPTION:Насырова Элина Сагитовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:42d22f528d8d6ef6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
-DTEND;TZID=Asia/Yekaterinburg:20270114T143000
-SUMMARY:Методы приближенных вычислений (экз
- амен)
-LOCATION:6-204\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара\nНачало экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:29b361797bab84b6@uust-schedule
@@ -1816,6 +1796,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T125500
 SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:db96d31ab7aa2bf6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Методы приближенных вычислений (лек
+ ция)
+LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
  ара
 END:VEVENT
