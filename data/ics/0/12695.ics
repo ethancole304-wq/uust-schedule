@@ -3205,6 +3205,16 @@ LOCATION:Асинхронно
 DESCRIPTION:7 пара\nЦТиП
 END:VEVENT
 BEGIN:VEVENT
+UID:446cf211ba177881@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T182000
+DTEND;TZID=Asia/Yekaterinburg:20261031T194000
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:7 пара\nс 18:00 по мск компания ООО «Ци
+ фровые технологии и платформы» (ЦТиП)
+END:VEVENT
+BEGIN:VEVENT
 UID:044b3122bcc72a1b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T195500
@@ -3212,5 +3222,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261017T211500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:8 пара\n18:00\, ЦТиП
+END:VEVENT
+BEGIN:VEVENT
+UID:29be303f79458424@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T195500
+DTEND;TZID=Asia/Yekaterinburg:20261031T211500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:8 пара\nс 18:00 по мск компания ООО «Ци
+ фровые технологии и платформы» (ЦТиП)
 END:VEVENT
 END:VCALENDAR
