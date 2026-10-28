@@ -252,6 +252,15 @@ LOCATION:302\, Корпус 9
 DESCRIPTION:ИБ-113Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ff728b5bc4c2fb99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:История России (практика)
+LOCATION:605\, Корпус 9
+DESCRIPTION:ЭАС-104С\n2 пара\nКоваленко Е.С
+END:VEVENT
+BEGIN:VEVENT
 UID:d15252e9673711bc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270215T093500
@@ -2600,15 +2609,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261030T143000
 SUMMARY:История России (практика)
 LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПИ-110Б\n4 пара\nКоваленко Е.С
-END:VEVENT
-BEGIN:VEVENT
-UID:afd8d921d0884efd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:История России (практика)
-LOCATION:605\, Корпус 9
-DESCRIPTION:ЭАС-104С\n4 пара\nКоваленко Е.С
 END:VEVENT
 BEGIN:VEVENT
 UID:2d17c0688e7e1323@uust-schedule

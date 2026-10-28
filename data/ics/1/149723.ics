@@ -1827,86 +1827,6 @@ LOCATION:302\, Корпус 9
 DESCRIPTION:ПИ-110Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:22af911a81bf7322@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
-DTEND;TZID=Asia/Yekaterinburg:20261103T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9f342f35bce7a77b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
-DTEND;TZID=Asia/Yekaterinburg:20261110T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3cf6e9acb36b4212@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
-DTEND;TZID=Asia/Yekaterinburg:20261117T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d15a157b530c05b1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
-DTEND;TZID=Asia/Yekaterinburg:20261124T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0e84a14d543355b5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
-DTEND;TZID=Asia/Yekaterinburg:20261201T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7ed27e71575b0031@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
-DTEND;TZID=Asia/Yekaterinburg:20261208T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a6f9a1e21d82525e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
-DTEND;TZID=Asia/Yekaterinburg:20261215T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:23226d4987fe8d4b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
-DTEND;TZID=Asia/Yekaterinburg:20261222T180500
-SUMMARY:Основы российской государственност
- и (практика)
-LOCATION:302\, Корпус 9
-DESCRIPTION:ПИ-110Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:b88a01f9f1bf9c15@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261229T164500
@@ -1925,6 +1845,86 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:302\, Корпус 9
 DESCRIPTION:МО-109Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf6e9acb36b4212@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d15a157b530c05b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e84a14d543355b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed27e71575b0031@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23226d4987fe8d4b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
+DTEND;TZID=Asia/Yekaterinburg:20261222T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f9a1e21d82525e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:105\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22af911a81bf7322@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9f342f35bce7a77b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Основы российской государственност
+ и (практика)
+LOCATION:405\, Корпус 9
+DESCRIPTION:ПИ-110Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:dcd815a380872551@uust-schedule
