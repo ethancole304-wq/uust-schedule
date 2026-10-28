@@ -363,6 +363,28 @@ LOCATION:307\, УК-3-4
 DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bfef6122089efcf1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:bb877db674842bde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Методы приближенных вычислений (лаб.
+ )
+LOCATION:6-313
+DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:b18c7b66fb9fea63@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T093500
@@ -712,17 +734,6 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:4997a35b3a91e482@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
-DTEND;TZID=Asia/Yekaterinburg:20261215T163000
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:0b24f3516ba15dec@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
@@ -804,17 +815,6 @@ UID:63d84cb24d6c53bc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
 DTEND;TZID=Asia/Yekaterinburg:20261124T180500
-SUMMARY:Методы приближенных вычислений (лаб.
- )
-LOCATION:6-313
-DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:895c56540cbf0fa0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
-DTEND;TZID=Asia/Yekaterinburg:20261215T180500
 SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313

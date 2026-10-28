@@ -433,6 +433,17 @@ LOCATION:521\, Гуманитарный корпус (Карла Маркс
 DESCRIPTION:И-СИ-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9ae2a6c87a31ac06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Международные интеграционные проце
+ ссы (лекция)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f962879d5c5c7f5e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
@@ -508,6 +519,138 @@ SUMMARY:Россия в глобальной политике (лекция
 LOCATION:521\, Гуманитарный корпус (Карла Маркс
  а 3/4)
 DESCRIPTION:МО-ВПан-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0e96bd793a78a04f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90beea5842f63326@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
+DTEND;TZID=Asia/Yekaterinburg:20261124T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad090e4efb790ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e780677bdeff9d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02a9088be17f6d32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2f73cc6aef4823@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T164500
+DTEND;TZID=Asia/Yekaterinburg:20261222T180500
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:507\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e148ba8bb70570d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f273d087c92e6388@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
+DTEND;TZID=Asia/Yekaterinburg:20261124T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3173bf9d0b5e2583@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
+DTEND;TZID=Asia/Yekaterinburg:20261201T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:923d36ff5e9b0c20@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T182000
+DTEND;TZID=Asia/Yekaterinburg:20261208T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d7211891b47f5a3e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T182000
+DTEND;TZID=Asia/Yekaterinburg:20261215T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa1e25a095b6bc76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T182000
+DTEND;TZID=Asia/Yekaterinburg:20261222T194000
+SUMMARY:Международные интеграционные проце
+ ссы (практика)
+LOCATION:509\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-ВПан-403Б\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:db0c1e4ba9b80762@uust-schedule

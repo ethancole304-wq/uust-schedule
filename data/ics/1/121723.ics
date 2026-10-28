@@ -469,16 +469,6 @@ LOCATION:7-205\, Корпус 7
 DESCRIPTION:ПРО-111Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:59adac25daf5ac71@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
-DTEND;TZID=Asia/Yekaterinburg:20261110T105500
-SUMMARY:Основы информационных технологий (п
- рактика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2e14340ac9f6dd4b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
@@ -1737,6 +1727,16 @@ DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
 DTEND;TZID=Asia/Yekaterinburg:20261023T125500
 SUMMARY:Основы информационных технологий (л
  екция)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ТОП-106Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdf71a2da8b37cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Основы информационных технологий (п
+ рактика)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT

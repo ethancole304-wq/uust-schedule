@@ -550,23 +550,23 @@ LOCATION:Уточняется
 DESCRIPTION:П-ПП-202Бозу\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:a3d457700d3f940c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
-DTEND;TZID=Asia/Yekaterinburg:20261024T125500
-SUMMARY:Общая психология: психология когнит
- ивных процессов\, психология регулятивн
- ых процессов\, психология личности (прак
- тика)
-LOCATION:преподаватель Бурдилёва Мария Стан
- иславовна
-DESCRIPTION:П-ПП-104Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:1a1df4b195aafcca@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
 DTEND;TZID=Asia/Yekaterinburg:20261031T125500
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:617\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n3 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:a3d457700d3f940c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T113500
+DTEND;TZID=Asia/Yekaterinburg:20261024T125500
 SUMMARY:Общая психология: психология когнит
  ивных процессов\, психология регулятивн
  ых процессов\, психология личности (прак
@@ -659,23 +659,23 @@ LOCATION:501\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:3504deed27479ae3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
-DTEND;TZID=Asia/Yekaterinburg:20261024T143000
-SUMMARY:Общая психология: психология когнит
- ивных процессов\, психология регулятивн
- ых процессов\, психология личности (прак
- тика)
-LOCATION:преподаватель Бурдилёва Мария Стан
- иславовна
-DESCRIPTION:П-ПП-104Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:f7f7058f6eadd7d3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
 DTEND;TZID=Asia/Yekaterinburg:20261031T143000
+SUMMARY:Общая психология: психология когнит
+ ивных процессов\, психология регулятивн
+ ых процессов\, психология личности (прак
+ тика)
+LOCATION:617\, Гуманитарный (Карла Маркса 3/1)
+DESCRIPTION:П-ПП-104Б\n4 пара\nпреподаватель Бурд
+ илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:3504deed27479ae3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
+DTEND;TZID=Asia/Yekaterinburg:20261024T143000
 SUMMARY:Общая психология: психология когнит
  ивных процессов\, психология регулятивн
  ых процессов\, психология личности (прак

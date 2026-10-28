@@ -761,13 +761,15 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:0fdf6505a2a3fcfb@uust-schedule
+UID:00c929fadb17441a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
 DTEND;TZID=Asia/Yekaterinburg:20261110T125500
-SUMMARY:Карьерная адаптивность (практика)
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
 LOCATION:6-307\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n3 пара
+DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
+ ара
 END:VEVENT
 BEGIN:VEVENT
 UID:aef2ea2920723bd6@uust-schedule
@@ -866,6 +868,15 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:8c060cb149371ede@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T131000
+DTEND;TZID=Asia/Yekaterinburg:20261117T143000
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae7db925e327133@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
@@ -924,6 +935,17 @@ SUMMARY:Программно-аппаратные комплексы (ле
 LOCATION:6-318\, Корпус 6
 DESCRIPTION:Костюкова Анастасия Петровна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:a5131aae5726ad48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
+DTEND;TZID=Asia/Yekaterinburg:20261215T180500
+SUMMARY:Дискретная математика и математичес
+ кая логика (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара
 END:VEVENT
 BEGIN:VEVENT
 UID:d29f74d4416bd44a@uust-schedule
@@ -2125,12 +2147,12 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4861b6103eebfb35@uust-schedule
+UID:57b2f1589d0865f7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261211T093500
 DTEND;TZID=Asia/Yekaterinburg:20261211T105500
 SUMMARY:Дискретная математика и математичес
- кая логика (практика)
+ кая логика (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
  ара
@@ -2337,28 +2359,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261204T143000
 SUMMARY:Дискретная математика и математичес
  кая логика (лекция)
 LOCATION:6-204\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:60f0183b803b55da@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
-DTEND;TZID=Asia/Yekaterinburg:20261211T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:bf53e807212a5f72@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T131000
-DTEND;TZID=Asia/Yekaterinburg:20261127T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (лекция)
-LOCATION:6-307\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT

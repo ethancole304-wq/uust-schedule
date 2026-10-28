@@ -657,6 +657,16 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ПИ-110Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:972501cebf41c189@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
+DTEND;TZID=Asia/Yekaterinburg:20261110T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:79cd81ca2d7cb255@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
@@ -671,16 +681,6 @@ UID:9626293fb25f4227@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
 DTEND;TZID=Asia/Yekaterinburg:20261103T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ТОП-108Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:972501cebf41c189@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
-DTEND;TZID=Asia/Yekaterinburg:20261110T092000
 SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
@@ -717,6 +717,16 @@ LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5a2cc18d52260a9c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
+DTEND;TZID=Asia/Yekaterinburg:20261110T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:69825414825ba725@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
@@ -731,16 +741,6 @@ UID:892f93fc45d06779@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
 DTEND;TZID=Asia/Yekaterinburg:20261103T105500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ТОП-108Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5a2cc18d52260a9c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
-DTEND;TZID=Asia/Yekaterinburg:20261110T105500
 SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
@@ -1227,6 +1227,56 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ПИ-111Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:de3b95d6d9d2a5ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:95cec7d72e1e80e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d53a29c7c99e8259@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПРО-112Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f4c114bc76e7297c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
+DTEND;TZID=Asia/Yekaterinburg:20261202T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:082de8efaaecc322@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:3b157996c7e0fccd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T080000
@@ -1297,16 +1347,6 @@ LOCATION:7-404\, Корпус 7
 DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9da89ccb23508d95@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
-DTEND;TZID=Asia/Yekaterinburg:20261111T092000
-SUMMARY:Программно-аппаратные комплексы (ле
- кция)
-LOCATION:7-404\, Корпус 7
-DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d5785db3196f9a79@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
@@ -1315,56 +1355,6 @@ SUMMARY:Программно-аппаратные комплексы (ле
  кция)
 LOCATION:7-404\, Корпус 7
 DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:de3b95d6d9d2a5ca@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
-DTEND;TZID=Asia/Yekaterinburg:20261216T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ПРО-112Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:95cec7d72e1e80e4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
-DTEND;TZID=Asia/Yekaterinburg:20261223T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ПРО-112Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d53a29c7c99e8259@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
-DTEND;TZID=Asia/Yekaterinburg:20261230T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ПРО-112Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f4c114bc76e7297c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
-DTEND;TZID=Asia/Yekaterinburg:20261202T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ТОП-107Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:082de8efaaecc322@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
-DTEND;TZID=Asia/Yekaterinburg:20261209T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ТОП-107Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:832dde86ad1c6c61@uust-schedule
@@ -1687,6 +1677,16 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:УТС-302Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:fd20fd4fa3f368d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:ИСТ-ГИС-104Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:da0b74c17d8c7470@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T151000
@@ -1741,16 +1741,6 @@ UID:f65c4ecf902d4913@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
 DTEND;TZID=Asia/Yekaterinburg:20261028T163000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ИВТ-ИВС-104Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:50679cb973cc25e5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
-DTEND;TZID=Asia/Yekaterinburg:20261111T163000
 SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
@@ -1887,16 +1877,6 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:adc1f1edf9c66a67@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
-DTEND;TZID=Asia/Yekaterinburg:20261111T180500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ИВТ-ИВС-104Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a4752d7eb2f95b23@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
@@ -2017,16 +1997,6 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5863010ad9ee53f4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
-DTEND;TZID=Asia/Yekaterinburg:20261224T092000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a6985d1375b94a0c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
@@ -2075,6 +2045,16 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-104Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5863010ad9ee53f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:15de3b1e79777f9a@uust-schedule
@@ -2157,16 +2137,6 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:38f297bfd6798e22@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
-DTEND;TZID=Asia/Yekaterinburg:20261224T105500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ИВТ-ИСУ-104Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:26acd298e35256b4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
@@ -2215,6 +2185,16 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:38f297bfd6798e22@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ТОП-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:00b5dd22419a4708@uust-schedule
@@ -2301,16 +2281,6 @@ UID:ea54dddf6be4ddfd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
 DTEND;TZID=Asia/Yekaterinburg:20261105T125500
-SUMMARY:Программно-аппаратные комплексы (ле
- кция)
-LOCATION:8-Актовый зал\, Корпус 8
-DESCRIPTION:ПИ-111Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:97e5e9c284a2083a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
-DTEND;TZID=Asia/Yekaterinburg:20261112T125500
 SUMMARY:Программно-аппаратные комплексы (ле
  кция)
 LOCATION:8-Актовый зал\, Корпус 8
@@ -2497,16 +2467,6 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ПРО-111Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:28d82536bfe09a58@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
-DTEND;TZID=Asia/Yekaterinburg:20261112T163000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ПИ-111Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:58bdad2e25e5a7bb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T151000
@@ -2645,16 +2605,6 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:ПРО-111Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b77df18e02bdb812@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
-DTEND;TZID=Asia/Yekaterinburg:20261112T180500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:ПИ-111Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:07f14a5e704e88bd@uust-schedule
@@ -3507,6 +3457,16 @@ LOCATION:6-311\, Корпус 6
 DESCRIPTION:ТОП-106Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b9c4204bd3bea2f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T093500
+DTEND;TZID=Asia/Yekaterinburg:20261219T105500
+SUMMARY:Программно-аппаратные комплексы (ле
+ кция)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:ПИ-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:41b9453fd8afc447@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T113500
@@ -3605,6 +3565,26 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:88497cc4415517c7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
+DTEND;TZID=Asia/Yekaterinburg:20261128T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f162e71bc35389d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T113500
+DTEND;TZID=Asia/Yekaterinburg:20261212T125500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:851c70ee0a28b6a0@uust-schedule
@@ -3715,6 +3695,26 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:ИВТ-ИСУ-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3d465ab5dedef861@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
+DTEND;TZID=Asia/Yekaterinburg:20261128T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f860f1f2d4bc78bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T131000
+DTEND;TZID=Asia/Yekaterinburg:20261212T143000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311\, Корпус 6
+DESCRIPTION:ПИ-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:7016628b3e15f6a1@uust-schedule

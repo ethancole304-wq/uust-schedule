@@ -17,16 +17,6 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cc84cc86f4be40f6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
-DTEND;TZID=Asia/Yekaterinburg:20261102T105500
-SUMMARY:Межкультурное взаимодействие (лекци
- я)
-LOCATION:27\, ФРГФ (Коммунистическая 19А)
-DESCRIPTION:ФПЛ-ЯТ-117Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:85ef75ef9a2cf940@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T093500
@@ -41,6 +31,16 @@ UID:0b5a413243e58ef3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
 DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Межкультурное взаимодействие (лекци
+ я)
+LOCATION:27\, ФРГФ (Коммунистическая 19А)
+DESCRIPTION:ФПЛ-ЯТ-117Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc84cc86f4be40f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T093500
+DTEND;TZID=Asia/Yekaterinburg:20261102T105500
 SUMMARY:Межкультурное взаимодействие (лекци
  я)
 LOCATION:27\, ФРГФ (Коммунистическая 19А)
@@ -92,20 +92,20 @@ LOCATION:27\, ФРГФ (Коммунистическая 19А)
 DESCRIPTION:ФПЛ-ЯТ-117Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:169cd6661cd1bcde@uust-schedule
+UID:dc952f9d3c953c94@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
-DTEND;TZID=Asia/Yekaterinburg:20261102T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
 SUMMARY:Межкультурное взаимодействие (лекци
  я)
 LOCATION:27\, ФРГФ (Коммунистическая 19А)
 DESCRIPTION:ФПЛ-ЯТ-117Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:dc952f9d3c953c94@uust-schedule
+UID:169cd6661cd1bcde@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261102T113500
+DTEND;TZID=Asia/Yekaterinburg:20261102T125500
 SUMMARY:Межкультурное взаимодействие (лекци
  я)
 LOCATION:27\, ФРГФ (Коммунистическая 19А)

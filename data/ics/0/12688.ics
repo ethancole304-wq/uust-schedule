@@ -2300,6 +2300,15 @@ DESCRIPTION:Коваленко Екатерина Сергеевна\n1 п
  ара\nКоваленко Е.С
 END:VEVENT
 BEGIN:VEVENT
+UID:08f38ed5b361fe31@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-417\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c15d8e3268f2f704@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
@@ -2320,17 +2329,6 @@ SUMMARY:Языки и методы программирования (лек
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
  а\nЯиМП
-END:VEVENT
-BEGIN:VEVENT
-UID:7e7b62703f33b5a9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
- ра
 END:VEVENT
 BEGIN:VEVENT
 UID:64cf8f3fa22a888e@uust-schedule
@@ -2379,6 +2377,24 @@ DTSTART;TZID=Asia/Yekaterinburg:20260924T093500
 DTEND;TZID=Asia/Yekaterinburg:20260924T105500
 SUMMARY:Карьерная адаптивность (лекция)
 LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d814396759103a2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
+DTEND;TZID=Asia/Yekaterinburg:20261203T105500
+SUMMARY:Карьерная адаптивность (практика)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f774ff5ec48e4947@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-417\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2485,16 +2501,6 @@ DESCRIPTION:Богданова Диана Радиковна\n3 пара\n
  аудитория 3-401
 END:VEVENT
 BEGIN:VEVENT
-UID:df12f2b24cdf4624@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
-DTEND;TZID=Asia/Yekaterinburg:20261112T125500
-SUMMARY:Карьерная адаптивность (практика)
-LOCATION:401\, Спортзал.КФ
-DESCRIPTION:Богданова Диана Радиковна\n3 пара\n
- аудитория 3-401
-END:VEVENT
-BEGIN:VEVENT
 UID:0303271bbdb384cd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
@@ -2519,6 +2525,15 @@ DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
 DTEND;TZID=Asia/Yekaterinburg:20261224T125500
 SUMMARY:Математический анализ (практика)
 LOCATION:7-205\, Корпус 7
+DESCRIPTION:Гайсина Галия Ахтяровна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e5463052bd246da8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Математический анализ (практика)
+LOCATION:605\, Корпус 9
 DESCRIPTION:Гайсина Галия Ахтяровна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2623,12 +2638,21 @@ LOCATION:7-205\, Корпус 7
 DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5032e5a98387bd3b@uust-schedule
+UID:3092ebaba74fe791@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
-DTEND;TZID=Asia/Yekaterinburg:20261112T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
 SUMMARY:Математический анализ (практика)
-LOCATION:506\, Корпус 9
+LOCATION:404\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be0c3d6d45dfce10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Математический анализ (практика)
+LOCATION:605\, Корпус 9
 DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2641,30 +2665,12 @@ LOCATION:506\, Корпус 9
 DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:be0c3d6d45dfce10@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
-DTEND;TZID=Asia/Yekaterinburg:20261126T143000
-SUMMARY:Математический анализ (практика)
-LOCATION:506\, Корпус 9
-DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:00488457a3b6f3f3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
 DTEND;TZID=Asia/Yekaterinburg:20261203T143000
 SUMMARY:Математический анализ (практика)
 LOCATION:506\, Корпус 9
-DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3092ebaba74fe791@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
-DTEND;TZID=Asia/Yekaterinburg:20261217T143000
-SUMMARY:Математический анализ (практика)
-LOCATION:404\, Корпус 9
 DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2717,15 +2723,6 @@ UID:76e8c877751f5d84@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
 DTEND;TZID=Asia/Yekaterinburg:20261105T163000
-SUMMARY:Карьерная адаптивность (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:93655e5fd15466af@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
-DTEND;TZID=Asia/Yekaterinburg:20261112T163000
 SUMMARY:Карьерная адаптивность (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
@@ -2896,15 +2893,6 @@ UID:4c984acc6e126eaa@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
 DTEND;TZID=Asia/Yekaterinburg:20261105T180500
-SUMMARY:Карьерная адаптивность (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:30880589d77c7cc8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
-DTEND;TZID=Asia/Yekaterinburg:20261112T180500
 SUMMARY:Карьерная адаптивность (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n6 пара
@@ -3368,6 +3356,17 @@ UID:b38e0f07b771aa1e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
 DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шахмаметова Гюзель Радиковна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:8b738e82e829d558@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-416\, Корпус 6

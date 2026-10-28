@@ -870,16 +870,6 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-306Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:46255a4cb8f6ad80@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T151000
-DTEND;TZID=Asia/Yekaterinburg:20261110T163000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-313
-DESCRIPTION:ТОП-108Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:4df8b6efca9678f9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
@@ -964,16 +954,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261103T163000
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313
 DESCRIPTION:ТОП-107Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0201864bfdabc4e2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
-DTEND;TZID=Asia/Yekaterinburg:20261110T180500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-313
-DESCRIPTION:ТОП-108Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8b8ab3624d16148e@uust-schedule
@@ -1340,13 +1320,14 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:876899d7d163f46e@uust-schedule
+UID:703beb1a322f59f4@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
-DTEND;TZID=Asia/Yekaterinburg:20261028T143000
-SUMMARY:Распознавание образов (практика)
-LOCATION:6-207\, Корпус 6
-DESCRIPTION:ПРО-403Б\n4 пара
+DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
+DTEND;TZID=Asia/Yekaterinburg:20261216T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ТОП-108Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b10de3191fe8d909@uust-schedule
@@ -1437,6 +1418,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261202T163000
 SUMMARY:Распознавание образов (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-404Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:58da68a53027a03e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
+DTEND;TZID=Asia/Yekaterinburg:20261216T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ТОП-108Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:21f64a4f23436737@uust-schedule

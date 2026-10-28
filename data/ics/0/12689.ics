@@ -1393,6 +1393,17 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:44b79cdbea9995d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:974950910dc58622@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261229T151000
@@ -2467,17 +2478,6 @@ UID:80585dd350b08246@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
 DTEND;TZID=Asia/Yekaterinburg:20261105T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-304\, Корпус 7
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:4d561bf85445fa64@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
-DTEND;TZID=Asia/Yekaterinburg:20261112T143000
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:7-304\, Корпус 7

@@ -1082,16 +1082,6 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:56b0ae80ed90c0b8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-111Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:83b3b7b85396191d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T093500
@@ -1519,6 +1509,16 @@ UID:ae006adcf9c5f3c1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
 DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-111Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e8be247238cfbfc2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-416\, Корпус 6
