@@ -479,15 +479,6 @@ LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:КБ-103С\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:09eb431f6bf47df7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T131000
-DTEND;TZID=Asia/Yekaterinburg:20261103T143000
-SUMMARY:Иностранный язык (практика)
-LOCATION:526\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:КБ-103С\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3a2b864cf10f883e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T131000
@@ -546,6 +537,15 @@ UID:8a1de16eda9a15d8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
 DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Иностранный язык (практика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:КБ-103С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:84291403a33d7e63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
 SUMMARY:Иностранный язык (практика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:КБ-103С\n4 пара

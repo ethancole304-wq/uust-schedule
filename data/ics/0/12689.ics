@@ -821,16 +821,6 @@ DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:f1bd8ec6c8d51d28@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
-DTEND;TZID=Asia/Yekaterinburg:20261103T105500
-SUMMARY:История России (лекция)
-LOCATION:7-406\, Корпус 7
-DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:d3812d90379c6745@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
@@ -855,6 +845,16 @@ UID:3ab3571237948bab@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
 DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:История России (лекция)
+LOCATION:7-406\, Корпус 7
+DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:f1bd8ec6c8d51d28@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
 SUMMARY:История России (лекция)
 LOCATION:7-406\, Корпус 7
 DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
@@ -2604,15 +2604,6 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:0351c66fe9f42c90@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
-DTEND;TZID=Asia/Yekaterinburg:20261119T163000
-SUMMARY:Математический анализ (практика)
-LOCATION:507\, Корпус 9
-DESCRIPTION:Гайсина Галия Ахтяровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:81da3a7ad06bf98b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
@@ -2658,6 +2649,15 @@ LOCATION:507\, Корпус 9
 DESCRIPTION:Гайсина Галия Ахтяровна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0351c66fe9f42c90@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
+DTEND;TZID=Asia/Yekaterinburg:20261119T163000
+SUMMARY:Математический анализ (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:efcab75a7b4bf3cb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T164500
@@ -2674,6 +2674,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261008T180500
 SUMMARY:Карьерная адаптивность (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fc3ff819cf946463@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Математический анализ (практика)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4ff32e29569fe322@uust-schedule
