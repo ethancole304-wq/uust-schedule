@@ -1382,15 +1382,6 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:68cc1b2e544608bf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T151000
-DTEND;TZID=Asia/Yekaterinburg:20261029T163000
-SUMMARY:Операционные системы (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:83120da8872052f1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
@@ -1900,6 +1891,15 @@ DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
 DTEND;TZID=Asia/Yekaterinburg:20261225T143000
 SUMMARY:Операционные системы (лаб.)
 LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d45ca21efc792c1f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Операционные системы (лекция)
+LOCATION:6-201\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -638,6 +638,26 @@ LOCATION:305\, Корпус 9
 DESCRIPTION:ИВТ-КАИД-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9ef0bee12364435c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Культура и межкультурные взаимодейс
+ твия в современном мире (лекция)
+LOCATION:Уточняется
+DESCRIPTION:БТ-ПБ-103Мз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6abfa82cd129a364@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
+DTEND;TZID=Asia/Yekaterinburg:20261106T143000
+SUMMARY:Культура и межкультурные взаимодейс
+ твия в современном мире (лекция)
+LOCATION:Уточняется
+DESCRIPTION:БТ-ПБ-103Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:ca65c35c9eaf433b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T182000

@@ -2604,15 +2604,6 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:49ff5b8db319fb5c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
-DTEND;TZID=Asia/Yekaterinburg:20261112T163000
-SUMMARY:Математический анализ (практика)
-LOCATION:507\, Корпус 9
-DESCRIPTION:Гайсина Галия Ахтяровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0351c66fe9f42c90@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T151000

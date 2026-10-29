@@ -157,6 +157,16 @@ LOCATION:101\, Корпус 9
 DESCRIPTION:ПИ-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1b7fb269ee2054cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:404\, Корпус 9
+DESCRIPTION:ПИ-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:fafba9858d8f2ee9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
@@ -835,16 +845,6 @@ UID:6c28fdafc56c1b85@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T080000
 DTEND;TZID=Asia/Yekaterinburg:20261105T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:401\, Корпус 9
-DESCRIPTION:ПИ-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b57bd3e497365260@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
-DTEND;TZID=Asia/Yekaterinburg:20261112T092000
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:401\, Корпус 9
