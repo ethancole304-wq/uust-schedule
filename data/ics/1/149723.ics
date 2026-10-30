@@ -2967,6 +2967,16 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:УТС-103Бз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:850f3d044c1dcbfe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
+DTEND;TZID=Asia/Yekaterinburg:20261111T194000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:405\, Химфак (Заки Валиди 32-5)
+DESCRIPTION:ХТ-ТПП-105Бз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0d64c2f1b0f449bb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T195500
@@ -3955,6 +3965,16 @@ SUMMARY:Основы российской государственност
  и (практика)
 LOCATION:3-405\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-103Сз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:99fa27857cb22893@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+SUMMARY:Основы российской государственност
+ и (лекция)
+LOCATION:405\, Химфак (Заки Валиди 32-5)
+DESCRIPTION:ХТ-ТПП-105Бз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4c5ebfb9b9193474@uust-schedule
