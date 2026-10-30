@@ -2719,21 +2719,21 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:76e8c877751f5d84@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
-DTEND;TZID=Asia/Yekaterinburg:20261105T163000
-SUMMARY:Карьерная адаптивность (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:94554973ba1b2711@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T151000
 DTEND;TZID=Asia/Yekaterinburg:20261119T163000
 SUMMARY:Карьерная адаптивность (лаб.)
 LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:76e8c877751f5d84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T151000
+DTEND;TZID=Asia/Yekaterinburg:20261105T163000
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-419\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2889,21 +2889,21 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4c984acc6e126eaa@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
-DTEND;TZID=Asia/Yekaterinburg:20261105T180500
-SUMMARY:Карьерная адаптивность (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:7d915be2a4856365@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
 DTEND;TZID=Asia/Yekaterinburg:20261119T180500
 SUMMARY:Карьерная адаптивность (лаб.)
 LOCATION:6-413\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c984acc6e126eaa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Карьерная адаптивность (лаб.)
+LOCATION:6-419\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n6 пара
 END:VEVENT
 BEGIN:VEVENT

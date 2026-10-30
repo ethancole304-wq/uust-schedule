@@ -248,7 +248,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
 DTEND;TZID=Asia/Yekaterinburg:20261221T125500
 SUMMARY:Экономика программной инженерии (ла
  б.)
-LOCATION:6-101а\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:Богданова Диана Радиковна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -318,7 +318,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
 DTEND;TZID=Asia/Yekaterinburg:20261221T143000
 SUMMARY:Экономика программной инженерии (ла
  б.)
-LOCATION:6-101а\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:Богданова Диана Радиковна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
