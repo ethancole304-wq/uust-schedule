@@ -506,6 +506,36 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:3bcc74d8339a3e95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:97126840829c88ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a89d6937d737cf15@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:218effc103716d8f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
@@ -756,46 +786,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261103T092000
 SUMMARY:Алгебра и геометрия (лекция)
 LOCATION:7-304\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a756eeaccedfe0f6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
-DTEND;TZID=Asia/Yekaterinburg:20261110T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ca8a4f721668b980@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
-DTEND;TZID=Asia/Yekaterinburg:20261117T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bc7e2eb0247e0feb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
-DTEND;TZID=Asia/Yekaterinburg:20261124T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0bfe23ac927e43ac@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
-DTEND;TZID=Asia/Yekaterinburg:20261201T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:876f168a2226334d@uust-schedule
@@ -3467,6 +3457,16 @@ SUMMARY:Дискретная математика и математичес
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:cf38914944426728@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:258f3d69e5aa7886@uust-schedule

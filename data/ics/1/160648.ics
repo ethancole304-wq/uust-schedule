@@ -497,46 +497,6 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:10ebebf5370926c7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
-DTEND;TZID=Asia/Yekaterinburg:20261110T211500
-SUMMARY:Современная сиволическая логика (пр
- актика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0c29a78b2432a9af@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T195500
-DTEND;TZID=Asia/Yekaterinburg:20261117T211500
-SUMMARY:Современная сиволическая логика (пр
- актика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e58afa88ea802902@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T195500
-DTEND;TZID=Asia/Yekaterinburg:20261124T211500
-SUMMARY:Современная сиволическая логика (пр
- актика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1bf15fb004e21084@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T195500
-DTEND;TZID=Asia/Yekaterinburg:20261201T211500
-SUMMARY:Современная сиволическая логика (пр
- актика)
-LOCATION:Дистанционно
-DESCRIPTION:ФС-ИИ-201М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2c45a3989975036a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T195500
@@ -842,67 +802,12 @@ LOCATION:Уточняется
 DESCRIPTION:ПИШ-ЭС-103М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:1110c3de53409be8@uust-schedule
+UID:d5a1aef2a29dd715@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
-DTEND;TZID=Asia/Yekaterinburg:20261119T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
 SUMMARY:Философские проблемы естествознани
- я (практика)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:673c6356acf34686@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
-DTEND;TZID=Asia/Yekaterinburg:20261126T105500
-SUMMARY:Философские проблемы естествознани
- я (практика)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e4b66b1d7cc03d53@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261203T093500
-DTEND;TZID=Asia/Yekaterinburg:20261203T105500
-SUMMARY:Философские проблемы естествознани
- я (практика)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:44bc1a9fb99dc252@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261210T093500
-DTEND;TZID=Asia/Yekaterinburg:20261210T105500
-SUMMARY:Философские проблемы естествознани
- я (практика)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:046454cadbf8811a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T093500
-DTEND;TZID=Asia/Yekaterinburg:20261217T105500
-SUMMARY:Философские проблемы естествознани
- я (практика)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:63e55702915b1cd6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
-DTEND;TZID=Asia/Yekaterinburg:20261224T105500
-SUMMARY:Философские проблемы естествознани
- я (практика)
+ я (лекция)
 LOCATION:307\, Гуманитарный корпус (Карла Маркс
  а 3/4)
 DESCRIPTION:ФС-ОП-301Б\n2 пара
@@ -996,15 +901,14 @@ LOCATION:307\, Гуманитарный корпус (Карла Маркс
 DESCRIPTION:ФС-ОП-301Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d5a1aef2a29dd715@uust-schedule
+UID:23d5f0ebc8b79cfc@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
+DTEND;TZID=Asia/Yekaterinburg:20261105T125500
 SUMMARY:Философские проблемы естествознани
- я (лекция)
-LOCATION:307\, Гуманитарный корпус (Карла Маркс
- а 3/4)
-DESCRIPTION:ФС-ОП-301Б\n2 пара
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:540b7249865efb5b@uust-schedule
@@ -1557,6 +1461,86 @@ LOCATION:4-119\, Корпус 4
 DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:4f0184e67b92bc0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
+DTEND;TZID=Asia/Yekaterinburg:20261106T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b38015cf6db3588f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:decf44113c32b710@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:866a157fa84e8a32@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
+DTEND;TZID=Asia/Yekaterinburg:20261127T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6f97d9f9671ec1a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c653a0eca9a4ff6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0eb225983affb8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37760d873ff1b532@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
+DTEND;TZID=Asia/Yekaterinburg:20261225T125500
+SUMMARY:Философские проблемы естествознани
+ я (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:783015791ba02b83@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260904T113500
@@ -2033,6 +2017,16 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-5ОПФ221Бз\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:930b3c6c2265b33c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T151000
+DTEND;TZID=Asia/Yekaterinburg:20261114T163000
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1fcef2541c25df39@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T151000
@@ -2062,6 +2056,16 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-5ОПФ221Бз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c8f47b163134eff0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T164500
+DTEND;TZID=Asia/Yekaterinburg:20261114T180500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c8a80ebf92a9c767@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T164500
@@ -2082,6 +2086,16 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-5ОПФ221Бз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ed65193bf215725f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T182000
+DTEND;TZID=Asia/Yekaterinburg:20261114T194000
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:da27ad4a1f567981@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T182000
@@ -2090,6 +2104,16 @@ SUMMARY:Цифровые технологии в культуре (лекц
  ия)
 LOCATION:Дистанционно
 DESCRIPTION:СКД-5МСД221Бз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5abbe7232fb345@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T195500
+DTEND;TZID=Asia/Yekaterinburg:20261114T211500
+SUMMARY:Современная сиволическая логика (пр
+ актика)
+LOCATION:Дистанционно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad49e6b96162b1b@uust-schedule

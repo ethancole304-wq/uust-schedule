@@ -355,16 +355,6 @@ DESCRIPTION:Верхотурова Галина Николаевна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:ea0f3ae08ee587d7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
-DTEND;TZID=Asia/Yekaterinburg:20261208T092000
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n1 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:e5ea0309febf98db@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
@@ -409,16 +399,6 @@ UID:2ac9445b862dc456@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
 DTEND;TZID=Asia/Yekaterinburg:20261124T092000
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n1 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:603b0451c5e1d343@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
-DTEND;TZID=Asia/Yekaterinburg:20261201T092000
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Верхотурова Галина Николаевна\n1 п
@@ -475,16 +455,6 @@ DESCRIPTION:Верхотурова Галина Николаевна\n2 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:2c14b655a4da1cd1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
-DTEND;TZID=Asia/Yekaterinburg:20261208T105500
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n2 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:44ea86279681639d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
@@ -529,16 +499,6 @@ UID:fdcff9255cdbf6d6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
 DTEND;TZID=Asia/Yekaterinburg:20261124T105500
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n2 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:7ace7fc607db858c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Верхотурова Галина Николаевна\n2 п
@@ -1021,6 +981,26 @@ DESCRIPTION:Верхотурова Галина Николаевна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:a05166ba441d22be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d78587dd5dbc69@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n1 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:3f276af1a6aee7c4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T080000
@@ -1082,6 +1062,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261014T092000
 SUMMARY:Базы данных (лекция)
 LOCATION:Уточняется
 DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:276ef243e61f010f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:09892ac2ce08fb49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара
 END:VEVENT
 BEGIN:VEVENT
 UID:88181cdb6bbceb87@uust-schedule
@@ -2130,42 +2130,6 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:c69b27d18fa452c8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
-DTEND;TZID=Asia/Yekaterinburg:20261203T125500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ccb4b3796e468ee4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
-DTEND;TZID=Asia/Yekaterinburg:20261210T125500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ce660f2a4b0d9df4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
-DTEND;TZID=Asia/Yekaterinburg:20261217T125500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1c56504b3866ba44@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
-DTEND;TZID=Asia/Yekaterinburg:20261224T125500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:30c483f6157c8ea8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
@@ -2207,51 +2171,6 @@ UID:ebd50ad2b1f16dc0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
 DTEND;TZID=Asia/Yekaterinburg:20261119T143000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b1583ccce13fe317@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
-DTEND;TZID=Asia/Yekaterinburg:20261126T143000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6322d8b149f413d0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
-DTEND;TZID=Asia/Yekaterinburg:20261203T143000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:43502cb160f091ac@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
-DTEND;TZID=Asia/Yekaterinburg:20261210T143000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6bc9ab3f0d6b274b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
-DTEND;TZID=Asia/Yekaterinburg:20261217T143000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Амирханова Лилия Рифовна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:145a507a5da89a7d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
-DTEND;TZID=Asia/Yekaterinburg:20261224T143000
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Амирханова Лилия Рифовна\n4 пара

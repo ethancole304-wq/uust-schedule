@@ -696,6 +696,17 @@ LOCATION:Асинхронно
 DESCRIPTION:Э-ЭФП-203Мз\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2ea13fbfc527cd4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Управление проектами (консультация 
+ экзамена)
+LOCATION:3-202\, Корпус 3
+DESCRIPTION:Э-ЭФП-203М\n5 пара\nНачало консультац
+ ии в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5e4f96fcaedc88c5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T182000
@@ -1233,6 +1244,26 @@ SUMMARY:Основы предпринимательства и коммер
  циализация НИОКР (практика)
 LOCATION:7-204\, Корпус 7
 DESCRIPTION:П-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:77403b1043d1dcf1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
+DTEND;TZID=Asia/Yekaterinburg:20261127T092000
+SUMMARY:Управление проектами (экзамен)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Э-ЭФП-203М\n1 пара\nНачало экзамена в 0
+ 9:00 ч (3-402)
+END:VEVENT
+BEGIN:VEVENT
+UID:6abc54ff804a3710@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Управление проектами (экзамен)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:Э-ЭФП-203М\n2 пара\nНачало экзамена в 0
+ 9:00 ч (3-402)
 END:VEVENT
 BEGIN:VEVENT
 UID:e44f83fc12aa563d@uust-schedule

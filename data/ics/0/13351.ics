@@ -259,6 +259,16 @@ DESCRIPTION:Герасимова Ильмира Барыевна\n8 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:3cd3be1e84517370@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:1ee3faa70d5106a4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
@@ -300,6 +310,38 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лекция)
 LOCATION:105\, Корпус 9
 DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:751a3ef3cb84bdb3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:ab51637fdebb695a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:5af007b9b34d0067@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T182000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
  ра
 END:VEVENT
 BEGIN:VEVENT
@@ -369,6 +411,16 @@ DESCRIPTION:Пушкарева Марина Алексеевна\n7 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:e11a17ab6b087a5f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
+DTEND;TZID=Asia/Yekaterinburg:20261103T211500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:3eaf7420cb59a7f6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T195500
@@ -388,6 +440,38 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лекция)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:e980011136b4ab0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
+DTEND;TZID=Asia/Yekaterinburg:20261110T211500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:5a135dddf8a33480@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T212500
+DTEND;TZID=Asia/Yekaterinburg:20261103T224500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:99c41c56def50b58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T212500
+DTEND;TZID=Asia/Yekaterinburg:20261110T224500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
  ра
 END:VEVENT
 BEGIN:VEVENT
@@ -468,6 +552,17 @@ DESCRIPTION:Герасимова Ильмира Барыевна\n6 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:a87e39b49925c5be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:8b69a68fbfe4d0fd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T182000
@@ -518,6 +613,17 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9a362eeb79ddfc72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
+DTEND;TZID=Asia/Yekaterinburg:20261111T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:eab75e6beb80138f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T195500
@@ -536,6 +642,28 @@ SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-204\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1647915277183258@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T195500
+DTEND;TZID=Asia/Yekaterinburg:20261111T211500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f2324d2e5b36f9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T212500
+DTEND;TZID=Asia/Yekaterinburg:20261111T224500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:11fc9290e17dcfaa@uust-schedule
@@ -584,6 +712,27 @@ DTSTART;TZID=Asia/Yekaterinburg:20261008T164500
 DTEND;TZID=Asia/Yekaterinburg:20261008T180500
 SUMMARY:Веб-дизайн (лаб.)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:4f3a529fceb66644@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:460b6ef25d23c03e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
 DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
  ра
 END:VEVENT
@@ -638,6 +787,16 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:8d5018d06ede374d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T182000
+DTEND;TZID=Asia/Yekaterinburg:20261105T194000
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:e77e57cd3783fba2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
@@ -668,12 +827,33 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0e0f7cf6cf7583b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:ac6bd05310857911@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T195500
 DTEND;TZID=Asia/Yekaterinburg:20261001T211500
 SUMMARY:Веб-дизайн (лекция)
 LOCATION:6-416\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2368fe82e09410@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T195500
+DTEND;TZID=Asia/Yekaterinburg:20261105T211500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
 DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
  ра
 END:VEVENT
@@ -706,6 +886,16 @@ SUMMARY:Теоретические основы информационны
  х процессов (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c24cb8b9a94671@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T212500
+DTEND;TZID=Asia/Yekaterinburg:20261105T224500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:2dc3800595db2678@uust-schedule
@@ -942,6 +1132,16 @@ DESCRIPTION:Герасимова Ильмира Барыевна\n8 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:839ca174e48925c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T080000
+DTEND;TZID=Asia/Yekaterinburg:20261107T092000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:6c2e1f5170a0234e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T080000
@@ -961,6 +1161,16 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:c0fadedd65b6730b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T093500
+DTEND;TZID=Asia/Yekaterinburg:20261107T105500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
  ра
 END:VEVENT
 BEGIN:VEVENT
@@ -986,6 +1196,16 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:b1487f2c41da718c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:1538f105fa82309e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
@@ -997,6 +1217,16 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:3a4152b07c2e1215@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
+DTEND;TZID=Asia/Yekaterinburg:20261107T143000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:ebd01ab290e93759@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
@@ -1005,6 +1235,16 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:dbbef04d3aa228e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
+DTEND;TZID=Asia/Yekaterinburg:20261107T163000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
@@ -1030,6 +1270,16 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:0dd1d5d15a966eec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
+DTEND;TZID=Asia/Yekaterinburg:20261107T180500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:d4ffc927902f6ca2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261003T164500
@@ -1049,6 +1299,26 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:3c10a3606ca32b97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T182000
+DTEND;TZID=Asia/Yekaterinburg:20261107T194000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n7 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a9ebcbbfbfb939@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T195500
+DTEND;TZID=Asia/Yekaterinburg:20261107T211500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
  ра
 END:VEVENT
 END:VCALENDAR

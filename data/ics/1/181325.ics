@@ -71,15 +71,6 @@ LOCATION:511\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:БИТ-103С\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d1b3052183be8052@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
-DTEND;TZID=Asia/Yekaterinburg:20261221T092000
-SUMMARY:История России (практика)
-LOCATION:511\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d291a7182a020e37@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
@@ -2905,7 +2896,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261219T080000
 DTEND;TZID=Asia/Yekaterinburg:20261219T092000
 SUMMARY:История России (практика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:БИТ-103С\n1 пара\nКоваленко Е.С.
+DESCRIPTION:БИТ-103С\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:89280e752c117a8e@uust-schedule
@@ -2960,6 +2951,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261128T105500
 SUMMARY:История России (практика)
 LOCATION:511\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ca8e3018d27c672@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T093500
+DTEND;TZID=Asia/Yekaterinburg:20261219T105500
+SUMMARY:История России (практика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:441af9330f9da1e7@uust-schedule

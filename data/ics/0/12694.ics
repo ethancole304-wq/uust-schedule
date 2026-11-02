@@ -369,6 +369,15 @@ LOCATION:307\, УК-3-4
 DESCRIPTION:Ахмеров Вильмир Венерович\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b5afcb662fc8f400@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T080000
+DTEND;TZID=Asia/Yekaterinburg:20261103T092000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-417
+DESCRIPTION:Узбекова Лилия Явгаровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a991ca1584ca3d95@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
@@ -388,6 +397,15 @@ SUMMARY:Модели хранения данных (экзамен)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
  а\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ae1e3dd98d127a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
+DTEND;TZID=Asia/Yekaterinburg:20261103T105500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-417
+DESCRIPTION:Узбекова Лилия Явгаровна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:47a1386cb6efb72b@uust-schedule
@@ -1491,48 +1509,12 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:59027aa98f4da4b6@uust-schedule
+UID:341e6d85b8389cae@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
-DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
 SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:edb110536293ac7d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
-DTEND;TZID=Asia/Yekaterinburg:20261125T163000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:23008a564e791e23@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
-DTEND;TZID=Asia/Yekaterinburg:20261202T163000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b23626c1b3f01f7f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
-DTEND;TZID=Asia/Yekaterinburg:20261209T163000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f159190b11e0e444@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261216T151000
-DTEND;TZID=Asia/Yekaterinburg:20261216T163000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
+LOCATION:6-413\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1542,6 +1524,33 @@ DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
 DTEND;TZID=Asia/Yekaterinburg:20261014T163000
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-101а
+DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59027aa98f4da4b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:edb110536293ac7d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
+DTEND;TZID=Asia/Yekaterinburg:20261125T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:23008a564e791e23@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
 DESCRIPTION:Узбекова Лилия Явгаровна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1575,48 +1584,12 @@ LOCATION:7-201\, Корпус 7
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:03d74c6baa927b9e@uust-schedule
+UID:492f7fb1e5b110c5@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
-DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
 SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c3a91b75a1010e07@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
-DTEND;TZID=Asia/Yekaterinburg:20261125T180500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2005722c0424def1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
-DTEND;TZID=Asia/Yekaterinburg:20261202T180500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2e180a86d5965091@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
-DTEND;TZID=Asia/Yekaterinburg:20261209T180500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
-DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:557148430d383d99@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261216T164500
-DTEND;TZID=Asia/Yekaterinburg:20261216T180500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417
+LOCATION:6-413\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1626,6 +1599,33 @@ DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
 DTEND;TZID=Asia/Yekaterinburg:20261014T180500
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-101а
+DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:03d74c6baa927b9e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
+DTEND;TZID=Asia/Yekaterinburg:20261118T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a91b75a1010e07@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
+DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2005722c0424def1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-413
 DESCRIPTION:Узбекова Лилия Явгаровна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2968,12 +2968,12 @@ LOCATION:7-201\, Корпус 7
 DESCRIPTION:Богданова Диана Радиковна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ca39e9d9b27a7a61@uust-schedule
+UID:30a0a50850dc1c2b@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
-DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
+DTEND;TZID=Asia/Yekaterinburg:20261113T125500
 SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417а\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:Узбекова Лилия Явгаровна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -3162,12 +3162,12 @@ LOCATION:101\, Корпус 9
 DESCRIPTION:Гаянова Майя Марсовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:920cb8bf17458773@uust-schedule
+UID:753f798ed4d51a21@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
-DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
 SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-417а\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:Узбекова Лилия Явгаровна\n4 пара
 END:VEVENT
 BEGIN:VEVENT

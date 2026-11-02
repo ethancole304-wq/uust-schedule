@@ -469,17 +469,6 @@ LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-ГИС-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:0df2678b305d2e24@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T131000
-DTEND;TZID=Asia/Yekaterinburg:20261026T143000
-SUMMARY:Организационно-правовые аспекты раз
- работки и сопровождения информационных 
- систем (практика)
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:ИСТ-АМО-303Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:ad8dfd61c8b5547d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
@@ -487,7 +476,7 @@ DTEND;TZID=Asia/Yekaterinburg:20261102T143000
 SUMMARY:Организационно-правовые аспекты раз
  работки и сопровождения информационных 
  систем (практика)
-LOCATION:6-106\, Корпус 6
+LOCATION:6-204\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

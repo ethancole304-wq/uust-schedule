@@ -159,6 +159,16 @@ LOCATION:6-403в\, Корпус 6
 DESCRIPTION:ИКТС-401С\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7e5b00548dbea00d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T131000
+DTEND;TZID=Asia/Yekaterinburg:20261102T143000
+SUMMARY:Системы многоканальной связи специа
+ льного назначения (лекция)
+LOCATION:6-512\, Корпус 6
+DESCRIPTION:ИКТС-401С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:fdb911aba5fa9d08@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T151000
@@ -1184,16 +1194,6 @@ UID:3d55b91e8696fca7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T093500
 DTEND;TZID=Asia/Yekaterinburg:20261029T105500
-SUMMARY:Системы многоканальной связи специа
- льного назначения (лекция)
-LOCATION:6-512\, Корпус 6
-DESCRIPTION:ИКТС-401С\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2e508c91fb26edda@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
-DTEND;TZID=Asia/Yekaterinburg:20261105T105500
 SUMMARY:Системы многоканальной связи специа
  льного назначения (лекция)
 LOCATION:6-512\, Корпус 6

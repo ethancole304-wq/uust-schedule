@@ -253,6 +253,15 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3083a224b221ea1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
+DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:953fd82da489c0a5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
@@ -293,6 +302,16 @@ LOCATION:105\, Корпус 9
 DESCRIPTION:ПРО-ИТ-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9c7464fd4364d752@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T164500
+DTEND;TZID=Asia/Yekaterinburg:20261110T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e7bdc9d01c6229ce@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T182000
@@ -320,6 +339,15 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:98abe4bc357e2da1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b82839db1131ea54@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T182000
@@ -328,6 +356,25 @@ SUMMARY:Распределенные системы обработки ин
  формации (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fc18038f67b8ae8d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T182000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45fedddf47489643@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
+DTEND;TZID=Asia/Yekaterinburg:20261103T211500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:ebbfd9711c6288ef@uust-schedule
@@ -378,6 +425,35 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лекция)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9b6ee3037f87be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195500
+DTEND;TZID=Asia/Yekaterinburg:20261110T211500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c5301a8ddab7bc75@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T212500
+DTEND;TZID=Asia/Yekaterinburg:20261103T224500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n9 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:18474093174f03ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T212500
+DTEND;TZID=Asia/Yekaterinburg:20261110T224500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n9 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:1fd1bfac9d4e031e@uust-schedule
@@ -728,6 +804,16 @@ LOCATION:6-417а
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:467e87d0fd2b7d8c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:7840f178d682ce46@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T182000
@@ -756,6 +842,16 @@ LOCATION:6-417а
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b545590dd3de9f9d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
+DTEND;TZID=Asia/Yekaterinburg:20261111T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b0510c8d075a73da@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T195500
@@ -774,6 +870,26 @@ SUMMARY:Распределенные системы обработки ин
  формации (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a13f4d398b3c3d63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T195500
+DTEND;TZID=Asia/Yekaterinburg:20261111T211500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c535502ce949e384@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T212500
+DTEND;TZID=Asia/Yekaterinburg:20261111T224500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n9 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f9ceac570ec615cc@uust-schedule
@@ -1091,6 +1207,15 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c0e7f23c8ce5b9b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T164500
+DTEND;TZID=Asia/Yekaterinburg:20261105T180500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c45e3af6961ee9a7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T164500
@@ -1119,6 +1244,16 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c31484bab50e4e2b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T164500
+DTEND;TZID=Asia/Yekaterinburg:20261112T180500
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3499dcfebcc3589b@uust-schedule
@@ -1166,6 +1301,15 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:fce3e1e2753b2c7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T182000
+DTEND;TZID=Asia/Yekaterinburg:20261105T194000
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:5ac753cd97ee5f39@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T182000
@@ -1196,12 +1340,31 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:744628ffd2d6b515@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
+DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f1261499f4c1a0b3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T195500
 DTEND;TZID=Asia/Yekaterinburg:20261001T211500
 SUMMARY:Веб-дизайн (лекция)
 LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:54a7779a6fcee484@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T195500
+DTEND;TZID=Asia/Yekaterinburg:20261105T211500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
 DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1233,6 +1396,15 @@ SUMMARY:Программирование клиентских сценар
  иев веб-приложений (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2a048c0b796d1f19@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T212500
+DTEND;TZID=Asia/Yekaterinburg:20261105T224500
+SUMMARY:Веб-дизайн (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n9 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:9dc0025d70526bc7@uust-schedule
@@ -1469,6 +1641,15 @@ LOCATION:6-417а
 DESCRIPTION:ПРО-ИТ-АН-101М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8ce12833ab1fe301@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T080000
+DTEND;TZID=Asia/Yekaterinburg:20261107T092000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b21c2ac5b1c6e0eb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T080000
@@ -1547,6 +1728,15 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:48cab6da1c305683@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T093500
+DTEND;TZID=Asia/Yekaterinburg:20261107T105500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fa860095ee7cc9fb@uust-schedule
@@ -1629,6 +1819,15 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cffba1c95f1d530c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
+DTEND;TZID=Asia/Yekaterinburg:20261107T125500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:33c9a68cf1ba731e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T113500
@@ -1707,6 +1906,15 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:666ce362f43fda61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
+DTEND;TZID=Asia/Yekaterinburg:20261107T143000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fda6c2c02302f5ee@uust-schedule
@@ -1789,6 +1997,15 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:de818093e88db7f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
+DTEND;TZID=Asia/Yekaterinburg:20261107T163000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a9367c025b6f39ec@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T151000
@@ -1819,6 +2036,15 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7946f266d25da845@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T164500
+DTEND;TZID=Asia/Yekaterinburg:20261107T180500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:3220a2b306a5de91@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T164500
@@ -1847,5 +2073,23 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (лаб.)
 LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91e6358662565a59@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T182000
+DTEND;TZID=Asia/Yekaterinburg:20261107T194000
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:907ea06ac866297c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T195500
+DTEND;TZID=Asia/Yekaterinburg:20261107T211500
+SUMMARY:Архитектура веб-приложений (лаб.)
+LOCATION:Уточняется
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 END:VCALENDAR

@@ -175,6 +175,36 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:345b9199152c023a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
+DTEND;TZID=Asia/Yekaterinburg:20261130T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d6a75110e486fadd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:7-307\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0455602fb8300b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:22e12c1e330a8d73@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
@@ -319,46 +349,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261109T211500
 SUMMARY:Научный семинар (практика)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0d11ee3cbcfabdf0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
-DTEND;TZID=Asia/Yekaterinburg:20261110T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:889f11564a7d6cff@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
-DTEND;TZID=Asia/Yekaterinburg:20261117T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:cf124eb259d471e1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
-DTEND;TZID=Asia/Yekaterinburg:20261124T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e97caed805a01de9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
-DTEND;TZID=Asia/Yekaterinburg:20261201T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:cb467dbb11ce818f@uust-schedule
@@ -1749,6 +1739,16 @@ SUMMARY:Основы искусственного интеллекта (л
  екция)
 LOCATION:Уточняется
 DESCRIPTION:Б-ГБ-203М\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0e960374373ef9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
+DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:ae8ac8e57fe8bf54@uust-schedule

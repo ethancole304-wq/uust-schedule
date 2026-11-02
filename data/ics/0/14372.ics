@@ -126,26 +126,6 @@ DESCRIPTION:Верхотурова Галина Николаевна\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:078906268faf2c3e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T151000
-DTEND;TZID=Asia/Yekaterinburg:20261130T163000
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413
-DESCRIPTION:Верхотурова Галина Николаевна\n5 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:533555ee1da510e4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
-DTEND;TZID=Asia/Yekaterinburg:20261207T163000
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413
-DESCRIPTION:Верхотурова Галина Николаевна\n5 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:a65d0b3f15941ce2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
@@ -180,26 +160,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261221T164500
 DTEND;TZID=Asia/Yekaterinburg:20261221T180500
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n6 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:243a036b9f6dd913@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
-DTEND;TZID=Asia/Yekaterinburg:20261130T180500
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413
-DESCRIPTION:Верхотурова Галина Николаевна\n6 п
- ара
-END:VEVENT
-BEGIN:VEVENT
-UID:d6a261c6a3682907@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
-DTEND;TZID=Asia/Yekaterinburg:20261207T180500
-SUMMARY:Алгоритмы и структуры данных (лаб.)
-LOCATION:6-413
 DESCRIPTION:Верхотурова Галина Николаевна\n6 п
  ара
 END:VEVENT
@@ -797,17 +757,6 @@ DESCRIPTION:Верхотурова Галина Николаевна\n2 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:3561c23b1d25827c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
-DTEND;TZID=Asia/Yekaterinburg:20261202T105500
-SUMMARY:Алгоритмы и структуры данных (лекция
- )
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:Верхотурова Галина Николаевна\n2 п
- ара
-END:VEVENT
-BEGIN:VEVENT
 UID:475627a84f42cf66@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
@@ -976,6 +925,37 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T143000
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02799ab53f597125@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
+DTEND;TZID=Asia/Yekaterinburg:20261111T163000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413
+DESCRIPTION:Верхотурова Галина Николаевна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:15d45d1b1a551573@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Алгоритмы и структуры данных (лекция
+ )
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n5 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:6109ba52c114cf68@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
+DTEND;TZID=Asia/Yekaterinburg:20261111T180500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413
+DESCRIPTION:Верхотурова Галина Николаевна\n6 п
+ ара
 END:VEVENT
 BEGIN:VEVENT
 UID:efce66a644874a41@uust-schedule
@@ -1762,6 +1742,16 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2a938b30765a420c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413
+DESCRIPTION:Верхотурова Галина Николаевна\n3 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
 UID:c5df8b1613f8f744@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
@@ -1870,6 +1860,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T143000
 SUMMARY:Алгоритмы и структуры данных (лекция
  )
 LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара
+END:VEVENT
+BEGIN:VEVENT
+UID:955062871dcd3d37@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Алгоритмы и структуры данных (лаб.)
+LOCATION:6-413
 DESCRIPTION:Верхотурова Галина Николаевна\n4 п
  ара
 END:VEVENT
