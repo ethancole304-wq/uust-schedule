@@ -392,6 +392,36 @@ LOCATION:305\, Корпус 9
 DESCRIPTION:ПРО-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:02d1b96d667694f6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:509\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4eaa7aa717661c1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:509\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00a58d671a3017cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:509\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:41249febadde93fd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
@@ -512,6 +542,36 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПРО-112Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a68ae98682d3a02c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb7b50b5fb4715f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3746dabbcf755052@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0211eb9606ed9c18@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
@@ -543,6 +603,66 @@ SUMMARY:Современная речевая культура (практ
 LOCATION:Асинхронно
 DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
  няться
+END:VEVENT
+BEGIN:VEVENT
+UID:36488f5c087ea236@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
+DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5d727abb5af684@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T080000
+DTEND;TZID=Asia/Yekaterinburg:20261205T092000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:53fe327872382a39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T080000
+DTEND;TZID=Asia/Yekaterinburg:20261212T092000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da361de21b11bfce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
+DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7f19f915a6a442@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T093500
+DTEND;TZID=Asia/Yekaterinburg:20261205T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c47afb12e58f77d1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T093500
+DTEND;TZID=Asia/Yekaterinburg:20261212T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4b9463baba73dc2e@uust-schedule

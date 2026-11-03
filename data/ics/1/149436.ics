@@ -17,6 +17,47 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:17cb8eb11aa8133e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
+DTEND;TZID=Asia/Yekaterinburg:20261207T125500
+SUMMARY:Организация научно-исследовательск
+ ой деятельности (лекция)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:45a0c8c5c7584ac8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (экзамен)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7caccff6ed7711@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
+DTEND;TZID=Asia/Yekaterinburg:20261207T143000
+SUMMARY:Организация научно-исследовательск
+ ой деятельности (практика)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:59825d5d445fb6e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T151000
+DTEND;TZID=Asia/Yekaterinburg:20261207T163000
+SUMMARY:Организация научно-исследовательск
+ ой деятельности (лекция)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:d2715c0a94655433@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T164500
@@ -69,6 +110,16 @@ SUMMARY:Мероприятия по предотвращению и лок
  производственных объектах (лекция)
 LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-203М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:75c5488684d2c00b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Организация научно-исследовательск
+ ой деятельности (практика)
+LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:eba1e62dc6d35e28@uust-schedule
@@ -304,6 +355,50 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:adf46ea863c93d14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (лекция)
+LOCATION:4-317\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c550f14ce93d0963@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T151000
+DTEND;TZID=Asia/Yekaterinburg:20261208T163000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (практика)
+LOCATION:4-317\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7610a0e93dddf93e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (лекция)
+LOCATION:4-317\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:935b00cd5e7aafda@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T182000
+DTEND;TZID=Asia/Yekaterinburg:20261208T194000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (практика)
+LOCATION:4-317\, Корпус 4
+DESCRIPTION:ТБ-203Мз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:32b60370e887f0ca@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T182000
@@ -474,6 +569,17 @@ LOCATION:303\, УК-3-4
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7fdf45def73375df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (лекция)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-203Мз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:623151d37c88f740@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T164500
@@ -522,6 +628,17 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:303\, УК-3-4
 DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:50678310fc55b23b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Мероприятия по предотвращению и лок
+ ализации аварий и инцидентов на опасных 
+ производственных объектах (практика)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-203Мз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:73b56d3eb39fffd9@uust-schedule
