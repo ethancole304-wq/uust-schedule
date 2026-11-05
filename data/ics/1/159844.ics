@@ -638,6 +638,26 @@ LOCATION:305\, Корпус 9
 DESCRIPTION:ИВТ-КАИД-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:45e18c5a6ed15a61@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Межкультурное взаимодействие (лекци
+ я)
+LOCATION:213\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ФИЛ-РЯЛ-102Бз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c6064641f26e74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T182000
+DTEND;TZID=Asia/Yekaterinburg:20261119T194000
+SUMMARY:Межкультурное взаимодействие (лекци
+ я)
+LOCATION:213\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ФИЛ-РЯЛ-102Бз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9ef0bee12364435c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T113500
