@@ -26,6 +26,15 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8cc5f964b2db3f5c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
+DTEND;TZID=Asia/Yekaterinburg:20261109T125500
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:de25a07aed9014e5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T113500
@@ -44,6 +53,51 @@ SUMMARY:Объектно-ориентированное программи
  рование (лекция)
 LOCATION:211\, УК-3-4
 DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a9602a6321013543@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
+DTEND;TZID=Asia/Yekaterinburg:20260907T143000
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3198b712fb7c727d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
+DTEND;TZID=Asia/Yekaterinburg:20260914T143000
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37d0938f42ccb997@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
+DTEND;TZID=Asia/Yekaterinburg:20260928T143000
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf76b8e3ae330660@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7c76a0b45efc13@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
+DTEND;TZID=Asia/Yekaterinburg:20261019T143000
+SUMMARY:Облачные сервисы и системы (лекция)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:2670db0e0c56028a@uust-schedule
@@ -97,60 +151,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
 DTEND;TZID=Asia/Yekaterinburg:20261130T143000
 SUMMARY:Облачные сервисы и системы (лекция)
 LOCATION:6-305\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0690aef8fc220805@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T131000
-DTEND;TZID=Asia/Yekaterinburg:20261207T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a9602a6321013543@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
-DTEND;TZID=Asia/Yekaterinburg:20260907T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3198b712fb7c727d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
-DTEND;TZID=Asia/Yekaterinburg:20260914T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:37d0938f42ccb997@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
-DTEND;TZID=Asia/Yekaterinburg:20260928T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bf76b8e3ae330660@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
-DTEND;TZID=Asia/Yekaterinburg:20261005T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4b7c76a0b45efc13@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T131000
-DTEND;TZID=Asia/Yekaterinburg:20261019T143000
-SUMMARY:Облачные сервисы и системы (лекция)
-LOCATION:6-307\, Корпус 6
 DESCRIPTION:ИСТ-АДМО-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

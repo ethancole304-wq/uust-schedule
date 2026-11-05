@@ -114,6 +114,16 @@ DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:26c7aa2d27b541ce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:6e385110c50d5f6e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
@@ -260,6 +270,16 @@ DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:2171e1856890ac6f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:33693a7e3a53b040@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
@@ -304,16 +324,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260928T125500
 SUMMARY:Компьютерное моделирование (лекция)
 LOCATION:7-201\, Корпус 7
 DESCRIPTION:Валеева Аида Фаритовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:449be43345c587e3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
-SUMMARY:Модели хранения данных (лекция)
-LOCATION:6-202\, Корпус 6
-DESCRIPTION:Макеев Григорий Анатольевич\n3 пар
- а
 END:VEVENT
 BEGIN:VEVENT
 UID:c3297b52f1095b21@uust-schedule
@@ -1239,16 +1249,6 @@ SUMMARY:Методы приближенных вычислений (экз
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n2 п
  ара\nНачало экзамена в 9:00
-END:VEVENT
-BEGIN:VEVENT
-UID:73ce468dd08d4a82@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
-DTEND;TZID=Asia/Yekaterinburg:20261111T105500
-SUMMARY:Модели хранения данных (лекция)
-LOCATION:7-404\, Корпус 7
-DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
- а
 END:VEVENT
 BEGIN:VEVENT
 UID:f78e4480e0584344@uust-schedule

@@ -431,14 +431,14 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4c120c1561e90e56@uust-schedule
+UID:67e73b5dc6bded7a@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T131000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
 SUMMARY:Психология межличностной коммуника
  ции в современном информационном общест
  ве (практика)
-LOCATION:503\, Физмат (Заки Валиди 32/1)
+LOCATION:501\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

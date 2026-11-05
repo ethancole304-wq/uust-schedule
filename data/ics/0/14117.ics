@@ -87,6 +87,33 @@ LOCATION:Асинхронно
 DESCRIPTION:Нургаянова Ольга Сергеевна\n9 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:306ab31ec25645c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Амирханова Лилия Рифовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa53de9495e71c02@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Амирханова Лилия Рифовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe8dcbf208fdafd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Амирханова Лилия Рифовна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1f0bff802f65e4ce@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T164500

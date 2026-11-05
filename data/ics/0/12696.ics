@@ -77,6 +77,16 @@ LOCATION:7-201\, Корпус 7
 DESCRIPTION:Ризванов Дмитрий Анварович\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:6228c659bf26bf3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:107c344928afd3fe@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
@@ -186,6 +196,16 @@ DESCRIPTION:Абдрахманова Римма Петровна\n2 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:62f28fa031bab333@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Модели хранения данных (лекция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:2bb8ee036001adcf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
@@ -230,16 +250,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260928T125500
 SUMMARY:Компьютерное моделирование (лекция)
 LOCATION:7-201\, Корпус 7
 DESCRIPTION:Валеева Аида Фаритовна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8de099b5b9cb2192@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
-SUMMARY:Модели хранения данных (лекция)
-LOCATION:6-202\, Корпус 6
-DESCRIPTION:Макеев Григорий Анатольевич\n3 пар
- а
 END:VEVENT
 BEGIN:VEVENT
 UID:4c1d8d8c1e49954a@uust-schedule
@@ -944,16 +954,6 @@ SUMMARY:Теория вероятностей и математическа
  я статистика (лекция)
 LOCATION:7-301\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:eb0be08f5f7e0df3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
-DTEND;TZID=Asia/Yekaterinburg:20261111T105500
-SUMMARY:Модели хранения данных (лекция)
-LOCATION:7-404\, Корпус 7
-DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
- а
 END:VEVENT
 BEGIN:VEVENT
 UID:c0d6303eed7bfbac@uust-schedule

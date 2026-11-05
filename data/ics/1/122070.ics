@@ -147,16 +147,6 @@ LOCATION:Дистанционно
 DESCRIPTION:ПИ-210Бз\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8b919eeaaf80c4fe@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
-DTEND;TZID=Asia/Yekaterinburg:20261123T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (лекция)
-LOCATION:101\, Корпус 9
-DESCRIPTION:ПИ-111Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:1b7fb269ee2054cf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
