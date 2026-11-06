@@ -68,6 +68,17 @@ LOCATION:6-413
 DESCRIPTION:ПРО-402Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:48b878ea4a635ff6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Распределенные системы обработки ин
+ формации (консультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-ИТ-203М\n4 пара\nНачало консульта
+ ции в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:9eadf860268fa2b7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T151000
@@ -972,6 +983,17 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-402Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7803a66c92dddfdf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Распределенные системы обработки ин
+ формации (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-ИТ-203М\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:32e6e383a9562431@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
@@ -1050,6 +1072,17 @@ SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:efe847916a907d01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Распределенные системы обработки ин
+ формации (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-ИТ-203М\n2 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:38380b914dccde01@uust-schedule

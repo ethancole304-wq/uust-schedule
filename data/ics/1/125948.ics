@@ -17,6 +17,40 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:4bb3d9ca23892891@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Искусственный интеллект в корпорати
+ вных информационных системах (консульта
+ ция экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-ЦТКС-203М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:31e874ed043d4404@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Искусственный интеллект в корпорати
+ вных информационных системах (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-ЦТКС-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:c589a4bceb510f25@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T093500
+DTEND;TZID=Asia/Yekaterinburg:20261230T105500
+SUMMARY:Искусственный интеллект в корпорати
+ вных информационных системах (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ИВТ-ЦТКС-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:9729578d5f74b0e5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270113T131000

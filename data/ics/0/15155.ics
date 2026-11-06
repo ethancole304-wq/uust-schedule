@@ -91,20 +91,20 @@ LOCATION:105\, Корпус 9
 DESCRIPTION:Хайруллин Рим Нурович\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d603a7b9e5f29ac3@uust-schedule
+UID:fb6284b0582fa690@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
-DTEND;TZID=Asia/Yekaterinburg:20261102T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261019T182000
+DTEND;TZID=Asia/Yekaterinburg:20261019T194000
 SUMMARY:Технология управления бизнес-коммун
  икациями (лекция)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:49cc8f5a2282f06d@uust-schedule
+UID:d603a7b9e5f29ac3@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T182000
-DTEND;TZID=Asia/Yekaterinburg:20261109T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
 SUMMARY:Технология управления бизнес-коммун
  икациями (лекция)
 LOCATION:6-207\, Корпус 6
@@ -141,10 +141,10 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:fb6284b0582fa690@uust-schedule
+UID:d1faa37d90105956@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T182000
-DTEND;TZID=Asia/Yekaterinburg:20261019T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261221T182000
+DTEND;TZID=Asia/Yekaterinburg:20261221T194000
 SUMMARY:Технология управления бизнес-коммун
  икациями (лекция)
 LOCATION:6-207\, Корпус 6

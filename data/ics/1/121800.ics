@@ -46,6 +46,17 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-210Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:54019f8dca37a921@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Нейронные сети и нечеткие системы (к
+ онсультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:79bc764a9dab3d54@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
@@ -691,6 +702,17 @@ LOCATION:7-405\, Корпус 7
 DESCRIPTION:ИВТ-ИСУ-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1dba0b0ed23bd072@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Нейронные сети и нечеткие системы (э
+ кзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:fe4c2899ebc5fe82@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
@@ -748,6 +770,17 @@ DTEND;TZID=Asia/Yekaterinburg:20260909T105500
 SUMMARY:Мягкие вычисления (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:МО-305Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd43fed65ecb124@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T093500
+DTEND;TZID=Asia/Yekaterinburg:20261230T105500
+SUMMARY:Нейронные сети и нечеткие системы (э
+ кзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:fab55184c22d032f@uust-schedule

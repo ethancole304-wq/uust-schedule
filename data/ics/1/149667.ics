@@ -476,6 +476,17 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:МО-304Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e92240ae814e4937@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Иерархические модели данных (консул
+ ьтация экзамена)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:b1347fef08760eb8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T151000
@@ -1326,6 +1337,17 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:79262a7ff78a6680@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T080000
+DTEND;TZID=Asia/Yekaterinburg:20261230T092000
+SUMMARY:Иерархические модели данных (экзаме
+ н)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:41170e60f6163708@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T093500
@@ -1405,6 +1427,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T105500
 SUMMARY:Базы данных (лекция)
 LOCATION:6-106\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1c86a3e20013350f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261230T093500
+DTEND;TZID=Asia/Yekaterinburg:20261230T105500
+SUMMARY:Иерархические модели данных (экзаме
+ н)
+LOCATION:6-106\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:79671d42d2a1403f@uust-schedule

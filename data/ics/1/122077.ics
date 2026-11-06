@@ -244,6 +244,17 @@ DESCRIPTION:ПРО-305Б\n4 пара\nНачало консультации
   в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:75416e0fd2a6d0cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Компьютерное моделирование сложных 
+ систем (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:d034741eefc28ea0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T151000
@@ -630,6 +641,17 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-305Б\n1 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
+UID:9a6883a37ecc0282@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Компьютерное моделирование сложных 
+ систем (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:1011fd9441db837d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
@@ -638,6 +660,17 @@ SUMMARY:Компьютерное моделирование (экзамен
  )
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-305Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3af9df9920a4a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Компьютерное моделирование сложных 
+ систем (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:МО-МОВКС-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:05899762a3e9eed1@uust-schedule
@@ -1033,6 +1066,17 @@ SUMMARY:Компьютерное моделирование (консуль
 LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-307Б\n4 пара\nНачало консультации
   в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e875fd307c77f9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Компьютерное моделирование сложных 
+ систем (консультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n5 пара\nНачало консуль
+ тации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:9131acbe9e027fdf@uust-schedule
@@ -1766,5 +1810,27 @@ DTEND;TZID=Asia/Yekaterinburg:20261211T180500
 SUMMARY:Компьютерное моделирование (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-306Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5739e34b4eb22b06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T080000
+DTEND;TZID=Asia/Yekaterinburg:20270116T092000
+SUMMARY:Компьютерное моделирование сложных 
+ систем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:aa91673498d8e636@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T093500
+DTEND;TZID=Asia/Yekaterinburg:20270116T105500
+SUMMARY:Компьютерное моделирование сложных 
+ систем (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 END:VCALENDAR

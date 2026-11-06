@@ -17,6 +17,17 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:36f0771f6d1e924b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T151000
+DTEND;TZID=Asia/Yekaterinburg:20261225T163000
+SUMMARY:Психология и педагогика (консультац
+ ия экзамена)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n5 пара\nНачало консуль
+ тации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:3d815d90a0ff18a7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T151000
@@ -89,6 +100,16 @@ LOCATION:405\, Корпус 9
 DESCRIPTION:ЭАС-203С\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7523f6592492a8c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T080000
+DTEND;TZID=Asia/Yekaterinburg:20261226T092000
+SUMMARY:Психология и педагогика (экзамен)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5ebc0a26abbb7bfe@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260905T080000
@@ -127,6 +148,16 @@ SUMMARY:Психология межличностной коммуника
  ве (практика)
 LOCATION:405\, Корпус 9
 DESCRIPTION:ПИ-208Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8a98fd4a3422da@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
+DTEND;TZID=Asia/Yekaterinburg:20261226T105500
+SUMMARY:Психология и педагогика (экзамен)
+LOCATION:405\, Корпус 9
+DESCRIPTION:МО-МОВКС-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:185d1b5ce5433796@uust-schedule

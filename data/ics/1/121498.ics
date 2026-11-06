@@ -104,6 +104,18 @@ LOCATION:7-307\, Корпус 7
 DESCRIPTION:СТС-203С\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:220dda189b107901@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (консультация эк
+ замена)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:912024aed33c643d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T131000
@@ -494,6 +506,28 @@ SUMMARY:Теория вероятностей и математическа
  я статистика (практика)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1c653fb6eff71e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (экзамен)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:8716112dba7be34a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Современные численные методы и паке
+ ты прикладных программ (экзамен)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-203М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:67b476dd092ef3ff@uust-schedule

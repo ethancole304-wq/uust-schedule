@@ -116,6 +116,16 @@ LOCATION:6-413
 DESCRIPTION:ПРО-305Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d342ce25eac692d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Web-дизайн\, программирование и продви
+ жение сайтов (лаб.)
+LOCATION:6-414
+DESCRIPTION:БИБ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:3300b8e831f79d8b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T080000
@@ -150,6 +160,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261201T092000
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-305Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c963c11c5b4c560@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Web-дизайн\, программирование и продви
+ жение сайтов (лаб.)
+LOCATION:6-414
+DESCRIPTION:БИБ-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b195aaf6de330e9c@uust-schedule
@@ -514,16 +534,6 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:43153db43b5bcfa1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
-DTEND;TZID=Asia/Yekaterinburg:20261204T125500
-SUMMARY:Web-дизайн\, программирование и продви
- жение сайтов (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:БИБ-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a2ad273ca7d1e41b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T113500
@@ -547,16 +557,6 @@ UID:077d0e0597a5dd7c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T131000
 DTEND;TZID=Asia/Yekaterinburg:20261120T143000
-SUMMARY:Web-дизайн\, программирование и продви
- жение сайтов (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:БИБ-401Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1cb287dfb2357c5c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
-DTEND;TZID=Asia/Yekaterinburg:20261204T143000
 SUMMARY:Web-дизайн\, программирование и продви
  жение сайтов (лаб.)
 LOCATION:6-417\, Корпус 6

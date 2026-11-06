@@ -71,6 +71,17 @@ LOCATION:6-215б\, Корпус 6
 DESCRIPTION:ПИ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:02e9735a09457833@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Архитектура информационных систем в
+  производстве (консультация экзамена)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПИ-РБП-203М\n4 пара\nНачало консульта
+ ции в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:155d3edd481b3b83@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T131000
@@ -518,6 +529,28 @@ DTEND;TZID=Asia/Yekaterinburg:20261110T180500
 SUMMARY:Основы DevOps (лаб.)
 LOCATION:6-215б\, Корпус 6
 DESCRIPTION:ПИ-403Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf9bf1d7e56e9185@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Архитектура информационных систем в
+  производстве (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПИ-РБП-203М\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:f93ba9aa573b9d5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Архитектура информационных систем в
+  производстве (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПИ-РБП-203М\n2 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:db8b3483753618be@uust-schedule

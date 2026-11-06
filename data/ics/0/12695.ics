@@ -1595,16 +1595,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6ced918ab8be747a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
-DTEND;TZID=Asia/Yekaterinburg:20261111T163000
-SUMMARY:Экономика программной инженерии (ла
- б.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:8977707dec864bb5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T151000
@@ -1703,16 +1693,6 @@ UID:aee42b77308d1ba7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
 DTEND;TZID=Asia/Yekaterinburg:20261021T180500
-SUMMARY:Экономика программной инженерии (ла
- б.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Богданова Диана Радиковна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a3008e3205f2ad31@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T164500
-DTEND;TZID=Asia/Yekaterinburg:20261111T180500
 SUMMARY:Экономика программной инженерии (ла
  б.)
 LOCATION:6-419\, Корпус 6
@@ -3161,6 +3141,16 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8cf9bfb40f8c185e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e0eabddddf3ffaff@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T131000
@@ -3169,6 +3159,16 @@ SUMMARY:Безопасность жизнедеятельности (лек
  ция)
 LOCATION:307\, УК-3-4
 DESCRIPTION:Ахмеров Вильмир Венерович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6e029c15493708@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Экономика программной инженерии (ла
+ б.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Богданова Диана Радиковна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3662ea9043c92458@uust-schedule

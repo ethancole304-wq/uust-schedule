@@ -136,6 +136,17 @@ DESCRIPTION:МО-305Б\n4 пара\nНачало консультации
  в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:a7db27c169870d2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Базы данных в веб-приложениях (консу
+ льтация экзамена)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ИТ-203М\n4 пара\nНачало консульта
+ ции в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:8f0ce1d6d3416db4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T182000
@@ -340,6 +351,17 @@ LOCATION:Уточняется
 DESCRIPTION:ПРО-210Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:38f4b0a59e123846@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Базы данных в веб-приложениях (экзам
+ ен)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ИТ-203М\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5c75fb1980ad5cc9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260902T093500
@@ -401,6 +423,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261014T105500
 SUMMARY:Базы данных (лекция)
 LOCATION:Уточняется
 DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:369e48a8f048d1e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Базы данных в веб-приложениях (экзам
+ ен)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ИТ-203М\n2 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:4f9204facbba1ac5@uust-schedule

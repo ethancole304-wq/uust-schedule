@@ -17,6 +17,28 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:36715cbdff0a5c4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Базы данных в веб-приложениях (консу
+ льтация экзамена)
+LOCATION:Асинхронно
+DESCRIPTION:Миронов Валерий Викторович\n4 пара\
+ nНачало консультации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2a989a36fc1a7c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Распределенные системы обработки ин
+ формации (консультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра\nНачало консультации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:9e77277eb41b7cba@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T164500
@@ -298,6 +320,28 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:7945f797c0b461a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
+DTEND;TZID=Asia/Yekaterinburg:20261216T092000
+SUMMARY:Базы данных в веб-приложениях (экзам
+ ен)
+LOCATION:Асинхронно
+DESCRIPTION:Миронов Валерий Викторович\n1 пара\
+ nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4f74ae5957b947@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Базы данных в веб-приложениях (экзам
+ ен)
+LOCATION:Асинхронно
+DESCRIPTION:Миронов Валерий Викторович\n2 пара\
+ nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:05a946b06b622dc7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
@@ -440,6 +484,28 @@ DTEND;TZID=Asia/Yekaterinburg:20261209T211500
 SUMMARY:Управление IT проектами (лаб.)
 LOCATION:6-301\, Корпус 6
 DESCRIPTION:Макарова Светлана Юрьевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61500a1c20ef144b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
+DTEND;TZID=Asia/Yekaterinburg:20261224T092000
+SUMMARY:Распределенные системы обработки ин
+ формации (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
+ ра\nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:97a7c1c446872576@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Распределенные системы обработки ин
+ формации (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
+ ра\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:712fcad681d624d7@uust-schedule
