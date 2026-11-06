@@ -1702,16 +1702,6 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:c25664a332dea12e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
-DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Основы машинного обучения и анализ д
- анных (лекция)
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3fe87bfc3bcf7cbd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
@@ -1729,6 +1719,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T105500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лекция)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aff3429d8a06817b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT

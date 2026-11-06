@@ -2040,16 +2040,6 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:17959d31ec38f33e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T093500
-DTEND;TZID=Asia/Yekaterinburg:20261106T105500
-SUMMARY:Основы машинного обучения и анализ д
- анных (лекция)
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:f933fdc545382975@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T093500
@@ -2067,6 +2057,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T105500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лекция)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:90e9861d559e4be8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
+DTEND;TZID=Asia/Yekaterinburg:20261120T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -2637,16 +2637,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:f4d0d768b00653fa@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T113500
-DTEND;TZID=Asia/Yekaterinburg:20261107T125500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ТОП-106Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:8280182ba625a8b9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
@@ -2671,6 +2661,16 @@ UID:79b1d0a4fae22307@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
 DTEND;TZID=Asia/Yekaterinburg:20261128T125500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ТОП-106Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2716eb8a47d9bd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
 SUMMARY:Основы информационных технологий (л
  аб.)
 LOCATION:6-313\, Корпус 6
@@ -2707,16 +2707,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ТОП-106Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:7458fb57a98d8dac@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T131000
-DTEND;TZID=Asia/Yekaterinburg:20261107T143000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:ТОП-106Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:ff3d353bbc2cff22@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
@@ -2741,6 +2731,16 @@ UID:182b3b961cb77c45@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
 DTEND;TZID=Asia/Yekaterinburg:20261128T143000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ТОП-106Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebae93e8f143041@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
 SUMMARY:Основы информационных технологий (л
  аб.)
 LOCATION:6-313\, Корпус 6
