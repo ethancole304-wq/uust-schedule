@@ -497,6 +497,16 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:d671b607099619f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Другое (ликвидация задолженостей)
+LOCATION:4-119\, Корпус 4
+DESCRIPTION:ПИШ-ЭСиС-203Б\n7 пара\nМышление и текс
+ т. Основы логического анализа
+END:VEVENT
+BEGIN:VEVENT
 UID:2c45a3989975036a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T195500

@@ -165,15 +165,6 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:23bae416c30b2483@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T113500
-DTEND;TZID=Asia/Yekaterinburg:20261109T125500
-SUMMARY:Распознавание образов (практика)
-LOCATION:6-207\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2f11568dff00ba04@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -198,6 +189,15 @@ DTSTART;TZID=Asia/Yekaterinburg:20261207T113500
 DTEND;TZID=Asia/Yekaterinburg:20261207T125500
 SUMMARY:Распознавание образов (практика)
 LOCATION:6-207\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c44ad173f65408d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
+DTEND;TZID=Asia/Yekaterinburg:20261116T125500
+SUMMARY:Распознавание образов (практика)
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT

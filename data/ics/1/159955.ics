@@ -93,6 +93,26 @@ LOCATION:Асинхронно
 DESCRIPTION:МО-МБ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f80c7a73c682c8d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T182000
+DTEND;TZID=Asia/Yekaterinburg:20261026T194000
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bb6ba74540600606@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T182000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:483b88cf06d407ff@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T195500
@@ -100,6 +120,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261019T211500
 SUMMARY:История и методология исследований 
  международных отношений (лекция)
 LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f30b51ed15ea78f9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T195500
+DTEND;TZID=Asia/Yekaterinburg:20261026T211500
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28f9b0def39b4786@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T195500
+DTEND;TZID=Asia/Yekaterinburg:20261102T211500
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
 DESCRIPTION:МО-МБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -587,6 +627,16 @@ LOCATION:507\, Гуманитарный корпус (Карла Маркс
 DESCRIPTION:МО-ВПан-403Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1371fc9035bc7913@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T182000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e148ba8bb70570d9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
@@ -651,6 +701,16 @@ SUMMARY:Международные интеграционные проце
 LOCATION:509\, Гуманитарный корпус (Карла Маркс
  а 3/4)
 DESCRIPTION:МО-ВПан-403Б\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c42783fbb5ac3535@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195500
+DTEND;TZID=Asia/Yekaterinburg:20261103T211500
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:db0c1e4ba9b80762@uust-schedule
@@ -897,6 +957,16 @@ LOCATION:Асинхронно
 DESCRIPTION:МО-МБ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:6a175019e63908de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T182000
+DTEND;TZID=Asia/Yekaterinburg:20261028T194000
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f8e6c8c51f6a9e44@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T195500
@@ -904,6 +974,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261021T211500
 SUMMARY:История и методология исследований 
  международных отношений (лекция)
 LOCATION:Асинхронно
+DESCRIPTION:МО-МБ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a71f5d570e6d7743@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T195500
+DTEND;TZID=Asia/Yekaterinburg:20261028T211500
+SUMMARY:История и методология исследований 
+ международных отношений (практика)
+LOCATION:Дистанционно
 DESCRIPTION:МО-МБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
