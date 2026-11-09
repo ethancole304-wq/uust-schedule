@@ -654,6 +654,18 @@ LOCATION:307\, УК-3-4
 DESCRIPTION:ТБ-402Буз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:419a9ea61c52ba83@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T151000
+DTEND;TZID=Asia/Yekaterinburg:20261224T163000
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (консультация э
+ кзамена)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-104М\n5 пара\nНачало консультации 
+ в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:55c1520ea67460b6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T151000
@@ -793,6 +805,17 @@ LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1a217efa88734024@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (экзамен)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-104М\n1 пара\nНачало экзамена в 09:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:1412d94861d5aba5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T080000
@@ -801,6 +824,17 @@ SUMMARY:Законодательство в сфере безопаснос
  ти (лекция)
 LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-501Бз\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b68ff9c009386594@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (экзамен)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-104М\n2 пара\nНачало экзамена в 09:00 
+ ч
 END:VEVENT
 BEGIN:VEVENT
 UID:06e2fb0a9d34cf26@uust-schedule

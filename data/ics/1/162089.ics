@@ -550,6 +550,28 @@ LOCATION:Уточняется
 DESCRIPTION:П-ПП-202Бозу\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f4b66441beb345d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T093500
+DTEND;TZID=Asia/Yekaterinburg:20261010T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9500a82172a74c2b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T093500
+DTEND;TZID=Asia/Yekaterinburg:20261017T105500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1a1df4b195aafcca@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T113500
@@ -613,6 +635,28 @@ SUMMARY:Общая психология: психология когнит
 LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
 DESCRIPTION:П-ПП-104Б\n3 пара\nпреподаватель Бурд
  илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:0870b2b278997648@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T113500
+DTEND;TZID=Asia/Yekaterinburg:20261010T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df17c2a7e6bbc20e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T113500
+DTEND;TZID=Asia/Yekaterinburg:20261017T125500
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:ab3adf988c3df0bb@uust-schedule
@@ -709,6 +753,28 @@ SUMMARY:Общая психология: психология когнит
 LOCATION:606\, Гуманитарный (Карла Маркса 3/1)
 DESCRIPTION:П-ПП-104Б\n4 пара\nпреподаватель Бурд
  илёва Мария Станиславовна
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8c8b8a280b44b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T131000
+DTEND;TZID=Asia/Yekaterinburg:20261010T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d84245ba450754e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T131000
+DTEND;TZID=Asia/Yekaterinburg:20261017T143000
+SUMMARY:Психология межличностной коммуника
+ ции в современном информационном общест
+ ве (лекция)
+LOCATION:Уточняется
+DESCRIPTION:ПМИ-ПАД-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:195a1887c0bdd69b@uust-schedule

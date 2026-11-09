@@ -205,6 +205,17 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПРО-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5e852f49360904c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T131000
+DTEND;TZID=Asia/Yekaterinburg:20261228T143000
+SUMMARY:Методологии исследования организац
+ ионных систем (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-104М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:22e12c1e330a8d73@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T131000
@@ -529,6 +540,17 @@ SUMMARY:Научно-исследовательский семинар &quo
  аб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00454791e0a9cd2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Методологии исследования организац
+ ионных систем (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ИВТ-КАИД-104М\n4 пара\nНачало экзамен
+ а в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:1a5c42bdc6eb7236@uust-schedule
