@@ -17,6 +17,16 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:435a0524d0c95993@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (лекция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4babe3ded1b9658e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T080000
@@ -42,6 +52,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261026T092000
 SUMMARY:Экспертиза проектов (практика)
 LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-403Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40b5785c40342e0e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (лекция)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:dabfe19752a0914c@uust-schedule
@@ -71,6 +91,16 @@ LOCATION:4-314\, Корпус 4
 DESCRIPTION:ТБ-403Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2580611b415fdafd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T093500
+DTEND;TZID=Asia/Yekaterinburg:20270111T105500
+SUMMARY:Экспертиза проектов (консультация э
+ кзамена)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:ad9ce42cbec64ca5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
@@ -79,6 +109,36 @@ SUMMARY:Безопасность жизнедеятельности (лек
  ция)
 LOCATION:307\, УК-3-4
 DESCRIPTION:ФИИТ-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5ef9c2600d7478@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
+DTEND;TZID=Asia/Yekaterinburg:20261123T125500
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (лаб.)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4fab6693a0ef37bc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T113500
+DTEND;TZID=Asia/Yekaterinburg:20270111T125500
+SUMMARY:Экспертиза проектов (консультация э
+ кзамена)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb92b9fcea62ca0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Безопасность и надежность подъемных
+  сооружений и механизмов (лаб.)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:0fb60df8b948b400@uust-schedule
@@ -140,6 +200,16 @@ LOCATION:307\, УК-3-4
 DESCRIPTION:ФИИТ-301Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7b714254b640452c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (лекция)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6e5825febf2cdd22@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T080000
@@ -167,6 +237,16 @@ LOCATION:307\, УК-3-4
 DESCRIPTION:ТБ-403Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:5a79e10e572f1aff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (лекция)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9e88678cf2f55a8c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T093500
@@ -183,6 +263,44 @@ DTEND;TZID=Asia/Yekaterinburg:20261013T105500
 SUMMARY:Экспертиза проектов (лекция)
 LOCATION:307\, УК-3-4
 DESCRIPTION:ТБ-403Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd76ae7a85d1287@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
+DTEND;TZID=Asia/Yekaterinburg:20270112T105500
+SUMMARY:Экспертиза проектов (экзамен)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:af322a5a72b863fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (практика)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:542ff3810c39dfa1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T113500
+DTEND;TZID=Asia/Yekaterinburg:20270112T125500
+SUMMARY:Экспертиза проектов (экзамен)
+LOCATION:307\, УК-3-4
+DESCRIPTION:ТБ-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df550ee1050ddea5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
+DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (практика)
+LOCATION:305\, УК-3-4
+DESCRIPTION:ТБ-106Мз\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:ecaddf6dd0cc9fd1@uust-schedule

@@ -22,7 +22,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
 DTEND;TZID=Asia/Yekaterinburg:20261130T092000
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417\, Корпус 6
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
 DTEND;TZID=Asia/Yekaterinburg:20261207T092000
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417\, Корпус 6
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -76,12 +76,21 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Ризванов Дмитрий Анварович\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:00d2e8db8bb3b9d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Проектная деятельность (лаб.)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6a4b9c7ba5ed7e95@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
 DTEND;TZID=Asia/Yekaterinburg:20261130T105500
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417\, Корпус 6
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -89,15 +98,6 @@ UID:3db3f51d2703761e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
 DTEND;TZID=Asia/Yekaterinburg:20261207T105500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:00d2e8db8bb3b9d5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
-DTEND;TZID=Asia/Yekaterinburg:20261123T105500
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n2 пара
@@ -128,7 +128,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T113500
 DTEND;TZID=Asia/Yekaterinburg:20261214T125500
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:Уточняется
+LOCATION:6-313
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +137,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
 DTEND;TZID=Asia/Yekaterinburg:20261221T125500
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:Уточняется
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -167,7 +167,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
 DTEND;TZID=Asia/Yekaterinburg:20261214T143000
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:Уточняется
+LOCATION:6-313
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -176,7 +176,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
 DTEND;TZID=Asia/Yekaterinburg:20261221T143000
 SUMMARY:Проектная деятельность (лаб.)
-LOCATION:Уточняется
+LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1964,42 +1964,6 @@ DESCRIPTION:Валеев Руслан Сагитович\n5 пара\nНа
  чало консультации в 15:00
 END:VEVENT
 BEGIN:VEVENT
-UID:9a647ac2ad57c380@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
-DTEND;TZID=Asia/Yekaterinburg:20261204T163000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c9f82c72ace0a9f1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
-DTEND;TZID=Asia/Yekaterinburg:20261211T163000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:98df9f373bbcb9b3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T151000
-DTEND;TZID=Asia/Yekaterinburg:20261218T163000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:04dd665c352c7b7f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T151000
-DTEND;TZID=Asia/Yekaterinburg:20261225T163000
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:92268da032c1c77d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T164500
@@ -2038,42 +2002,6 @@ SUMMARY:Безопасность жизнедеятельности (лаб
  .)
 LOCATION:304\, УК-3-4
 DESCRIPTION:Насырова Элина Сагитовна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:98a1a1718daa177b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
-DTEND;TZID=Asia/Yekaterinburg:20261204T180500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:21424283ddebc6db@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
-DTEND;TZID=Asia/Yekaterinburg:20261211T180500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:96cda407c7879a69@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T164500
-DTEND;TZID=Asia/Yekaterinburg:20261218T180500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5d32a856e99602b9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T164500
-DTEND;TZID=Asia/Yekaterinburg:20261225T180500
-SUMMARY:Проектная деятельность (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:dd181ed1749c0157@uust-schedule

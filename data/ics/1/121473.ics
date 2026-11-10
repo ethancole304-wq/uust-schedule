@@ -466,16 +466,6 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:МО-402Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:024e8077f5f3a7e2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
-DTEND;TZID=Asia/Yekaterinburg:20261117T105500
-SUMMARY:Методы искусственного интеллекта (п
- рактика)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:МО-402Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:ada7d4ec07dff68f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
@@ -1358,6 +1348,16 @@ SUMMARY:Системы искусственного интеллекта (
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-404Б\n4 пара\nНачало консультации
   в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:37103068a7e48758@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T151000
+DTEND;TZID=Asia/Yekaterinburg:20261118T163000
+SUMMARY:Методы искусственного интеллекта (п
+ рактика)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:МО-402Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fcd832d76ed72a55@uust-schedule

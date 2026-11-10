@@ -1087,6 +1087,17 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-305Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:326955f3580eb9b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T131000
+DTEND;TZID=Asia/Yekaterinburg:20270112T143000
+SUMMARY:Методы статистической обработки инф
+ ормации (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-МОВКС-104М\n4 пара\nНачало консуль
+ тации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:c46c3fe9383d58af@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
@@ -1767,6 +1778,17 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0c80e42dfaa50727@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T080000
+DTEND;TZID=Asia/Yekaterinburg:20270114T092000
+SUMMARY:Методы статистической обработки инф
+ ормации (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-МОВКС-104М\n1 пара\nНачало экзамен
+ а в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:3326a11eeeb5ad60@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T080000
@@ -1825,6 +1847,17 @@ SUMMARY:Теория автоматов и формальных языко
  в (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ТОП-201Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1d444b5af64e9515@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T093500
+DTEND;TZID=Asia/Yekaterinburg:20270114T105500
+SUMMARY:Методы статистической обработки инф
+ ормации (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-МОВКС-104М\n2 пара\nНачало экзамен
+ а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:ee20f35923852c5e@uust-schedule
