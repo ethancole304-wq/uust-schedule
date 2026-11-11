@@ -707,6 +707,28 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:12e185149db6e4f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T151000
+DTEND;TZID=Asia/Yekaterinburg:20261228T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311
+DESCRIPTION:Костюкова Анастасия Петровна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:2835e59c929add8e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T164500
+DTEND;TZID=Asia/Yekaterinburg:20261228T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311
+DESCRIPTION:Костюкова Анастасия Петровна\n6 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:488ab4deafc7a9c2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T080000
@@ -3522,6 +3544,17 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:dcfbc528f5cae44d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
+DTEND;TZID=Asia/Yekaterinburg:20261127T163000
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311
+DESCRIPTION:Костюкова Анастасия Петровна\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:76c781382405dbdc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261225T164500
@@ -3531,6 +3564,17 @@ SUMMARY:Основы 3D-моделирования и визуализац
 LOCATION:6-309\, Корпус 6
 DESCRIPTION:Трубин Владислав Дмитриевич\n6 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa1712a14022feb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
+DTEND;TZID=Asia/Yekaterinburg:20261127T180500
+SUMMARY:Программно-аппаратные комплексы (ла
+ б.)
+LOCATION:6-311
+DESCRIPTION:Костюкова Анастасия Петровна\n6 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:0807233a6f756c46@uust-schedule
@@ -3577,17 +3621,6 @@ DESCRIPTION:Костюкова Анастасия Петровна\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:706996ec756c8564@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
-DTEND;TZID=Asia/Yekaterinburg:20261226T125500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n3 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:118bc003689e6196@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270109T131000
@@ -3607,39 +3640,6 @@ SUMMARY:Программно-аппаратные комплексы (ла
  б.)
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:Костюкова Анастасия Петровна\n4 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:63f735a7c1682305@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
-DTEND;TZID=Asia/Yekaterinburg:20261226T143000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n4 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:f1a5fe582cdcd577@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T151000
-DTEND;TZID=Asia/Yekaterinburg:20261128T163000
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n5 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:91f83726d0ae3e3e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T164500
-DTEND;TZID=Asia/Yekaterinburg:20261128T180500
-SUMMARY:Программно-аппаратные комплексы (ла
- б.)
-LOCATION:6-311\, Корпус 6
-DESCRIPTION:Костюкова Анастасия Петровна\n6 па
  ра
 END:VEVENT
 END:VCALENDAR

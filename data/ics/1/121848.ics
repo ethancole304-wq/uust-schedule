@@ -17,6 +17,18 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:46f6dd121144b7ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T080000
+DTEND;TZID=Asia/Yekaterinburg:20270118T092000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (экзаме
+ н)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч.
+END:VEVENT
+BEGIN:VEVENT
 UID:00df4c1ec2916b39@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
@@ -146,6 +158,18 @@ SUMMARY:Системы цифрового телерадиовещания
  ка)
 LOCATION:6-513\, Корпус 6
 DESCRIPTION:ИКТ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5932dfd2b0c8f0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T093500
+DTEND;TZID=Asia/Yekaterinburg:20270118T105500
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (экзаме
+ н)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч.
 END:VEVENT
 BEGIN:VEVENT
 UID:9c42ceeaa94fb15b@uust-schedule
@@ -1322,6 +1346,18 @@ SUMMARY:Системы цифрового телерадиовещания
  )
 LOCATION:6-511\, Корпус 6
 DESCRIPTION:ИКТ-533Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab3e24f4ea36f14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Системы цифрового телерадиовещания 
+ и спутникового позиционирования (консул
+ ьтация экзамена)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТ-401Б\n4 пара\nНачало консультации
+  в 13:00 ч.
 END:VEVENT
 BEGIN:VEVENT
 UID:94b4b02db28a0128@uust-schedule

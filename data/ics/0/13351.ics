@@ -17,6 +17,17 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:36f0057a460596ca@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (консультация экзамена)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Воробьева Гульнара Равилевна\n5 па
+ ра\nНачало консультации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:a03640aeeb313ad9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T164500
@@ -475,6 +486,28 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:a7968c21925e2300@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Архитектура веб-приложений (консуль
+ тация экзамена)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра\nНачало консультации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:93a32d3015be5209@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра\nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:4a680f74ad02527f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T164500
@@ -896,6 +929,26 @@ SUMMARY:Веб-дизайн (лаб.)
 LOCATION:Уточняется
 DESCRIPTION:Воробьева Гульнара Равилевна\n9 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:84d2c64ad9887393@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Архитектура веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
+ ра\nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:76f646de42dd0e51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Архитектура веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
+ ра\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:2dc3800595db2678@uust-schedule

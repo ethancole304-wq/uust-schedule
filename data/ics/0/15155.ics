@@ -451,6 +451,28 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:dd110733965274f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T151000
+DTEND;TZID=Asia/Yekaterinburg:20270113T163000
+SUMMARY:Архитектура веб-приложений (консуль
+ тация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданов Марат Робертович\n5 пара\n
+ Начало консультации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:dfef0ba29fc81513@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T151000
+DTEND;TZID=Asia/Yekaterinburg:20270120T163000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (консультация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданов Марат Робертович\n5 пара\n
+ Начало консультации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:819937b8c2ce8157@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
@@ -845,6 +867,27 @@ SUMMARY:Управление качеством при разработке
   веб-приложений (практика)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Богданов Марат Робертович\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:839a82b6875f67db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Архитектура веб-приложений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданов Марат Робертович\n4 пара\n
+ Начало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:c560ca2c436c4efa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (экзамен)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Богданов Марат Робертович\n4 пара\n
+ Начало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:caf3c231bb39f23c@uust-schedule

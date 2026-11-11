@@ -26,16 +26,6 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9518a189709f3c49@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
-DTEND;TZID=Asia/Yekaterinburg:20261116T125500
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:2-407\, Корпус 2
-DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:66ce9a4d83575e0a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -44,16 +34,6 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:2-407\, Корпус 2
 DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:cc312d82b2f4e9e1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
-DTEND;TZID=Asia/Yekaterinburg:20261116T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:2-407\, Корпус 2
-DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:64444785e4ce7fd9@uust-schedule
@@ -103,6 +83,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261026T143000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:301\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cc312d82b2f4e9e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
 DESCRIPTION:Ложкина Дарья Данииловна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +256,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261020T105500
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:306\, Корпус 9
+DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce69380cdc1b7529@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:507\, Корпус 9
 DESCRIPTION:Ложкина Дарья Данииловна\n2 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -87,16 +87,6 @@ LOCATION:414\, Главный корпус (Заки Валиди 32)
 DESCRIPTION:Без группы\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:978dfa36a60cecef@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
-DTEND;TZID=Asia/Yekaterinburg:20261116T125500
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:2-407\, Корпус 2
-DESCRIPTION:ПРО-АН-203Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:861a3ccb5f0b801a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -105,16 +95,6 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:2-407\, Корпус 2
 DESCRIPTION:ПРО-АН-203Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9fcf0e35c862c829@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
-DTEND;TZID=Asia/Yekaterinburg:20261116T143000
-SUMMARY:Технологии эффективной коммуникаци
- и (практика)
-LOCATION:2-407\, Корпус 2
-DESCRIPTION:ПРО-АН-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:061f33af6a1ff096@uust-schedule
@@ -164,6 +144,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261026T143000
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:301\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcf0e35c862c829@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
+DTEND;TZID=Asia/Yekaterinburg:20261116T143000
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:2-407\, Корпус 2
 DESCRIPTION:ПРО-АН-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -234,6 +224,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261020T105500
 SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:306\, Корпус 9
+DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7fcef2eb87e5e5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Технологии эффективной коммуникаци
+ и (практика)
+LOCATION:507\, Корпус 9
 DESCRIPTION:ПРО-АН-203Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT

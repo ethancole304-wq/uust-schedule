@@ -911,6 +911,16 @@ LOCATION:307\, Гуманитарный корпус (Карла Маркс
 DESCRIPTION:ФС-ОП-301Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:de6156d723fe20ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
+DTEND;TZID=Asia/Yekaterinburg:20261217T125500
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:406\, Корпус 9
+DESCRIPTION:ТБ-203Мз\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:23d5f0ebc8b79cfc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
@@ -919,6 +929,36 @@ SUMMARY:Философские проблемы естествознани
  я (практика)
 LOCATION:Асинхронно
 DESCRIPTION:ФС-ОП-301Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e59eb3c041526dff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:406\, Корпус 9
+DESCRIPTION:ТБ-203Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c09c314609d9fb42@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T151000
+DTEND;TZID=Asia/Yekaterinburg:20261217T163000
+SUMMARY:Философия\, логика и методология нау
+ ки (практика)
+LOCATION:406\, Корпус 9
+DESCRIPTION:ТБ-203Мз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:51cf26f4c775f22a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261210T151000
+DTEND;TZID=Asia/Yekaterinburg:20261210T163000
+SUMMARY:Философия\, логика и методология нау
+ ки (лекция)
+LOCATION:406\, Корпус 9
+DESCRIPTION:ТБ-203Мз\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:540b7249865efb5b@uust-schedule
@@ -1037,6 +1077,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261210T180500
 SUMMARY:Философия математики (практика)
 LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-203Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:953cc45a6b3556d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T164500
+DTEND;TZID=Asia/Yekaterinburg:20261217T180500
+SUMMARY:Философия\, логика и методология нау
+ ки (зачёт)
+LOCATION:406\, Корпус 9
+DESCRIPTION:ТБ-203Мз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b6e94ac97ea46e4e@uust-schedule

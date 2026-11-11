@@ -109,6 +109,17 @@ LOCATION:6-413
 DESCRIPTION:ПРО-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e71ed82c43765ff7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (консультация экзамена)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:ПРО-ИТ-104М\n5 пара\nНачало консульта
+ ции в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:f682f9d4182681d4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T164500
@@ -707,6 +718,17 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-402Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bce9f138b38c265e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Архитектура веб-приложений (консуль
+ тация экзамена)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:ПРО-ИТ-104М\n4 пара\nНачало консульта
+ ции в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:7c69c508ee8fa25c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
@@ -785,6 +807,17 @@ SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-402Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f43474b216b180e4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Управление качеством при разработке
+  веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:ПРО-ИТ-104М\n4 пара\nНачало экзамена в
+  13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:a352c0691632e668@uust-schedule
@@ -1438,6 +1471,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261105T224500
 SUMMARY:Веб-дизайн (лаб.)
 LOCATION:Уточняется
 DESCRIPTION:ПРО-ИТ-104М\n9 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c502602193fd55a9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Архитектура веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:ПРО-ИТ-104М\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:079f627546e3fe98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Архитектура веб-приложений (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:ПРО-ИТ-104М\n2 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:9dc0025d70526bc7@uust-schedule
