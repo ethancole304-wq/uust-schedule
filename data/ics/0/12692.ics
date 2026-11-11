@@ -27,6 +27,46 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7c5fd64d5dd061be@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
+DTEND;TZID=Asia/Yekaterinburg:20261207T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b515bb3c9abf7de7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c855b1929fb0ae4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T080000
+DTEND;TZID=Asia/Yekaterinburg:20261228T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:86da4b4ef3be95ba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:09c0c6cbfec4df0e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
@@ -86,6 +126,46 @@ DTEND;TZID=Asia/Yekaterinburg:20260914T105500
 SUMMARY:Операционные системы (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3860b84001fd3375@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
+DTEND;TZID=Asia/Yekaterinburg:20261207T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0a114cab68d372@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
+DTEND;TZID=Asia/Yekaterinburg:20261221T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f494ec2e5d3e0173@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
+DTEND;TZID=Asia/Yekaterinburg:20261228T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d691815f2d53c990@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-413\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:63e29f72d3d6af05@uust-schedule
@@ -1831,13 +1911,44 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cbf477a6ec4ae6a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T113500
+DTEND;TZID=Asia/Yekaterinburg:20261021T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cb041b368d422a6d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T113500
+DTEND;TZID=Asia/Yekaterinburg:20261028T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a2b3e6cc14e09d03@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T113500
 DTEND;TZID=Asia/Yekaterinburg:20261111T125500
 SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:147ffea7d7c1c63b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
+DTEND;TZID=Asia/Yekaterinburg:20261125T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:78f59dc250fbc200@uust-schedule
@@ -1846,16 +1957,8 @@ DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
 DTEND;TZID=Asia/Yekaterinburg:20261118T125500
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:147ffea7d7c1c63b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
-DTEND;TZID=Asia/Yekaterinburg:20261125T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:91fd09ab4838e3fa@uust-schedule
@@ -1903,13 +2006,44 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:41c73070858afe12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
+DTEND;TZID=Asia/Yekaterinburg:20261021T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9dbf6c443c8e19b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T131000
+DTEND;TZID=Asia/Yekaterinburg:20261028T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f6caf5ea38584247@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
 DTEND;TZID=Asia/Yekaterinburg:20261111T143000
 SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0e7277041b40f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:6142b36880a76209@uust-schedule
@@ -1918,16 +2052,8 @@ DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
 DTEND;TZID=Asia/Yekaterinburg:20261118T143000
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9b0e7277041b40f2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
-DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:943c9b14901985c3@uust-schedule
@@ -2466,87 +2592,6 @@ LOCATION:7-401\, Корпус 7
 DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:87a7e0bf658b6b94@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
-DTEND;TZID=Asia/Yekaterinburg:20261203T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0f239b3d596b7a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T113500
-DTEND;TZID=Asia/Yekaterinburg:20261224T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:02c842d6c57369c6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T113500
-DTEND;TZID=Asia/Yekaterinburg:20261029T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:02c7228e2f954506@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T113500
-DTEND;TZID=Asia/Yekaterinburg:20261105T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d5b02abc29e27fd9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T113500
-DTEND;TZID=Asia/Yekaterinburg:20261112T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2a64f6e41c8bc7ca@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
-DTEND;TZID=Asia/Yekaterinburg:20261119T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:eb19727150d1e6f1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
-DTEND;TZID=Asia/Yekaterinburg:20261126T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c6470988c0a90635@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261210T113500
-DTEND;TZID=Asia/Yekaterinburg:20261210T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f179b5c61a1d3d53@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T113500
-DTEND;TZID=Asia/Yekaterinburg:20261217T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:6a4bcaa6659d0fbd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
@@ -2554,87 +2599,6 @@ DTEND;TZID=Asia/Yekaterinburg:20260903T143000
 SUMMARY:Основы микропрограммирования (лекци
  я)
 LOCATION:6-415\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8555b344aaf04eaa@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261203T131000
-DTEND;TZID=Asia/Yekaterinburg:20261203T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e3343f142cf3690b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T131000
-DTEND;TZID=Asia/Yekaterinburg:20261224T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1e4ddfbc77877fbe@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T131000
-DTEND;TZID=Asia/Yekaterinburg:20261029T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2a13c45a73c22c11@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T131000
-DTEND;TZID=Asia/Yekaterinburg:20261105T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:64268b38f4b6a799@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T131000
-DTEND;TZID=Asia/Yekaterinburg:20261112T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:83f9305f4a2295f3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
-DTEND;TZID=Asia/Yekaterinburg:20261119T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d5485bad54205e6e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
-DTEND;TZID=Asia/Yekaterinburg:20261126T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-414
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7e04063d72215c9e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261210T131000
-DTEND;TZID=Asia/Yekaterinburg:20261210T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-313\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:243b7b6e3d01fd72@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
-DTEND;TZID=Asia/Yekaterinburg:20261217T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-313\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -3007,6 +2971,36 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:59c29a5b1e176591@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d644b3d2f3c67f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1825e6ab4a78b010@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:138e29ef66656553@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
@@ -3016,6 +3010,36 @@ SUMMARY:Психология межличностной коммуника
  ве (практика)
 LOCATION:501\, Корпус 9
 DESCRIPTION:Щербаков Сергей Витальевич\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d23071cd4831112b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
+DTEND;TZID=Asia/Yekaterinburg:20261204T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aaba07ef69052924@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:724eb5f9388bca46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c6cc6217be559958@uust-schedule

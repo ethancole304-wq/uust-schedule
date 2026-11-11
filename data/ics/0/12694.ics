@@ -4075,16 +4075,6 @@ DESCRIPTION:Ризванов Константин Анварович\n3 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:c4ab71ebcb64ec9b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
-DTEND;TZID=Asia/Yekaterinburg:20261114T125500
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e66bb58c8cc033d2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
@@ -4129,6 +4119,16 @@ UID:87b3350954411f99@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
 DTEND;TZID=Asia/Yekaterinburg:20261219T125500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:163602bdaea5edf5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
+DTEND;TZID=Asia/Yekaterinburg:20261226T125500
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
@@ -4235,16 +4235,6 @@ DESCRIPTION:Ризванов Константин Анварович\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
-UID:cd170209c23712bf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
-DTEND;TZID=Asia/Yekaterinburg:20261114T143000
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d7943ad97279e09f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
@@ -4289,6 +4279,16 @@ UID:785c615a641fecfa@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
 DTEND;TZID=Asia/Yekaterinburg:20261219T143000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1935999c52095706@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
+DTEND;TZID=Asia/Yekaterinburg:20261226T143000
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови

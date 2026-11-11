@@ -273,4 +273,81 @@ SUMMARY:Методология программной инженерии (
 LOCATION:Асинхронно
 DESCRIPTION:Сметанина Ольга Николаевна\n9 пара
 END:VEVENT
+BEGIN:VEVENT
+UID:52228bd3fd340c46@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
+DTEND;TZID=Asia/Yekaterinburg:20261119T180500
+SUMMARY:Архитектура информационных систем (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:24cba1d35d2a46ac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
+DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+SUMMARY:Архитектура информационных систем (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ea65a213ae64148b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T182000
+DTEND;TZID=Asia/Yekaterinburg:20261119T194000
+SUMMARY:Архитектура информационных систем (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:809dc4efa1815105@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
+DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+SUMMARY:Архитектура информационных систем (
+ лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e21fa47143020520@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
+DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+SUMMARY:Архитектура информационных систем (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f114ab6b24751d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
+DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+SUMMARY:Архитектура информационных систем (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c04d02ffaf113c6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
+DTEND;TZID=Asia/Yekaterinburg:20261114T125500
+SUMMARY:Архитектура информационных систем (
+ лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
 END:VCALENDAR
