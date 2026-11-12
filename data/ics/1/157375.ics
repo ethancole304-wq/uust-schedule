@@ -1533,6 +1533,52 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
 END:VEVENT
 BEGIN:VEVENT
+UID:a62ae275f27acbc3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
+DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:c45022d0e85daf06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
+DTEND;TZID=Asia/Yekaterinburg:20261211T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:32a6329c43e5de74@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
+DTEND;TZID=Asia/Yekaterinburg:20261218T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1d29fd33811ef7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:528\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
+END:VEVENT
+BEGIN:VEVENT
+UID:359589a87e38ea3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
+DTEND;TZID=Asia/Yekaterinburg:20260918T092000
+SUMMARY:Математический анализ (лаб.)
+LOCATION:Дистанционный формат проведения (Вс
+ я группа)
+DESCRIPTION:МКН-ТПР-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:23d55966c170a792@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T080000
@@ -1596,15 +1642,6 @@ LOCATION:528\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
 END:VEVENT
 BEGIN:VEVENT
-UID:f0001aa993570c85@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
-DTEND;TZID=Asia/Yekaterinburg:20261113T092000
-SUMMARY:Математический анализ (лаб.)
-LOCATION:528\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
-END:VEVENT
-BEGIN:VEVENT
 UID:89254d682fe1bc01@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
@@ -1623,50 +1660,13 @@ LOCATION:528\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
 END:VEVENT
 BEGIN:VEVENT
-UID:a62ae275f27acbc3@uust-schedule
+UID:f0001aa993570c85@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
-DTEND;TZID=Asia/Yekaterinburg:20261204T092000
+DTSTART;TZID=Asia/Yekaterinburg:20261113T080000
+DTEND;TZID=Asia/Yekaterinburg:20261113T092000
 SUMMARY:Математический анализ (лаб.)
-LOCATION:528\, Физмат (Заки Валиди 32/1)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
-END:VEVENT
-BEGIN:VEVENT
-UID:c45022d0e85daf06@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
-DTEND;TZID=Asia/Yekaterinburg:20261211T092000
-SUMMARY:Математический анализ (лаб.)
-LOCATION:528\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
-END:VEVENT
-BEGIN:VEVENT
-UID:32a6329c43e5de74@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
-DTEND;TZID=Asia/Yekaterinburg:20261218T092000
-SUMMARY:Математический анализ (лаб.)
-LOCATION:528\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
-END:VEVENT
-BEGIN:VEVENT
-UID:4a1d29fd33811ef7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
-DTEND;TZID=Asia/Yekaterinburg:20261225T092000
-SUMMARY:Математический анализ (лаб.)
-LOCATION:528\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-203Б\n1 пара\nВся группа
-END:VEVENT
-BEGIN:VEVENT
-UID:359589a87e38ea3d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T080000
-DTEND;TZID=Asia/Yekaterinburg:20260918T092000
-SUMMARY:Математический анализ (лаб.)
-LOCATION:Дистанционный формат проведения (Вс
- я группа)
-DESCRIPTION:МКН-ТПР-203Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:3890e83cc0b32df1@uust-schedule
