@@ -766,16 +766,6 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:ПРО-307Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:88300b06b570972e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Теория вероятностей и математическа
- я статистика (практика)
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:ПРО-307Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:033985ae2a3ab9ca@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
@@ -794,6 +784,16 @@ SUMMARY:Теория вероятностей и математическа
  я статистика (экзамен)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-307Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:88300b06b570972e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПРО-307Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:51bdae2523fbff9a@uust-schedule

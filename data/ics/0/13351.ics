@@ -646,6 +646,16 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b7d0c53fb0c4a3af@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T182000
+DTEND;TZID=Asia/Yekaterinburg:20261223T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9a362eeb79ddfc72@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T182000
@@ -674,6 +684,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261007T211500
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-204\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eb57dc275a27b60f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T195500
+DTEND;TZID=Asia/Yekaterinburg:20261223T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -860,6 +880,26 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:031d0f2d13c363a1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T182000
+DTEND;TZID=Asia/Yekaterinburg:20261217T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8781b484265c677d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T182000
+DTEND;TZID=Asia/Yekaterinburg:20261224T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0e0f7cf6cf7583b0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T182000
@@ -915,6 +955,26 @@ UID:c848743baa5d14ee@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261210T195500
 DTEND;TZID=Asia/Yekaterinburg:20261210T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cf03491a553a9c65@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T195500
+DTEND;TZID=Asia/Yekaterinburg:20261217T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:40da689c0359bc14@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T195500
+DTEND;TZID=Asia/Yekaterinburg:20261224T211500
 SUMMARY:Теоретические основы информационны
  х процессов (лаб.)
 LOCATION:6-414\, Корпус 6

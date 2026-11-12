@@ -27,46 +27,6 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b591b6cb4a867e64@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T080000
-DTEND;TZID=Asia/Yekaterinburg:20261207T092000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8ed64939d194051e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261214T080000
-DTEND;TZID=Asia/Yekaterinburg:20261214T092000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:59d26238400d7a93@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
-DTEND;TZID=Asia/Yekaterinburg:20261221T092000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9ae7d3bd75e5ae19@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261228T080000
-DTEND;TZID=Asia/Yekaterinburg:20261228T092000
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:73db935b2ebf0715@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T080000
@@ -94,46 +54,6 @@ SUMMARY:Методология и технология проектиров
  ания информационных систем (лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:77c6b130799bb651@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
-DTEND;TZID=Asia/Yekaterinburg:20261207T105500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:66390cdcf25fd3e7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
-DTEND;TZID=Asia/Yekaterinburg:20261214T105500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:20235d25b5b1b964@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
-DTEND;TZID=Asia/Yekaterinburg:20261221T105500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:e706a46e4dbce194@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
-DTEND;TZID=Asia/Yekaterinburg:20261228T105500
-SUMMARY:Основы информационных технологий (л
- аб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ТОП-105Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:2355f268f7972a04@uust-schedule
@@ -234,6 +154,16 @@ SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:64fd1ae0f9a01546@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T151000
+DTEND;TZID=Asia/Yekaterinburg:20261116T163000
+SUMMARY:Основы информационных технологий (п
+ рактика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ТОП-106Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fdb16e06691766d2@uust-schedule
@@ -470,36 +400,6 @@ LOCATION:7-205\, Корпус 7
 DESCRIPTION:ПРО-111Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:2e14340ac9f6dd4b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
-DTEND;TZID=Asia/Yekaterinburg:20261117T105500
-SUMMARY:Основы информационных технологий (п
- рактика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7349b549fcc7dc93@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
-DTEND;TZID=Asia/Yekaterinburg:20261124T105500
-SUMMARY:Основы информационных технологий (п
- рактика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:35ff86c0d3beac38@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Основы информационных технологий (п
- рактика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:8cd604df63367110@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T093500
@@ -646,15 +546,6 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9f13343277fcfaed@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
-DTEND;TZID=Asia/Yekaterinburg:20261117T180500
-SUMMARY:Научный семинар (лекция)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:12e13450bad14677@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
@@ -752,15 +643,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261006T194000
 SUMMARY:Научный семинар (практика)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c4857075d287e494@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
-DTEND;TZID=Asia/Yekaterinburg:20261117T194000
-SUMMARY:Научный семинар (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:83b6448eee05b3ee@uust-schedule
@@ -872,6 +754,36 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e4f66de036cd07f4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-105Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d44abe12a0d43387@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ТОП-105Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea72da85f3a4454@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
+DTEND;TZID=Asia/Yekaterinburg:20261125T143000
+SUMMARY:Основы информационных технологий (п
+ рактика)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ТОП-106Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4fbcc08acbf6e74e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T151000
@@ -890,6 +802,36 @@ DTEND;TZID=Asia/Yekaterinburg:20260930T163000
 SUMMARY:Основы информационных технологий (п
  рактика)
 LOCATION:6-201\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd30cfe9f6cb79a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T151000
+DTEND;TZID=Asia/Yekaterinburg:20261223T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d276aad0ddb1c8f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
+DTEND;TZID=Asia/Yekaterinburg:20261202T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-105Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:16112314c91ed8ae@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T151000
+DTEND;TZID=Asia/Yekaterinburg:20261209T163000
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ТОП-105Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -920,6 +862,45 @@ SUMMARY:Методология программной инженерии (
  лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa790855dfce3a48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
+DTEND;TZID=Asia/Yekaterinburg:20261125T180500
+SUMMARY:Научный семинар (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4916ee5bc3dc72c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
+DTEND;TZID=Asia/Yekaterinburg:20261223T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:209c9eaeedccdea7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
+DTEND;TZID=Asia/Yekaterinburg:20261202T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:717615f3a437f556@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Основы информационных технологий (л
+ аб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ТОП-105Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:d0f674a0cdaca9ca@uust-schedule
@@ -959,6 +940,15 @@ SUMMARY:Методология программной инженерии (
  лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:608acb4b577ee135@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T182000
+DTEND;TZID=Asia/Yekaterinburg:20261125T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e79862adc8c56ceb@uust-schedule
@@ -1011,6 +1001,16 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:436ed9fb3d46409a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T182000
+DTEND;TZID=Asia/Yekaterinburg:20261223T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:eba38a65f8ebb2d8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T195500
@@ -1058,6 +1058,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261007T211500
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-204\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d8b0f96aacd6ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T195500
+DTEND;TZID=Asia/Yekaterinburg:20261223T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1405,6 +1415,26 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9aa2be0651c7e7ec@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T182000
+DTEND;TZID=Asia/Yekaterinburg:20261217T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a5eafb9174d6e676@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T182000
+DTEND;TZID=Asia/Yekaterinburg:20261224T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0d3c504281cf450a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T182000
@@ -1507,6 +1537,26 @@ UID:7b4fbe01ee7e24b1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261210T195500
 DTEND;TZID=Asia/Yekaterinburg:20261210T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:405937775997b5a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T195500
+DTEND;TZID=Asia/Yekaterinburg:20261217T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:00b458e5bb68009a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T195500
+DTEND;TZID=Asia/Yekaterinburg:20261224T211500
 SUMMARY:Теоретические основы информационны
  х процессов (лаб.)
 LOCATION:6-414\, Корпус 6
@@ -1750,6 +1800,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261127T125500
 SUMMARY:Основы информационных технологий (п
  рактика)
 LOCATION:6-415\, Корпус 6
+DESCRIPTION:ТОП-106Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3bcefd0622b73c1c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Основы информационных технологий (п
+ рактика)
+LOCATION:6-416\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT

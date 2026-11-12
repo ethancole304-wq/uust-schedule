@@ -883,16 +883,6 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:Гаянова Майя Марсовна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:1f6257656e73a0dc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Теория вероятностей и математическа
- я статистика (практика)
-LOCATION:6-106\, Корпус 6
-DESCRIPTION:Гаянова Майя Марсовна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:82b4957598f4516f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
@@ -912,6 +902,16 @@ SUMMARY:Теория вероятностей и математическа
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Гаянова Майя Марсовна\n2 пара\nНача
  ло экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6257656e73a0dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
+DTEND;TZID=Asia/Yekaterinburg:20261201T105500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:72391a59ee31b121@uust-schedule
