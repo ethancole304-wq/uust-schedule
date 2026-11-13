@@ -17,15 +17,6 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eac4282f4edbe004@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
-DTEND;TZID=Asia/Yekaterinburg:20261116T092000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Узбекова Лилия Явгаровна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:446239bbb8e44f21@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
@@ -41,6 +32,15 @@ DTSTART;TZID=Asia/Yekaterinburg:20261130T080000
 DTEND;TZID=Asia/Yekaterinburg:20261130T092000
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Узбекова Лилия Явгаровна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:eac4282f4edbe004@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
+DTEND;TZID=Asia/Yekaterinburg:20261116T092000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -134,15 +134,6 @@ DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
-UID:fa81f5e91a4a0a88@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
-DTEND;TZID=Asia/Yekaterinburg:20261116T105500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Узбекова Лилия Явгаровна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:de2d84dae590a6b1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
@@ -158,6 +149,15 @@ DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
 DTEND;TZID=Asia/Yekaterinburg:20261130T105500
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Узбекова Лилия Явгаровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa81f5e91a4a0a88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
 DESCRIPTION:Узбекова Лилия Явгаровна\n2 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -116,10 +116,10 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:8f5c80164df924b7@uust-schedule
+UID:290724c17a40b0bd@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
-DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
 SUMMARY:Распознавание образов (лекция)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па

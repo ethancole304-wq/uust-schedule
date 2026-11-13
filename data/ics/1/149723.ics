@@ -4883,7 +4883,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261114T113500
 DTEND;TZID=Asia/Yekaterinburg:20261114T125500
 SUMMARY:Основы российской государственност
  и (лекция)
-LOCATION:101\, Корпус 9
+LOCATION:7-204\, Корпус 7
 DESCRIPTION:ИБ-114Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -5073,7 +5073,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
 DTEND;TZID=Asia/Yekaterinburg:20261114T143000
 SUMMARY:Основы российской государственност
  и (практика)
-LOCATION:105\, Корпус 9
+LOCATION:7-204\, Корпус 7
 DESCRIPTION:МТ-УБ-105Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

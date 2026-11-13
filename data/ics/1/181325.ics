@@ -3129,17 +3129,8 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T131000
 DTEND;TZID=Asia/Yekaterinburg:20261114T143000
 SUMMARY:История России (практика)
-LOCATION:511\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-103Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:376b14d07e591475@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
-DTEND;TZID=Asia/Yekaterinburg:20261121T143000
-SUMMARY:История России (практика)
-LOCATION:511\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:МКН-ТПР-103Б\n4 пара
+LOCATION:202\, Корпус 9
+DESCRIPTION:МКН-ТПР-103Б\n4 пара\n9-202
 END:VEVENT
 BEGIN:VEVENT
 UID:51433d03341d2eab@uust-schedule
@@ -3203,6 +3194,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261107T143000
 SUMMARY:История России (практика)
 LOCATION:1-401\, Корпус 1
 DESCRIPTION:ПМИ-ПИ-101Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:376b14d07e591475@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:История России (практика)
+LOCATION:511\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:МКН-ТПР-103Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e354d2027e5c9f9e@uust-schedule

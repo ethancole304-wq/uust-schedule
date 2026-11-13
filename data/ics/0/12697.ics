@@ -17,28 +17,6 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3aa2ece0ae6eb42d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T080000
-DTEND;TZID=Asia/Yekaterinburg:20261116T092000
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n1 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:7d07f9495530a8c3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
-DTEND;TZID=Asia/Yekaterinburg:20261116T105500
-SUMMARY:Программирование мобильных приложе
- ний (лаб.)
-LOCATION:6-417\, Корпус 6
-DESCRIPTION:Воробьева Гульнара Равилевна\n2 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:6ad1627c7c4abafd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
@@ -129,10 +107,10 @@ DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:39b648c74b1643da@uust-schedule
+UID:8f953893f66f8ce4@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
-DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261116T093500
+DTEND;TZID=Asia/Yekaterinburg:20261116T105500
 SUMMARY:Распознавание образов (лекция)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Шахмаметова Гюзель Радиковна\n2 па
@@ -3174,6 +3152,17 @@ DESCRIPTION:Воробьева Гульнара Равилевна\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:de7ed570f31945b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n3 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:fdae0a625c1e8c0d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T131000
@@ -3181,6 +3170,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261031T143000
 SUMMARY:Программирование мобильных приложе
  ний (лаб.)
 LOCATION:6-417\, Корпус 6
+DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
+UID:46f3823ba62579c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Программирование мобильных приложе
+ ний (лаб.)
+LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Воробьева Гульнара Равилевна\n4 па
  ра
 END:VEVENT
