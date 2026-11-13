@@ -2130,6 +2130,16 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1eb5dfb44ee99223@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
+DTEND;TZID=Asia/Yekaterinburg:20261217T143000
+SUMMARY:Модуль саморазвития (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Герасимова Ильмира Барыевна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
 UID:30c483f6157c8ea8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T131000
@@ -2762,16 +2772,6 @@ UID:c985d96b8003df68@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
 DTEND;TZID=Asia/Yekaterinburg:20261204T163000
-SUMMARY:Модуль саморазвития (практика)
-LOCATION:7-204\, Корпус 7
-DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:5a175ef82acaa1eb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
-DTEND;TZID=Asia/Yekaterinburg:20261211T163000
 SUMMARY:Модуль саморазвития (практика)
 LOCATION:7-204\, Корпус 7
 DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
