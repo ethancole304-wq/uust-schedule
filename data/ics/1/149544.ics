@@ -143,6 +143,16 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ПРО-210Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:125ccd599628d2a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:72c9f64a3fc08295@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T113500
@@ -232,6 +242,16 @@ SUMMARY:Модели хранения данных (консультаци
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало консульта
  ции в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:99824d8628f433a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:a1adbd4c705b8c92@uust-schedule
@@ -368,6 +388,16 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9381adab1d4110c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b421d9b2d4ed9607@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T164500
@@ -416,6 +446,16 @@ SUMMARY:Объектно-ориентированное программи
  рование (лекция)
 LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:91a0a700eeca89e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f9221cc1412363de@uust-schedule
@@ -498,6 +538,16 @@ LOCATION:6-413
 DESCRIPTION:МО-403Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:026a8ad33c6c7ea9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b8a82b78d91e862c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
@@ -506,6 +556,16 @@ SUMMARY:Модели хранения данных (экзамен)
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало экзамена в
   13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6c25de4ac7b419@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-209Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:35c6203d8beca988@uust-schedule
@@ -539,16 +599,6 @@ UID:4d583e328ef1f75e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
 DTEND;TZID=Asia/Yekaterinburg:20261117T163000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-209Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:350c4a67c40f5b34@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
-DTEND;TZID=Asia/Yekaterinburg:20261124T163000
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-101а\, Корпус 6
@@ -606,16 +656,6 @@ UID:93a1b6d3d1760408@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
 DTEND;TZID=Asia/Yekaterinburg:20261117T180500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-209Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3d93c92c883d47c0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
-DTEND;TZID=Asia/Yekaterinburg:20261124T180500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-101а\, Корпус 6
@@ -692,20 +732,20 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4e423a249342ca4a@uust-schedule
+UID:ce47e0e80f0ca7b9@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
-DTEND;TZID=Asia/Yekaterinburg:20261124T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
+DTEND;TZID=Asia/Yekaterinburg:20261201T194000
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ce47e0e80f0ca7b9@uust-schedule
+UID:64b4d8cc64130d71@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
-DTEND;TZID=Asia/Yekaterinburg:20261201T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261229T182000
+DTEND;TZID=Asia/Yekaterinburg:20261229T194000
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-415\, Корпус 6
@@ -730,6 +770,15 @@ SUMMARY:Теоретические основы информационны
  х процессов (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43796e97dedeac72@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:795678b96a77d164@uust-schedule
@@ -792,14 +841,23 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-403Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:e52497f41d082efc@uust-schedule
+UID:cd5492b53ce5073c@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
-DTEND;TZID=Asia/Yekaterinburg:20261125T092000
+DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
+DTEND;TZID=Asia/Yekaterinburg:20261209T092000
 SUMMARY:Технология разработки программного 
  обеспечения и оценка качества (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-403Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0bf9ec7f3ca578@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-308Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:70b36cc273634641@uust-schedule
@@ -822,14 +880,33 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-403Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:0fa90194bcffb9ba@uust-schedule
+UID:5eeb59f06dc30e27@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
-DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261209T093500
+DTEND;TZID=Asia/Yekaterinburg:20261209T105500
 SUMMARY:Технология разработки программного 
  обеспечения и оценка качества (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-403Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4dcb587fb2e9610@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-306Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:874fa2fb300f5e53@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T113500
+DTEND;TZID=Asia/Yekaterinburg:20261223T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-206Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c4cb9f1d2752b9d2@uust-schedule
@@ -859,15 +936,6 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-210Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:40516c84bc4cfa6f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
-DTEND;TZID=Asia/Yekaterinburg:20261125T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-210Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:86234b66e27d7e0b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
@@ -885,6 +953,25 @@ SUMMARY:Технология разработки программного
  обеспечения и оценка качества (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4efaf13381e8645e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:ПРО-306Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b685712b6c049f63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
+DTEND;TZID=Asia/Yekaterinburg:20261223T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:МО-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:174cb6af1bdf713d@uust-schedule
@@ -911,15 +998,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
 DTEND;TZID=Asia/Yekaterinburg:20261111T143000
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-210Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:eba3fb4a4236f301@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
-DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-210Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,16 +1150,6 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:11c2ebd96ceea895@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
-DTEND;TZID=Asia/Yekaterinburg:20261125T163000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-209Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e9ade73bbce07d0c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
@@ -1222,16 +1290,6 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9012cea1596f7e89@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
-DTEND;TZID=Asia/Yekaterinburg:20261125T180500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:ПРО-209Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2bd9dd3fe50cd201@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
@@ -1256,16 +1314,6 @@ UID:c4186173d3e45e7e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T080000
 DTEND;TZID=Asia/Yekaterinburg:20261119T092000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-414
-DESCRIPTION:ПРО-АН-203Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8d21495a32f6c27b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
-DTEND;TZID=Asia/Yekaterinburg:20261126T092000
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-414
@@ -1306,16 +1354,6 @@ UID:4819c6699aa04d53@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
 DTEND;TZID=Asia/Yekaterinburg:20261119T105500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-414
-DESCRIPTION:ПРО-АН-203Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:498f48f0d21eaedd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
-DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-414
@@ -1376,16 +1414,6 @@ UID:cb789db4d2cb28bf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T113500
 DTEND;TZID=Asia/Yekaterinburg:20261119T125500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:МО-206Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:3cf2d8961ad5df48@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
-DTEND;TZID=Asia/Yekaterinburg:20261126T125500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-413\, Корпус 6
@@ -1466,16 +1494,6 @@ UID:86139d326feaadb5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T131000
 DTEND;TZID=Asia/Yekaterinburg:20261119T143000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-413\, Корпус 6
-DESCRIPTION:МО-206Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4ccd6dd2358d1d2d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
-DTEND;TZID=Asia/Yekaterinburg:20261126T143000
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-413\, Корпус 6
@@ -1602,10 +1620,10 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5c329300d31d2c7f@uust-schedule
+UID:83a9ea74d7bb5cf3@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
-DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
 SUMMARY:Архитектура информационных систем (
  лаб.)
 LOCATION:Асинхронно
@@ -1692,10 +1710,10 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d8f96f5cf965d4b4@uust-schedule
+UID:58b0c87754c55f01@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
-DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
 SUMMARY:Архитектура информационных систем (
  лаб.)
 LOCATION:Асинхронно
@@ -1706,15 +1724,6 @@ UID:c0a32acf457849c4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
 DTEND;TZID=Asia/Yekaterinburg:20261120T092000
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-308Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ddf4325d6ecdc4d8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
-DTEND;TZID=Asia/Yekaterinburg:20261127T092000
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-308Б\n1 пара
@@ -1787,19 +1796,19 @@ LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:314331ce4aa412cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:af206ae61a0f64c0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
 DTEND;TZID=Asia/Yekaterinburg:20261120T105500
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-308Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4df9b673a2141845@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
-DTEND;TZID=Asia/Yekaterinburg:20261127T105500
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-308Б\n2 пара
@@ -1870,6 +1879,15 @@ SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e724f767cc87457e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:85c667abaae7f8fc@uust-schedule
@@ -1974,26 +1992,6 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:14e978292425d355@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
-DTEND;TZID=Asia/Yekaterinburg:20261120T180500
-SUMMARY:Теоретические основы информационны
- х процессов (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:702f89e2ff49f85b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
-DTEND;TZID=Asia/Yekaterinburg:20261127T180500
-SUMMARY:Теоретические основы информационны
- х процессов (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:1d684b8278b7b09d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
@@ -2004,6 +2002,16 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:21425bdd6a2fbb9e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T080000
+DTEND;TZID=Asia/Yekaterinburg:20261121T092000
+SUMMARY:Теоретические основы информационны
+ х процессов (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-ИТ-АН-101М\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:55e5c1b574371ca8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
@@ -2012,6 +2020,16 @@ SUMMARY:Архитектура информационных систем (
  лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:85e2adbf42737207@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T093500
+DTEND;TZID=Asia/Yekaterinburg:20261121T105500
+SUMMARY:Теоретические основы информационны
+ х процессов (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-ИТ-АН-101М\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:a442f499deed8df8@uust-schedule
@@ -2028,15 +2046,6 @@ UID:e8ca6230d0cbf776@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
 DTEND;TZID=Asia/Yekaterinburg:20261121T125500
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-306Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:2571e4546bb53309@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
-DTEND;TZID=Asia/Yekaterinburg:20261128T125500
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-306Б\n3 пара
@@ -2082,15 +2091,6 @@ UID:5dc89e1c13c6e790@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
 DTEND;TZID=Asia/Yekaterinburg:20261121T143000
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-306Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6e4678fe6c2c363a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
-DTEND;TZID=Asia/Yekaterinburg:20261128T143000
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-306Б\n4 пара

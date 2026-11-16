@@ -26,6 +26,17 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:10522050288b373f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T113500
+DTEND;TZID=Asia/Yekaterinburg:20261221T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:66ce9a4d83575e0a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -34,6 +45,17 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:2-407\, Корпус 2
 DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:187b099b904c49d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
+DTEND;TZID=Asia/Yekaterinburg:20261221T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:64444785e4ce7fd9@uust-schedule
@@ -980,17 +1002,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:7bca0a258e923110@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
-DTEND;TZID=Asia/Yekaterinburg:20261126T092000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-414
-DESCRIPTION:Котельников Виталий Александрови
- ч\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:23c2e921b1a1a4cb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
@@ -1026,17 +1037,6 @@ UID:b554c80f379557a9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
 DTEND;TZID=Asia/Yekaterinburg:20261119T105500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-414
-DESCRIPTION:Котельников Виталий Александрови
- ч\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:252c7da58cd2d6a7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
-DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-414

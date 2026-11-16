@@ -1075,23 +1075,23 @@ LOCATION:4-118\, Корпус 4
 DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7c25ebe060e34f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
-DTEND;TZID=Asia/Yekaterinburg:20261118T125500
-SUMMARY:Объектно-ориентированное программи
- рование (лекция)
-LOCATION:4-127\, Корпус 4
-DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e5a07d0ac83bc43d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
 DTEND;TZID=Asia/Yekaterinburg:20261125T125500
 SUMMARY:Объектно-ориентированное программи
  рование (лекция)
-LOCATION:4-127\, Корпус 4
+LOCATION:211\, УК-3-4
+DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7c25ebe060e34f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лекция)
+LOCATION:211\, УК-3-4
 DESCRIPTION:ПИШ-ИТ-203Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT

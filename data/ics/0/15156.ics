@@ -285,10 +285,10 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:24cba1d35d2a46ac@uust-schedule
+UID:96bd1c6cf15c7efc@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T164500
-DTEND;TZID=Asia/Yekaterinburg:20261126T180500
+DTSTART;TZID=Asia/Yekaterinburg:20261203T164500
+DTEND;TZID=Asia/Yekaterinburg:20261203T180500
 SUMMARY:Архитектура информационных систем (
  лаб.)
 LOCATION:Асинхронно
@@ -307,10 +307,10 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:809dc4efa1815105@uust-schedule
+UID:a71da7aaee94a558@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261126T182000
-DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261203T182000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
 SUMMARY:Архитектура информационных систем (
  лаб.)
 LOCATION:Асинхронно

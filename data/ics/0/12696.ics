@@ -906,6 +906,16 @@ LOCATION:Асинхронно
 DESCRIPTION:7 пара\nIT консалтинг
 END:VEVENT
 BEGIN:VEVENT
+UID:926fd32cde0bfa6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T080000
+DTEND;TZID=Asia/Yekaterinburg:20261223T092000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:31acf9cfc2e8cf34@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
@@ -954,6 +964,16 @@ SUMMARY:Теория вероятностей и математическа
  я статистика (лекция)
 LOCATION:7-301\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4958333db36ee0b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261223T093500
+DTEND;TZID=Asia/Yekaterinburg:20261223T105500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c0d6303eed7bfbac@uust-schedule
@@ -2662,16 +2682,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:3ec65ecf9c9bf15c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T080000
-DTEND;TZID=Asia/Yekaterinburg:20261127T092000
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c39c7e9694d29059@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T080000
@@ -2816,16 +2826,6 @@ UID:15d840a66223b63b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
 DTEND;TZID=Asia/Yekaterinburg:20261120T105500
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1c8bbc4228955eb9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
-DTEND;TZID=Asia/Yekaterinburg:20261127T105500
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
@@ -3146,6 +3146,15 @@ DESCRIPTION:Кальсин Никита Александрович\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:df88e194a9a417ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T113500
+DTEND;TZID=Asia/Yekaterinburg:20261218T125500
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6e78b8df953c9506@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T113500
@@ -3438,6 +3447,15 @@ DESCRIPTION:Кальсин Никита Александрович\n4 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:ac0cdb59545a791f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261218T131000
+DTEND;TZID=Asia/Yekaterinburg:20261218T143000
+SUMMARY:Инженерия знаний (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:00336e689e1a0ab4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T131000
@@ -3650,15 +3668,6 @@ LOCATION:6-414
 DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:0cd8f9ad5a15fc3c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T151000
-DTEND;TZID=Asia/Yekaterinburg:20261225T163000
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нагимова Ирина Альбертовна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:58b8382543b5de3d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T151000
@@ -3828,15 +3837,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261218T164500
 DTEND;TZID=Asia/Yekaterinburg:20261218T180500
 SUMMARY:Инженерия знаний (лаб.)
 LOCATION:6-414
-DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:34d707f2cbd7b658@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T164500
-DTEND;TZID=Asia/Yekaterinburg:20261225T180500
-SUMMARY:Инженерия знаний (лаб.)
-LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нагимова Ирина Альбертовна\n6 пара
 END:VEVENT
 BEGIN:VEVENT

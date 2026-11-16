@@ -397,10 +397,10 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd7ed5853b98403@uust-schedule
+UID:e5f9dfc0bb21f7fd@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
-DTEND;TZID=Asia/Yekaterinburg:20261124T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
+DTEND;TZID=Asia/Yekaterinburg:20261201T194000
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-415\, Корпус 6
@@ -408,10 +408,10 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:e5f9dfc0bb21f7fd@uust-schedule
+UID:99f85084603046f5@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
-DTEND;TZID=Asia/Yekaterinburg:20261201T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261229T182000
+DTEND;TZID=Asia/Yekaterinburg:20261229T194000
 SUMMARY:Теоретические основы информационны
  х процессов (практика)
 LOCATION:6-415\, Корпус 6
@@ -911,28 +911,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:bcf15d82cebf99e8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
-DTEND;TZID=Asia/Yekaterinburg:20261120T180500
-SUMMARY:Теоретические основы информационны
- х процессов (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:48f56bd001f2865a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
-DTEND;TZID=Asia/Yekaterinburg:20261127T180500
-SUMMARY:Теоретические основы информационны
- х процессов (лекция)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:f0011ac9b01cb089@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T164500
@@ -1043,5 +1021,27 @@ SUMMARY:Управление качеством при разработке
 LOCATION:6-417а
 DESCRIPTION:Воробьева Гульнара Равилевна\n8 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:ccae453af2b70bac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T080000
+DTEND;TZID=Asia/Yekaterinburg:20261121T092000
+SUMMARY:Теоретические основы информационны
+ х процессов (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d87589b364ce6142@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T093500
+DTEND;TZID=Asia/Yekaterinburg:20261121T105500
+SUMMARY:Теоретические основы информационны
+ х процессов (лекция)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
 END:VEVENT
 END:VCALENDAR

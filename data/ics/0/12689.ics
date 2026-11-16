@@ -676,15 +676,6 @@ LOCATION:7-405\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9ac031e3e9b523b7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
-DTEND;TZID=Asia/Yekaterinburg:20261117T092000
-SUMMARY:Алгебра и геометрия (практика)
-LOCATION:7-405\, Корпус 7
-DESCRIPTION:Гаянова Майя Марсовна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:20dbe0dd961fd5e5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
@@ -716,6 +707,15 @@ UID:4bc4354d90f03b8b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
 DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Алгебра и геометрия (практика)
+LOCATION:7-405\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:28262c6d0e7c2306@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
 SUMMARY:Алгебра и геометрия (практика)
 LOCATION:7-405\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара

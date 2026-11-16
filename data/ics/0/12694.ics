@@ -1415,6 +1415,16 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n3 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:be54ae477799d2a8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
+DTEND;TZID=Asia/Yekaterinburg:20261209T125500
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:9eb8ac07d6a70bc6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T131000
@@ -1507,6 +1517,16 @@ SUMMARY:Методы приближенных вычислений (лаб.
 LOCATION:6-313
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0407ca9ca1c089b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T131000
+DTEND;TZID=Asia/Yekaterinburg:20261209T143000
+SUMMARY:Модели хранения данных (лаб.)
+LOCATION:6-414
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:341e6d85b8389cae@uust-schedule
@@ -4085,16 +4105,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6fe501a998d3b536@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T113500
-DTEND;TZID=Asia/Yekaterinburg:20261128T125500
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:486af49874ddb978@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
@@ -4239,16 +4249,6 @@ UID:d7943ad97279e09f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
 DTEND;TZID=Asia/Yekaterinburg:20261121T143000
-SUMMARY:Модели хранения данных (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6de48b25a89f4ccf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261128T131000
-DTEND;TZID=Asia/Yekaterinburg:20261128T143000
 SUMMARY:Модели хранения данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови

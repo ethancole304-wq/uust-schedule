@@ -285,6 +285,17 @@ DESCRIPTION:Низамутдинова Гульназ Саматовна\n4
   пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a60944feb4588686@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T151000
+DTEND;TZID=Asia/Yekaterinburg:20261123T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c41da9f9f9d7c9f0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T151000
@@ -303,6 +314,17 @@ SUMMARY:Основы стартап-менеджмента и проект
  ной акселерации (практика)
 LOCATION:6-106\, Корпус 6
 DESCRIPTION:Дмитриева Ирина Вадимовна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2de84fcfdb3bb470@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T164500
+DTEND;TZID=Asia/Yekaterinburg:20261123T180500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:08ded2e24a71ddd4@uust-schedule
@@ -505,6 +527,17 @@ DESCRIPTION:Верхотурова Галина Николаевна\n2 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:2566003da92958dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:fdb49bfdef3ea569@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
@@ -635,6 +668,17 @@ SUMMARY:Психология межличностной коммуника
  ве (практика)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Щербаков Сергей Витальевич\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e3636aa2dff851b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:78b41f9519b6a1b4@uust-schedule
@@ -797,17 +841,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:178129bfa5050c36@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T151000
-DTEND;TZID=Asia/Yekaterinburg:20261124T163000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3d4747c9f6090017@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
@@ -887,17 +920,6 @@ UID:a770bd31e9bce514@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
 DTEND;TZID=Asia/Yekaterinburg:20261117T180500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5616cc1f55de72b4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
-DTEND;TZID=Asia/Yekaterinburg:20261124T180500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-101а\, Корпус 6
@@ -1776,17 +1798,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8a7b15f11d6856a3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
-DTEND;TZID=Asia/Yekaterinburg:20261125T163000
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:92e6e2fddd7090bd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
@@ -1934,17 +1945,6 @@ UID:cdf0e89a0b0bb432@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T164500
 DTEND;TZID=Asia/Yekaterinburg:20261118T180500
-SUMMARY:Объектно-ориентированное программи
- рование (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6ee6a1e6f8be2334@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
-DTEND;TZID=Asia/Yekaterinburg:20261125T180500
 SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-417а\, Корпус 6

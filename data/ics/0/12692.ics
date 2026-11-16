@@ -1941,16 +1941,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:147ffea7d7c1c63b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
-DTEND;TZID=Asia/Yekaterinburg:20261125T125500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:78f59dc250fbc200@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
@@ -2032,16 +2022,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261111T131000
 DTEND;TZID=Asia/Yekaterinburg:20261111T143000
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:Котельников Виталий Александрови
- ч\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9b0e7277041b40f2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
-DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
  ч\n4 пара
 END:VEVENT
@@ -2754,6 +2734,16 @@ DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:e81a27980eee5c64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
+DTEND;TZID=Asia/Yekaterinburg:20261225T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:46c528c9d1316f6d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T093500
@@ -2848,6 +2838,16 @@ SUMMARY:Основы микропрограммирования (лекци
  я)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bc35a1722d9dde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
+DTEND;TZID=Asia/Yekaterinburg:20261225T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b2a399efecace339@uust-schedule
