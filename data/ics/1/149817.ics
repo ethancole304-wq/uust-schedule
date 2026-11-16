@@ -313,6 +313,16 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:94d50af1183e555c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T164500
+DTEND;TZID=Asia/Yekaterinburg:20261117T180500
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (лекция)
+LOCATION:4-317\, Корпус 4
+DESCRIPTION:ТБ-104М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:587051a2506ae1bd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T182000
@@ -320,6 +330,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261027T194000
 SUMMARY:Безопасность и надежность подъемных
   сооружений и механизмов (практика)
 LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3df7a51ceb18098a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T182000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (лекция)
+LOCATION:4-317\, Корпус 4
 DESCRIPTION:ТБ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -340,6 +360,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261027T211500
 SUMMARY:Безопасность и надежность подъемных
   сооружений и механизмов (практика)
 LOCATION:4-314\, Корпус 4
+DESCRIPTION:ТБ-104М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:734e4f9b4bb4f376@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T195500
+DTEND;TZID=Asia/Yekaterinburg:20261117T211500
+SUMMARY:Безопасность оборудования\, работаю
+ щего под избыточным давлением (практика)
+LOCATION:4-317\, Корпус 4
 DESCRIPTION:ТБ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1130,16 +1160,6 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:4d3a67f5692d8fdc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
-DTEND;TZID=Asia/Yekaterinburg:20261120T180500
-SUMMARY:Безопасность оборудования\, работаю
- щего под избыточным давлением (лекция)
-LOCATION:305\, УК-3-4
-DESCRIPTION:ТБ-104М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3de387aebc8c3027@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
@@ -1200,16 +1220,6 @@ LOCATION:305\, УК-3-4
 DESCRIPTION:ТБ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:19d675873f13ffda@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T182000
-DTEND;TZID=Asia/Yekaterinburg:20261120T194000
-SUMMARY:Безопасность оборудования\, работаю
- щего под избыточным давлением (лекция)
-LOCATION:305\, УК-3-4
-DESCRIPTION:ТБ-104М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:8921782ebccc35f7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T182000
@@ -1264,16 +1274,6 @@ UID:cc60aa42499b5c7b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T195500
 DTEND;TZID=Asia/Yekaterinburg:20261113T211500
-SUMMARY:Безопасность оборудования\, работаю
- щего под избыточным давлением (практика)
-LOCATION:4-314\, Корпус 4
-DESCRIPTION:ТБ-104М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bdcbfa8d35f419f6@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T195500
-DTEND;TZID=Asia/Yekaterinburg:20261120T211500
 SUMMARY:Безопасность оборудования\, работаю
  щего под избыточным давлением (практика)
 LOCATION:4-314\, Корпус 4

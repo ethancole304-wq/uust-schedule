@@ -252,6 +252,17 @@ LOCATION:1-425\, Корпус 1
 DESCRIPTION:ИСТ-АМО-204Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a785a8d61c60047d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T151000
+DTEND;TZID=Asia/Yekaterinburg:20270121T163000
+SUMMARY:Иностранный язык (консультация экза
+ мена)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ИКТ-206Б\n5 пара\nНачало консультации
+  в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:c8f208a036c302f3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
@@ -268,6 +279,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261023T143000
 SUMMARY:Иностранный язык (практика)
 LOCATION:6-318\, Корпус 6
 DESCRIPTION:УТС-103Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c04b7ebac591c42e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ИКТ-206Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:482ca3ddacfdbf80@uust-schedule

@@ -1224,20 +1224,20 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:БИБ-302Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:c0b9028c33803f84@uust-schedule
+UID:2efb5a5f255e580e@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T080000
-DTEND;TZID=Asia/Yekaterinburg:20261111T092000
+DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
+DTEND;TZID=Asia/Yekaterinburg:20261125T092000
 SUMMARY:Основы информационных технологий (л
  аб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-207Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:be36db7be2f9396e@uust-schedule
+UID:2b94da5d45a5ba52@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
-DTEND;TZID=Asia/Yekaterinburg:20261111T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
 SUMMARY:Основы информационных технологий (л
  аб.)
 LOCATION:6-419\, Корпус 6

@@ -229,6 +229,17 @@ LOCATION:309\, Корпус 9
 DESCRIPTION:ИБ-209Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:f825156d392c1580@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Иностранный язык (консультация экза
+ мена)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ИКТ-205Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:049a74ed195ac015@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T131000
@@ -372,6 +383,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261217T194000
 SUMMARY:Иностранный язык (практика)
 LOCATION:1-304\, Корпус 1
 DESCRIPTION:МХ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:31ac28c929fdbbb4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ИКТ-205Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:2eaf2ce762bf92de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ИКТ-205Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:36b9885f2d35dfbc@uust-schedule
