@@ -1201,17 +1201,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
 DTEND;TZID=Asia/Yekaterinburg:20261118T143000
 SUMMARY:Объектно-ориентированное программи
  рование (лекция)
-LOCATION:4-127\, Корпус 4
-DESCRIPTION:ПИШ-ИТ-203Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:44d92e72a5b8d4f9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
-DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Объектно-ориентированное программи
- рование (лекция)
-LOCATION:4-127\, Корпус 4
+LOCATION:211\, УК-3-4
 DESCRIPTION:ПИШ-ИТ-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -719,6 +719,16 @@ LOCATION:6-305\, Корпус 6
 DESCRIPTION:ПИ-403Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7fa204ddfaa63228@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T080000
+DTEND;TZID=Asia/Yekaterinburg:20261117T092000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПИ-401Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:42f298dcb5054625@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270119T080000
@@ -744,16 +754,6 @@ UID:c4bfd5de031f1d44@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T093500
 DTEND;TZID=Asia/Yekaterinburg:20261110T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6fc1b7c54fcaeecb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
-DTEND;TZID=Asia/Yekaterinburg:20261117T105500
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-307\, Корпус 6
@@ -807,6 +807,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261208T105500
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc1b7c54fcaeecb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T093500
+DTEND;TZID=Asia/Yekaterinburg:20261117T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-202\, Корпус 6
 DESCRIPTION:ПИ-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -905,16 +915,6 @@ UID:9b3120901f9ae209@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
 DTEND;TZID=Asia/Yekaterinburg:20260922T163000
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:820ad713b21b5759@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T151000
-DTEND;TZID=Asia/Yekaterinburg:20261117T163000
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-307\, Корпус 6

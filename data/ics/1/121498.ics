@@ -17,6 +17,26 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2cceaf9550726c82@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:СТС-203С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a78940cb1a93cc98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:СТС-203С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:667e1b3e851cd418@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T113500
@@ -530,6 +550,26 @@ DESCRIPTION:ИВТ-КАИД-203М\n2 пара\nНачало экзамен
  а в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
+UID:6c9448b23bfe4ab0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T113500
+DTEND;TZID=Asia/Yekaterinburg:20261118T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a5fbb800d9bda06@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
+DTEND;TZID=Asia/Yekaterinburg:20261202T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:67b476dd092ef3ff@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
@@ -539,6 +579,26 @@ SUMMARY:Теория вероятностей и математическа
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало консульта
  ции в 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:54bdb6a1a5c37795@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T131000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:8-Актовый зал\, Корпус 8
+DESCRIPTION:СТС-203С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ff24b93fd42905f8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
+DTEND;TZID=Asia/Yekaterinburg:20261202T143000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:7-301\, Корпус 7
+DESCRIPTION:СТС-203С\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:2397afbb34c63731@uust-schedule
@@ -624,6 +684,26 @@ LOCATION:7-305\, Корпус 7
 DESCRIPTION:СТС-203С\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:6652665cdd006f99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:СТС-203С\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6a0840aa82833e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
+DTEND;TZID=Asia/Yekaterinburg:20261211T143000
+SUMMARY:Теория вероятностей\, математическа
+ я статистика и случайные процессы (лаб.)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:СТС-203С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e9ddcd4ebb723e8d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T151000
@@ -644,46 +724,6 @@ LOCATION:7-305\, Корпус 7
 DESCRIPTION:СТС-203С\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:92de49f9a1085032@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T151000
-DTEND;TZID=Asia/Yekaterinburg:20261120T163000
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4dc10f7c594e8dd0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
-DTEND;TZID=Asia/Yekaterinburg:20261127T163000
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5c75252e90f4f2fb@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
-DTEND;TZID=Asia/Yekaterinburg:20261204T163000
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n5 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1cf9756bfaba3fa0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
-DTEND;TZID=Asia/Yekaterinburg:20261211T163000
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:b9c0bcdccea0d850@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T164500
@@ -698,46 +738,6 @@ UID:c879187a5b60aa21@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
 DTEND;TZID=Asia/Yekaterinburg:20261113T180500
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:7f74c88e07dea2d5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T164500
-DTEND;TZID=Asia/Yekaterinburg:20261120T180500
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c52acfe2ca4d2c10@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
-DTEND;TZID=Asia/Yekaterinburg:20261127T180500
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1af5871df3f0eb13@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
-DTEND;TZID=Asia/Yekaterinburg:20261204T180500
-SUMMARY:Теория вероятностей\, математическа
- я статистика и случайные процессы (лаб.)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:СТС-203С\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d1c53bdfe1b2fab5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
-DTEND;TZID=Asia/Yekaterinburg:20261211T180500
 SUMMARY:Теория вероятностей\, математическа
  я статистика и случайные процессы (лаб.)
 LOCATION:7-305\, Корпус 7
