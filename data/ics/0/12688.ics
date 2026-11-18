@@ -810,36 +810,6 @@ LOCATION:7-304\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:876f168a2226334d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
-DTEND;TZID=Asia/Yekaterinburg:20261208T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:4c60c50b9319a74d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
-DTEND;TZID=Asia/Yekaterinburg:20261215T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:98c7da4dffeaee4f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
-DTEND;TZID=Asia/Yekaterinburg:20261222T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c003bc85432bd684@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
@@ -1164,6 +1134,36 @@ LOCATION:7-205\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b371049c3b84cc6a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e6714098b96983db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bdf6f11c560bafd9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6625919bc333775c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
@@ -1305,6 +1305,26 @@ SUMMARY:Современная речевая культура (практ
 LOCATION:305\, Корпус 9
 DESCRIPTION:Иванова Александра Сергеевна\n4 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7403a671100485@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22c49b55bd491cde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Сметанина Ольга Николаевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b81c2c8cb9371458@uust-schedule

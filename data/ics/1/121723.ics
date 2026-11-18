@@ -247,6 +247,44 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:МО-МОВКС-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:fcf239870d05cada@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T182000
+DTEND;TZID=Asia/Yekaterinburg:20261130T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2822d970f5d340d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
+DTEND;TZID=Asia/Yekaterinburg:20261207T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13e7fb4b25e59a8a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T182000
+DTEND;TZID=Asia/Yekaterinburg:20261214T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b41f6e5f3a598017@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T182000
+DTEND;TZID=Asia/Yekaterinburg:20261221T194000
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c3c3e537d3b47aed@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T195500
@@ -292,34 +330,33 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:cb467dbb11ce818f@uust-schedule
+UID:204900a6327d3790@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
-DTEND;TZID=Asia/Yekaterinburg:20261208T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195500
+DTEND;TZID=Asia/Yekaterinburg:20261123T211500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ff49e166e1785fa4@uust-schedule
+UID:7b5609c582ef573d@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
-DTEND;TZID=Asia/Yekaterinburg:20261215T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
+DTSTART;TZID=Asia/Yekaterinburg:20261214T195500
+DTEND;TZID=Asia/Yekaterinburg:20261214T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:cba097d17f159c99@uust-schedule
+UID:df81798da56af422@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
-DTEND;TZID=Asia/Yekaterinburg:20261222T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-305\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
+DTSTART;TZID=Asia/Yekaterinburg:20261221T195500
+DTEND;TZID=Asia/Yekaterinburg:20261221T211500
+SUMMARY:Теоретические основы информационны
+ х процессов (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:16b8ac72a54bc0c9@uust-schedule
@@ -442,6 +479,36 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a0cba4a2a77ab216@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fddb4b2b26ad4f6f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e3a36768a4d323@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:00454791e0a9cd2f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
@@ -484,6 +551,26 @@ SUMMARY:Научно-исследовательский семинар &quo
  аб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:БИБ-401Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f660dfb5f72896@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:96f88fff0444320e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T151000
+DTEND;TZID=Asia/Yekaterinburg:20261215T163000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:22b5c5574e43e8c0@uust-schedule
@@ -708,6 +795,16 @@ SUMMARY:Научно-исследовательский семинар &quo
  екция)
 LOCATION:6-106\, Корпус 6
 DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f81b34dfdd3cf159@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T093500
+DTEND;TZID=Asia/Yekaterinburg:20261216T105500
+SUMMARY:Основы информационных технологий (л
+ екция)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-106Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4dae23f902c7b4ff@uust-schedule
@@ -1415,26 +1512,6 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9aa2be0651c7e7ec@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T182000
-DTEND;TZID=Asia/Yekaterinburg:20261217T194000
-SUMMARY:Теоретические основы информационны
- х процессов (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-ИТ-104М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a5eafb9174d6e676@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T182000
-DTEND;TZID=Asia/Yekaterinburg:20261224T194000
-SUMMARY:Теоретические основы информационны
- х процессов (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-ИТ-104М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0d3c504281cf450a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T182000
@@ -1537,26 +1614,6 @@ UID:7b4fbe01ee7e24b1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261210T195500
 DTEND;TZID=Asia/Yekaterinburg:20261210T211500
-SUMMARY:Теоретические основы информационны
- х процессов (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-ИТ-104М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:405937775997b5a0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261217T195500
-DTEND;TZID=Asia/Yekaterinburg:20261217T211500
-SUMMARY:Теоретические основы информационны
- х процессов (лаб.)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-ИТ-104М\n8 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:00b458e5bb68009a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261224T195500
-DTEND;TZID=Asia/Yekaterinburg:20261224T211500
 SUMMARY:Теоретические основы информационны
  х процессов (лаб.)
 LOCATION:6-414\, Корпус 6

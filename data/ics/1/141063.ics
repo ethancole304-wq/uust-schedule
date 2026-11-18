@@ -1547,6 +1547,16 @@ LOCATION:6-305\, Корпус 6
 DESCRIPTION:ИСТ-101Бз\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7a3b56180f730e3d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
+DTEND;TZID=Asia/Yekaterinburg:20261224T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (зачёт с оценкой)
+LOCATION:4-118\, Корпус 4
+DESCRIPTION:ПИШ-ИТ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:eb65fd9cd6bf7c6e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T093500

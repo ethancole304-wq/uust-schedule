@@ -272,6 +272,15 @@ DESCRIPTION:Верхотуров Михаил Александрович\n4
   пара\nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:b3355f0fe375e602@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
+DTEND;TZID=Asia/Yekaterinburg:20261123T143000
+SUMMARY:Распознавание образов (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:e7ab3fec96869d4c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T131000

@@ -17,6 +17,24 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f4d8a6d1a8325ae8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T182000
+DTEND;TZID=Asia/Yekaterinburg:20261130T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc173980bbaae76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
+DTEND;TZID=Asia/Yekaterinburg:20261207T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:7adf8b597b7a1c17@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T182000
@@ -25,6 +43,15 @@ SUMMARY:Технология подготовки текста и през
  ентации научной работы (практика)
 LOCATION:Асинхронно
 DESCRIPTION:Нургаянова Ольга Сергеевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:932d00e9d94a1a05@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195500
+DTEND;TZID=Asia/Yekaterinburg:20261123T211500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Сметанина Ольга Николаевна\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b47f7e02b96a8328@uust-schedule
