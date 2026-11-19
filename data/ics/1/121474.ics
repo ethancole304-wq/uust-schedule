@@ -45,6 +45,16 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:40b3e9afc64b9800@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ИВТ-ИВС-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:10951fd91a155ac2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261228T093500
@@ -2039,6 +2049,16 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:ТОП-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e50565d09ca30971@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
+DTEND;TZID=Asia/Yekaterinburg:20261127T105500
+SUMMARY:Основы машинного обучения и анализ д
+ анных (лекция)
+LOCATION:6-313\, Корпус 6
+DESCRIPTION:ПРО-АН-302Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:c16f75d0db4ded72@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T093500
@@ -2066,16 +2086,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T105500
 SUMMARY:Основы машинного обучения и анализ д
  анных (лекция)
 LOCATION:6-101а\, Корпус 6
-DESCRIPTION:ПРО-АН-302Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:90e9861d559e4be8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T093500
-DTEND;TZID=Asia/Yekaterinburg:20261120T105500
-SUMMARY:Основы машинного обучения и анализ д
- анных (лекция)
-LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT

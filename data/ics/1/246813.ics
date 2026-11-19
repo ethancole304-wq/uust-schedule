@@ -412,16 +412,6 @@ LOCATION:509\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:00a58d671a3017cf@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
-DTEND;TZID=Asia/Yekaterinburg:20261222T143000
-SUMMARY:Современная речевая культура (практ
- ика)
-LOCATION:509\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:41249febadde93fd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
@@ -562,16 +552,6 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:3746dabbcf755052@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
-DTEND;TZID=Asia/Yekaterinburg:20261222T163000
-SUMMARY:Современная речевая культура (практ
- ика)
-LOCATION:503\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0211eb9606ed9c18@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
@@ -605,10 +585,10 @@ DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
  няться
 END:VEVENT
 BEGIN:VEVENT
-UID:36488f5c087ea236@uust-schedule
+UID:8ee4dbc332449a0b@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
-DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+DTSTART;TZID=Asia/Yekaterinburg:20261226T080000
+DTEND;TZID=Asia/Yekaterinburg:20261226T092000
 SUMMARY:Современная речевая культура (практ
  ика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
@@ -635,14 +615,44 @@ LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:da361de21b11bfce@uust-schedule
+UID:36488f5c087ea236@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
-DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261114T080000
+DTEND;TZID=Asia/Yekaterinburg:20261114T092000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02541e563026026c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
+DTEND;TZID=Asia/Yekaterinburg:20261226T105500
 SUMMARY:Современная речевая культура (практ
  ика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f07b63feae0ba733@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T093500
+DTEND;TZID=Asia/Yekaterinburg:20261121T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa1a45784853057@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T093500
+DTEND;TZID=Asia/Yekaterinburg:20261219T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:7a7f19f915a6a442@uust-schedule
@@ -663,6 +673,116 @@ SUMMARY:Современная речевая культура (практ
  ика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:da361de21b11bfce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T093500
+DTEND;TZID=Asia/Yekaterinburg:20261114T105500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:526\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:19b1001495c276a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T113500
+DTEND;TZID=Asia/Yekaterinburg:20261121T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:13a952c9047808c5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T113500
+DTEND;TZID=Asia/Yekaterinburg:20261205T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5f126c31aeb639@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T113500
+DTEND;TZID=Asia/Yekaterinburg:20261212T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:94676edf743a0c29@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T113500
+DTEND;TZID=Asia/Yekaterinburg:20261219T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ed493d0171f30b8b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T113500
+DTEND;TZID=Asia/Yekaterinburg:20261226T125500
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:83eb2c44e964b0f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T131000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f22693559c194d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T131000
+DTEND;TZID=Asia/Yekaterinburg:20261205T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4f107bd306a043@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261212T131000
+DTEND;TZID=Asia/Yekaterinburg:20261212T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2887a8c6055b47@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261219T131000
+DTEND;TZID=Asia/Yekaterinburg:20261219T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5ae6e08e5d65b1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T131000
+DTEND;TZID=Asia/Yekaterinburg:20261226T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:Онлайн
+DESCRIPTION:ПМИ-ПАД-108Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4b9463baba73dc2e@uust-schedule
