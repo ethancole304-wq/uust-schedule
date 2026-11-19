@@ -516,16 +516,6 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:97126840829c88ae@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
-DTEND;TZID=Asia/Yekaterinburg:20261123T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-307\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:a89d6937d737cf15@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
@@ -817,6 +807,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261229T092000
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:7-205\, Корпус 7
+DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7e2eb0247e0feb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT

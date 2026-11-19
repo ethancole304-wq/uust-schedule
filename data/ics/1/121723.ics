@@ -105,16 +105,6 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ПРО-111Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:d6a75110e486fadd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T131000
-DTEND;TZID=Asia/Yekaterinburg:20261123T143000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-307\, Корпус 7
-DESCRIPTION:ПРО-111Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:3b0455602fb8300b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T131000
@@ -369,6 +359,16 @@ LOCATION:7-205\, Корпус 7
 DESCRIPTION:ПРО-111Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cf124eb259d471e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
+DTEND;TZID=Asia/Yekaterinburg:20261124T092000
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-111Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:132dc032653e338f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T080000
@@ -468,14 +468,14 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b95b4972caeb120d@uust-schedule
+UID:87ec937201ffaffc@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
-DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
 SUMMARY:Научно-исследовательский семинар &quo
  t\;Информационная бизнес-аналитика&quot\; (л
  аб.)
-LOCATION:6-414\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -542,14 +542,14 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:БИБ-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:01a5d5e5e053e3ab@uust-schedule
+UID:0dde4681f1cc115e@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T131000
-DTEND;TZID=Asia/Yekaterinburg:20261124T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
 SUMMARY:Научно-исследовательский семинар &quo
  t\;Информационная бизнес-аналитика&quot\; (л
  аб.)
-LOCATION:6-414\, Корпус 6
+LOCATION:6-414
 DESCRIPTION:БИБ-401Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
