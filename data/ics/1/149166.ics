@@ -17,6 +17,28 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:5b301205cfbbe54e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Дискретная математика (консультация
+  экзамена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:МО-108Б\n4 пара\nНачало консультации 
+ в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:68578573400a7072@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Дискретная математика (консультация
+  экзамена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:МО-109Б\n5 пара\nНачало консультации 
+ в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:8c084661a1a50190@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
@@ -1499,6 +1521,16 @@ LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:736155a45d5cc91f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Дискретная математика (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-108Б\n4 пара\nНачало экзамена в 13:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:e775c7bad7029ed2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261223T131000
@@ -1922,6 +1954,16 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:МО-108Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cb39f863e329e733@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T080000
+DTEND;TZID=Asia/Yekaterinburg:20270121T092000
+SUMMARY:Дискретная математика (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-109Б\n1 пара\nНачало экзамена в 09:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:69a2b3c520b32207@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
@@ -2168,6 +2210,16 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:МО-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9d443f76ba9030e3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Дискретная математика (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-109Б\n2 пара\nНачало экзамена в 09:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:9676566db81b636d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
@@ -2334,6 +2386,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261224T143000
 SUMMARY:Дискретная математика (лаб.)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:МО-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf57f83b6a3702e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T131000
+DTEND;TZID=Asia/Yekaterinburg:20270128T143000
+SUMMARY:Дискретная математика (консультация
+  экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ФИИТ-103Б\n4 пара\nНачало консультаци
+ и в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:c5e2bb1ddcdcbefa@uust-schedule
@@ -3196,5 +3259,25 @@ SUMMARY:Методы приближенных вычислений (лаб.
  )
 LOCATION:6-313
 DESCRIPTION:ПРО-306Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4edb3c878e9b7778@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270130T080000
+DTEND;TZID=Asia/Yekaterinburg:20270130T092000
+SUMMARY:Дискретная математика (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ФИИТ-103Б\n1 пара\nНачало экзамена в 09
+ :00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9ecc176a0bffe3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270130T093500
+DTEND;TZID=Asia/Yekaterinburg:20270130T105500
+SUMMARY:Дискретная математика (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ФИИТ-103Б\n2 пара\nНачало экзамена в 09
+ :00 ч
 END:VEVENT
 END:VCALENDAR

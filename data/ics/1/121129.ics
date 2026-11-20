@@ -505,6 +505,17 @@ LOCATION:3-415\, Корпус 3
 DESCRIPTION:ЭБ-ЭБ-401С\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:861bfa36bedc47ea@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
+DTEND;TZID=Asia/Yekaterinburg:20270113T143000
+SUMMARY:Экономика организации (предприятия) 
+ (консультация экзамена)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ЭБ-ЭББ-201С\n4 пара\nНачало консульта
+ ции в 13:00 ч\,   3-402
+END:VEVENT
+BEGIN:VEVENT
 UID:af2fe5484b4c3abf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261014T151000
@@ -591,6 +602,17 @@ LOCATION:3-405\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-202Сзу\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:211dece23f9fe219@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Экономика организации (предприятия) 
+ (экзамен)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ЭБ-ЭББ-201С\n1 пара\nНачало экзамена в
+  09:00 ч\,   3-402
+END:VEVENT
+BEGIN:VEVENT
 UID:fee15b06b1fde83d@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T093500
@@ -598,6 +620,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261023T105500
 SUMMARY:Деньги\, кредит и банки (лекция)
 LOCATION:3-405\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-202Сзу\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7438273e6a56e33@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Экономика организации (предприятия) 
+ (экзамен)
+LOCATION:402\, Спортзал.КФ
+DESCRIPTION:ЭБ-ЭББ-201С\n2 пара\nНачало экзамена в
+  09:00 ч\,   3-402
 END:VEVENT
 BEGIN:VEVENT
 UID:4a0787bc270eb939@uust-schedule

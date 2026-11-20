@@ -455,6 +455,78 @@ LOCATION:621\, Гуманитарный корпус (Карла Маркс
 DESCRIPTION:МО-ВПан-403Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:66a851c111ac38d6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
+DTEND;TZID=Asia/Yekaterinburg:20261207T194000
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc7b13e1e2d3048@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T182000
+DTEND;TZID=Asia/Yekaterinburg:20261214T194000
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:57f0a939e5fa6983@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T182000
+DTEND;TZID=Asia/Yekaterinburg:20261130T194000
+SUMMARY:Глобальные финансы (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7c577fcf1818ae1d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T182000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Глобальные финансы (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ccb4a3935df546a0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T195500
+DTEND;TZID=Asia/Yekaterinburg:20261207T211500
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e4091d68b55a7eaf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T195500
+DTEND;TZID=Asia/Yekaterinburg:20261214T211500
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c70843593669f9e1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T195500
+DTEND;TZID=Asia/Yekaterinburg:20261130T211500
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c1e96ca196338c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195500
+DTEND;TZID=Asia/Yekaterinburg:20261123T211500
+SUMMARY:Глобальные финансы (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:8b2b0340009d359f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260901T113500
@@ -1965,6 +2037,70 @@ SUMMARY:Международные организации (лекция)
 LOCATION:521\, Гуманитарный корпус (Карла Маркс
  а 3/4)
 DESCRIPTION:МО-ВПан-403Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3c52e014bf50c581@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T182000
+DTEND;TZID=Asia/Yekaterinburg:20261125T194000
+SUMMARY:Глобальные финансы (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:119d1c6bb96744d3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T182000
+DTEND;TZID=Asia/Yekaterinburg:20261202T194000
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1a670c7ecdc6042e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T182000
+DTEND;TZID=Asia/Yekaterinburg:20261209T194000
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:795e3a4b74921759@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T182000
+DTEND;TZID=Asia/Yekaterinburg:20261216T194000
+SUMMARY:Глобальные финансы (зачёт)
+LOCATION:515\, Гуманитарный корпус (Карла Маркс
+ а 3/4)
+DESCRIPTION:МО-МБ-203М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f94077b51442b8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T195500
+DTEND;TZID=Asia/Yekaterinburg:20261125T211500
+SUMMARY:Глобальные финансы (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:114e90d4eda06b04@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T195500
+DTEND;TZID=Asia/Yekaterinburg:20261202T211500
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d25eb9ac6430d4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T195500
+DTEND;TZID=Asia/Yekaterinburg:20261209T211500
+SUMMARY:Глобальные финансы (практика)
+LOCATION:Дистанционно
+DESCRIPTION:МО-МБ-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e666ddb2429b24f7@uust-schedule

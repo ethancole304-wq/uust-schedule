@@ -201,6 +201,24 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-ИТ-203М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7f9d9bb67fc6af71@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:67e0c23a20a7f380@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Научный семинар (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6f0d7eca98b52e5b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T182000
@@ -633,33 +651,6 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-104М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:12e13450bad14677@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T164500
-DTEND;TZID=Asia/Yekaterinburg:20261124T180500
-SUMMARY:Научный семинар (лекция)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:c9bdc972a709d3c1@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
-DTEND;TZID=Asia/Yekaterinburg:20261201T180500
-SUMMARY:Научный семинар (лекция)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:236c45a08a69a76f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
-DTEND;TZID=Asia/Yekaterinburg:20261208T180500
-SUMMARY:Научный семинар (лекция)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2b299be4dcc323d5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261215T164500
@@ -682,6 +673,24 @@ UID:fda5d450f46013bb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
 DTEND;TZID=Asia/Yekaterinburg:20261103T180500
+SUMMARY:Научный семинар (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c9bdc972a709d3c1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Научный семинар (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:236c45a08a69a76f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T164500
+DTEND;TZID=Asia/Yekaterinburg:20261208T180500
 SUMMARY:Научный семинар (лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ФС-ИИ-201М\n6 пара
@@ -732,15 +741,6 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:ИВТ-ЦТКС-203М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:83b6448eee05b3ee@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T182000
-DTEND;TZID=Asia/Yekaterinburg:20261124T194000
-SUMMARY:Научный семинар (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n7 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:f94ab505907dd8f5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T182000
@@ -784,6 +784,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261110T211500
 SUMMARY:Научный семинар (практика)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-104Мз\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f3e6a597bc821d4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T195500
+DTEND;TZID=Asia/Yekaterinburg:20261124T211500
+SUMMARY:Научный семинар (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:209d3ac823f4d842@uust-schedule
@@ -840,17 +849,6 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:БИБ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:92dc99b6ca2b5858@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T113500
-DTEND;TZID=Asia/Yekaterinburg:20261125T125500
-SUMMARY:Научно-исследовательский семинар &quo
- t\;Информационная бизнес-аналитика&quot\; (п
- рактика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:БИБ-401Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:e4f66de036cd07f4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
@@ -869,16 +867,6 @@ SUMMARY:Основы информационных технологий (л
  аб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ТОП-105Б\n4 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1ea72da85f3a4454@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
-DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Основы информационных технологий (п
- рактика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:4fbcc08acbf6e74e@uust-schedule
@@ -961,15 +949,6 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:fa790855dfce3a48@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
-DTEND;TZID=Asia/Yekaterinburg:20261125T180500
-SUMMARY:Научный семинар (лекция)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d4916ee5bc3dc72c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261223T164500
@@ -1037,15 +1016,6 @@ SUMMARY:Методология программной инженерии (
  лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n7 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:608acb4b577ee135@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T182000
-DTEND;TZID=Asia/Yekaterinburg:20261125T194000
-SUMMARY:Научный семинар (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ФС-ИИ-201М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e79862adc8c56ceb@uust-schedule
@@ -1138,6 +1108,15 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-103Моз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3b3cb4be8196ffe9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T195500
+DTEND;TZID=Asia/Yekaterinburg:20261125T211500
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:15b5c60ba7dd1ff0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T195500
@@ -1196,6 +1175,17 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3dd59db688d90265@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
+DTEND;TZID=Asia/Yekaterinburg:20261126T105500
+SUMMARY:Научно-исследовательский семинар &quo
+ t\;Информационная бизнес-аналитика&quot\; (п
+ рактика)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:БИБ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:433b1a823b9e8d9f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T093500
@@ -1203,6 +1193,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261022T105500
 SUMMARY:Управление IT проектами (лекция)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4690ffa04a006d84@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T113500
+DTEND;TZID=Asia/Yekaterinburg:20261126T125500
+SUMMARY:Основы информационных технологий (п
+ рактика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5f58702c87c640@uust-schedule

@@ -17,6 +17,24 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1e025888f945924d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T080000
+DTEND;TZID=Asia/Yekaterinburg:20261123T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:385ac708c9f7f252@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T093500
+DTEND;TZID=Asia/Yekaterinburg:20261123T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-419\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:26e7f5c56f24a171@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261228T113500
@@ -1930,15 +1948,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:2c1571ca0c2d4382@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T151000
-DTEND;TZID=Asia/Yekaterinburg:20261127T163000
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0f2ad0de0f5eaf1b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T151000
@@ -1961,15 +1970,6 @@ UID:2e10333bcd94d04a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
 DTEND;TZID=Asia/Yekaterinburg:20261113T180500
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:9fe77ba9e3b3f37d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T164500
-DTEND;TZID=Asia/Yekaterinburg:20261127T180500
 SUMMARY:Операционные системы (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n6 пара

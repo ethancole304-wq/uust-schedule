@@ -506,6 +506,17 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:1ce60ce054a8dcde@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара\nНача
+ ло консультации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:3bcc74d8339a3e95@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T131000
@@ -554,6 +565,17 @@ SUMMARY:История России (практика)
 LOCATION:105\, Корпус 9
 DESCRIPTION:Коваленко Екатерина Сергеевна\n4 п
  ара\nКоваленко Е.С
+END:VEVENT
+BEGIN:VEVENT
+UID:32147b370627dc58@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара\nНа
+ чало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:5d711b013da1e136@uust-schedule
@@ -1603,6 +1625,16 @@ DESCRIPTION:Костюкова Анастасия Петровна\n6 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:d12bb69e145168de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T080000
+DTEND;TZID=Asia/Yekaterinburg:20270127T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара\nНача
+ ло экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:451e86b96a210cc4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T080000
@@ -1702,6 +1734,16 @@ DESCRIPTION:Шерыхалина Наталия Михайловна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:033b5ef9fb8eb8b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n1 пара\nНа
+ чало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:798218782deecf7e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T080000
@@ -1779,6 +1821,16 @@ DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:0d7d1bd02fd473c4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
+DTEND;TZID=Asia/Yekaterinburg:20270127T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара\nНача
+ ло экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:7062eca019d38b58@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
@@ -1817,6 +1869,16 @@ SUMMARY:История России (лекция)
 LOCATION:402\, Корпус 9
 DESCRIPTION:Габбасова Ксения Рафаиловна\n2 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:605c9ae8f6cae6f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n2 пара\nНа
+ чало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:d24ab47ff687cf13@uust-schedule

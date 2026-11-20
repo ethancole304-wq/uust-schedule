@@ -170,6 +170,17 @@ LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:МКН-ТПР-203Б\n3 пара\nВся группа
 END:VEVENT
 BEGIN:VEVENT
+UID:18b70893dd819406@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-111Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:a819260fb8b69377@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T080000
@@ -576,6 +587,17 @@ LOCATION:517\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n4 пара\nподгруппа 1
 END:VEVENT
 BEGIN:VEVENT
+UID:4c38ed7b7a020fbb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T131000
+DTEND;TZID=Asia/Yekaterinburg:20270126T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-112Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:1afe69ef296bd8a4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T151000
@@ -602,6 +624,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T092000
 SUMMARY:Математический анализ (лаб.)
 LOCATION:517\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab058c960378af0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-111Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:549441764f1b7630@uust-schedule
@@ -728,6 +760,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T105500
 SUMMARY:Математика (практика)
 LOCATION:531\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:БИТ-202С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14b16c8cf1a74692@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-111Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:4d2070672787b068@uust-schedule
@@ -1191,6 +1233,16 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-206Б\n1 пара\nподгруппа 2
 END:VEVENT
 BEGIN:VEVENT
+UID:4dc9bdf2ae6c57cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-112Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:38f1cd5462a56a55@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T093500
@@ -1198,6 +1250,16 @@ DTEND;TZID=Asia/Yekaterinburg:20260910T105500
 SUMMARY:Математика (практика)
 LOCATION:531\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:БИТ-103С\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:60584dfa5def49a6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:ПРО-112Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:119019337384a593@uust-schedule

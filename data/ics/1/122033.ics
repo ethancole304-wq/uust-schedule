@@ -17,6 +17,16 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f0b0450ecb9812e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-112Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:3d109ac06ff41ee5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
@@ -107,6 +117,16 @@ LOCATION:6-106\, Корпус 6
 DESCRIPTION:ТОП-108Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3c536db9ec4a3a6e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-112Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:d27d4de9a40a691c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -182,6 +202,28 @@ DTEND;TZID=Asia/Yekaterinburg:20261026T125500
 SUMMARY:Теория информации (практика)
 LOCATION:6-301\, Корпус 6
 DESCRIPTION:МО-403Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3a9309fe2981247f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-111Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa9f28d3adb7795@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ТОП-107Б\n4 пара\nНачало консультации
+  в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:69e798c59705c52e@uust-schedule
@@ -381,6 +423,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261207T163000
 SUMMARY:Алгебра и геометрия (лаб.)
 LOCATION:Уточняется
 DESCRIPTION:МО-109Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c662d7b0c0fa26e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ТОП-108Б\n5 пара\nНачало консультации
+  в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:cf62f33fe452d346@uust-schedule
@@ -1168,6 +1221,35 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ИВТ-КАИД-203М\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7332eb61ea260b12@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T080000
+DTEND;TZID=Asia/Yekaterinburg:20270127T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-111Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:4584d9d9733dc5c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ТОП-108Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a0da41e290973c50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
+DTEND;TZID=Asia/Yekaterinburg:20270113T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ТОП-107Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:d91f777ef166193b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T080000
@@ -1207,6 +1289,16 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:МО-403Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2b17afa913ce44b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
+DTEND;TZID=Asia/Yekaterinburg:20270127T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-111Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:cdf884022cddb274@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T093500
@@ -1214,6 +1306,25 @@ DTEND;TZID=Asia/Yekaterinburg:20261111T105500
 SUMMARY:Алгебра и геометрия (практика)
 LOCATION:7-201\, Корпус 7
 DESCRIPTION:ПРО-111Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9028a5250d4380a5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ТОП-108Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:706fe5eb2b3978dd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270113T093500
+DTEND;TZID=Asia/Yekaterinburg:20270113T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-204\, Корпус 7
+DESCRIPTION:ТОП-107Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:944878f2ea109f88@uust-schedule
@@ -2560,6 +2671,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261218T143000
 SUMMARY:Алгебра и геометрия (практика)
 LOCATION:7-205\, Корпус 7
 DESCRIPTION:ТОП-108Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5a69565d462191b7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:ПРО-112Б\n4 пара\nНачало консультации
+  в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:96436274a79d4f65@uust-schedule

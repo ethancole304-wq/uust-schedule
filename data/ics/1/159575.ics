@@ -62,6 +62,16 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:eb609ba2a00d6cb7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:1a0a62c8a3875283@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
@@ -96,6 +106,27 @@ DTEND;TZID=Asia/Yekaterinburg:20270111T105500
 SUMMARY:Математический анализ (практика)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:784e00ed3108e4e2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n2 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:1d7a111b230d6967@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n4 пара\nНачало консульта
+ ции в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:c1fc2472456389a4@uust-schedule
@@ -287,6 +318,16 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c0f59fa703e8c39b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n1 пара\nНачало экзамена в
+  09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:cbfc953b3d2090c7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
@@ -348,6 +389,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261230T105500
 SUMMARY:Алгебра и геометрия (практика)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebee90ae1f58135@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n2 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:9ee2f0cafcc2be46@uust-schedule
@@ -501,5 +552,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T143000
 SUMMARY:Математический анализ (лекция)
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b26161b18a9a48b6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:106\, Корпус 9
+DESCRIPTION:ПРО-АН-104Б\n4 пара\nНачало консульта
+ ции в 13:00 ч
 END:VEVENT
 END:VCALENDAR

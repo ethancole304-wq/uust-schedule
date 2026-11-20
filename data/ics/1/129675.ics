@@ -997,6 +997,17 @@ LOCATION:Асинхронно
 DESCRIPTION:ЭБ-ЭБ-401Сз\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ea74009bb31278c3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T113500
+DTEND;TZID=Asia/Yekaterinburg:20270121T125500
+SUMMARY:Управление рисками (консультация эк
+ замена)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n3 пара\nНачало консультац
+ ии в 12:00
+END:VEVENT
+BEGIN:VEVENT
 UID:edf9ac7bb6a2fa56@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T182000
@@ -1015,5 +1026,23 @@ SUMMARY:Экономика организации (предприятия)
  (практика)
 LOCATION:3-304\, Корпус 3
 DESCRIPTION:ЭБ-ЭББ-203Сзу\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc9a97a0eb34c1e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Управление рисками (экзамен)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c534d483ee0f0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Управление рисками (экзамен)
+LOCATION:3-415\, Корпус 3
+DESCRIPTION:ЭБ-ЭБ-401С\n2 пара
 END:VEVENT
 END:VCALENDAR

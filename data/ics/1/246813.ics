@@ -412,6 +412,16 @@ LOCATION:509\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:00a58d671a3017cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:509\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:41249febadde93fd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T151000
@@ -552,6 +562,16 @@ LOCATION:503\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3746dabbcf755052@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T151000
+DTEND;TZID=Asia/Yekaterinburg:20261222T163000
+SUMMARY:Современная речевая культура (практ
+ ика)
+LOCATION:503\, Физмат (Заки Валиди 32/1)
+DESCRIPTION:ПМИ-ПАД-107Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:0211eb9606ed9c18@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T151000
@@ -585,16 +605,6 @@ DESCRIPTION:ПИ-111Бз\n5 пара\nРасписание может ме
  няться
 END:VEVENT
 BEGIN:VEVENT
-UID:8ee4dbc332449a0b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261226T080000
-DTEND;TZID=Asia/Yekaterinburg:20261226T092000
-SUMMARY:Современная речевая культура (практ
- ика)
-LOCATION:526\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:4b5d727abb5af684@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261205T080000
@@ -623,16 +633,6 @@ SUMMARY:Современная речевая культура (практ
  ика)
 LOCATION:526\, Физмат (Заки Валиди 32/1)
 DESCRIPTION:ПМИ-ПАД-107Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:02541e563026026c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261226T093500
-DTEND;TZID=Asia/Yekaterinburg:20261226T105500
-SUMMARY:Современная речевая культура (практ
- ика)
-LOCATION:526\, Физмат (Заки Валиди 32/1)
-DESCRIPTION:ПМИ-ПАД-107Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f07b63feae0ba733@uust-schedule

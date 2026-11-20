@@ -17,6 +17,16 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f8acd8c8c2ff7be1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n1 пара\nНача
+ ло экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:2e57f413fac1f39f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T080000
@@ -137,6 +147,16 @@ SUMMARY:Языки и методы программирования (лаб
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n1 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1dc2228fe601d5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n2 пара\nНача
+ ло экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:0b9bce7e53c2a064@uust-schedule
@@ -1146,6 +1166,17 @@ SUMMARY:Языки и методы программирования (лаб
 LOCATION:6-414
 DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:f7e934e0b46647e8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T131000
+DTEND;TZID=Asia/Yekaterinburg:20270126T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n4 пара\nНа
+ чало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e466e41d008085@uust-schedule
@@ -2211,6 +2242,16 @@ DESCRIPTION:Габдулхаков Рамзиль Борисович\n6 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:f444a4d9bf607963@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T080000
+DTEND;TZID=Asia/Yekaterinburg:20270128T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n1 пара\nНа
+ чало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:0b56102cfa3056f4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T080000
@@ -2261,6 +2302,16 @@ DTEND;TZID=Asia/Yekaterinburg:20260924T105500
 SUMMARY:Карьерная адаптивность (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Богданова Диана Радиковна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2804bcdbe6d20552@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T093500
+DTEND;TZID=Asia/Yekaterinburg:20270128T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:103\, Корпус 9
+DESCRIPTION:Гайсина Галия Ахтяровна\n2 пара\nНа
+ чало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:996f9f9cfa627130@uust-schedule
@@ -3150,6 +3201,17 @@ SUMMARY:Программно-аппаратные комплексы (ла
 LOCATION:6-311\, Корпус 6
 DESCRIPTION:Костюкова Анастасия Петровна\n3 па
  ра
+END:VEVENT
+BEGIN:VEVENT
+UID:2a02fb8aa35a14c9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:7-206\, Корпус 7
+DESCRIPTION:Гаянова Майя Марсовна\n4 пара\nНача
+ ло консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:75c38304ac882d1d@uust-schedule

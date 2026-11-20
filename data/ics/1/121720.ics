@@ -271,6 +271,17 @@ LOCATION:401\, Корпус 9
 DESCRIPTION:Э-ЭПБП-201Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c8b140ba0253d2a2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T151000
+DTEND;TZID=Asia/Yekaterinburg:20270112T163000
+SUMMARY:Маркетинг и PR технологии (консультац
+ ия экзамена)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Э-ЭПБП-201Б\n5 пара\nНачало консульта
+ ции в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5e43f38a143a1bcd@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T164500
@@ -948,6 +959,16 @@ SUMMARY:Бизнес-управление производственным
  и системами (лекция)
 LOCATION:7-405\, Корпус 7
 DESCRIPTION:ПАД-524С\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5128a78ccb540c65@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Маркетинг и PR технологии (экзамен)
+LOCATION:402\, Корпус 9
+DESCRIPTION:Э-ЭПБП-201Б\n4 пара\nНачало экзамена в
+  09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:1548f2f3b9d94a1e@uust-schedule

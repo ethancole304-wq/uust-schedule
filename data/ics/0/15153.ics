@@ -62,6 +62,16 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:17a4aff4a4faefba@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Математический анализ (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n1 пара\n
+ Начало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5f8a570a81d75713@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261102T080000
@@ -127,6 +137,16 @@ DTEND;TZID=Asia/Yekaterinburg:20270111T105500
 SUMMARY:Математический анализ (практика)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbff83058a85cbe@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Математический анализ (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n2 пара\n
+ Начало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:125f048777d8579c@uust-schedule
@@ -312,6 +332,17 @@ SUMMARY:Языки и методы программирования (лаб
 LOCATION:6-414
 DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:f7079103e7be96a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Алгебра и геометрия (консультация эк
+ замена)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n4 пара\n
+ Начало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:6f7019426a800e6f@uust-schedule
@@ -1002,6 +1033,16 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:3b8e6ef2847bc192@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n1 пара\n
+ Начало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:33052ef9d0263dbb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270113T080000
@@ -1096,6 +1137,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261230T105500
 SUMMARY:Алгебра и геометрия (практика)
 LOCATION:6-307\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:55c5d7440d70ef66@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Алгебра и геометрия (экзамен)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n2 пара\n
+ Начало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:170fec654daf22cc@uust-schedule
@@ -2370,6 +2421,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261016T143000
 SUMMARY:Математический анализ (лекция)
 LOCATION:6-201\, Корпус 6
 DESCRIPTION:Махота Алла Александровна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:be0615ac84fa9f39@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Математический анализ (консультация
+  экзамена)
+LOCATION:106\, Корпус 9
+DESCRIPTION:Махота Алла Александровна\n4 пара\n
+ Начало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:80d1a40da394f626@uust-schedule
