@@ -87,6 +87,16 @@ LOCATION:414\, Главный корпус (Заки Валиди 32)
 DESCRIPTION:Без группы\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c5076237c6e1be97@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T093500
+DTEND;TZID=Asia/Yekaterinburg:20270111T105500
+SUMMARY:Основы невербальной коммуникации в 
+ РКИ (экзамен)
+LOCATION:220\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-РКИ-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6a05387e4e09f162@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
@@ -607,6 +617,26 @@ LOCATION:7-301\, Корпус 7
 DESCRIPTION:ПРО-210Б\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:022e49e8dfe0ec2c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T080000
+DTEND;TZID=Asia/Yekaterinburg:20270126T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0eadebc57c2f908@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T093500
+DTEND;TZID=Asia/Yekaterinburg:20270126T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ222Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:fd46123ae0ecaeab@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T131000
@@ -995,6 +1025,36 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-401\, Корпус 7
 DESCRIPTION:ИВТ-ИВС-203Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:63f6e6661f97bfbd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T080000
+DTEND;TZID=Asia/Yekaterinburg:20270127T092000
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ223Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1306906f52873126@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T093500
+DTEND;TZID=Asia/Yekaterinburg:20270127T105500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ224Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:bac37180aa02c9bf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T113500
+DTEND;TZID=Asia/Yekaterinburg:20270127T125500
+SUMMARY:Теория и практика лингводидактическ
+ ого  тестирования (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ225Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:bdbee29b71ece20c@uust-schedule
@@ -1445,6 +1505,16 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:7-404\, Корпус 7
 DESCRIPTION:МО-207Б\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a7678a3560586ff5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T093500
+DTEND;TZID=Asia/Yekaterinburg:20270121T105500
+SUMMARY:Начальный этап обучения РКИ (экзамен
+ )
+LOCATION:213\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-РКИ-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c0cc0418eac59901@uust-schedule

@@ -17,6 +17,26 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f6679d18df38f8cf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T080000
+DTEND;TZID=Asia/Yekaterinburg:20270111T092000
+SUMMARY:Актуальные направления современной 
+ лингвистики (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ221Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:22b0df1810c4bf51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T093500
+DTEND;TZID=Asia/Yekaterinburg:20270111T105500
+SUMMARY:Актуальные направления современной 
+ лингвистики (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ222Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f7562d757f3e4ad9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T113500
@@ -87,6 +107,16 @@ LOCATION:414\, Главный корпус (Заки Валиди 32)
 DESCRIPTION:Без группы\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:4c649f5b410c8cdd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T113500
+DTEND;TZID=Asia/Yekaterinburg:20270111T125500
+SUMMARY:Актуальные направления современной 
+ лингвистики (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ223Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:861a3ccb5f0b801a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T113500
@@ -95,6 +125,16 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:2-407\, Корпус 2
 DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dea962297b0a70b0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
+DTEND;TZID=Asia/Yekaterinburg:20270111T143000
+SUMMARY:Актуальные направления современной 
+ лингвистики (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ224Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:061f33af6a1ff096@uust-schedule
@@ -155,6 +195,16 @@ SUMMARY:Технологии эффективной коммуникаци
  и (практика)
 LOCATION:2-407\, Корпус 2
 DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d538210bc63e83e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270111T151000
+DTEND;TZID=Asia/Yekaterinburg:20270111T163000
+SUMMARY:Актуальные направления современной 
+ лингвистики (экзамен)
+LOCATION:414\, Главный корпус (Заки Валиди 32)
+DESCRIPTION:ПО-5РКИ225Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f5ac59589bf79759@uust-schedule
