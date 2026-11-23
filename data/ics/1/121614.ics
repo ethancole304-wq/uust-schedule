@@ -54,7 +54,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
 DTEND;TZID=Asia/Yekaterinburg:20261221T143000
 SUMMARY:Распределенные системы обработки ин
  формации (консультация экзамена)
-LOCATION:6-415\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-203М\n4 пара\nНачало консульта
  ции в 13:00 ч
 END:VEVENT
@@ -95,7 +95,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
 DTEND;TZID=Asia/Yekaterinburg:20270118T163000
 SUMMARY:Управление качеством при разработке
   веб-приложений (консультация экзамена)
-LOCATION:7-201\, Корпус 7
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-104М\n5 пара\nНачало консульта
  ции в 15:00 ч
 END:VEVENT
@@ -704,7 +704,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270113T131000
 DTEND;TZID=Asia/Yekaterinburg:20270113T143000
 SUMMARY:Архитектура веб-приложений (консуль
  тация экзамена)
-LOCATION:7-201\, Корпус 7
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-104М\n4 пара\nНачало консульта
  ции в 13:00 ч
 END:VEVENT
@@ -795,7 +795,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
 DTEND;TZID=Asia/Yekaterinburg:20270120T143000
 SUMMARY:Управление качеством при разработке
   веб-приложений (экзамен)
-LOCATION:7-201\, Корпус 7
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-104М\n4 пара\nНачало экзамена в
   13:00 ч
 END:VEVENT
@@ -1002,7 +1002,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261224T080000
 DTEND;TZID=Asia/Yekaterinburg:20261224T092000
 SUMMARY:Распределенные системы обработки ин
  формации (экзамен)
-LOCATION:6-415\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-203М\n1 пара\nНачало экзамена в
   09:00 ч
 END:VEVENT
@@ -1093,7 +1093,7 @@ DTSTART;TZID=Asia/Yekaterinburg:20261224T093500
 DTEND;TZID=Asia/Yekaterinburg:20261224T105500
 SUMMARY:Распределенные системы обработки ин
  формации (экзамен)
-LOCATION:6-415\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-203М\n2 пара\nНачало экзамена в
   09:00 ч
 END:VEVENT
@@ -1458,7 +1458,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
 DTEND;TZID=Asia/Yekaterinburg:20270115T092000
 SUMMARY:Архитектура веб-приложений (экзамен)
-LOCATION:7-201\, Корпус 7
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-104М\n1 пара\nНачало экзамена в
   09:00 ч
 END:VEVENT
@@ -1468,7 +1468,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
 DTEND;TZID=Asia/Yekaterinburg:20270115T105500
 SUMMARY:Архитектура веб-приложений (экзамен)
-LOCATION:7-201\, Корпус 7
+LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-104М\n2 пара\nНачало экзамена в
   09:00 ч
 END:VEVENT

@@ -249,6 +249,60 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:82f6e4b74923cf67@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
+DTEND;TZID=Asia/Yekaterinburg:20261222T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a097ea63729bf5fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T080000
+DTEND;TZID=Asia/Yekaterinburg:20261208T092000
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:413a37040c899d49@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T080000
+DTEND;TZID=Asia/Yekaterinburg:20261215T092000
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:497912582bea9489@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
+DTEND;TZID=Asia/Yekaterinburg:20261222T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:904248628acc1c9f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
+DTEND;TZID=Asia/Yekaterinburg:20261208T105500
+SUMMARY:Операционные системы (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:12159d8394fe9523@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
+DTEND;TZID=Asia/Yekaterinburg:20261215T105500
+SUMMARY:Основы микропрограммирования (лаб.)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6cc19d0308e70b97@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
@@ -1625,15 +1679,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a6694cc27399ec@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T080000
-DTEND;TZID=Asia/Yekaterinburg:20261218T092000
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:966d5d2f11476aa0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261225T080000
@@ -1742,15 +1787,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9696f2f80f8832e9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261218T093500
-DTEND;TZID=Asia/Yekaterinburg:20261218T105500
-SUMMARY:Основы микропрограммирования (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:bc262577eadfa4c6@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261225T093500
@@ -1779,15 +1815,6 @@ SUMMARY:Объектно-ориентированное программи
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
  ч\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:88fd9c86167d2213@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T113500
-DTEND;TZID=Asia/Yekaterinburg:20261225T125500
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e5a6f6185a78eb22@uust-schedule
@@ -1903,15 +1930,6 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:856fa486a51678d8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261225T131000
-DTEND;TZID=Asia/Yekaterinburg:20261225T143000
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-417а\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:d45ca21efc792c1f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T131000
@@ -1957,15 +1975,6 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:f3666a3049f24b87@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T151000
-DTEND;TZID=Asia/Yekaterinburg:20261211T163000
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2e10333bcd94d04a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T164500
@@ -1979,15 +1988,6 @@ UID:e78efee1f7b2647f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T164500
 DTEND;TZID=Asia/Yekaterinburg:20261204T180500
-SUMMARY:Операционные системы (лаб.)
-LOCATION:6-419\, Корпус 6
-DESCRIPTION:Нургаянова Ольга Сергеевна\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:49332ccfff4c86d5@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261211T164500
-DTEND;TZID=Asia/Yekaterinburg:20261211T180500
 SUMMARY:Операционные системы (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n6 пара

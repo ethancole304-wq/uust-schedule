@@ -57,6 +57,16 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:ЭАС-514С\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:34b65c110e42cecb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T080000
+DTEND;TZID=Asia/Yekaterinburg:20261221T092000
+SUMMARY:Теоретические основы нейронных сете
+ й и машинного обучения (лаб.)
+LOCATION:6-303\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:dbde53e24dbe79df@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T093500
@@ -157,13 +167,13 @@ LOCATION:6-304\, Корпус 6
 DESCRIPTION:ПИ-402Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:01a2bb960a700dc5@uust-schedule
+UID:0810fd8248519ac9@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
-DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+DTSTART;TZID=Asia/Yekaterinburg:20261221T093500
+DTEND;TZID=Asia/Yekaterinburg:20261221T105500
 SUMMARY:Теоретические основы нейронных сете
- й и машинного обучения (лекция)
-LOCATION:6-305\, Корпус 6
+ й и машинного обучения (лаб.)
+LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -436,6 +446,26 @@ DTEND;TZID=Asia/Yekaterinburg:20261207T163000
 SUMMARY:Имитационное моделирование процесс
  ов и систем (лаб.)
 LOCATION:6-317\, Корпус 6
+DESCRIPTION:ПИ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:71d7dc2cda434f4b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-401Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b4cd55f1b64b1075@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261221T151000
+DTEND;TZID=Asia/Yekaterinburg:20261221T163000
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПИ-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -740,6 +770,16 @@ DESCRIPTION:ИСТ-АМО-303Б\n1 пара\nНачало экзамена
  в 9:00
 END:VEVENT
 BEGIN:VEVENT
+UID:edf424d6af487155@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
+DTEND;TZID=Asia/Yekaterinburg:20261124T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПИ-401Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:288b0dbcf0df4b03@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T093500
@@ -757,56 +797,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261110T105500
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:0da27223c5d343bd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T093500
-DTEND;TZID=Asia/Yekaterinburg:20261222T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-307\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:22afa8186548a4ca@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T093500
-DTEND;TZID=Asia/Yekaterinburg:20261215T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:edf424d6af487155@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T093500
-DTEND;TZID=Asia/Yekaterinburg:20261124T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bbdf1f2c1c6563f3@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T093500
-DTEND;TZID=Asia/Yekaterinburg:20261201T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-305\, Корпус 6
-DESCRIPTION:ПИ-401Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:8deaaf8b82c81cf0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T093500
-DTEND;TZID=Asia/Yekaterinburg:20261208T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-305\, Корпус 6
 DESCRIPTION:ПИ-401Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
@@ -1021,16 +1011,6 @@ LOCATION:6-317\, Корпус 6
 DESCRIPTION:ЭАС-514С\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:1c00c9bf3fd6fc5f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T080000
-DTEND;TZID=Asia/Yekaterinburg:20261125T092000
-SUMMARY:Информационные системы и технологии
-  (лаб.)
-LOCATION:6-301\, Корпус 6
-DESCRIPTION:ИСТ-АМО-204Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:0e1f022447429051@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T080000
@@ -1171,16 +1151,6 @@ LOCATION:6-301\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8f731c4bad807025@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
-DTEND;TZID=Asia/Yekaterinburg:20261125T105500
-SUMMARY:Информационные системы и технологии
-  (лаб.)
-LOCATION:6-301\, Корпус 6
-DESCRIPTION:ИСТ-АМО-204Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:58f357040f245992@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T093500
@@ -1311,6 +1281,26 @@ LOCATION:6-301\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:8044e2d54d74f3d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T093500
+DTEND;TZID=Asia/Yekaterinburg:20261125T105500
+SUMMARY:Теоретические основы нейронных сете
+ й и машинного обучения (лекция)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-303Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:37cd3f23ba0db56b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T113500
+DTEND;TZID=Asia/Yekaterinburg:20261216T125500
+SUMMARY:Информационные системы и технологии
+  (лаб.)
+LOCATION:6-303\, Корпус 6
+DESCRIPTION:ИСТ-АМО-204Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:626c35b2430bfddc@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
@@ -1369,6 +1359,16 @@ SUMMARY:Теоретические основы нейронных сете
  й и машинного обучения (лаб.)
 LOCATION:6-309\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c35db44245764b80@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261216T131000
+DTEND;TZID=Asia/Yekaterinburg:20261216T143000
+SUMMARY:Информационные системы и технологии
+  (лаб.)
+LOCATION:6-303\, Корпус 6
+DESCRIPTION:ИСТ-АМО-204Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:16a44da39af0206e@uust-schedule
@@ -1451,16 +1451,6 @@ LOCATION:6-309\, Корпус 6
 DESCRIPTION:ИСТ-АМО-303Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:efb1d7705cd94d2d@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T151000
-DTEND;TZID=Asia/Yekaterinburg:20261125T163000
-SUMMARY:Теоретические основы нейронных сете
- й и машинного обучения (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ИСТ-АМО-303Б\n5 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2d9badbe5aa186b2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T151000
@@ -1495,16 +1485,6 @@ UID:aa4133e8c4f50924@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T164500
 DTEND;TZID=Asia/Yekaterinburg:20261021T180500
-SUMMARY:Теоретические основы нейронных сете
- й и машинного обучения (лаб.)
-LOCATION:6-309\, Корпус 6
-DESCRIPTION:ИСТ-АМО-303Б\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d805c3b62777dff2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T164500
-DTEND;TZID=Asia/Yekaterinburg:20261125T180500
 SUMMARY:Теоретические основы нейронных сете
  й и машинного обучения (лаб.)
 LOCATION:6-309\, Корпус 6
@@ -2369,6 +2349,26 @@ SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-305\, Корпус 6
 DESCRIPTION:ПИ-402Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b09d7e89971560b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T113500
+DTEND;TZID=Asia/Yekaterinburg:20261211T125500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:791dc28252c0909b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T113500
+DTEND;TZID=Asia/Yekaterinburg:20261204T125500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПИ-401Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:b8b3b34a19ec2c30@uust-schedule

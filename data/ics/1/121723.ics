@@ -367,16 +367,6 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-ИТ-104М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:16b8ac72a54bc0c9@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
-DTEND;TZID=Asia/Yekaterinburg:20261229T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-205\, Корпус 7
-DESCRIPTION:ПРО-111Б\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:cf124eb259d471e1@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
@@ -443,16 +433,6 @@ DTEND;TZID=Asia/Yekaterinburg:20261027T092000
 SUMMARY:Управление IT проектами (лаб.)
 LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:a7874a8f6e4efc62@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T093500
-DTEND;TZID=Asia/Yekaterinburg:20261229T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-205\, Корпус 7
-DESCRIPTION:ПРО-111Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd604df63367110@uust-schedule

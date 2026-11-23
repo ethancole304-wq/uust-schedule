@@ -389,16 +389,6 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9b67c12c6b7668d0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
-DTEND;TZID=Asia/Yekaterinburg:20261124T125500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:ТОП-106Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:100da604cfb36c3c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
@@ -436,6 +426,16 @@ DTEND;TZID=Asia/Yekaterinburg:20261222T125500
 SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-416\, Корпус 6
+DESCRIPTION:ТОП-106Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9b67c12c6b7668d0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T113500
+DTEND;TZID=Asia/Yekaterinburg:20261124T125500
+SUMMARY:Дискретная математика и математичес
+ кая логика (практика)
+LOCATION:6-202\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT

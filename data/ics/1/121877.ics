@@ -728,6 +728,17 @@ LOCATION:401\, Корпус 9
 DESCRIPTION:ПРО-АН-104Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a69d4335dc23d7e0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Иностранный язык (консультация экза
+ мена)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:КТО-203Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:ac0596646c878ff2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T131000
@@ -772,5 +783,25 @@ DTEND;TZID=Asia/Yekaterinburg:20261112T180500
 SUMMARY:Иностранный язык (практика)
 LOCATION:1-425\, Корпус 1
 DESCRIPTION:ПРО-ИТ-АН-101М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f0715fb60025a7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:КТО-203Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:38ac80ef5b7e6cc1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:КТО-203Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 END:VCALENDAR

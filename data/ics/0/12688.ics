@@ -822,16 +822,6 @@ LOCATION:7-304\, Корпус 7
 DESCRIPTION:Гаянова Майя Марсовна\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:c003bc85432bd684@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T080000
-DTEND;TZID=Asia/Yekaterinburg:20261229T092000
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-205\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:bc7e2eb0247e0feb@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
@@ -840,16 +830,6 @@ SUMMARY:Дискретная математика и математичес
  кая логика (практика)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:Сметанина Ольга Николаевна\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5842c61cdf0f3676@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T093500
-DTEND;TZID=Asia/Yekaterinburg:20261229T105500
-SUMMARY:Дискретная математика и математичес
- кая логика (практика)
-LOCATION:7-205\, Корпус 7
-DESCRIPTION:Сметанина Ольга Николаевна\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:bcfad9cd799742cf@uust-schedule
