@@ -97,6 +97,42 @@ DESCRIPTION:Волошенюк Оксана Владимировна\n5 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:8160deff7c68f476@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T164500
+DTEND;TZID=Asia/Yekaterinburg:20261207T180500
+SUMMARY:Методы анализа данных (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:335d25b8e38a68fd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T164500
+DTEND;TZID=Asia/Yekaterinburg:20261130T180500
+SUMMARY:Методы анализа данных (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3fadc6059dde6be2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T182000
+DTEND;TZID=Asia/Yekaterinburg:20261130T194000
+SUMMARY:Методы анализа данных (лекция)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:80d606db59b8949e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261207T182000
+DTEND;TZID=Asia/Yekaterinburg:20261207T194000
+SUMMARY:Методы анализа данных (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:d6967354b9e7d1e0@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T164500
@@ -195,6 +231,15 @@ SUMMARY:Методология программной инженерии (
  лекция)
 LOCATION:Асинхронно
 DESCRIPTION:Сметанина Ольга Николаевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c832af33b694a48@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
+DTEND;TZID=Asia/Yekaterinburg:20261209T180500
+SUMMARY:Методы анализа данных (практика)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:bc590ade08908d82@uust-schedule
@@ -296,6 +341,15 @@ DESCRIPTION:Котельников Виталий Александрови
  ч\n6 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:807f36912a4477dc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T164500
+DTEND;TZID=Asia/Yekaterinburg:20261224T180500
+SUMMARY:Методы анализа данных (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:ea65a213ae64148b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T182000
@@ -316,6 +370,15 @@ SUMMARY:Архитектура информационных систем (
 LOCATION:Асинхронно
 DESCRIPTION:Котельников Виталий Александрови
  ч\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69fa66c27794b7d2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261224T182000
+DTEND;TZID=Asia/Yekaterinburg:20261224T194000
+SUMMARY:Методы анализа данных (лаб.)
+LOCATION:Асинхронно
+DESCRIPTION:Сазонова Екатерина Юрьевна\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:e21fa47143020520@uust-schedule
