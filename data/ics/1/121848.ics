@@ -416,26 +416,6 @@ LOCATION:6-403в\, Корпус 6
 DESCRIPTION:ИКТС-302С\n1 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5c61a626fc1cf46e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261124T080000
-DTEND;TZID=Asia/Yekaterinburg:20261124T092000
-SUMMARY:Технологии обработки мультимедийны
- х данных (практика)
-LOCATION:6-403в\, Корпус 6
-DESCRIPTION:ИКТС-302С\n1 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:635485e62aabfdd7@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T080000
-DTEND;TZID=Asia/Yekaterinburg:20261201T092000
-SUMMARY:Технологии обработки мультимедийны
- х данных (практика)
-LOCATION:6-403в\, Корпус 6
-DESCRIPTION:ИКТС-302С\n1 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:cb6ebb8003c2b8e2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T093500
@@ -639,6 +619,16 @@ SUMMARY:Системы цифрового телерадиовещания
  )
 LOCATION:6-511\, Корпус 6
 DESCRIPTION:ИКТ-533Бз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1be5abb23df1e043@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Технологии обработки мультимедийны
+ х данных (практика)
+LOCATION:6-407\, Корпус 6
+DESCRIPTION:ИКТС-302С\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:1ab9e02d10c04457@uust-schedule
@@ -1051,6 +1041,16 @@ SUMMARY:Системы цифрового телерадиовещания
  )
 LOCATION:6-406\, Корпус 6
 DESCRIPTION:ИКТ-401Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:73a2a8d96d288f8d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T113500
+DTEND;TZID=Asia/Yekaterinburg:20261203T125500
+SUMMARY:Технологии обработки мультимедийны
+ х данных (практика)
+LOCATION:6-406\, Корпус 6
+DESCRIPTION:ИКТС-302С\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:5b708fbce71ba1a2@uust-schedule

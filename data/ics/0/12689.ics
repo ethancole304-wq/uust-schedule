@@ -1003,94 +1003,6 @@ LOCATION:6-414
 DESCRIPTION:Нагимова Ирина Альбертовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5bf123cf1c30e1db@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
-DTEND;TZID=Asia/Yekaterinburg:20260915T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:2465f340fe082719@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
-DTEND;TZID=Asia/Yekaterinburg:20260922T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:7938465088cb174b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
-DTEND;TZID=Asia/Yekaterinburg:20260929T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:77d7f4f53a0a5f44@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
-DTEND;TZID=Asia/Yekaterinburg:20261201T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:aadfcdd34c0ef370@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
-DTEND;TZID=Asia/Yekaterinburg:20261208T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:530d4bdbe9efeecd@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
-DTEND;TZID=Asia/Yekaterinburg:20261215T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:59e900c7ed259c51@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
-DTEND;TZID=Asia/Yekaterinburg:20261222T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:5b4f677ecacfb58b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
-DTEND;TZID=Asia/Yekaterinburg:20261229T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:caa91ee9e44f4403@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
@@ -1164,6 +1076,94 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:530d4bdbe9efeecd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf123cf1c30e1db@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:2465f340fe082719@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:7938465088cb174b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:77d7f4f53a0a5f44@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:aadfcdd34c0ef370@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:59e900c7ed259c51@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:5b4f677ecacfb58b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n3 пар
  а
 END:VEVENT
@@ -1259,94 +1259,6 @@ LOCATION:6-414
 DESCRIPTION:Нагимова Ирина Альбертовна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b0a03a4019e541d8@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
-DTEND;TZID=Asia/Yekaterinburg:20260915T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:80d28cdc9a3a3b3f@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
-DTEND;TZID=Asia/Yekaterinburg:20260922T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:7b65c5c3dd31d4b4@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
-DTEND;TZID=Asia/Yekaterinburg:20260929T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:0fabce26b7cf2710@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
-DTEND;TZID=Asia/Yekaterinburg:20261201T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:abb9f9ffa7f3db10@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
-DTEND;TZID=Asia/Yekaterinburg:20261208T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:924cf66f76fd9d2a@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
-DTEND;TZID=Asia/Yekaterinburg:20261215T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:d2a94c4eee8f018e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
-DTEND;TZID=Asia/Yekaterinburg:20261222T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
-UID:36be7009e3d0f4f2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
-DTEND;TZID=Asia/Yekaterinburg:20261229T143000
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
- а
-END:VEVENT
-BEGIN:VEVENT
 UID:5b21de39663d94c9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T131000
@@ -1420,6 +1332,94 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T143000
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:924cf66f76fd9d2a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a03a4019e541d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:80d28cdc9a3a3b3f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:7b65c5c3dd31d4b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:0fabce26b7cf2710@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:abb9f9ffa7f3db10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a94c4eee8f018e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
+ а
+END:VEVENT
+BEGIN:VEVENT
+UID:36be7009e3d0f4f2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:Валиахметова Юлия Ильясовна\n4 пар
  а
 END:VEVENT

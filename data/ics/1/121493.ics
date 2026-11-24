@@ -417,86 +417,6 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-104Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:fad1af24e3d69106@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
-DTEND;TZID=Asia/Yekaterinburg:20260915T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:01a22148242aab80@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
-DTEND;TZID=Asia/Yekaterinburg:20260922T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:1afdaa685e408e62@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
-DTEND;TZID=Asia/Yekaterinburg:20260929T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:b30d7b57a350cb05@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
-DTEND;TZID=Asia/Yekaterinburg:20261201T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:6b7d740d30eaa460@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
-DTEND;TZID=Asia/Yekaterinburg:20261208T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:f75154564c8eef63@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
-DTEND;TZID=Asia/Yekaterinburg:20261215T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:ac1d2d779e0c7c28@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
-DTEND;TZID=Asia/Yekaterinburg:20261222T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:30227b0d9e9f764c@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
-DTEND;TZID=Asia/Yekaterinburg:20261229T125500
-SUMMARY:Языки и методы программирования (лаб
- .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:c655b35bf1ed6fa7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T113500
@@ -567,84 +487,84 @@ LOCATION:6-414
 DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:02d45dd76e9840de@uust-schedule
+UID:f75154564c8eef63@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
-DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261215T113500
+DTEND;TZID=Asia/Yekaterinburg:20261215T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
-LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:34fae6a49cbda5cd@uust-schedule
+UID:fad1af24e3d69106@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
-DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+DTSTART;TZID=Asia/Yekaterinburg:20260915T113500
+DTEND;TZID=Asia/Yekaterinburg:20260915T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:5baafc2c579c3fc0@uust-schedule
+UID:01a22148242aab80@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
-DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+DTSTART;TZID=Asia/Yekaterinburg:20260922T113500
+DTEND;TZID=Asia/Yekaterinburg:20260922T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:b209aa347b0ab3d9@uust-schedule
+UID:1afdaa685e408e62@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
-DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
+DTEND;TZID=Asia/Yekaterinburg:20260929T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:9a2a604ce20f607f@uust-schedule
+UID:b30d7b57a350cb05@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
-DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261201T113500
+DTEND;TZID=Asia/Yekaterinburg:20261201T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:703c278f48fb6a10@uust-schedule
+UID:6b7d740d30eaa460@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
-DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261208T113500
+DTEND;TZID=Asia/Yekaterinburg:20261208T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:6d2da8c64e536aa5@uust-schedule
+UID:ac1d2d779e0c7c28@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
-DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261222T113500
+DTEND;TZID=Asia/Yekaterinburg:20261222T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:dca61e406dc1fa34@uust-schedule
+UID:30227b0d9e9f764c@uust-schedule
 DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
-DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261229T113500
+DTEND;TZID=Asia/Yekaterinburg:20261229T125500
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414\, Корпус 6
-DESCRIPTION:ПРО-112Б\n4 пара
+DESCRIPTION:ПРО-112Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:c757bf9a2ba8f1c9@uust-schedule
@@ -714,6 +634,86 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T143000
 SUMMARY:Языки и методы программирования (лаб
  .)
 LOCATION:6-414
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:703c278f48fb6a10@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261215T131000
+DTEND;TZID=Asia/Yekaterinburg:20261215T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-101а\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:02d45dd76e9840de@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T131000
+DTEND;TZID=Asia/Yekaterinburg:20260915T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:34fae6a49cbda5cd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T131000
+DTEND;TZID=Asia/Yekaterinburg:20260922T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5baafc2c579c3fc0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T131000
+DTEND;TZID=Asia/Yekaterinburg:20260929T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b209aa347b0ab3d9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T131000
+DTEND;TZID=Asia/Yekaterinburg:20261201T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:9a2a604ce20f607f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261208T131000
+DTEND;TZID=Asia/Yekaterinburg:20261208T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2da8c64e536aa5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T131000
+DTEND;TZID=Asia/Yekaterinburg:20261222T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
+DESCRIPTION:ПРО-112Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:dca61e406dc1fa34@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261229T131000
+DTEND;TZID=Asia/Yekaterinburg:20261229T143000
+SUMMARY:Языки и методы программирования (лаб
+ .)
+LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-112Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT

@@ -749,6 +749,17 @@ LOCATION:8-403\, Корпус 8
 DESCRIPTION:ММ-301Бз\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c4ec1cc1a3fcc52a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Иностранный язык (консультация экза
+ мена)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ЭМД-223Б\n5 пара\nНачало консультации
+  в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:bb851f9168c38301@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T164500
@@ -802,6 +813,16 @@ DTEND;TZID=Asia/Yekaterinburg:20270122T105500
 SUMMARY:Иностранный язык (экзамен)
 LOCATION:1-304\, Корпус 1
 DESCRIPTION:КТО-203Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:346bec3aa8a9e9d7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ЭМД-223Б\n4 пара\nНачало экзамена в 13:0
  0 ч
 END:VEVENT
 END:VCALENDAR

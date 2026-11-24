@@ -17,6 +17,17 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:fec1c63636f51a50@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T131000
+DTEND;TZID=Asia/Yekaterinburg:20270118T143000
+SUMMARY:Иностранный язык (консультация экза
+ мена)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ДЛА-214Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:43ecf992bca74355@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
@@ -223,6 +234,16 @@ SUMMARY:Иностранный язык (экзамен)
 LOCATION:1-304\, Корпус 1
 DESCRIPTION:ММ-203Б\n2 пара\nНачало экзамена в 09:00 
  ч
+END:VEVENT
+BEGIN:VEVENT
+UID:904013895faff8b2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Иностранный язык (экзамен)
+LOCATION:1-304\, Корпус 1
+DESCRIPTION:ДЛА-214Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:86bd0db637b341e8@uust-schedule
