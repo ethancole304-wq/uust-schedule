@@ -120,6 +120,16 @@ LOCATION:101\, Корпус 9
 DESCRIPTION:Щербаков Сергей Витальевич\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e0d466132777e077@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара\
+ nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:85164d7422a27407@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T131000
@@ -283,6 +293,17 @@ SUMMARY:Технологии эффективной коммуникаци
 LOCATION:7-301\, Корпус 7
 DESCRIPTION:Низамутдинова Гульназ Саматовна\n4
   пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2f900dd19b63ce96@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Верхотурова Галина Николаевна\n5 п
+ ара\nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:a60944feb4588686@uust-schedule
@@ -1003,6 +1024,17 @@ DESCRIPTION:Верхотурова Галина Николаевна\n1 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:5ecbdf61d2bdf5e9@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Верхотурова Галина Николаевна\n1 п
+ ара\nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:a05166ba441d22be@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261216T080000
@@ -1084,6 +1116,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261014T092000
 SUMMARY:Базы данных (лекция)
 LOCATION:Уточняется
 DESCRIPTION:Миронов Валерий Викторович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:955cc669a278ef1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:276ef243e61f010f@uust-schedule
@@ -1473,6 +1516,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261230T143000
 SUMMARY:Базы данных (лаб.)
 LOCATION:6-217а\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:32ae0dab00f653b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
+ а\nНачало консультации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:e90be7c349cd9c13@uust-schedule
@@ -2130,6 +2184,15 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:Амирханова Лилия Рифовна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b077236342eb85b3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 13:00 ч
+DESCRIPTION:Миронов Валерий Викторович\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1eb5dfb44ee99223@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261217T131000
@@ -2217,6 +2280,17 @@ SUMMARY:Технологии эффективной коммуникаци
 LOCATION:301\, Корпус 9
 DESCRIPTION:Низамутдинова Гульназ Саматовна\n4
   пара
+END:VEVENT
+BEGIN:VEVENT
+UID:61e180c5f5e70ebd@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T080000
+DTEND;TZID=Asia/Yekaterinburg:20270129T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n1 пар
+ а\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:bee8fdbed46a4a31@uust-schedule
@@ -2382,6 +2456,17 @@ SUMMARY:Алгоритмы и структуры данных (практи
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:Верхотурова Галина Николаевна\n2 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f671502be0fcf2f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T093500
+DTEND;TZID=Asia/Yekaterinburg:20270129T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n2 пар
+ а\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:12c78b419f94de46@uust-schedule
@@ -2788,6 +2873,17 @@ DESCRIPTION:Герасимова Ильмира Барыевна\n5 пар
  а
 END:VEVENT
 BEGIN:VEVENT
+UID:90a2aa821d1c4e35@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара\
+ nНачало консультации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:c0fbaede11182876@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T164500
@@ -2876,6 +2972,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261120T180500
 SUMMARY:Базы данных (лаб.)
 LOCATION:6-217а\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba6e9488a6c2fa0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T080000
+DTEND;TZID=Asia/Yekaterinburg:20270116T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:Миронов Валерий Викторович\n1 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:18e7d2e9d6f6d12d@uust-schedule
@@ -2984,6 +3089,15 @@ DTEND;TZID=Asia/Yekaterinburg:20261226T092000
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:Валеев Руслан Сагитович\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:3caaf01f4db593aa@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T093500
+DTEND;TZID=Asia/Yekaterinburg:20270116T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:Миронов Валерий Викторович\n2 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f89eae2d3ef630d5@uust-schedule

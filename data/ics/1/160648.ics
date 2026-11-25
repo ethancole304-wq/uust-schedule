@@ -615,6 +615,15 @@ DESCRIPTION:ПИШ-ЭСиС-203Б\n7 пара\nМышление и текс
  т. Основы логического анализа
 END:VEVENT
 BEGIN:VEVENT
+UID:cdffb5ae18913ae5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T182000
+DTEND;TZID=Asia/Yekaterinburg:20261222T194000
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:2c45a3989975036a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T195500
@@ -683,6 +692,15 @@ SUMMARY:Современная сиволическая логика (ле
  кция)
 LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2ea878d3f9e7b5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261222T195500
+DTEND;TZID=Asia/Yekaterinburg:20261222T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ДЛА-103М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:93139031c52fec31@uust-schedule
@@ -2196,6 +2214,15 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-102М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:051e8f52999b6c01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T195500
+DTEND;TZID=Asia/Yekaterinburg:20261211T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:027dc61bb17b2ced@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T151000
@@ -2312,6 +2339,15 @@ LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-201М\n7 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:89b1bce5544dea98@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T182000
+DTEND;TZID=Asia/Yekaterinburg:20261226T194000
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n7 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:1e5de73c3304b5b2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261205T182000
@@ -2339,6 +2375,15 @@ SUMMARY:Современная сиволическая логика (пр
  актика)
 LOCATION:Дистанционно
 DESCRIPTION:ФС-ИИ-201М\n8 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:abf1838072bc027b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261226T195500
+DTEND;TZID=Asia/Yekaterinburg:20261226T211500
+SUMMARY:Философия науки и техники (практика)
+LOCATION:Уточняется
+DESCRIPTION:ПИШ-ЭС-103М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:27928ecda81d16e0@uust-schedule

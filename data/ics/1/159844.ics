@@ -148,6 +148,36 @@ LOCATION:27\, ФРГФ (Коммунистическая 19А)
 DESCRIPTION:ФПЛ-ЯТ-117Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:c3cc3eadef40bd60@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T131000
+DTEND;TZID=Asia/Yekaterinburg:20261214T143000
+SUMMARY:Культура и межкультурные взаимодейс
+ твия в современном мире (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ОРМ-ММП-103Мз\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4edf42ecc065f79c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
+DTEND;TZID=Asia/Yekaterinburg:20261214T163000
+SUMMARY:Культура и межкультурные взаимодейс
+ твия в современном мире (лекция)
+LOCATION:Дистанционно
+DESCRIPTION:ОРМ-ММП-103Мз\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c4706de5fd6ce129@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T164500
+DTEND;TZID=Asia/Yekaterinburg:20261214T180500
+SUMMARY:Культура и межкультурные взаимодейс
+ твия в современном мире (зачёт)
+LOCATION:Дистанционно
+DESCRIPTION:ОРМ-ММП-103Мз\n6 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:59a3ff8a4212a86f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T164500

@@ -344,6 +344,17 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ТОП-204Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:2807f7ce2cc0a59e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:МО-206Б\n5 пара\nНачало консультации 
+ в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:0cdf3930650b984f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T164500
@@ -900,6 +911,17 @@ LOCATION:6-413\, Корпус 6
 DESCRIPTION:ТОП-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:61980cf758b804cc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
+DTEND;TZID=Asia/Yekaterinburg:20270119T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:7-201\, Корпус 7
+DESCRIPTION:МО-206Б\n4 пара\nНачало экзамена в 13:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:dd82f9d28cdaab07@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
@@ -1345,6 +1367,28 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ТОП-203Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:28a123dffea1cdb4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-209Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:f406d7fbe831cfce@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T151000
+DTEND;TZID=Asia/Yekaterinburg:20270127T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-210Б\n5 пара\nНачало консультации
+  в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:d611ae6a0ca4f411@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T080000
@@ -1536,6 +1580,17 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ТОП-204Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0011a51d9dd5758c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-203Б\n4 пара\nНачало консультации
+  в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:6447d900f516b7c7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
@@ -1624,6 +1679,28 @@ SUMMARY:Объектно-ориентированное программи
  рование (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:ТОП-204Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcfa68b02ecc26d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T151000
+DTEND;TZID=Asia/Yekaterinburg:20270121T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-207Б\n5 пара\nНачало консультации 
+ в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:a21d51182c5a1e01@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара\nНачало консультации
+  в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:5952ccabc095f069@uust-schedule
@@ -1890,6 +1967,28 @@ LOCATION:7-204\, Корпус 7
 DESCRIPTION:ПРО-210Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ac68c5c0cd7ef861@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T080000
+DTEND;TZID=Asia/Yekaterinburg:20270115T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:ee385eb46a54a488@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T080000
+DTEND;TZID=Asia/Yekaterinburg:20270129T092000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-209Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5722e8d7b5939f5b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T093500
@@ -1942,5 +2041,60 @@ DTEND;TZID=Asia/Yekaterinburg:20270122T105500
 SUMMARY:Модели хранения данных (экзамен)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-308Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:aa1668891093ce18@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T093500
+DTEND;TZID=Asia/Yekaterinburg:20270115T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:154eb3b264b9222f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T093500
+DTEND;TZID=Asia/Yekaterinburg:20270129T105500
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-209Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:895157b139ae53f1@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:МО-207Б\n4 пара\nНачало экзамена в 13:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
+UID:788ec4292f25e76b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-204Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:266cc526b445e7d8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T131000
+DTEND;TZID=Asia/Yekaterinburg:20270129T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ПРО-210Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
 END:VEVENT
 END:VCALENDAR

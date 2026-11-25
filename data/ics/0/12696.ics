@@ -678,6 +678,17 @@ DESCRIPTION:Гаянова Майя Марсовна\n4 пара\nНача
  ло экзамена в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:446593b5b8d0c3df@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T151000
+DTEND;TZID=Asia/Yekaterinburg:20261201T163000
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n5 па
+ ра
+END:VEVENT
+BEGIN:VEVENT
 UID:2418756d17bd4c49@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T151000
@@ -764,6 +775,17 @@ SUMMARY:Методы приближенных вычислений (кон
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n5 п
  ара\nНачало консультации в 15:00
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a61838d5948aeb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T164500
+DTEND;TZID=Asia/Yekaterinburg:20261201T180500
+SUMMARY:Безопасность жизнедеятельности (пра
+ ктика)
+LOCATION:304\, УК-3-4
+DESCRIPTION:Кальсин Никита Александрович\n6 па
+ ра
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9924fb1bd89839@uust-schedule
@@ -1077,17 +1099,6 @@ DESCRIPTION:Кальсин Никита Александрович\n3 па
  ра
 END:VEVENT
 BEGIN:VEVENT
-UID:5a258d208d27701e@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T113500
-DTEND;TZID=Asia/Yekaterinburg:20261202T125500
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Кальсин Никита Александрович\n3 па
- ра
-END:VEVENT
-BEGIN:VEVENT
 UID:b645e6db660c78f4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T113500
@@ -1217,17 +1228,6 @@ UID:8d1b7ba172989be2@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T131000
 DTEND;TZID=Asia/Yekaterinburg:20261125T143000
-SUMMARY:Безопасность жизнедеятельности (пра
- ктика)
-LOCATION:304\, УК-3-4
-DESCRIPTION:Кальсин Никита Александрович\n4 па
- ра
-END:VEVENT
-BEGIN:VEVENT
-UID:2e8487b058b096d2@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T131000
-DTEND;TZID=Asia/Yekaterinburg:20261202T143000
 SUMMARY:Безопасность жизнедеятельности (пра
  ктика)
 LOCATION:304\, УК-3-4

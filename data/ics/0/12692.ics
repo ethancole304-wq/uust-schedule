@@ -17,6 +17,17 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:9cb7f811da8d51a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n1 п
+ ара\nНачало экзамена в 09:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:b44eb8f1497d4045@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T080000
@@ -117,6 +128,17 @@ SUMMARY:Основы стартап-менеджмента и проект
 LOCATION:3-405\, Корпус 3
 DESCRIPTION:Давлетшина Светлана Маратовна\n1 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:57fb568fda85f9c8@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n2 п
+ ара\nНачало экзамена в 09:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:6f06c0e7d4be2c3f@uust-schedule
@@ -406,6 +428,17 @@ SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-414\, Корпус 6
 DESCRIPTION:Верхотурова Галина Николаевна\n4 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:fe36fa0c34576b4c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара\
+ nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:214a4a54059622a2@uust-schedule
@@ -1996,6 +2029,16 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:Гусаренко Артем Сергеевич\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:e055cd77cd7df606@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара\
+ nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:41c73070858afe12@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T131000
@@ -2070,6 +2113,17 @@ SUMMARY:Психология межличностной коммуника
 LOCATION:402\, Спортзал.КФ
 DESCRIPTION:Щербаков Сергей Витальевич\n4 пара\
  n3-402
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa84164a6325608@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T151000
+DTEND;TZID=Asia/Yekaterinburg:20270127T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n5 пар
+ а\nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:b42ca3b8aa9cb7c6@uust-schedule
@@ -2582,6 +2636,15 @@ LOCATION:6-415\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b55ebb2d6c59e536@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 15:00 ч
+DESCRIPTION:Миронов Валерий Викторович\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:38e4a767b88f52ba@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261211T080000
@@ -3012,6 +3075,28 @@ LOCATION:501\, Корпус 9
 DESCRIPTION:Щербаков Сергей Витальевич\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:445767f50c942ae6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара\nНачало консультации в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:12eba6df4cfa700f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T131000
+DTEND;TZID=Asia/Yekaterinburg:20270129T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:Макеев Григорий Анатольевич\n4 пар
+ а\nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:d23071cd4831112b@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261204T131000
@@ -3237,6 +3322,15 @@ SUMMARY:Психология межличностной коммуника
 LOCATION:7-304\, Корпус 7
 DESCRIPTION:Алгушаева Венера Рафкатовна\n3 пар
  а
+END:VEVENT
+BEGIN:VEVENT
+UID:e704ba2c99760f63@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T131000
+DTEND;TZID=Asia/Yekaterinburg:20270116T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 13:00 ч
+DESCRIPTION:Миронов Валерий Викторович\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:554f3084301627dd@uust-schedule

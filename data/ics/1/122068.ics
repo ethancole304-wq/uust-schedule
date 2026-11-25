@@ -17,6 +17,28 @@ TZNAME:+05
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:602d3e142906bb99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T080000
+DTEND;TZID=Asia/Yekaterinburg:20270125T092000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПРО-210Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad7bdd2e67ae0f3@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T093500
+DTEND;TZID=Asia/Yekaterinburg:20270125T105500
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПРО-210Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:41ccafb9dba30e1c@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
@@ -307,6 +329,18 @@ LOCATION:6-414\, Корпус 6
 DESCRIPTION:ПРО-210Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:7d0982b6b5c0e24c@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (консультация экзамена
+ )
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-207Б\n4 пара\nНачало консультации 
+ в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:3912d4f8c869c663@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261214T151000
@@ -323,6 +357,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261221T163000
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b08ffc74a0693879@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-209Б\n5 пара\nНачало консультации
+  в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:6f42616cec77dac5@uust-schedule
@@ -647,6 +692,17 @@ LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0c1272bcdd8d7334@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T080000
+DTEND;TZID=Asia/Yekaterinburg:20270126T092000
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-207Б\n1 пара\nНачало экзамена в 09:00 
+ ч
+END:VEVENT
+BEGIN:VEVENT
 UID:205c8ab4e232dea4@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261222T080000
@@ -745,6 +801,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261124T105500
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7d1992ee93e697@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T093500
+DTEND;TZID=Asia/Yekaterinburg:20270126T105500
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-207Б\n2 пара\nНачало экзамена в 09:00 
+ ч
 END:VEVENT
 BEGIN:VEVENT
 UID:46779e14b3a1389e@uust-schedule
@@ -1081,6 +1148,17 @@ LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n1 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:0c4283e509fac86f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T080000
+DTEND;TZID=Asia/Yekaterinburg:20270120T092000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-209Б\n1 пара\nНачало экзамена в 09:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:dea29769ca6d9482@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261209T080000
@@ -1147,6 +1225,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T105500
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-101а\, Корпус 6
 DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:6304c4716886dbfc@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T093500
+DTEND;TZID=Asia/Yekaterinburg:20270120T105500
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:7-304\, Корпус 7
+DESCRIPTION:ПРО-209Б\n2 пара\nНачало экзамена в 09:0
+ 0 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:459744c036348345@uust-schedule
@@ -1787,6 +1876,18 @@ LOCATION:6-313
 DESCRIPTION:МО-207Б\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:012ed5df61db6ce7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T131000
+DTEND;TZID=Asia/Yekaterinburg:20270121T143000
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (консультация экзамена
+ )
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-206Б\n4 пара\nНачало консультации 
+ в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5efb27f7ebed96bf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T080000
@@ -1812,6 +1913,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261218T092000
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-414
 DESCRIPTION:ПРО-210Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:78ace6ac0084999f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-206Б\n1 пара\nНачало экзамена в 09:00 
+ ч
 END:VEVENT
 BEGIN:VEVENT
 UID:3c0ac05826c165a9@uust-schedule
@@ -1919,6 +2031,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261218T105500
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-414
 DESCRIPTION:ПРО-210Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8f928fa38efe3d20@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Структуры и алгоритмы компьютерной 
+ обработки данных (экзамен)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:МО-206Б\n2 пара\nНачало экзамена в 09:00 
+ ч
 END:VEVENT
 BEGIN:VEVENT
 UID:d40c12a70753c3be@uust-schedule
@@ -2067,6 +2190,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261211T143000
 SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-413
 DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:df51a788084fe678@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:6-307\, Корпус 6
+DESCRIPTION:ПРО-210Б\n4 пара\nНачало консультации
+  в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:8abc7acc2134a400@uust-schedule

@@ -561,4 +561,49 @@ SUMMARY:Базы данных (лекция)
 LOCATION:Уточняется
 DESCRIPTION:ИСТ-ГИС-203Б\n2 пара
 END:VEVENT
+BEGIN:VEVENT
+UID:31c8fb37bbc6db99@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 13:00 ч
+DESCRIPTION:ПРО-209Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a11cf3575d1f1050@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 15:00 ч
+DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:14c2c389a4ba0dac@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T080000
+DTEND;TZID=Asia/Yekaterinburg:20270116T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ПРО-209Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b59b76296e5207a4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T093500
+DTEND;TZID=Asia/Yekaterinburg:20270116T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ПРО-209Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:a75e9ab73881b106@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270116T131000
+DTEND;TZID=Asia/Yekaterinburg:20270116T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 13:00 ч
+DESCRIPTION:ПРО-210Б\n4 пара
+END:VEVENT
 END:VCALENDAR

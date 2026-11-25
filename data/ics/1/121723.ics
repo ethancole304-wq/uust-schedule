@@ -1204,6 +1204,16 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-ИТБ-203Мз\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b1267d117b1c0565@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T131000
+DTEND;TZID=Asia/Yekaterinburg:20261126T143000
+SUMMARY:Основы информационных технологий (п
+ рактика)
+LOCATION:6-207\, Корпус 6
+DESCRIPTION:ТОП-106Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:f19f438a6a4a22ce@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T131000
@@ -1826,16 +1836,6 @@ DTSTART;TZID=Asia/Yekaterinburg:20261023T113500
 DTEND;TZID=Asia/Yekaterinburg:20261023T125500
 SUMMARY:Основы информационных технологий (л
  екция)
-LOCATION:6-415\, Корпус 6
-DESCRIPTION:ТОП-106Б\n3 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:5fdf71a2da8b37cc@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261127T113500
-DTEND;TZID=Asia/Yekaterinburg:20261127T125500
-SUMMARY:Основы информационных технологий (п
- рактика)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ТОП-106Б\n3 пара
 END:VEVENT

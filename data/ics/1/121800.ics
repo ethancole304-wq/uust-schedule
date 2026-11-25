@@ -75,6 +75,16 @@ DESCRIPTION:МО-МОВКС-203М\n4 пара\nНачало консуль
  тации в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
+UID:c4dce5cadcc8b77a@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-209Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:79bc764a9dab3d54@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T131000
@@ -121,6 +131,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261019T163000
 SUMMARY:Операционные системы (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1807f54e47e32d54@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n5 пара\nНачало консультации
+  в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:ed22bd9c03b93175@uust-schedule
@@ -950,6 +971,16 @@ LOCATION:6-207\, Корпус 6
 DESCRIPTION:МО-305Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b5bd20301373455f@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-210Б\n4 пара\nНачало экзамена в 13:0
+ 0 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:67e40d2404723754@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
@@ -1528,6 +1559,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261204T163000
 SUMMARY:Операционные системы (лаб.)
 LOCATION:6-419\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c1900d415467b5cb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:7-401\, Корпус 7
+DESCRIPTION:ПРО-209Б\n5 пара\nНачало консультации
+  в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:129f781ce923e095@uust-schedule
