@@ -2735,6 +2735,16 @@ LOCATION:Тьюторский час
 DESCRIPTION:5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:b74fc4b4acb33adf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
+DTEND;TZID=Asia/Yekaterinburg:20261126T163000
+SUMMARY:Другое (мероприятие)
+LOCATION:ауд. 6-113\, тренинг-лекция «STOP‑стресс:
+  перезагрузка состояния»
+DESCRIPTION:5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:7e230cf0275b6344@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T151000
