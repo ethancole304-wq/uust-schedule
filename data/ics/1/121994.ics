@@ -911,6 +911,17 @@ LOCATION:6-307\, Корпус 6
 DESCRIPTION:ПИ-401Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:49bb4158536135f5@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270112T151000
+DTEND;TZID=Asia/Yekaterinburg:20270112T163000
+SUMMARY:Методы и технологии статистического
+  анализа (консультация экзамена)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-204Б\n5 пара\nНачало консульт
+ ации в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:5f276ff13abf257f@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T151000
@@ -1999,6 +2010,17 @@ SUMMARY:Информационные системы и технологии
   (лаб.)
 LOCATION:6-303\, Корпус 6
 DESCRIPTION:ИСТ-АМО-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:d3cdeeb49bcf9812@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T131000
+DTEND;TZID=Asia/Yekaterinburg:20270114T143000
+SUMMARY:Методы и технологии статистического
+  анализа (экзамен)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ИСТ-АМО-204Б\n4 пара\nНачало экзамена 
+ в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:afce7dad74656c56@uust-schedule

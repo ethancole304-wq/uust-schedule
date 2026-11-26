@@ -244,6 +244,17 @@ DESCRIPTION:ПРО-АН-302Б\n4 пара\nНачало консульта
  ции в 13:00
 END:VEVENT
 BEGIN:VEVENT
+UID:312ac1d81a97f230@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n4 пара\nНачало экзамена в
+  13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:99824d8628f433a5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
@@ -1980,6 +1991,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261218T143000
 SUMMARY:Основы микропрограммирования (лаб.)
 LOCATION:6-414
 DESCRIPTION:ПРО-210Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:aa131b282b11e65d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n5 пара\nНачало консульта
+ ции в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:0eeae4c99b833d05@uust-schedule

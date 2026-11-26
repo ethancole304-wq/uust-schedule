@@ -2306,7 +2306,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261126T151000
 DTEND;TZID=Asia/Yekaterinburg:20261126T163000
 SUMMARY:Распознавание образов (практика)
-LOCATION:6-313\, Корпус 6
+LOCATION:Асинхронно
 DESCRIPTION:Сазонова Екатерина Юрьевна\n5 пара
 END:VEVENT
 BEGIN:VEVENT

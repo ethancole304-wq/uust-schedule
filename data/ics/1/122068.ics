@@ -1518,6 +1518,17 @@ LOCATION:6-419\, Корпус 6
 DESCRIPTION:МО-206Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:eec201841657c85b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T151000
+DTEND;TZID=Asia/Yekaterinburg:20270127T163000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n5 пара\nНачало консульта
+ ции в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:b44a8535a50b2388@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T151000
@@ -2181,6 +2192,17 @@ SUMMARY:Алгоритмы и структуры данных (лекция
  )
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:b55269e7ac304a0d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T131000
+DTEND;TZID=Asia/Yekaterinburg:20270129T143000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n4 пара\nНачало экзамена в
+  13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:12a79c947dc1b6b3@uust-schedule

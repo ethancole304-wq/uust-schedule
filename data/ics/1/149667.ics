@@ -595,6 +595,16 @@ LOCATION:6-217а\, Корпус 6
 DESCRIPTION:МО-305Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ad9b80471d0b5e76@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n5 пара\nНачало консульта
+ ции в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:fa98c87566a55db9@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T164500
@@ -1663,6 +1673,16 @@ DTEND;TZID=Asia/Yekaterinburg:20260916T143000
 SUMMARY:Базы данных (лаб.)
 LOCATION:6-217а\, Корпус 6
 DESCRIPTION:ПРО-210Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:2d89ed89f27bbb4e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n4 пара\nНачало экзамена в
+  13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:515fbabe369164fc@uust-schedule

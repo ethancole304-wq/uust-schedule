@@ -834,24 +834,6 @@ LOCATION:Асинхронно
 DESCRIPTION:ПРО-ТРСИИ-202Моз\n6 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:84cc4e7b2339ac71@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T164500
-DTEND;TZID=Asia/Yekaterinburg:20261202T180500
-SUMMARY:Научный семинар (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ПРО-ТРСИИ-202Моз\n6 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:bb048e48f55481d0@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261209T164500
-DTEND;TZID=Asia/Yekaterinburg:20261209T180500
-SUMMARY:Научный семинар (практика)
-LOCATION:Асинхронно
-DESCRIPTION:ПРО-ТРСИИ-202Моз\n6 пара
-END:VEVENT
-BEGIN:VEVENT
 UID:2133d10f7cafa3cf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T164500
@@ -1666,6 +1648,24 @@ SUMMARY:Технология подготовки текста и през
  ентации научной работы (практика)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:ИБ-ИБ-203М\n6 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:08c554daaa127a88@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T182000
+DTEND;TZID=Asia/Yekaterinburg:20261204T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:43b2ad7e3c3dbded@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261211T182000
+DTEND;TZID=Asia/Yekaterinburg:20261211T194000
+SUMMARY:Научный семинар (практика)
+LOCATION:Асинхронно
+DESCRIPTION:ПРО-ТРСИИ-202Моз\n7 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d25f665885b881@uust-schedule

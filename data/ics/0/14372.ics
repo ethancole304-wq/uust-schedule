@@ -65,6 +65,17 @@ LOCATION:2-407\, Корпус 2
 DESCRIPTION:Ложкина Дарья Данииловна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:cf166c22c15926ad@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Объектно-ориентированное программи
+ рование (экзамен)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n4 пара\nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:187b099b904c49d8@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261221T131000
@@ -154,6 +165,16 @@ SUMMARY:Алгоритмы и структуры данных (лаб.)
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:Верхотурова Галина Николаевна\n5 п
  ара
+END:VEVENT
+BEGIN:VEVENT
+UID:427d970a6b9fcb7b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T151000
+DTEND;TZID=Asia/Yekaterinburg:20270118T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n5 пара\n
+ Начало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:a65d0b3f15941ce2@uust-schedule
@@ -956,6 +977,16 @@ LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n3 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:ba754b82f817d8c2@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:6-304\, Корпус 6
+DESCRIPTION:Гусаренко Артем Сергеевич\n4 пара\n
+ Начало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:31616b3a820a6037@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T131000
@@ -1019,6 +1050,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261223T143000
 SUMMARY:Проектная деятельность (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:Сазонова Екатерина Юрьевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:69273a350ddb26c0@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T151000
+DTEND;TZID=Asia/Yekaterinburg:20270127T163000
+SUMMARY:Алгоритмы и структуры данных (консул
+ ьтация экзамена)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n5 п
+ ара\nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:02799ab53f597125@uust-schedule
@@ -1441,6 +1483,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261105T163000
 SUMMARY:Операционные системы (лекция)
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad90777d030435e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n5 пара\
+ nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:fb73eaa8a9fb8546@uust-schedule
@@ -1909,6 +1962,17 @@ DESCRIPTION:Верхотурова Галина Николаевна\n4 п
  ара
 END:VEVENT
 BEGIN:VEVENT
+UID:a03edcab1213964e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T131000
+DTEND;TZID=Asia/Yekaterinburg:20270129T143000
+SUMMARY:Алгоритмы и структуры данных (экзаме
+ н)
+LOCATION:6-415\, Корпус 6
+DESCRIPTION:Верхотурова Галина Николаевна\n4 п
+ ара\nНачало экзамена в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:955062871dcd3d37@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261211T131000
@@ -1928,6 +1992,16 @@ SUMMARY:Объектно-ориентированное программи
 LOCATION:6-417\, Корпус 6
 DESCRIPTION:Котельников Виталий Александрови
  ч\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:5891082f9e8f11fb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара\
+ nНачало экзамена в 13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:d45ca21efc792c1f@uust-schedule
@@ -1955,6 +2029,17 @@ DTEND;TZID=Asia/Yekaterinburg:20261127T143000
 SUMMARY:Операционные системы (лекция)
 LOCATION:6-415\, Корпус 6
 DESCRIPTION:Нургаянова Ольга Сергеевна\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:c8877c9c78f44c64@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T151000
+DTEND;TZID=Asia/Yekaterinburg:20270122T163000
+SUMMARY:Объектно-ориентированное программи
+ рование (консультация экзамена)
+LOCATION:6-201\, Корпус 6
+DESCRIPTION:Котельников Виталий Александрови
+ ч\n5 пара\nНачало консультации в 15:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1c0221d90ec71c@uust-schedule

@@ -116,6 +116,15 @@ LOCATION:Асинхронно
 DESCRIPTION:МО-305Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:74419cebfedd2ff6@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T131000
+DTEND;TZID=Asia/Yekaterinburg:20270125T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 13:00 ч
+DESCRIPTION:ИВТ-ИВС-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:6e8fd13ef534617e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270111T131000
@@ -145,6 +154,15 @@ SUMMARY:Базы данных в веб-приложениях (консу
 LOCATION:Асинхронно
 DESCRIPTION:ПРО-ИТ-203М\n4 пара\nНачало консульта
  ции в 13:00 ч
+END:VEVENT
+BEGIN:VEVENT
+UID:a07734efc04cf3e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270125T151000
+DTEND;TZID=Asia/Yekaterinburg:20270125T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 15:00 ч
+DESCRIPTION:ПИ-208Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:8f0ce1d6d3416db4@uust-schedule
@@ -192,6 +210,15 @@ LOCATION:Асинхронно
 DESCRIPTION:ИВТ-КАИД-203М\n8 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bb19ff9c0405de1b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T080000
+DTEND;TZID=Asia/Yekaterinburg:20270126T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИВТ-ИВС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:b508ed2d4c73cac7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270112T080000
@@ -210,6 +237,15 @@ LOCATION:Дистанционно
 DESCRIPTION:МО-305Б\n1 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
+UID:1512ded2fbb5788e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T093500
+DTEND;TZID=Asia/Yekaterinburg:20270126T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИВТ-ИВС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a0fb195ea92448c3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270112T093500
@@ -226,6 +262,15 @@ DTEND;TZID=Asia/Yekaterinburg:20270119T105500
 SUMMARY:Базы данных (экзамен)
 LOCATION:Дистанционно
 DESCRIPTION:МО-305Б\n2 пара\nНачало экзамена в 9:00
+END:VEVENT
+BEGIN:VEVENT
+UID:bfaa79d4e51b8f00@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270126T131000
+DTEND;TZID=Asia/Yekaterinburg:20270126T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 13:00 ч
+DESCRIPTION:ПИ-208Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:10ff32462741085a@uust-schedule
@@ -436,6 +481,24 @@ DESCRIPTION:ПРО-ИТ-203М\n2 пара\nНачало экзамена в
   09:00 ч
 END:VEVENT
 BEGIN:VEVENT
+UID:24d9c7ba46720a95@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270127T131000
+DTEND;TZID=Asia/Yekaterinburg:20270127T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 13:00 ч
+DESCRIPTION:ИСТ-ГИС-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:74e72bbf542d1134@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270120T131000
+DTEND;TZID=Asia/Yekaterinburg:20270120T143000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 13:00 ч
+DESCRIPTION:ИСТ-АМО-204Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:4f9204facbba1ac5@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260903T080000
@@ -571,6 +634,24 @@ LOCATION:Начало консультации в 13:00 ч
 DESCRIPTION:ПРО-209Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:a5ab0aa60c2c21e7@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270121T151000
+DTEND;TZID=Asia/Yekaterinburg:20270121T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 15:00 ч
+DESCRIPTION:ИВТ-ИСУ-203Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca7ef02d57ff18b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270128T151000
+DTEND;TZID=Asia/Yekaterinburg:20270128T163000
+SUMMARY:Базы данных (консультация экзамена)
+LOCATION:Начало консультации в 15:00 ч
+DESCRIPTION:ПИ-209Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:a11cf3575d1f1050@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
@@ -578,6 +659,60 @@ DTEND;TZID=Asia/Yekaterinburg:20270114T163000
 SUMMARY:Базы данных (консультация экзамена)
 LOCATION:Начало консультации в 15:00 ч
 DESCRIPTION:ПРО-210Б\n5 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0e26451aabdabf@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T080000
+DTEND;TZID=Asia/Yekaterinburg:20270129T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИСТ-ГИС-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:822cb4f370e83eed@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T080000
+DTEND;TZID=Asia/Yekaterinburg:20270122T092000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИСТ-АМО-204Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9851b86893872b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T093500
+DTEND;TZID=Asia/Yekaterinburg:20270129T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИСТ-ГИС-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8066a26987864e5e@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T093500
+DTEND;TZID=Asia/Yekaterinburg:20270122T105500
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 09:00 ч
+DESCRIPTION:ИСТ-АМО-204Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce99e553a78104ff@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270122T131000
+DTEND;TZID=Asia/Yekaterinburg:20270122T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 13:00 ч
+DESCRIPTION:ИВТ-ИСУ-203Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:70e82a0a80f2f3b4@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270129T131000
+DTEND;TZID=Asia/Yekaterinburg:20270129T143000
+SUMMARY:Базы данных (экзамен)
+LOCATION:Начало экзамена в 13:00 ч
+DESCRIPTION:ПИ-209Б\n4 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:14c2c389a4ba0dac@uust-schedule

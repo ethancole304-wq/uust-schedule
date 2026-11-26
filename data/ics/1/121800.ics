@@ -1191,6 +1191,17 @@ LOCATION:6-416\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:9c355b9fafeb6e30@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270114T151000
+DTEND;TZID=Asia/Yekaterinburg:20270114T163000
+SUMMARY:Операционные системы (консультация 
+ экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n5 пара\nНачало консульта
+ ции в 15:00 ч
+END:VEVENT
+BEGIN:VEVENT
 UID:b0adc92e5c07c99e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T151000
@@ -1474,6 +1485,16 @@ SUMMARY:Основы микропрограммирования (лекци
  я)
 LOCATION:6-207\, Корпус 6
 DESCRIPTION:ПРО-АН-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:ce210593b1908acb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270115T131000
+DTEND;TZID=Asia/Yekaterinburg:20270115T143000
+SUMMARY:Операционные системы (экзамен)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:ПРО-АН-203Б\n4 пара\nНачало экзамена в
+  13:00 ч
 END:VEVENT
 BEGIN:VEVENT
 UID:f67e7a7c1a40e117@uust-schedule

@@ -369,6 +369,17 @@ DESCRIPTION:Кальсин Никита Александрович\n6 па
  ра
 END:VEVENT
 BEGIN:VEVENT
+UID:cdb82000bac0e49b@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20270118T164500
+DTEND;TZID=Asia/Yekaterinburg:20270118T180500
+SUMMARY:Методы приближенных вычислений (кон
+ сультация экзамена)
+LOCATION:6-416\, Корпус 6
+DESCRIPTION:Шерыхалина Наталия Михайловна\n6 п
+ ара\nНачало консультации в 16:00
+END:VEVENT
+BEGIN:VEVENT
 UID:2f8ee8f0d572b84e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T080000
@@ -794,17 +805,6 @@ SUMMARY:Методы приближенных вычислений (лек
 LOCATION:6-416\, Корпус 6
 DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
  ара
-END:VEVENT
-BEGIN:VEVENT
-UID:99bc944322fa9386@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20270119T131000
-DTEND;TZID=Asia/Yekaterinburg:20270119T143000
-SUMMARY:Методы приближенных вычислений (кон
- сультация экзамена)
-LOCATION:6-416\, Корпус 6
-DESCRIPTION:Шерыхалина Наталия Михайловна\n4 п
- ара\nНачало консультации в 13:00
 END:VEVENT
 BEGIN:VEVENT
 UID:ee3f7052d05851fe@uust-schedule

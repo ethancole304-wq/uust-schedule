@@ -387,6 +387,16 @@ LOCATION:6-318\, Корпус 6
 DESCRIPTION:БИБ-302Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:1f0bc45e71e8c068@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T113500
+DTEND;TZID=Asia/Yekaterinburg:20261110T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:62a66fe7f5e9043e@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260929T113500
@@ -496,6 +506,16 @@ SUMMARY:Основы машинного обучения и анализ д
  анных (лаб.)
 LOCATION:6-313\, Корпус 6
 DESCRIPTION:ПРО-307Б\n4 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:8a550b46b88c6979@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T151000
+DTEND;TZID=Asia/Yekaterinburg:20261103T163000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (практика)
+LOCATION:6-204\, Корпус 6
+DESCRIPTION:ТОП-204Б\n5 пара
 END:VEVENT
 BEGIN:VEVENT
 UID:05e62333900716bd@uust-schedule
@@ -1068,6 +1088,16 @@ LOCATION:6-204\, Корпус 6
 DESCRIPTION:БИБ-302Б\n1 пара\nНачало экзамена в 9:00
 END:VEVENT
 BEGIN:VEVENT
+UID:574afbee63123c33@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T080000
+DTEND;TZID=Asia/Yekaterinburg:20261126T092000
+SUMMARY:Объектно-ориентированное моделиров
+ ание (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-203Б\n1 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:22d92979921b60b7@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T080000
@@ -1118,42 +1148,42 @@ LOCATION:6-202\, Корпус 6
 DESCRIPTION:ТОП-204Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:12edd9174629a1ea@uust-schedule
+UID:82652aaea864b81a@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T093500
 DTEND;TZID=Asia/Yekaterinburg:20261105T105500
 SUMMARY:Объектно-ориентированное моделиров
- ание (лекция)
+ ание (практика)
 LOCATION:6-202\, Корпус 6
-DESCRIPTION:ТОП-204Б\n2 пара
+DESCRIPTION:ТОП-203Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:ed1a8514d28b8eda@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
-DTEND;TZID=Asia/Yekaterinburg:20261112T105500
-SUMMARY:Объектно-ориентированное моделиров
- ание (лекция)
-LOCATION:6-202\, Корпус 6
-DESCRIPTION:ТОП-204Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:666eac69dfbbc0fa@uust-schedule
+UID:93f0cd9c43606df3@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T093500
 DTEND;TZID=Asia/Yekaterinburg:20261119T105500
 SUMMARY:Объектно-ориентированное моделиров
- ание (лекция)
+ ание (практика)
+LOCATION:6-202\, Корпус 6
+DESCRIPTION:ТОП-203Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:1dcb3303dfd25dcb@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T093500
+DTEND;TZID=Asia/Yekaterinburg:20261112T105500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (практика)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:ТОП-204Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
-UID:8712e46ccb76c693@uust-schedule
+UID:f4d0c4d707828b60@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261126T093500
 DTEND;TZID=Asia/Yekaterinburg:20261126T105500
 SUMMARY:Объектно-ориентированное моделиров
- ание (лекция)
+ ание (практика)
 LOCATION:6-202\, Корпус 6
 DESCRIPTION:ТОП-204Б\n2 пара
 END:VEVENT
@@ -1436,5 +1466,15 @@ SUMMARY:Объектно-ориентированное моделиров
  ание (лаб.)
 LOCATION:6-314\, Корпус 6
 DESCRIPTION:ТОП-203Б\n3 пара
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ca0c0a50a2acef@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T113500
+DTEND;TZID=Asia/Yekaterinburg:20261120T125500
+SUMMARY:Объектно-ориентированное моделиров
+ ание (практика)
+LOCATION:6-314\, Корпус 6
+DESCRIPTION:ТОП-204Б\n3 пара
 END:VEVENT
 END:VCALENDAR
