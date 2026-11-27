@@ -77,6 +77,16 @@ LOCATION:302\, Корпус 9
 DESCRIPTION:ПИ-403Б\n2 пара
 END:VEVENT
 BEGIN:VEVENT
+UID:bbab511d28d4f82d@uust-schedule
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261214T093500
+DTEND;TZID=Asia/Yekaterinburg:20261214T105500
+SUMMARY:Имитационное моделирование процесс
+ ов и систем (практика)
+LOCATION:6-305\, Корпус 6
+DESCRIPTION:ПИ-402Б\n2 пара
+END:VEVENT
+BEGIN:VEVENT
 UID:dd17d975b6dfdccf@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T093500
@@ -151,16 +161,6 @@ UID:a3ea06131928e432@uust-schedule
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T093500
 DTEND;TZID=Asia/Yekaterinburg:20261130T105500
-SUMMARY:Имитационное моделирование процесс
- ов и систем (практика)
-LOCATION:6-304\, Корпус 6
-DESCRIPTION:ПИ-402Б\n2 пара
-END:VEVENT
-BEGIN:VEVENT
-UID:d89cb9f20708975b@uust-schedule
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261207T093500
-DTEND;TZID=Asia/Yekaterinburg:20261207T105500
 SUMMARY:Имитационное моделирование процесс
  ов и систем (практика)
 LOCATION:6-304\, Корпус 6
